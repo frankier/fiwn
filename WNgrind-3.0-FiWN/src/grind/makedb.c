@@ -528,7 +528,7 @@ void DumpSenseIndex()
 	exit(-1);
     }
 
-    sprintf(cmd, "sort +0 -1 >> index.sense");
+    sprintf(cmd, "env LC_ALL=C sort +0 -1 >> index.sense");
     if ((ofs = popen(cmd, "w")) == NULL) {
 	fprintf(logfile, "Cannot open pipe: %s\n", cmd);
 	exit(-1);
