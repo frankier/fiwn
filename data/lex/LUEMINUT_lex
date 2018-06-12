@@ -1,0 +1,38 @@
+
+FinnWordNet - suomen wordnet
+============================
+
+
+FinnWordNet
+-----------
+
+FinnWordNet on suomen wordnet. Lisätietoja FinnWordNetistä saa
+ylähakemiston LUEMINUT-tiedostosta sekä FinnWordNet-projektin
+WWW-sivulta:
+
+    http://www.ling.helsinki.fi/kieliteknologia/tutkimus/finnwordnet/
+
+Tämän LUEMINUT-tiedoston loppuosa kuvaa tämän hakemiston sisältöä.
+
+
+lex: FinnWordNet Princeton WordNetin lexicographer-tiedostomuodossa
+-------------------------------------------------------------------
+
+Hakemisto 'lex' sisältää FinnWordNet-aineiston Princeton WordNetin
+(PWN) lexicographer-tiedostomuodossa, joka on PWN:n tietokannan
+lähdemuoto:
+
+    http://wordnet.princeton.edu/wordnet/man/wninput.5WN.html
+
+FinnWordNetin lexicographer-tiedostot vastaavat suoraan PWN:n
+tiedostoja.
+
+Tietokannan tuottaminen FinnWordNetin lexicographer-tiedostoista
+vaatii muokatun version PWN:n Grind-ohjelmasta.
+
+
+Vikoja
+------
+
+* Suomen verbeillä on keinotekoinen verbikehys (numero 1), jotta
+  'wn'-ohjelma toimisi datan kanssa.

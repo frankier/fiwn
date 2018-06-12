@@ -1,0 +1,60 @@
+{ [ kostettu, rankaisematon,! verb.competition:kostaa1,<]   (for which vengeance has been taken; "an avenged injury") }
+{ [ rankaisematon, kostettu,!]   (for which vengeance has not been taken; "an unavenged murder") }
+{ taottu,   (formed or made thin by hammering; "beaten gold") }
+{ kalibroitu,   (marked with or divided into degrees; "a calibrated thermometer") }
+{ [ laukkaava<broader/>, verb.motion:laukata<broader/>,<]   (riding at a gait between a trot and a gallop; "the cantering soldiers") }
+{ [ koottu, irtonainen,! verb.contact:koota,<]   (brought together in one place; "the collected works of Milton"; "the gathered folds of the skirt") }
+{ [ irtonainen, koottu,!]   (not brought together in one place; "uncollected garbage in the streets") }
+{ [ riitautettu, luontainen,! vastaansanomaton,! verb.communication:riitauttaa,<]   (disputed or made the object of contention or competition; "a contested election") }
+{ [ luontainen, riitautettu,!]  [ vastaansanomaton, riitautettu,!]   (not disputed and not made the object of contention or competition; "uncontested authority") }
+{ olkakivin_tuettu,   (having a corbel) }
+{ kulunut,   ((of time) having passed or slipped by; "elapsed time") }
+{ pakko-,   (produced by or subjected to forcing; "forced-air heating"; "furnaces of the forced-convection type"; "forced convection in plasma generators") }
+{ taottu1,   (shaped or worked with a hammer and often showing hammer marks; "a bowl of hammered brass") }
+{ käsi-,  kannettava,   (small and light enough to be operated while you hold it in your hands; "a hand-held computer") }
+{ hallussaan_pitämä,   (occupied or in the control of; often used in combination; "enemy-held territory") }
+{ [ valuva, verb.body:valua,<]  [ vuotava, verb.body:vuotaa,<]   (exuding a bodily fluid in profuse amounts; "his streaming face"; "her streaming eyes") }
+{ päällä_oleva,  päällä<idiomatic_pos/>,   (having something on top; "columns surmounted by statues") }
+{ [ toimitettu, toimittamaton,!]   (of purchase orders that have been filled) }
+{ [ toimittamaton, toimitettu,!]   (of purchase orders that have not been filled) }
+{ sovitettu,   (being the right size and shape to fit as desired; "a fitted overcoat"; "he quickly assembled the fitted pieces") }
+{ aivolisäkkeen_leikkauksessa_menettänyt,  aivolisäkkeetön,   (having the pituitary gland removed by surgery; "hypophysectomized tadpoles") }
+{ [ mallas-, käymätön,!]   (of grain that has been converted into malt; "malted barley") }
+{ [ käymätön, mallas-,!]   (of grain that has not been converted into malt; "unmalted barley") }
+{ ylimarssittu,   (being or having been trodden or marched on) }
+{ [ merseroitu, verb.change:merseroida,<]   (of cotton thread that has been treated with sodium hydroxide to shrink it and increase its luster and affinity for dye; "mercerized cotton") }
+{ haavautunut<approximate/>,   (having a wound formed over it) }
+{ käyttö-,   (involved in a kind of operation; "the operating conditions of the oxidation pond") }
+{ [ hapettunut, verb.change:hapettaa1,<]   (combined with or having undergone a chemical reaction with oxygen; "the oxidized form of iodine") }
+{ [ pysäköity, verb.contact:pysäköidä,<]   (that have been left; "there were four parked cars across the street") }
+{ [ pastöroitu, verb.change:pastöroida,<]   (having been subjected to pasteurization in order to halt fermentation) }
+{ [ pastöroimaton, verb.change:pastöroida,<]   (not having undergone pasteurization) }
+{ lyijykynällä_piirretty,  lyijykynällä_kirjoitettu,   (drawn or written with a pencil; "a penciled sketch"; "the penciled message") }
+{ korkea<broader/>,   ((of sound) set to a certain pitch or key; usually used as a combining form; "high-pitched") }
+{ [ pelattu, verb.competition:pelata,<]  noun.act:peli1,;c ((of games) engaged in; "the loosely played game") }
+{ väärennetty<unconfirmed/>,   ((of a coin) altered by the insertion of a plug of base metal) }
+{ [ aseteltu, luonnollinen,!]   (arranged for pictorial purposes) }
+{ [ luonnollinen, aseteltu,!]   (not arranged for pictorial purposes; "unposed photographs") }
+{ [ ilmoitettu, verb.communication:ilmoittaa15,<]   (publicly announced; "the posted speed limit") }
+{ ennakko-,  ennakkoon_muodostettu,  etukäteen_muodostettu,   ((of an idea or opinion) formed beforehand; especially without evidence or through prejudice; "certain preconceived notions") }
+{ [ rankaiseva, verb.social:rangaista,<]   (resulting in punishment; "the king imposed a punishing tax") }
+{ takaa-ajettu,   (followed with enmity as if to harm; "running and leaping like a herd of pursued antelopes") }
+{ samoileva,   (wandering freely; "at night in bed...his slowly ranging thoughts...encountered her") }
+{ uudelleenluotu,   (created anew; "this re-created literalness") }
+{ elvyttävä,   (that are generating anew; "regenerating fibers") }
+{ harjumainen,  harjannemainen,   (having a ridge or shaped like a ridge or suggesting the keel of a ship; "a carinate sepal") }
+{ puhdistettu,  desinfioitu,   (made sanitary) }
+{ [ kirkaistu, verb.communication:kirkaista,< verb.communication:kirkua2,<]   (uttered in a shrill scream as of pain or terror) }
+{ [ sintrattu, verb.creation:sintrata,<]   (formed into a mass by heat and pressure) }
+{ kaato-,   (pouring from or as if from a sluice; "the sluicing rain") }
+{ [ sumukuivattu, verb.change:sumukuivata,<]   (dried by bringing a sprayed substance (e.g. milk or soap) into contact with hot air and recovering it in the form of a powder) }
+{ liiskaantunut,  [ murskaantunut, verb.contact:murskata4,<]   (that has been violently compressed; "the squashed looking nakedness of the fledgling birds") }
+{ kasattu,  [ pinottu, verb.contact:pinota1,<]   (arranged in a stack) }
+{ [ pujotettu, verb.contact:pujottaa,<]   (that is on a string; "keys strung on a red cord") }
+{ sublimoitu,   (passing or having passed from the solid to the gaseous state (or vice versa) without becoming liquid) }
+{ toriumilla_käsitelty<approximate/>,  hihittelevä,   (being or sounding of nervous or suppressed laughter) }
+{ haihtuva,   (that is passing through; "transpiring gas") }
+{ [ etsitty, verb.contact:etsiä,<]   (that is looked for; "the long sought relatives") }
+{ rajoitettu_tekstitys<idiomatic_pos/>,  noun.communication:televisio,;c (broadcast with captions that are seen only on receivers having special equipment; can be provided for hard-of-hearing viewers) }
+{ [ saippuoitu, jalostamaton<broader/>,! verb.change:saippuoida,<]   (converted into soap; "saponified oils") }
+{ [ jalostamaton<broader/>, saippuoitu,!]   (not converted into soap; "unsaponified fat") }

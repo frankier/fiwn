@@ -1,0 +1,695 @@
+{ ymmärtää_syvällisesti,  älytä,  [ ymmärtää, noun.cognition:ymmärrys8,+]  oivaltaa,  päästä_jyvälle,  [ käsittää, noun.cognition:käsittäminen2,+ noun.cognition:käsitys4,+]  tajuta,  ymmärtää1,@ frames: 1 (get the meaning of something; "Do you comprehend the meaning of this letter?") }
+{ piileskellä,  verb.perception:piiloutua,@ frames: 1 (to try to avoid detection especially by police; "After we knock off that liquor store we'll have to lay low for a while") }
+{ [ ymmärtää1, adj.all:käsitettävä^ymmärrettävä3,+ noun.cognition:ymmärrys7,+ noun.cognition:ymmärtäminen,+ noun.cognition:ymmärtämys1,+]  älytä1,   frames: 1 (know and comprehend the nature or meaning of; "She did not understand her husband"; "I understand what she means") }
+{ ymmärtää2,  ymmärtää1,@ frames: 1 (comprehend; "I sensed the real meaning of his letter") }
+{ haiskahtaa,  haista,  vaikuttaa,  aavistaa,  haistaa,  vaistota,  aistia,  havaita,  tajuta6,@ frames: 1 (become aware of not through the senses but instinctively; "I sense his hostility"; "i smell trouble"; "smell out corruption") }
+{ ymmärtää3,  ymmärtää1,@ frames: 1 (grasp the meaning; "Can you follow her argument?"; "When he lectures, I cannot follow") }
+{ käsittää1,  ymmärtää4,  hoksata,  tajuta1,  ymmärtää1,@ verb.possession:saada7,$ verb.creation:vangita1,$ frames: 1 (grasp with the mind or develop an understanding of; "did you catch that allusion?"; "We caught something of his theory in the lecture"; "don't catch your meaning"; "did you get it?"; "She didn't get the joke"; "I just don't get him") }
+{ ymmärtää5,  tajuta2,  ymmärtää_syvällisesti,@ noun.communication:puhekielen_ilmaus,;u frames: 1 (understand; "He didn't figure her") }
+{ käsittää2,  päästä_perille_jostakin,  saada_selville,  tajuta3,  alkaa_ymmärtää,  valjeta_jollekin,  hoksata1,  ymmärtää6,  älytä2,  ymmärtää_syvällisesti,@ frames: 1 (understand, usually after some initial difficulty; "She didn't know what her classmates were plotting but finally caught on") }
+{ tajuta4,  ymmärtää7,  ymmärtää1,@ frames: 1 (comprehend; "He could not touch the meaning of the poem") }
+{ aavistaa1,  [ vaistota1, noun.cognition:vaisto3,+ adj.all:epäjohdonmukainen4^vaistonvarainen,+ noun.cognition:vaisto1,+]  ymmärtää_syvällisesti,@ frames: 1 (know or grasp by intuition or feeling) }
+{ [ omaksua, noun.cognition:omaksuminen,+]  ymmärtää_syvällisesti,@ frames: 1 (arrange and integrate in the mind; "I cannot digest all this information") }
+{ [ ymmärtää8, adj.all:käsitettävä^ymmärrettävä3,+ noun.cognition:ymmärrys7,+ noun.cognition:ymmärtäminen,+ noun.cognition:ymmärtämys1,+]  tajuta5,  huomata,  käsittää3,  bonjata,  hiffata,  [ kässätä, noun.cognition:käsitys3,+]  snaijata,  hoksata2,  älytä3,  verb.perception:nähdä3,$ verb.creation:kuvitella,$ frames: 1 (perceive (an idea or situation) mentally; "Now I see!"; "I just can't see your point"; "Does she realize how important this decision is?"; "I don't understand the idea") }
+{ tajuta6,  ymmärtää9,  oivaltaa1,  ymmärtää8,@ frames: 1 (become conscious of; "She finally perceived the futility of her protest") }
+{ valjeta,  saada_ymmärtämään,  tulla_selväksi,  mennä_perille,  painua_mieleen,  loksahtaa_paikoilleen,  paljastua,  ymmärtää1,> frames: 1 (become clear or enter one's consciousness or emotions; "It dawned on him that she had betrayed him"; "she was penetrated with sorrow") }
+{ herättää_vastakaikua,  välittyä,  saada_vastakaikua,  ymmärtää1,> frames: 1 (be received or understood) }
+{ koskettaa,  herättää_vastakaikua,@ frames: 1 (create an emotional response; "The music struck a chord with the listeners") }
+{ [ ymmärtää_täysin, noun.person:ymmärtävä_henkilö,+]  ottaa_huomioon,  ymmärtää8,@ frames: 1 (be fully aware of; realize fully; "Do you appreciate the full meaning of this letter?") }
+{ tehdä_oikeutta,  verb.possession:arvostaa,@ frames: 1 (show due and full appreciation; "The diners did the food and wine justice") }
+{ [ odottaa, noun.cognition:odotus,+]  nähdä1,@ frames: 1 (consider reasonable or due; "I'm expecting a full explanation as to why these files were destroyed") }
+{ arvostaa,  tunnustaa,  myöntää,  hyväksyä3,@ frames: 1 (accept (someone) to be what is claimed or accept his power and authority; "The Crown Prince was acknowledged as the true heir to the throne"; "We do not recognize your gods") }
+{ luovuttaa,  myöntää1,  valtuuttaa,  verb.communication:myöntää1,@ noun.group:laki,;c frames: 1 (acknowledge a new land owner as one's landlord; "he was attorned by the tenants") }
+{ kirjata,  verb.communication:myöntää1,@ frames: 1 (concede the loss or worthlessness of something or somebody; "write it off as a loss") }
+{ uskoa,  pitää_jtak_totena,@ frames: 1 (believe to be the case; "I understand you have no previous experience?") }
+{ [ ekstrapoloida, noun.cognition:ekstrapolointi,+]  päätellä4,@ noun.cognition:loogisuus,;c frames: 1 (gain knowledge of (an area not known or experienced) by extrapolating) }
+{ [ ymmärtää10, adj.all:käsitettävä^ymmärrettävä3,+]  osata,  ymmärtää1,@ frames: 1 (make sense of a language; "She understands French"; "Can you read Greek?") }
+{ [ sympatisoida, noun.cognition:sympatia,+]  [ sympata, noun.cognition:sympatia,+]  [ empatisoida, noun.feeling:empatia1,+]  [ ymmärtää11, adj.all:käsitettävä^ymmärrettävä3,+ noun.cognition:ymmärrys10,+ noun.cognition:ymmärtämys2,+]   frames: 1 (be understanding of; "You don't need to explain--I understand!") }
+{ tietää,  tuntea,  tunnistaa,$ frames: 1 (be familiar or acquainted with a person or an object; "She doesn't know this composer"; "Do you know my sister?"; "We know this movie"; "I know him under a different name"; "This flower is known as a Peruvian Lily") }
+{ [ tietää1, olla_huomaamatta,! noun.person:tietäjä1,+ noun.cognition:tieto2,+]  olla_tietoinen,  olla_selvillä,$ frames: 1 (be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about; "I know that the President lied to the people"; "I want to know who is winning the game!"; "I know it's time") }
+{ [ seurata, kadottaa_jk,! menettää_jnk_taju,!]  tietää1,@ frames: 1 (keep informed of fully aware; "I keep track of the stock market developments") }
+{ [ kadottaa_jk, seurata,!]  [ menettää_jnk_taju, seurata,!]  verb.social:jättää_tekemättä,@ frames: 1 (fail to keep informed or aware; "She has so many books, she just lost track and cannot find this volume") }
+{ [ olla_huomaamatta, tietää1,!]   frames: 1 (be ignorant of or in the dark about) }
+{ olla_selvillä,  tietää2,  tietää1,$ frames: 1 (be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt; "I know that I left the key on the table"; "Galileo knew that the earth moves around the sun") }
+{ osata1,   frames: 1 (know how to do or perform something; "She knows how to knit"; "Does your husband know how to cook?") }
+{ osata2,   frames: 1 (have fixed in the mind; "I know Latin"; "This student knows her irregular verbs"; "Do you know the poem well enough to recite it?") }
+{ taitaa,  osata2,@ frames: 1 (have (something) mastered; "She has the names of the fifty states down pat") }
+{ tietää_tilanne,  olla_tietoinen_asioista,  olla_kärryillä,  tietää_missä_mennään,  tietää_mikä_on_mikä,  osata1,@ frames: 1 (be well-informed) }
+{ [ tuntea1, adj.all:tunnistettava2,+]  ymmärtää12,  [ kokea, noun.cognition:kokemus1,+]  elää,  verb.perception:kokea3,@ frames: 1 (have firsthand knowledge of states, situations, emotions, or sensations; "I know the feeling!"; "have you ever known hunger?"; "I have lived a kind of hell when I was a drug addict"; "The holocaust survivors have lived a nightmare"; "I lived through two divorces") }
+{ kokea1,  tuntea1,@ frames: 1 (experience briefly; "The ex-slave tasted freedom shortly before she died") }
+{ kokea_uudelleen,  käydä_läpi_uudelleen,  elää_uudelleen,  tuntea1,@ frames: 1 (experience again, often in the imagination; "He relived the horrors of war") }
+{ taitaa1,  [ hallita, noun.cognition:hallinta,+]  osata1,@ ymmärtää1,* verb.contact:käyttää,$ frames: 1 (have a firm understanding or knowledge of; be on top of; "Do you control these data?") }
+{ oppia,  päästä_jyvälle_jstak,  osata1,@ oppia1,* harjoitella1,* frames: 1 (be or become completely proficient or skilled in; "She mastered Japanese in less than two years") }
+{ [ oppia1, noun.person:oppilas,+ noun.person:oppilas2,+]   frames: 1 (gain knowledge or skills; "She learned dancing from her sister"; "I learned Sanskrit"; "Children acquire language at an amazing rate") }
+{ oppia_uudelleen,  oppia1,@ frames: 1 (learn something again, as after having forgotten or neglected it; "After the accident, he could not walk for months and had to relearn how to walk down stairs") }
+{ päästä_eroon,  verb.possession:heittää_pois,@ frames: 1 (discard something previously learnt, like an old habit) }
+{ unohtaa,  unohtaa2,@ frames: 1 (try to forget; put out of one's memory or knowledge) }
+{ saavuttaa,  oppia1,@ frames: 1 (learn belatedly; find out about something after it happened; "I'm trying to catch up with the latest developments in molecular biology") }
+{ saada_tietoonsa,  kuulla,  saada_kuulla,  saada_vihiä,  oppia2,  huomata1,  saada_vihje,  saada_selville1,  nähdä,  saada_tietää,  verb.perception:todistaa1,$ frames: 1 (get to know or become aware of, usually accidentally; "I learned that she has two grown-up children"; "I see that you have been promoted") }
+{ hankkia_raskauttavia_todisteita,  löytää_raskauttavia_todisteita,  saada_tietoonsa,@ frames: 1 (discover some bad or hidden information about; "She got the goods on her co-worker after reading his e-mail") }
+{ oppia3,  saada_tietoonsa,@ frames: 1 (get wise to; "They wised up to it") }
+{ opettaa,  verb.communication:informoida,@ frames: 1 (cause someone to become aware of something) }
+{ paljastaa,  paljastaa<note>kömmähdys_tai_epäjohdonmukaisuus</note>1,  saada_kiikkiin,  saada_tietoonsa,@ frames: 1 (detect a blunder or misstep; "The reporter tripped up the senator") }
+{ [ opiskella, noun.cognition:opiskelu1,+]   frames: 1 (be a student of a certain subject; "She is reading for the bar exam") }
+{ olla_kuunteluoppilaana,  opiskella,@ frames: 1 (attend academic courses without getting credit) }
+{ vallata,  vallata_kokonaan,  vaatia_kokonaan,  täyttää_jkn_päivät,  viedä_kaikki_huomio,  verb.emotion:kiinnostaa,@ frames: 1 (consume all of one's attention or time; "Her interest in butterflies absorbs her completely") }
+{ koskea,  liikuttaa,  vallata,@ frames: 1 (occupy or engage the interest of; "His story completely involved me during the entire afternoon") }
+{ kuluttaa,  vallata,@ frames: 1 (engage fully; "The effort to pass the exam consumed all his energy") }
+{ uppoutua,  [ syventyä, noun.cognition:syventyminen,+ noun.cognition:syventyminen2,+ noun.attribute:syventyneisyys,+]  hautautua,  keskittyä,@ upottaa,$ frames: 1 (devote (oneself) fully to; "He immersed himself into his studies") }
+{ upottaa,  viedä_syvälle<approximate/>,  uppoutua,> uppoutua,$ frames: 1 (cause to be immersed; "The professor plunged his students into the study of the Italian text") }
+{ uppoutua1,   frames: 1 (be immersed in; "welter in work") }
+{ niellä,  uskoa1,  pitää_jtak_totena,@ frames: 1 (believe or accept without questioning or challenge; "Am I supposed to swallow that story?") }
+{ kannattaa,  omaksua1,  valita,  liittyä_jhk,  hyväksyä3,@ frames: 1 (take up the cause, ideology, practice, method, of someone and use it as one's own; "She embraced Catholicism"; "They adopted the Jewish faith") }
+{ omaksua2,  tajuta7,  kiinnostua,  alkaa_ymmärtää1,  hoksata3,  kannattaa,@ frames: 1 (adopt; "take up new ideas") }
+{ [ omaksua3, noun.person:omaksuja,+]  sisäistää,  oppia1,@ frames: 1 (take up mentally; "he absorbed the knowledge or beliefs of his tribe") }
+{ omaksua4,  omaksua3,@ frames: 1 (receive into the mind and retain; "Imbibe ethical principles") }
+{ olla_opissa,  harjoitella,@ frames: 1 (be or work as an apprentice; "She apprenticed with the great master") }
+{ [ harjoitella, noun.person:harjoittelija2,+]  opiskella,@ verb.social:valmentautua,$ harjoittaa,$ frames: 1 (undergo training or instruction in preparation for a particular role, function, or profession; "She is training to be a teacher"; "He trained as a legal aid") }
+{ kouluttautua_uudelleen,  harjoitella,@ frames: 1 (train again; "He is retraining to become an IT worker") }
+{ [ harjoittaa, noun.act:harjoitus3,+ noun.person:harjoittelija2,+]  opettaa1,  verb.communication:opettaa3,@ verb.change:kehittää1,$ harjoitella,$ verb.social:valmentautua,$ frames: 1 (create by training and teaching; "The old master is training world-class violinists"; "we develop the leaders for the future") }
+{ kouluttaa_uudelleen,  harjoittaa,@ frames: 1 (teach new skills; "We must retrain the linguists who cannot find employment") }
+{ kouluttaa,  harjoituttaa,  harjoittaa,@ frames: 1 (train in the military, e.g., in the use of weapons) }
+{ [ harjoittaa1, noun.act:harjoitus4,+]  äkseerata,  harjoitella,@ frames: 1 (undergo military training or do military exercises) }
+{ opettaa_sisäsiistiksi,  harjoittaa,@ frames: 1 (train (a pet) to live cleanly in a house) }
+{ pelata_kovaa,  verb.social:leikkiä,@ frames: 1 (engage in rough or disorderly play) }
+{ [ pottakasvattaa, noun.act:pottakasvatus,+ noun.act:pottaharjoittelu,+]  harjoittaa,@ frames: 1 (train (a small child) to use the toilet) }
+{ opetella_ulkoa,  opetella,  opetella<unconfirmed/>1,  painaa_muistiin,  lukea,@ frames: 1 (commit to memory; learn by heart; "Have you memorized your lines for the play yet?") }
+{ olla_varalla,  opetella_ulkoa,@ frames: 1 (be an understudy or alternate for a role) }
+{ [ indoktrinoida, noun.act:indoktrinaatio,+]  [ iskostaa, noun.act:iskostaminen,+]  verb.communication:opettaa3,@ frames: 1 (teach doctrines to; teach uncritically; "The Moonies indoctrinate their disciples") }
+{ innostaa_vallankumoukseen,  inspiroida,  indoktrinoida,@ frames: 1 (fill with revolutionary ideas) }
+{ [ tarttua, noun.communication:tartunta,+]  verb.emotion:vaikuttaa,@ frames: 1 (affect in a contagious way; "His laughter infects everyone who is in the same room") }
+{ aivopestä,  indoktrinoida,@ frames: 1 (submit to brainwashing; indoctrinate forcibly) }
+{ päntätä,  takoa_päähänsä,  paahtaa,  ahtaa_päähänsä,  lukea,@ verb.change:päntätä_päähän,$ frames: 1 (study intensively, as before an exam; "I had to bone up on my Latin verbs before the final exam") }
+{ [ harjoitella1, noun.act:harjoitus5,+ noun.act:harjoittelu,+]  harjoittaa2,  [ treenata, noun.act:treeni1,+]  opiskella,@ frames: 1 (learn by repetition; "We drilled French verbs every day"; "Pianists practice scales") }
+{ harjoittaa3,  verb.communication:opettaa3,@ frames: 1 (teach by repetition) }
+{ takoa_päähän<note>kuv</note>,  iskostaa_mieleen,  painottaa<approximate/>,  harjoittaa3,@ frames: 1 (teach by drills and repetition) }
+{ istuttaa_mieleen,  [ iskostaa1, noun.act:iskostaminen1,+]  valaa,  harjoittaa3,@ frames: 1 (teach and impress by frequent repetitions or admonitions; "inculcate values into the young generation") }
+{ hokea,  istuttaa_mieleen,@ frames: 1 (instill (into a person) by constant repetition; "he dinned the lessons into his students") }
+{ pitäytyä,  pitää1,@ frames: 1 (remain committed to; "I hold to these ideas") }
+{ lukea,  [ opiskella1, noun.cognition:opiskelu1,+]  käydä_kirjojen_kimppuun,  oppia1,@ lukea1,* frames: 1 (learn by reading books; I must hit the books now"; "He is studying geology in his room"; "I have an exam next week") }
+{ [ opiskella2, noun.person:opiskelija1,+ noun.cognition:opiskelu1,+]   frames: 1 (be a student; follow a course of study; be enrolled at an institute of learning) }
+{ opiskella_jtak_pääaineenaan,  opiskella2,@ frames: 1 (have as one's principal field of study; "She is majoring in linguistics") }
+{ [ muistaa, unohtaa1,! noun.cognition:muistaminen3,+ noun.cognition:muistaminen1,+ noun.cognition:muistaminen2,+]  palauttaa_mieleensä,  [ muistella, noun.cognition:muisteleminen,+ muistella2,^]  tuoda_mieleen,   frames: 1 (recall knowledge from memory; have a recollection; "I can't remember saying any such thing"; "I can't think what her last name was"; "can you remember her phone number?"; "Do you remember that he once loved you?"; "call up memories") }
+{ tunnistaa,  muistaa,@ tietää,$ frames: 1 (perceive as familiar; "I know this voice!") }
+{ erottaa,  erottaa2,@ frames: 1 (be able to distinguish, recognize as being different; "The child knows right from wrong") }
+{ tuntea2,  käsittää5,@ frames: 1 (know the nature or character of; "we all knew her as a big show-off") }
+{ [ ajatella, noun.cognition:ajatus1,+ noun.cognition:ajattelu,+]   frames: 1 (be capable of conscious thought; "Man is the only creature that thinks") }
+{ unohtua,  livahtaa_mielestä,  unohtaa1,@ frames: 1 (pass out of one's memory) }
+{ [ unohtaa1, muistaa,!]  olla_muistamatta,   frames: 1 (be unable to remember; "I'm drawing a blank"; "You are blocking the name of your first wife!") }
+{ tulla_mieleen,  johtua_mieleen,  muistua_mieleen,  juolahtaa_mieleen,  verb.change:ilmaantua3,@ frames: 1 (be remembered; "His name comes to mind when you mention the strike") }
+{ [ muistaa1, unohtaa4,!]  ottaa_huomioon1,  pitää_mielessä,  [ huomioida, unohtaa4,!]  muistaa2,@ frames: 1 (keep in mind) }
+{ [ muistaa2, unohtaa2,! noun.cognition:muistaminen3,+]  ajatella1,   frames: 1 (keep in mind for attention or consideration; "Remember the Alamo"; "Remember to call your mother every day!"; "Think of the starving children in India!") }
+{ [ muistaa3, noun.cognition:muistaminen,+]  muistaa2,@ frames: 1 (keep in one's mind; "I cannot retain so much information") }
+{ [ unohtaa2, muistaa2,!]   frames: 1 (dismiss from the mind; stop remembering; "I tried to bury these unpleasant memories") }
+{ [ tunnistaa1, noun.cognition:tunnistaminen,+ noun.cognition:tunnistus,+]  tuntea3,  muistaa,@ tietää,* frames: 1 (perceive to be the same) }
+{ [ muistuttaa, noun.communication:muistutus,+ noun.cognition:muistutus,+]  muistaa,> frames: 1 (put in the mind of someone; "Remind me to call Mother") }
+{ viedä_takaisin_ajassa,  muistuttaa,@ frames: 1 (cause someone to remember the past; "This photo takes me back to the good old days") }
+{ vaivata,  jäkättää,  muistuttaa,@ frames: 1 (remind or urge constantly; "she nagged to take a vacation") }
+{ [ muistella1, noun.cognition:muisto,+ noun.cognition:muisteleminen,+ noun.cognition:muistikuva,+]  muistaa4,@ frames: 1 (recall the past; "The grandparents sat there, reminiscing all afternoon") }
+{ [ muistaa4, noun.cognition:muistaminen3,+ noun.cognition:muistaminen1,+]  muistella2,   frames: 1 (recapture the past; indulge in memories; "he remembered how he used to pick flowers") }
+{ kunnioittaa_muistoa,  [ muistaa5, noun.cognition:muistaminen3,+]  kunnioittaa,   frames: 1 (call to remembrance; keep alive the memory of someone or something, as in a ceremony; "We remembered the 50th anniversary of the liberation of Auschwitz"; "Remember the dead of the First World War") }
+{ [ muistaa6, noun.cognition:muistaminen3,+ noun.cognition:muistaminen1,+]  liittää,@ frames: 1 (exercise, or have the power of, memory; "After the shelling, many people lost the ability to remember"; "some remember better than others") }
+{ kunnioittaa_muistoa1,  viettää_muistojuhlaa,  ikuistaa,  säilyttää_jälkipolville,  muistuttaa,@ frames: 1 (be or provide a memorial to a person or an event; "This sculpture commemorates the victims of the concentration camps"; "We memorialized the Dead") }
+{ tehdä_muistomerkki,  kunnioittaa_muistoa1,@ frames: 1 (record or memorialize lastingly with a monument) }
+{ juhlia_jnk_muistoa,  juhlistaa,  verb.social:noudattaa3,@ frames: 1 (mark by some ceremony or observation; "The citizens mark the anniversary of the revolution with a march and a parade") }
+{ [ tukahduttaa, noun.act:tukahduttaminen1,+]  torjua,  unohtaa2,@ noun.cognition:psykiatria,;c frames: 1 (put out of one's consciousness) }
+{ unohtaa3,  verb.possession:kadottaa,@ jättää,$ frames: 1 (leave behind unintentionally; "I forgot my umbrella in the restaurant"; "I left my keys inside the car and locked the doors") }
+{ hylätä,  jättää,@ frames: 1 (cast aside capriciously or unfeelingly; "jilt a lover or a bride") }
+{ luopua,  luovuttaa1,  hylätä1,  verb.motion:romahtaa2,$ verb.motion:siirtyä2,$ frames: 1 (stop maintaining or insisting on; of ideas or claims; "He abandoned the thought of asking for her hand in marriage"; "Both sides have to give up some claims in these negotiations") }
+{ jättää,  unohtaa3,$ frames: 1 (go and leave behind, either intentionally or by neglect or forgetfulness; "She left a mess when she moved out"; "His good luck finally left him"; "her husband left her after 20 years of marriage"; "she wept thinking she had been left behind") }
+{ [ hylätä2, noun.act:hylkääminen,+]  jättää1,  jättää_heitteille,  jättää,@ frames: 1 (leave someone who needs or counts on you; leave in the lurch; "The mother deserted her children") }
+{ jättää_heitteille1,  hylätä2,@ frames: 1 (abandon by leaving out in the open air; "The infant was exposed by the teenage mother"; "After Christmas, many pets get abandoned") }
+{ jättää2,  hylätä2,@ frames: 1 (leave suddenly, often as an expression of disapproval; "She walked out on her husband and children") }
+{ [ unohtaa4, muistaa1,! huomioida,!]  laiminlyödä,@ frames: 1 (forget to do something; "Don't forget to call the chairman of the board to the meeting!") }
+{ [ laiminlyödä, hoitaa,! käsitellä,! noun.act:laiminlyöminen,+ noun.person:laiminlyöjä,+]  jättää_tekemättä,  sivuuttaa,  hylätä3,  olla_huomaamatta1,  jättää_huomioon_ottamatta,  jättää_väliin,  missata,   frames: 1 (leave undone or leave out; "How could I miss that typo?"; "The workers on the conveyor belt miss one out of ten") }
+{ jättää_lausumatta,  jättää_pois1,@ frames: 1 (leave or strike out; "This vowel is usually elided before a single consonant") }
+{ jättää_pois,  jättää_lausumatta,@ frames: 1 (omit (a letter or syllable) in speaking or writing; " New Englanders drop their post-vocalic r's") }
+{ [ jättää_pois1, sisällyttää,!]  verb.change:hävittää6,@ frames: 1 (prevent from being included or considered or accepted; "The bad results were excluded from the report"; "Leave off the top piece") }
+{ [ laiminlyödä1, noun.attribute:laiminlyöminen,+ noun.person:laiminlyöjä,+]   frames: 1 (fail to attend to; "he neglects his children") }
+{ [ velttoilla, noun.act:velttoilu,+]  laiminlyödä1,@ frames: 1 (be inattentive to, or neglect; "He slacks his attention") }
+{ hypätä,  sivuuttaa1,  hypätä_yli,  jättää_väliin1,  laiminlyödä,@ frames: 1 (bypass; "He skipped a row in the text and so the sentence was incomprehensible") }
+{ [ hoitaa, laiminlyödä,!]  [ käsitellä, laiminlyödä,!]  ottaa_asiakseen,  ottaa_sydämelleen,  muistaa1,@ frames: 1 (get down to; pay attention to; take seriously; "Attend to your duties, please") }
+{ olla_välittämättä,  jättää_huomiotta,  olla_piittaamatta,   frames: 1 (give little or no attention to; "Disregard the errors") }
+{ ottaa_vastaan,  nähdä1,@ frames: 1 (regard favorably or with disapproval; "Her new collection of poems was not well received") }
+{ [ laiminlyödä<approximate/>2, noun.cognition:laiminlyönti<approximate/>1,+]  olla_välittämättä,@ frames: 1 (disregard intentionally or let pass) }
+{ [ halveksua, noun.act:halveksunta3,+]  [ loukata, noun.act:loukkaus4,+]  väheksyä,  kohdella_kylmästi,  verb.communication:torjua3,@ frames: 1 (pay no attention to, disrespect; "She cold-shouldered her ex-fiance") }
+{ muistaa_väärin,  erehtyä,@ muistaa4,* frames: 1 (remember incorrectly; "I misremembered the date") }
+{ [ erehtyä, noun.attribute:erehtyväisyys,+ noun.act:erehdys1,+]  [ olla_väärässä, feilata,^ fubaroida,^ käteillä,^ mokata,^ sählätä,^]  tehdä_virhe,   frames: 1 (to make a mistake or be incorrect) }
+{ erehtyä1,  feilata,  fubaroida,  käteillä,  mokata,  sählätä,  fibata,  [ kömmähtää, noun.act:kömmähdys5,+]  mählätä,  stefuttaa,  turskata,  erehtyä,@ frames: 1 (make an error; "She slipped up and revealed the name") }
+{ luulla_muuksi,  tunnistaa2,@ frames: 1 (identify incorrectly; "Don't mistake her for her twin sister") }
+{ tunnistaa2,  tunnistaa1,@ frames: 1 (consider to be equal or the same; "He identified his brother as one of the fugitives") }
+{ [ tyypitellä, noun.person:tyyppi,+ noun.cognition:tyyli1,+]  tunnistaa2,@ frames: 1 (identify as belonging to a certain type; "Such people can practically be typed") }
+{ [ identifioida, noun.attribute:identiteetti,+]  tunnistaa3,  määrätä2,@ frames: 1 (recognize as being; establish the identity of someone or something; "She identified the man on the 'wanted' poster") }
+{ [ ajoittaa, noun.act:ajoittaminen,+]  määrittää_ikä,  määrätä2,@ frames: 1 (assign a date to; determine the (probable) date of; "Scientists often cannot date precisely archeological or prehistorical findings") }
+{ päivätä_väärin,  ajoittaa,@ frames: 1 (assign the wrong date to) }
+{ [ sekoittaa, noun.act:sekaantuminen,+]  sekoittaa_keskenään,  erehtyä2,  luulla_muuksi,@ verb.creation:sekoittaa1,$ sekoittaa3,$ frames: 1 (mistake one thing for another; "you are confusing me with the other candidate"; "I mistook her for the secretary") }
+{ ymmärtää_väärin,  tulkita_väärin,  käsittää_väärin,  tulkita,@ frames: 1 (interpret in the wrong way; "Don't misinterpret my comments as criticism"; "She misconstrued my remarks") }
+{ ymmärtää13,  kuulla1,  ymmärtää1,@ ottaa,$ frames: 1 (to hear and understand; "I read you loud and clear!") }
+{ hämmentää,  sekoittaa1,  hämmentää4,@ frames: 1 (cause to be perplexed or confounded; "This problem stumped her") }
+{ sekoittaa2,  tehdä_sekavaksi,  hämmentää1,  samentaa,  sotkea,  verb.creation:sekoittaa1,@ frames: 1 (mix up or confuse; "He muddled the issues") }
+{ sekoittaa3,  sumentaa,  hämmentää2,  hämärtää,  verb.change:muuttaa3,@ sekoittaa,$ frames: 1 (make unclear, indistinct, or blurred; "Her remarks confused the debate"; "Their words obnubilate their intentions") }
+{ tehdä_sekavaksi1,  sekoittaa3,@ frames: 1 (cause to become muddy; "These data would have muddied the prediction") }
+{ selvittää,  selkeyttää,  selventää,  selkiyttää,  kiteyttää,  ratkaista,  valistaa,  [ valaista, noun.communication:valaisu,+]  havainnollistaa,  verb.communication:selventää,@ frames: 1 (make free from confusion or ambiguity; make clear; "Could you clarify these remarks?"; "Clear up the question of who is at fault") }
+{ lukea_rivien_välistä,  tulkita,@ frames: 1 (read what is implied but not expressed on the surface) }
+{ selvittää1,  suunnitella,@ frames: 1 (try to solve) }
+{ hämmentää3,  hämätä,  sekoittaa4,  [ hämäännyttää, noun.cognition:hämmennys1,+ noun.cognition:hämmennys<note>mielen</note>2,+ noun.cognition:hämmentyneisyys1,+]  panna_sekaisin,  sotkea1,  häkellyttää,  [ sekaannuttaa, noun.feeling:sekavuus,+]  saada_hämilleen,  saada_ymmälleen,  huumata,  hämmästyttää,  verb.stative:olla1,@ verb.emotion:hämmentää3,$ frames: 1 (be confusing or perplexing to; cause to be unable to think clearly; "These questions confuse even the experts"; "This question completely threw me"; "This question befuddled even the teacher") }
+{ [ demoralisoida, noun.state:demoralisaatio,+]  hämmentää3,@ frames: 1 (confuse or put into disorder; "the boss's behavior demoralized everyone in the office") }
+{ [ hämmentää4, noun.cognition:hämmennys1,+ noun.cognition:hämmennys<note>mielen</note>2,+]  kiusata,  pistää,  ärsyttää,  [ kummastuttaa, selvittää1,^ selvittää3,^]  [ mystifioida, noun.artifact:mystifikaatio,+ noun.cognition:mysteeri,+]  saattaa_ymmälle,  saattaa_ymmälleen,  häkellyttää1,  [ ällistyttää, noun.feeling:ällistys1,+]  typerryttää,  mykistää,  hämmennyttää,  askarruttaa,  sekoittaa5,  hämmentää3,@ frames: 1 (be a mystery or bewildering to; "This beats me!"; "Got me--I don't know the answer!"; "a vexing problem"; "This question really stuck me") }
+{ hämmentää5,  hämmentää4,@ frames: 1 (set a difficult problem or riddle; "riddle me a riddle") }
+{ [ tulkita, noun.cognition:tulkinta,+ noun.cognition:tulkinta2,+ noun.communication:tulkinta2,+ verb.stative:järjestyä,^ verb.stative:rakentua,^]  [ selittää, verb.stative:järjestyä,^ verb.stative:rakentua,^ noun.communication:selitys5,+]  kokea2,  käsittää4,  ymmärtää1,@ nähdä1,$ frames: 1 (make sense of; assign a meaning to; "What message do you see in this letter?"; "How do you interpret his behavior?") }
+{ käsitellä_myyttinä,  tehdä_myytiksi,  tulkita,@ frames: 1 (interpret as a myth or in terms of mythology; "mythicize the ancient stories") }
+{ [ tulkita_sananmukaisesti, hengellistää,! henkistää,!]  tulkita,@ frames: 1 (make literal; "literalize metaphors") }
+{ [ hengellistää, tulkita_sananmukaisesti,! noun.act:hengellistäminen,+ noun.act:henkistäminen,+]  [ henkistää, tulkita_sananmukaisesti,! noun.act:hengellistäminen,+ noun.act:henkistäminen,+]  tulkita,@ frames: 1 (give a spiritual meaning to; read in a spiritual sense) }
+{ tulkita_uudelleen,  uudelleentulkita,  tulkita,@ frames: 1 (assign a new or different meaning to) }
+{ tulkita_allegoriana<unconfirmed/>,  tulkita,@ frames: 1 (interpret as an allegory) }
+{ ottaa,  [ tulkita1, noun.communication:tulkinta3,+]  tulkita,@ selittää1,$ ymmärtää13,$ frames: 1 (interpret something in a certain way; convey a particular meaning or impression; "I read this address as a satire"; "How should I take this message?"; "You can't take credit for this!") }
+{ tulkita_väärin1,  ottaa,@ frames: 1 (interpret wrongly; "I misread Hamlet all my life!") }
+{ idealisoida,  [ ihannoida, noun.cognition:ihanne,+]  verb.creation:keksiä2,@ frames: 1 (form ideals; "Man has always idealized") }
+{ [ lukea1, noun.person:lukutaitoinen,+ noun.person:lukija1,+ noun.cognition:lukeminen,+ noun.communication:lukeminen,+]  tulkita,@ lukea2,$ verb.stative:kuulua6,$ frames: 1 (interpret something that is written or printed; "read the advertisement"; "Have you read Salman Rushdie?") }
+{ lukea_anagrammina<unconfirmed/>,  [ anagrammatoida<unconfirmed/>, noun.communication:anagrammi,+]  lukea1,@ frames: 1 (read letters out of order to discover a hidden meaning) }
+{ lukea_uudelleen,  lukea1,@ frames: 1 (read anew; read again; "He re-read her letters to him") }
+{ lukea_kursorisesti,  lukea1,@ frames: 1 (read selectively; read only certain passages from a text) }
+{ merkitä_valamiesluetteloon,  nimetä,  valita1,@ frames: 1 (select from a list; "empanel prospective jurors") }
+{ selvittää2,  tavata,  lukea1,@ frames: 1 (read with difficulty; "Can you decipher this letter?"; "The archeologist traced the hieroglyphs") }
+{ saada_selvää,  ymmärtää14,  ymmärtää1,@ frames: 1 (comprehend; "I cannot make out what this politician is saying") }
+{ [ lukea2, noun.person:lukutaitoinen,+ noun.person:lukija1,+]  verb.communication:keskustella6,@ lukea1,$ frames: 1 (look at, interpret, and say out loud something that is written or printed; "The King will read the proclamation at noon") }
+{ luetella,  lukea2,@ frames: 1 (read out loud as words written numbers) }
+{ [ sanella, noun.person:sanelija,+ noun.communication:sanelu,+ noun.communication:sanelu1,+]  lukea2,@ frames: 1 (say out loud for the purpose of recording; "He dictated a report to his secretary") }
+{ selittää1,  tulkita2,  verb.communication:ennustaa1,@ ottaa,$ frames: 1 (interpret the significance of, as of palms, tea leaves, intestines, the sky; also of human behavior; "She read the sky and predicted rain"; "I can't read his strange behavior"; "The fortune teller read his fate in the crystal ball") }
+{ ennustaa,  selittää1,@ frames: 1 (divine by gazing into crystals) }
+{ lukea3,  skannata,  tulkita,@ frames: 1 (obtain data from magnetic tapes; "This dictionary can be read by the computer") }
+{ lukea_väärin,  lukea3,@ frames: 1 (read or interpret wrongly; "He misread the data") }
+{ vilkaista,  silmäillä,  lukea_hutaisten,  lukea_pintapuolisesti,  lukea1,@ frames: 1 (read superficially) }
+{ lukea_huulilta,  lukea1,@ frames: 1 (interpret by lipreading; of deaf people) }
+{ toimittaa_painokuntoon,  [ toimittaa_ja_korjata_tekstiä, noun.person:toimitussihteeri,+]  verb.change:muokata2,@ frames: 1 (edit and correct (written or printed material)) }
+{ [ oikolukea, noun.person:oikolukija,+]  korjauslukea,  varmistaa,@ lukea1,* frames: 1 (read for errors; "I should proofread my manuscripts") }
+{ [ suunnitella, verb.creation:keksiä2,^ harkita,^ ottaa_huomioon2,^ aprikoida,^]  [ pohtia, noun.cognition:pohdiskelu,+]  miettiä,   frames: 1 (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments; "I've been thinking all day and getting nowhere") }
+{ järkeistää,  [ rationalisoida, noun.act:rationalisointi,+]  suunnitella,@ frames: 1 (think rationally; employ logic or reason; "When one wonders why one is doing certain things, one should rationalize") }
+{ järkiperäistää,  järkeistää1,  järkeillä,@ frames: 1 (substitute a natural for a supernatural explanation of; "you can rationalize away all the strange noises you hear--there is no poltergeist in the house!") }
+{ [ ajatella2, noun.cognition:ajatus1,+]  miettiä1,  suunnitella,@ frames: 1 (have or formulate in the mind; "think good thoughts") }
+{ ottaa_huomioon2,  aikoa2,@ frames: 1 (consider carefully and rationally; "Every detail has been thought out") }
+{ [ filosofoida, noun.communication:filosofointi,+ noun.cognition:filosofia1,+ noun.person:filosofoija,+]  suunnitella,@ frames: 1 (reason philosophically) }
+{ pitää_aivoriihi,  suunnitella,@ frames: 1 (try to solve a problem by thinking intensely about it) }
+{ ajatella3,  harkita,  [ mietiskellä, adj.all:mietitty^mietiskelevä1,+ noun.cognition:mietiskely1,+ noun.person:mietiskelijä1,+ noun.cognition:mietiskely,+]  [ miettiä2, adj.all:älykäs2^mietiskelevä,+ adj.all:älykäs2^miettivä,+ adj.all:mietitty^mietteliäs,+]  pohdiskella,  [ pohtia1, noun.cognition:pohdiskelu2,+ noun.person:pohdiskelija,+]  hautoa,  spekuloida,  aprikoida,  tuumia,  suunnitella,@ frames: 1 (reflect deeply on a subject; "I mulled over the events of the afternoon"; "philosophers have speculated on the question of God for thousands of years"; "The scientist must stop to observe and start to excogitate") }
+{ harkita1,  ajatella3,@ frames: 1 (think or reflect beforehand or in advance; "I rarely premeditate, which is a mistake") }
+{ [ teologisoida, noun.person:teologi,+]  ajatella3,@ frames: 1 (make theoretical speculations about theology or discuss theological subjects) }
+{ havainnoida,  ajatella3,@ frames: 1 (reflect on one's own thoughts and feelings) }
+{ olettaa,  arvella,  [ otaksua, noun.cognition:otaksuma1,+]  luulla,  arvata,  odottaa1,@ frames: 1 (expect, believe, or suppose; "I imagine she earned a lot of money with her new novel"; "I thought to find her in a bad state"; "he didn't think to find her in the kitchen"; "I guess she is angry at me for standing her up") }
+{ [ olettaa1, noun.act:olettaminen,+ noun.act:oletus,+ adj.all:tunnustettu^oletettava,+ noun.communication:oletus1,+ noun.cognition:olettaminen,+ noun.cognition:oletus2,+ noun.cognition:olettamus3,+ noun.act:olettamus,+ noun.cognition:olettamus1,+ noun.act:oletus1,+ noun.cognition:oletus3,+]  [ otaksua1, noun.act:otaksuma,+ noun.communication:otaksuma,+ noun.cognition:otaksuma2,+]  pitää_itsestään_selvänä,  pitää_itsestäänselvyytenä,  odottaa1,@ frames: 1 (take to be the case or to be true; accept without verification or proof; "I assume his train was late") }
+{ [ järkeillä, noun.cognition:järkeily,+ noun.person:järkeilijä,+ noun.cognition:järki4,+]  päätellä,  suunnitella,@ frames: 1 (think logically; "The children must learn to reason") }
+{ [ teoretisoida, noun.cognition:teoretisointi,+]  järkeillä,@ teoretisoida1,$ frames: 1 (form or construct theories; "he thinks and theorizes all day") }
+{ [ teoretisoida1, noun.cognition:teoretisointi,+]  järkeillä,@ teoretisoida,$ frames: 1 (construct a theory about; "Galileo theorized the motion of the stars") }
+{ [ järkeillä1, noun.cognition:järkeily1,+]  järkeillä,@ frames: 1 (reason methodologically and logically) }
+{ [ arvella1, noun.cognition:arvelu1,+]  [ spekuloida1, noun.cognition:spekulaatio,+ adj.all:teoreettinen1^spekulatiivinen,+]  [ teoretisoida2, noun.person:teoreetikko1,+ noun.cognition:teoria,+]  [ teorioida, noun.cognition:teoria,+ noun.cognition:teoretisointi,+ noun.person:teoreetikko1,+]  [ olettaa2, noun.cognition:oletus,+]  [ otaksua2, noun.cognition:otaksuma1,+]  odottaa1,@ frames: 1 (to believe especially on uncertain or tentative grounds; "Scientists supposed that large dinosaurs lived in swamps") }
+{ rakentaa_uudelleen,  rakentaa_mielessä,  jäljentää,  arvella1,@ frames: 1 (reassemble mentally; "reconstruct the events of 20 years ago") }
+{ tutkia_sanojen_etymologiaa,  rakentaa_uudelleen,@ noun.cognition:kielentutkimus,;c frames: 1 (construct the history of words) }
+{ [ järkeillä2, noun.state:järkevyys,+ noun.person:järkeilijä,+ noun.cognition:järki4,+ noun.state:järjen_käyttö,+]  [ päätellä1, noun.act:päättäminen1,+]  suunnitella,@ frames: 1 (decide by reasoning; draw or come to a conclusion; "We reasoned that it was cheaper to rent than to buy a house") }
+{ [ ratkaista1, noun.communication:ratkaisu1,+ noun.act:ratkaiseminen2,+ noun.act:ratkaisu2,+ noun.person:ratkaisija,+ noun.act:ratkaiseminen,+]  ratkoa,  keksiä,  selvittää3,  selättää,  hoksata4,  tajuta8,  ymmärtää1,@ järkeillä,* frames: 1 (find the solution to (a problem or question) or understand the meaning of; "did you solve the problem?"; "Work out your problems with the boss"; "this unpleasant situation isn't going to work itself out"; "did you get it?"; "Did you get my meaning?"; "He could not work the math problem") }
+{ ratkaista2,  selvittää4,  ratkaista1,@ frames: 1 (understand the meaning of; "The question concerning the meaning of life cannot be answered") }
+{ ratkaista_arvoitus,  ratkaista1,@ frames: 1 (explain a riddle) }
+{ hallita1,  taitaa1,@ frames: 1 (get a grip on; get mastery of) }
+{ solmia,  tasata,  ratkaista1,@ frames: 1 (arrive at after reckoning, deliberating, and weighing; "strike a balance"; "strike a bargain") }
+{ [ arvata1, noun.person:arvaaja,+]  päätellä2,  ratkaista1,@ frames: 1 (guess correctly; solve by guessing; "He guessed the right number of beans in the jar and won the prize") }
+{ ratkaista3,  ratkaista1,@ frames: 1 (give the correct answer or solution to; "answer a question"; "answer the riddle") }
+{ päätellä3,  järkeillä2,@ noun.cognition:loogisuus,;c frames: 1 (reason or establish by induction) }
+{ päätellä4,  [ johtaa, noun.cognition:johtaminen1,+]  järkeillä2,@ noun.cognition:loogisuus,;c frames: 1 (reason by deduction; establish by deduction) }
+{ laatia,  luoda,  [ perustaa, noun.cognition:perusta,+ noun.motive:peruste,+]  [ pohjata, noun.cognition:pohja,+ noun.relation:pohja,+]  [ perustua, noun.cognition:perusta,+]  [ pohjautua, noun.cognition:pohja,+ noun.relation:pohja,+]   frames: 1 (use as a basis for; found on; "base a claim on some observation") }
+{ pystyttää,  rakentaa,  valmistaa,  laatia,@ frames: 1 (found or ground; "build a defense on nothing but the accused person's reputation") }
+{ [ laskea, adj.all:laskettava,+ noun.cognition:laskelma,+ noun.artifact:laskin2,+ noun.act:laskenta,+ noun.person:laskija,+ noun.cognition:laskutoimitus,+ noun.act:laskutoimitus,+ luottaa1,^ keksiä,^ hoksata4,^ tajuta8,^]  järkeillä,@ noun.cognition:matematiikka,;c laskea1,$ frames: 1 (make a mathematical calculation or computation) }
+{ [ kvantittaa, noun.act:kvantisointi,+ noun.act:kvanttaus,+]  laskea,@ noun.cognition:fysiikka,;c frames: 1 (apply quantum theory to; restrict the number of possible values of (a quantity) or states of (a physical entity or system) so that certain variables can assume only certain discrete magnitudes that are integral multiples of a common factor; "Quantize gravity") }
+{ laskea1,  verb.stative:laskea_yhteen,@ laskea,$ frames: 1 (be calculated; "The fees work out to less than $1,000") }
+{ ottaa1,  laskea,@ noun.cognition:matematiikka,;c frames: 1 (calculate the root of a number) }
+{ [ prosessoida, noun.artifact:prosessori,+]  selvittää5,  laskea,@ frames: 1 (perform mathematical and logical operations on (data) according to programmed instructions in order to obtain the required information; "The results of the elections were still being processed when he gave his acceptance speech") }
+{ [ suhteuttaa, noun.act:suhteellinen_jako,+]  laskea,@ jakaa_suhteellisesti,$ frames: 1 (divide or assess proportionally; "The rent was prorated for the rest of the month") }
+{ jakaa_suhteellisesti,  verb.possession:maksaa5,@ suhteuttaa,$ frames: 1 (make a proportional settlement or distribution) }
+{ laskea_väärin,  arvioida_väärin,  laskea,@ noun.cognition:aritmetiikka,;c frames: 1 (calculate incorrectly; "I miscalculated the number of guests at the wedding") }
+{ laskea_uudelleen,  laskea,@ noun.cognition:aritmetiikka,;c frames: 1 (calculate anew; "The costs had to be recalculated") }
+{ saada_tulokseksi,  laskea,* verb.possession:saada7,$ frames: 1 (reach by calculation; "What do you get when you add up these numbers?") }
+{ laskea_keskiarvo,  laskea,@ noun.cognition:aritmetiikka,;c frames: 1 (compute the average of) }
+{ kertoa,  korottaa_neliöön,  korottaa_toiseen_potenssiin,  kertoa1,@ noun.cognition:aritmetiikka,;c frames: 1 (raise to the second power) }
+{ korottaa_kolmanteen_potenssiin,  kertoa1,@ noun.cognition:aritmetiikka,;c frames: 1 (raise to the third power) }
+{ laskea_mukaan,  vähentää,  laskea,@ noun.cognition:aritmetiikka,;c frames: 1 (resolve into factors; "a quantum computer can factor the number 15") }
+{ laskea_mukaan1,  vähentää1,  verb.perception:tutkia7,@ frames: 1 (consider as relevant when making a decision; "You must factor in the recent developments") }
+{ [ lisätä, verb.stative:tehdä_yhteensä,^ vähentää2,! adj.all:additiivinen^lisättävissä_oleva,+ adj.all:lisäävä,+]  laskea_yhteen,  laskea,@ noun.cognition:aritmetiikka,;c verb.communication:laskea_yhteen,$ frames: 1 (make an addition by combining numbers; "Add 27 and 49, please!") }
+{ laskea_yhteen1,  lisätä,@ noun.cognition:aritmetiikka,;c frames: 1 (add a column of numbers) }
+{ [ vähentää2, lisätä,! adj.all:vähennys-,+ noun.act:vähennyslasku,+ noun.act:vähennys2,+ noun.act:vähentäminen3,+]  ottaa_pois,  laskea,@ noun.cognition:aritmetiikka,;c frames: 1 (make a subtraction; "subtract this amount from my paycheck") }
+{ vähentää_tappiot<note>carry_back_-järjestelmä</note>,  vähentää2,@ frames: 1 (deduct a loss or an unused credit from taxable income for a prior period) }
+{ [ kertoa1, jakaa,! noun.quantity:kertoja,+ noun.act:kertolasku,+ noun.act:kertaa,+]  laskea,@ noun.cognition:aritmetiikka,;c frames: 1 (combine by multiplication; "multiply 10 by 15") }
+{ korottaa,  kertoa1,@ noun.cognition:aritmetiikka,;c frames: 1 (multiply (a number) by itself a specified number of times: 8 is 2 raised to the power 3) }
+{ [ jakaa, kertoa1,! noun.act:jako2,+ noun.act:jakolasku,+]  laskea,@ noun.cognition:aritmetiikka,;c frames: 1 (perform a division; "Can you divide 49 by seven?") }
+{ jakaa_kahtia,  puolittaa,  jakaa,@ noun.cognition:aritmetiikka,;c frames: 1 (divide by two; divide into halves; "Halve the cake") }
+{ [ jakaa_neljään_osaan, noun.act:jakaminen_neljään_osaan,+]  jakaa,@ noun.cognition:aritmetiikka,;c frames: 1 (divide by four; divide into quarters) }
+{ [ interpoloida, noun.cognition:interpolointi,+]  [ ekstrapoloida1, noun.cognition:ekstrapolointi1,+]  laskea,@ noun.cognition:matematiikka,;c frames: 1 (estimate the value of) }
+{ [ derivoida, integroida,!]  [ differentioida, integroida,!]  laskea,@ noun.cognition:matematiikka,;c frames: 1 (calculate a derivative; take the derivative) }
+{ [ integroida, derivoida,! noun.act:integrointi,+ noun.artifact:integraattori,+ noun.cognition:integraali,+ differentioida,!]  laskea,@ noun.cognition:matematiikka,;c frames: 1 (calculate the integral of; calculate by integration) }
+{ analysoida,  [ psykoanalysoida, noun.person:psykoanalyytikko,+]  verb.body:hoitaa,@ noun.cognition:psykiatria,;c frames: 1 (subject to psychoanalytic treatment; "I was analyzed in Vienna by a famous psychiatrist") }
+{ [ analysoida1, syntetisoida,! noun.artifact:analysaattori,+ noun.person:analyytikko,+]  ruotia,  [ eritellä, noun.cognition:erittely1,+]  jakaa1,  ratkoa1,   frames: 1 (make a mathematical, chemical, or grammatical analysis of; break down into components or essential features; "analyze a specimen"; "analyze a sentence"; "analyze a chemical compound") }
+{ jäsentää,  analysoida1,@ noun.cognition:kielioppi,;c frames: 1 (analyze syntactically by assigning a constituent structure to (a sentence)) }
+{ [ syntetisoida, analysoida1,! noun.person:synteetikko,+ noun.artifact:syntetisaattori,+ noun.process:synteesi,+ noun.cognition:synteesi,+ noun.cognition:synteesi1,+]  verb.change:sekoittaa2,@ frames: 1 (combine so as to form a more complex, product; "his operas synthesize music and drama in perfect harmony"; "The liver synthesizes vitamins") }
+{ syntetisoida1,  verb.change:muuttua,@ frames: 1 (combine and form a synthesis; "Vitamin D only synthesizes when sunlight is available") }
+{ [ analysoida2, noun.person:analyytikko,+ noun.cognition:analyysi1,+ noun.artifact:analysaattori,+]  [ tutkia, noun.act:tutkielma,+ noun.act:tutkimus5,+ noun.cognition:tutkistelu,+]  tarkastella,   frames: 1 (consider in detail and subject to an analysis in order to discover essential features or meaning; "analyze a sonnet by Shakespeare"; "analyze the evidence in a criminal trial"; "analyze your real motives") }
+{ eritellä1,  tutkia1,  analysoida2,@ frames: 1 (analyze down to the smallest detail; "This writer anatomized the depth of human behavior") }
+{ tutkia_kasveja,  analysoida1,@ frames: 1 (collect and study plants) }
+{ [ diagnosoida, noun.act:diagnosointi,+ noun.act:diagnosoiminen,+ noun.act:diagnoosi,+]  määrittää_tauti,  analysoida2,@ frames: 1 (determine or distinguish the nature of a problem or an illness through a diagnostic analysis) }
+{ [ diagnosoida1, noun.act:diagnosointi,+ noun.act:diagnosoiminen,+ noun.act:diagnoosi,+]  analysoida2,@ noun.act:lääketiede,;c frames: 1 (subject to a medical analysis) }
+{ [ tutkia2, adj.all:tutkimus-,+ noun.act:tutkimus6,+ noun.act:tutkiminen3,+]  diagnosoida1,@ noun.act:lääketiede,;c tutkia3,$ frames: 1 (examine (organs) for diagnostic purposes) }
+{ tunnustella_maaperää,  tutkia2,@ frames: 1 (make some preliminary investigations or test the waters) }
+{ [ tutkia3, noun.cognition:tutkimus,+ adj.all:tutkimus-,+ noun.act:tutkimus6,+ noun.act:tutkiminen3,+ noun.cognition:tutkiminen,+]  diagnosoida,@ tutkia2,$ frames: 1 (examine minutely) }
+{ syväluodata,  tutkia3,@ frames: 1 (examine thoroughly and in great depth) }
+{ tarkastella1,  tutkia4,  arvioida,  analysoida2,@ frames: 1 (consider in a comprehensive way; "He appraised the situation carefully before acting") }
+{ kartoittaa,  laskea,@ verb.change:määrittää1,* frames: 1 (plot a map of (land)) }
+{ [ kolmioida, noun.shape:kolmio,+ noun.act:kolmiomittaus,+ noun.shape:kolmikulmio,+]  kartoittaa,@ frames: 1 (survey by triangulation; "The land surveyor worked by triangulating the plot") }
+{ [ mitata, noun.Tops:mitta,+ noun.artifact:mitta2,+ noun.act:mitta,+ noun.act:mittaaminen,+ adj.all:mitattavissa_oleva1,+ noun.act:mittaus,+ noun.person:mittaaja,+]  päättää2,@ frames: 1 (determine the measurements of something or somebody, take measurements of; "Measure the length of the wall") }
+{ ottaa_korkeus,  mitata,@ frames: 1 (measure the altitude of by using a sextant; "shoot a star") }
+{ [ kolmioida1, noun.cognition:kolmiomittaus,+]  mitata,@ frames: 1 (measure by using trigonometry; "triangulate the angle") }
+{ [ mitata1, noun.artifact:mittaharppi,+]  [ mitata<broader/>2, noun.artifact:mittaharppi,+]  mitata,@ frames: 1 (measure the diameter of something with calipers) }
+{ tehdä_selvitys,  analysoida2,@ frames: 1 (make a survey of; for statistical purposes) }
+{ etsiä<note>mineraaleja</note>,  tutkia5,@ frames: 1 (explore for useful or valuable things or substances, such as minerals) }
+{ [ tutkia5, noun.person:tutkija3,+ noun.cognition:tutkimus1,+ noun.act:tutkimus4,+ adj.all:tutkimus-,+ noun.cognition:tutkimus,+ noun.cognition:tutkiminen,+]  hakea,  verb.communication:tutkia3,@ frames: 1 (inquire into; "the students had to research the history of the Second World War for their history project"; "He searched for information on his relatives on the web"; "Scientists are exploring the nature of consciousness") }
+{ [ googlata, noun.communication:Google,+]  [ googlettaa, noun.communication:Google,+]  tutkia5,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (search the internet (for information) using the Google search engine; "He googled the woman he had met at the party"; "My children are googling all day") }
+{ etsiä<approximate/>1,  tutkia5,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (search for a location and directions by means of the MapQuest program; "you can just mapquest the restaurant") }
+{ tutkia_uudestaan,  tutkia5,@ frames: 1 (explore anew; "We need to re-explore Colonialism") }
+{ etsiskellä,  hakea1,  etsiä2,  tutkia5,@ frames: 1 (search anxiously) }
+{ [ tutkia6, adj.all:tutkimus-,+ noun.act:tutkimus,+ noun.person:tutkimusmatkailija,+ noun.cognition:tutkimus,+ noun.act:tutkimusmatkailu,+ noun.cognition:tutkiminen,+]  verb.communication:tutkia3,@ frames: 1 (travel to or penetrate into; "explore unknown territory in biology") }
+{ olla_uranuurtaja,  tutkia6,@ frames: 1 (open up and explore a new area; "pioneer space") }
+{ tutkia_luolia,  tutkia6,@ frames: 1 (explore natural caves) }
+{ [ erottaa1, noun.person:erottelija<unconfirmed/>,+]  havaita_ero,  huomata_ero,  tehdä_ero,  erottaa2,@ frames: 1 (recognize or perceive the difference) }
+{ erotella_tarkasti,  erottaa1,@ frames: 1 (mark fine distinctions and subtleties, as among words) }
+{ [ erottaa2, noun.cognition:ero,+ noun.person:erottelija<unconfirmed/>,+ noun.event:eroavuus,+ noun.attribute:ero,+ noun.attribute:eroavaisuus,+]  pystyä_erottamaan,  tuntea4,  tunnistaa4,  huomata_ero1,  identifioida,@ verrata,* frames: 1 (mark as different; "We distinguish several kinds of maple") }
+{ [ leimata, noun.substance:leima,+]  erottaa2,@ frames: 1 (distinguish (an element or atom) by using a radioactive isotope or an isotope of unusual mass for tracing through chemical reactions) }
+{ kohdella,  käsitellä1,  pitää,  reagoida,@ verb.social:kohdella,$ frames: 1 (regard or consider in a specific way; "I treated his advances as a joke") }
+{ kiukustua,  reagoida,@ frames: 1 (react in an offended or angry manner; "He bristled at her suggestion that he should teach her how to use the program") }
+{ erottaa<broader/>3,  erottaa2,@ frames: 1 (distinguish (as a compound or molecule) by introducing a labeled atom) }
+{ selvittää_sukupuoli,  määrittää_sukupuoli,  erottaa2,@ frames: 1 (tell the sex (of young chickens)) }
+{ [ yksilöidä, noun.person:yksilö1,+ noun.cognition:yksilöiminen,+]  [ yksilöllistää, noun.cognition:yksilöiminen,+]  erottaa2,@ frames: 1 (make or mark or treat as individual; "The sounds were individualized by sharpness and tone") }
+{ erottua,  erottaa4,  tehdä_ero1,  verb.communication:kuvata,@ verb.communication:merkitä3,$ frames: 1 (be a distinctive feature, attribute, or trait; sometimes in a very positive sense; "His modesty distinguishes him from his peers") }
+{ identifioida1,  löytää,  tunnistaa5,  erottaa5,  havaita1,  kuvata,  [ nimetä1, noun.communication:nimeäminen,+ noun.communication:nimi,+ noun.communication:nimenanto,+]  luokitella1,* frames: 1 (identify as in botany or biology, for example) }
+{ [ luetteloida, noun.communication:luettelo3,+ noun.person:luetteloija,+ noun.communication:luettelo,+]  luokitella,  luokitella1,@ frames: 1 (make an itemized list or catalog of; classify; "He is cataloguing his photographic negatives") }
+{ [ verrata, noun.act:vertaaminen,+ noun.attribute:verrattavissa<idiomatic_pos/>,+ noun.relation:vertailu,+ noun.act:vertailu,+]  [ vertailla, noun.act:vertaaminen,+ noun.attribute:verrattavissa<idiomatic_pos/>,+ noun.relation:vertailu,+ noun.act:vertailu,+]  analysoida2,@ verb.stative:olla_verrattavissa1,$ frames: 1 (examine and note the similarities or differences of; "John compared his haircut to his friend's"; "We compared notes after we had both seen the movie") }
+{ tehdä_analogia,  verrata1,  verrata,@ frames: 1 (make an analogy) }
+{ päätellä_syllogismeilla,  päätellä_syllogistiikalla,  järkeillä2,@ frames: 1 (reason by syllogisms) }
+{ [ verrata2, noun.act:vertaaminen,+ adj.pert:vertaileva,+ noun.attribute:verrattavissa<idiomatic_pos/>,+ noun.attribute:vertailukelpoisuus,+]  samastaa,  [ rinnastaa, noun.act:rinnastaminen,+]  verb.perception:tutkia7,@ frames: 1 (consider or describe as similar, equal, or analogous; "We can compare the Han dynasty to the Romans"; "You cannot equate success in financial matters with greed") }
+{ harkita_uudelleen,  nähdä1,@ ottaa_uudelleen_esille,$ frames: 1 (consider again; give new consideration to; usually with a view to changing; "Won't you reconsider your decision?") }
+{ ottaa_uudelleen_esille,  nähdä1,@ noun.act:lainsäädäntä,;c harkita_uudelleen,$ frames: 1 (consider again (a bill) that had been voted upon before, with a view to altering it) }
+{ muuttaa_mieltään,  tulla_toisiin_aatoksiin,  verb.change:muuttua,@ harkita_uudelleen,* frames: 1 (change one's position or opinion; "He came around to our point of view") }
+{ [ luokitella1, noun.act:luokittelu1,+ noun.person:luokittelija,+ noun.group:luokka2,+ noun.group:luokka1,+ adj.pert:luokitus-,+ noun.cognition:luokittelu,+ noun.group:luokka5,+ noun.group:luokka10,+]  [ luokittaa, noun.group:luokka2,+]  [ lajitella, noun.artifact:lajittelukone,+ noun.cognition:laji,+ noun.process:lajittelu,+ noun.act:lajittelu2,+ noun.person:lajittelija1,+]  jaotella,  erotella,  ryhmittää,  luokitella5,@ verrata,* frames: 1 (arrange or order by classes or categories; "How would you classify these pottery shards--are they prehistoric?") }
+{ erottaa6,  luokitella1,@ noun.cognition:psykologia,;c frames: 1 (separate (experiences) from the emotions relating to them) }
+{ lukea_kuuluvaksi,  luokitella1,@ frames: 1 (think of, regard, or classify under a subsuming principle or with a general group or in relation to another; "This plant can be referred to a known species") }
+{ luokitella_uudestaan,  luokitella1,@ frames: 1 (classify anew, change the previous classification; "The zoologists had to reclassify the mollusks after they found new species") }
+{ lajitella_koon_mukaan,  luokitella_koon_mukaan,  luokitella1,@ frames: 1 (sort according to size) }
+{ jakaa_kahtia1,  luokitella1,@ frames: 1 (divide into two opposing groups or kinds) }
+{ luokitella2,  luokitella1,@ frames: 1 (treat or classify according to a mental stereotype; "I was stereotyped as a lazy Southern European") }
+{ jakaa_ryhmiin,  [ ryhmitellä, noun.act:ryhmittely,+ noun.act:ryhmitys,+ noun.Tops:ryhmä,+]  [ ryhmittää1, noun.act:ryhmittely,+ noun.act:ryhmitys,+ noun.Tops:ryhmä,+]  luokitella3,  luokitella1,@ frames: 1 (arrange into a group or groups; "Can you group these shapes together?") }
+{ järjestää_uudelleen,  ryhmittää_uudelleen,  jakaa_ryhmiin,@ frames: 1 (reorganize into new groups) }
+{ [ luokitella4, noun.group:luokka3,+]  [ ryhmitellä1, noun.group:ryhmä<note>myös_yhdyssanoissa</note>6,+]  jakaa_ryhmiin,@ frames: 1 (classify or group) }
+{ asettaa_järjestykseen,  niputtaa,  koota,  laittaa_rinnakkain,  jakaa_ryhmiin,@ frames: 1 (group or chunk together in a certain order or place side by side) }
+{ [ luokitella5, noun.cognition:luokitus,+ noun.cognition:luokka,+ noun.act:luokitus,+]  lokeroida,  järkeillä,@ verrata,* frames: 1 (place into or assign to a category; "Children learn early on to categorize") }
+{ lajitella1,  luokitella6,  luokitella1,@ frames: 1 (determine the grade of or assign a grade to) }
+{ antaa_arvosanoja,  [ arvostella, noun.act:arvostelu,+]  antaa_arvosana,  [ korjata_kokeet, noun.act:korjaus4,+]  tarkastaa,  korjata,  arvottaa,@ frames: 1 (assign a grade or rank to, according to one's evaluation; "grade tests"; "score the SAT essays"; "mark homework") }
+{ arvioida1,  sijoittaa,  asettaa,  [ järjestää, noun.act:järjestely,+]  [ luokitella7, noun.person:luokittelija<unconfirmed/>1,+ noun.act:luokittelu<unconfirmed/>,+]  arvioida3,@ frames: 1 (assign a rank or rating to; "how would you rank these students?"; "The restaurant is rated highly in the food guide") }
+{ asettaa_yläkäsitteeksi,  arvioida1,@ frames: 1 (place in a superior order or rank; "These two notions are superordinated to a third") }
+{ valita_joukkoon,  valita_listalle,  arvioida1,@ frames: 1 (put someone or something on a short list) }
+{ [ sijoittaa1, noun.person:sijoitettu,+]  arvioida1,@ noun.act:urheilu,;c frames: 1 (distribute (players or teams) so that outstanding teams or players will not meet in the early rounds) }
+{ järjestää_uudelleen1,  uudelleenjärjestää,  arvioida1,@ frames: 1 (assign a new order to) }
+{ muuttaa_marssijärjestystä,  järjestää_uudelleen1,@ frames: 1 (change the order of soldiers during a march) }
+{ voittaa_vaivattomasti,  aliarvoida,@ noun.act:urheilu,;c frames: 1 (cause to appear in a lower class; "The Yankees outclassed Cincinnati") }
+{ [ aliarvoida, noun.state:alistussuhde,+]  [ alistaa, noun.state:alistussuhde,+]  arvioida1,@ frames: 1 (rank or order as less important or consider of less value; "Art is sometimes subordinated to Science in these schools") }
+{ [ sijoittua, noun.communication:sija1,+]  tulla,  lukeutua,@ frames: 1 (take a place in a competition; often followed by an ordinal; "Jerry came in third in the Marathon") }
+{ tulla1,  lukeutua,@ frames: 1 (have a certain priority; "My family comes first") }
+{ lukeutua,  sijoittua1,  verb.stative:olla1,@ frames: 1 (take or have a position relative to others; "This painting ranks among the best in the Western World") }
+{ asettaa_etusijalle,  pitää_tärkeämpänä,  asettaa_tärkeysjärjestykseen,  laittaa_tärkeysjärjestykseen,  priorisoida,  arvioida1,@ frames: 1 (assign a priority to; "we have too many things to do and must prioritize") }
+{ [ järjestää1, noun.act:järjestys,+]  arvioida1,@ frames: 1 (arrange in a sequence) }
+{ [ alentaa, korottaa_korkeampaan_luokkaan,!]  [ huonontaa, korottaa_korkeampaan_luokkaan,!]  arvioida1,@ frames: 1 (rate lower; lower in value or esteem) }
+{ [ korottaa_korkeampaan_luokkaan, alentaa,! huonontaa,!]  arvioida1,@ frames: 1 (rate higher; raise in value or esteem) }
+{ arvioida2,  arvottaa,@ frames: 1 (estimate the value of; "How would you rate his chances to become President?"; "Gold was rated highly among the Romans") }
+{ asettaa_vastakkain,  verrata3,  erottaa2,@ frames: 1 (put in opposition to show or emphasize differences; "The middle school teacher contrasted her best student's work with that of her weakest student") }
+{ erottaa7,  erottaa2,@ frames: 1 (distinguish or separate) }
+{ erottaa_vastakohtana,  erottaa2,@ frames: 1 (distinguish by contrasting qualities) }
+{ [ vertailla1, noun.act:vertailu1,+]  verrata,@ frames: 1 (compare critically; of texts) }
+{ [ tarkastaa1, noun.cognition:tarkastus1,+ noun.act:tarkistus,+ noun.person:tarkastaja2,+]  ottaa_selvää,  tutkia7,  tarkistaa,  syynätä,  kontrolloida,  käydä_läpi,  katsastaa,  tsekata,  analysoida2,@ ruksata,$ frames: 1 (examine so as to determine accuracy, quality, or condition; "check the brakes"; "Check out the engine") }
+{ [ ruksata, noun.communication:ruksi,+]  rastittaa,  merkitä,  merkittää,  rastia,  merkitä_rastilla,  tarkistaa4,@ varmistaa,$ tarkastaa1,$ frames: 1 (put a check mark on or near or next to; "Please check each name on the list"; "tick off the items"; "mark off the units") }
+{ [ kuitata, noun.communication:kuitti,+]  ruksata,@ frames: 1 (mark or stamp as paid) }
+{ varmistaa,  [ tarkistaa1, noun.act:tarkistus,+]  pitää_huoli,  turvata,  valvoa,  vahvistaa,  taata,  tarkistaa4,@ ruksata,$ verb.social:kontrolloida,$ verb.communication:määrittää2,$ tarkistaa3,$ frames: 1 (be careful or certain to do something; make certain of something; "He verified that the valves were closed"; "See that the curtains are closed"; "control the quality of the product") }
+{ [ tarkistaa2, noun.cognition:tarkkailu-,+]  varmistaa,@ noun.communication:arkaismi,;c frames: 1 (verify by using a duplicate register for comparison; "control an account") }
+{ [ tarkistaa3, noun.act:tarkistus,+]  tsekata1,  tarkistaa4,@ varmistaa,$ frames: 1 (verify by consulting a source or authority; "check the spelling of this word"; "check your facts") }
+{ tarkistaa_huolellisesti,  [ varmistaa1, noun.cognition:varmistus,+]  varmistaa,@ frames: 1 (check once more to be absolutely sure) }
+{ vertailla2,  varmistaa,@ frames: 1 (check out conflicting sources; crosscheck facts, for example) }
+{ varmistaa2,  varmistaa,@ frames: 1 (make sure of) }
+{ kysyä<note>papereita</note>,  tarkistaa_henkilöllisyys,  varmistaa,@ frames: 1 (ask someone for identification to determine whether he or she is old enough to consume liquor; "I was carded when I tried to buy a beer!") }
+{ tarkastaa_pistokokein,  varmistaa,@ frames: 1 (pick out random samples for examination in order to ensure high quality) }
+{ todistaa_aidoksi,  todistaa_oikeaksi,  vahvistaa1,  todentaa,  verb.communication:osoittaa_todeksi,@ tarkistaa4,* frames: 1 (establish the authenticity of something) }
+{ tarkistaa4,  varmistaa3,  lujittaa,@ frames: 1 (confirm the truth of; "Please verify that the doors are closed"; "verify a claim") }
+{ [ osoittaa, kumota2,!]  todistaa,  vakiinnuttaa,  näyttää,  havainnollistaa1,  vahvistaa2,  lujittaa,@ frames: 1 (establish the validity of something, as by an example, explanation or experiment; "The experiment demonstrated the instability of the compound"; "The mathematician showed the validity of the conjecture") }
+{ osoittaa_olevansa,  osoittaa,@ frames: 1 (show one's ability or courage) }
+{ kumota,  kumota2,@ frames: 1 (show (a theory or claim) to be baseless, or refute and make obsolete) }
+{ määrätä,  säätää,  asettaa1,  verb.creation:saada_aikaan,@ frames: 1 (institute, enact, or establish; "make laws") }
+{ osoittaa1,  todistaa1,  osoittaa,@ noun.cognition:matematiikka,;c frames: 1 (prove formally; demonstrate by a mathematical, formal proof) }
+{ valvoa1,  todistaa_aidoksi,@ noun.group:laki,;c frames: 1 (obtain probate of; "prove a will") }
+{ lujittaa,  varmentaa,  näyttää_toteen,  [ todentaa1, noun.act:todistus,+ noun.cognition:todistus,+]  tukea,  [ vahvistaa3, kumota1,! adj.all:mahdollinen3^vahvistettavissa_oleva,+ noun.act:vahvistaminen4,+]   frames: 1 (establish or strengthen as with new evidence or facts; "his story confirmed my doubts"; "The evidence supports the defendant") }
+{ [ dokumentoida, noun.act:dokumentaatio,+]  vahvistaa4,  lujittaa,@ frames: 1 (support or supply with references; "Can you document your claims?") }
+{ dokumentoida1,  dokumentoida,@ frames: 1 (specify the origin of; "The writer carefully sourced her report") }
+{ [ kumota1, vahvistaa3,!]  kieltää,  osoittaa,@ noun.cognition:loogisuus,;c frames: 1 (prove negative; show to be false) }
+{ [ mitätöidä, vahvistaa5,!]  kumota1,@ frames: 1 (show to be invalid) }
+{ [ vahvistaa5, mitätöidä,! adj.all:kannustava2^vahvistava5,+ noun.cognition:vahvistaminen,+ noun.act:vahvistus,+]  lujittaa,@ frames: 1 (prove valid; show or confirm the validity of something) }
+{ [ kumota2, osoittaa,!]  osoittaa_vääräksi,  kumota1,@ frames: 1 (prove to be false; "The physicist disproved his colleagues' theories") }
+{ [ kumota3, noun.cognition:kumoaminen,+ noun.act:kumoaminen,+]  [ kiistää, noun.person:kiistäjä,+]  vastustaa,  osoittaa2,  kumota2,@ frames: 1 (prove to be false or incorrect) }
+{ [ kumota4, noun.cognition:kumoaminen,+]  osoittaa_vääräksi1,  kumota2,@ frames: 1 (prove false; "Falsify a claim") }
+{ sulattaa,  [ kestää, noun.attribute:kestävyys2,+ noun.act:kestäminen,+]  kärsiä,  [ sietää, adj.all:siedettävä2^siedettävä3,+]  sallia,  suvaita,  verb.communication:antaa_lupa,@ verb.emotion:kärsiä,$ frames: 1 (put up with something or somebody unpleasant; "I cannot bear his constant criticism"; "The new secretary had to endure a lot of unprofessional remarks"; "he learned to tolerate the heat"; "She stuck out two years in a miserable marriage") }
+{ hyväksyä,  tyytyä,  niellä1,  sietää1,  sulattaa,@ frames: 1 (tolerate or accommodate oneself to; "I shall have to accept these unpleasant working conditions"; "I swallowed the insult"; "She has learned to live with her husband's little idiosyncrasies") }
+{ kestää1,  sietää2,  sulattaa,@ frames: 1 (tolerate or bear; "I won't stand for this kind of behavior!") }
+{ kestää2,  pärjätä,  selviytyä,  sulattaa,@ frames: 1 (endure cheerfully; "She bore up under the enormous strain") }
+{ niellä_vastaansanomatta,  sulattaa,@ frames: 1 (suffer without protest; suffer or endure passively; "I won't take this insult lying down") }
+{ ottaa_turpiin,  verb.social:epäonnistua1,@ frames: 1 (undergo failure or defeat) }
+{ kestää_pilaa,  sulattaa,@ frames: 1 (listen to a joke at one's own expense; "Can't you take a joke?") }
+{ hyväksyä1,  [ alistua, noun.act:alistuminen,+]  sietää3,  verb.perception:kokea1,@ verb.perception:ottaa<note>anglisismi</note>,$ frames: 1 (accept or undergo, often unwillingly; "We took a pay cut") }
+{ olla_testattavana,  hyväksyä1,@ verb.competition:saada_testissä,$ verb.communication:koetella,$ frames: 1 (undergo a test; "She doesn't test well") }
+{ istua_loppuun,  sulattaa,@ frames: 1 (endure to the end) }
+{ [ arvioida3, adj.all:kriittinen2^arvioiva,+]  [ tuomita, noun.person:tuomari1,+ noun.act:tuomio2,+]  [ arvostella1, adj.all:kriittinen2^arvioiva,+]  suunnitella,@ frames: 1 (form a critical opinion of; "I cannot judge some works of modern art"; "How do you evaluate this grant proposal?" "We shouldn't pass judgment on other people") }
+{ ottaa_kantaa,  arvioida3,@ frames: 1 (have or maintain a position or stand on an issue; "Where do you stand on the War?") }
+{ arvioida_väärin1,  erehtyä_jnk_suhteen,  erehtyä,@ frames: 1 (judge incorrectly) }
+{ [ arvioida<broader/>4, yliarvioida,!]  [ aliarvioida, noun.cognition:aliarvioiminen,+]  arvioida_väärin1,@ frames: 1 (make too low an estimate of; "he underestimated the work that went into the renovation"; "Don't underestimate the danger of such a raft trip on this river") }
+{ aliarvioida1,  arvioida<broader/>4,@ frames: 1 (underestimate the real value or ability of; "Don't sell your students short--they are just shy and don't show off their knowledge") }
+{ yliarvostaa,  yliarvioida,@ frames: 1 (overestimate the market value of; "overcapitalize a property") }
+{ [ yliarvioida, arvioida<broader/>4,! noun.cognition:yliarviointi,+ noun.communication:yliarviointi,+]  arvioida_väärin1,@ frames: 1 (make too high an estimate of; "He overestimated his own powers") }
+{ [ tuomita1, noun.person:tuomari1,+ noun.act:tuomio2,+]  päättää3,@ frames: 1 (determine the result of (a competition)) }
+{ [ arvioida5, aliarvioida2,^ yliarvioida,^ noun.communication:arviolaskelma1,+ noun.cognition:arvio3,+ noun.act:arvio1,+ noun.communication:arviolaskelma,+ noun.communication:arviointi1,+]  [ arvata2, noun.person:arvaaja,+ noun.communication:arvaus,+]  [ approksimoida, aliarvioida2,^ yliarvioida,^ noun.cognition:approksimointi,+]  [ estimoida, aliarvioida2,^ yliarvioida,^]  laskea,@ frames: 1 (judge tentatively or form an estimate of (quantities or time); "I estimate this chicken to weigh three pounds") }
+{ [ kvantittaa1, noun.act:kvantisointi,+]  arvioida5,@ noun.cognition:teleala,;c frames: 1 (approximate (a signal varying continuously in amplitude) by one whose amplitude is restricted to a prescribed set of discrete values) }
+{ mitata_väärin,  arvioida5,@ frames: 1 (gauge something incorrectly or improperly) }
+{ laittaa,  asettaa2,  määrittää,  arvioida5,@ frames: 1 (estimate; "We put the time of arrival at 8 P.M.") }
+{ antaa_arvio,  arvioida6,  arvioida5,@ frames: 1 (estimate the duration or outcome of something; "He gave the patient three months to live"; "I gave him a very good chance at success") }
+{ [ aliarvioida2, noun.cognition:aliarvio<unconfirmed/>,+ noun.cognition:aliarviointi2,+ noun.cognition:aliarvioiminen,+]  arvioida5,@ frames: 1 (make a deliberately low estimate; "The construction company wanted the contract badly and lowballed") }
+{ [ antaa_hyväksymys, paheksua1,! tuomita2,!]  [ hyväksyä2, paheksua1,! tuomita2,! adj.all:suotuisa8^hyväksyvä3,+ noun.feeling:hyväksyminen,+ noun.feeling:hyväksyntä,+ noun.feeling:hyväksyminen1,+ noun.feeling:hyväksyntä1,+ noun.communication:hyväksyminen,+ noun.communication:hyväksyntä,+]  arvioida3,@ frames: 1 (judge to be right or commendable; think well of) }
+{ paheksua,  paheksua1,@ frames: 1 (look disapprovingly upon) }
+{ [ paheksua1, antaa_hyväksymys,! hyväksyä2,! noun.feeling:paheksunta,+]  [ tuomita2, antaa_hyväksymys,! hyväksyä2,!]  arvioida3,@ frames: 1 (consider bad or wrong) }
+{ hyväksyä_muodollisesti,  antaa_hyväksymys,@ frames: 1 (approve automatically) }
+{ valita1,  ottaa2,  [ valikoida, noun.act:valinta,+ noun.person:valitsija,+ adj.all:hieno13^valikoiva5,+ adj.all:tarkka8^valikoiva1,+ noun.act:valitseminen,+]  poimia,  päättää2,@ frames: 1 (pick out, select, or choose from a number of alternatives; "Take any one of these cards"; "Choose a good husband for your daughter"; "She selected a pair of shoes from among the dozen the salesgirl had shown her") }
+{ voidella,  valita1,@ frames: 1 (choose by or as if by divine intervention; "She was anointed the head of the Christian fundamentalist group") }
+{ panna_kentälle,  valita1,@ frames: 1 (select (a team or individual player) for a game; "The Buckeyes fielded a young new quarterback for the Rose Bowl") }
+{ seuloa,  valita1,@ frames: 1 (distinguish and separate out; "sift through the job candidates") }
+{ kerätä,  valita2,  valita1,@ frames: 1 (select or take in from a given group or region; "The participants in the experiment were drawn from a representative population") }
+{ valita3,  valita1,@ frames: 1 (choose by means of a dial; "dial a telephone number") }
+{ päätyä_jhk,  valita1,@ frames: 1 (give support (to) or make a choice (of) one out of a group or number; "I plumped for the losing candidates") }
+{ [ valita4, noun.cognition:valinta,+ noun.act:valinta,+ noun.person:valitsija,+ noun.act:valitseminen,+]  valita1,@ frames: 1 (select carefully from a group; "She finally picked her successor"; "He picked his way carefully") }
+{ valita_huolellisesti,  valkata<unconfirmed/>,  valita4,@ frames: 1 (pick personally and very carefully; "the director hand-picked his new team") }
+{ [ valita5, adj.all:valinnainen^valinnainen1,+]  päättää,  valita1,@ frames: 1 (choose; "I elected to have my funds deposited automatically") }
+{ lainata,  valita1,@ frames: 1 (take out of a literary work in order to cite or copy) }
+{ valikoida1,  seuloa1,  valita1,@ frames: 1 (select desirable parts from a group or list; "cull out the interesting letters from the poet's correspondence"; "winnow the finalists from the long list of applicants") }
+{ kuoria_kerma_päältä,  ottaa_parhaat_päältä,  valita1,@ frames: 1 (pick the best) }
+{ seuloa2,  valikoida2,  valita1,@ frames: 1 (separate or remove; "The customer picked over the selection") }
+{ antaa_tehtäväksi,  määrätä1,  määrätä_tehtävään,  nimittää,  nimetä2,  varata,  valita1,@ frames: 1 (select something or someone for a specific purpose; "The teacher assigned him to lead his classmates in the exercise") }
+{ pyhittää,  antaa_tehtäväksi,@ frames: 1 (set apart to sacred uses with solemn rites, of a church) }
+{ [ komentaa_erityistehtävään, noun.group:komennuskunta1,+]  antaa_tehtäväksi,@ frames: 1 (assign to a specific task; "The ambulances were detailed to the fire station") }
+{ suunnitella1,  suunnitella2,@ frames: 1 (plan for an activity or event; "I've scheduled a concert next week") }
+{ [ ajoittaa1, noun.attribute:ajoitus,+]  suunnitella1,@ frames: 1 (assign a time for an activity or event; "The candidate carefully timed his appearance at the disaster scene") }
+{ järjestää2,  suunnitella1,@ frames: 1 (engage for a performance; "Her agent had booked her for several concerts in Tokyo") }
+{ merkitä<broader/>1,  suunnitella1,@ frames: 1 (enter into a calendar) }
+{ asettaa_paikalleen,  suunnitella1,@ frames: 1 (assign a time slot; "slot a television program") }
+{ valita6,  valita1,@ frames: 1 (select from a group; "She was singled out for her outstanding performance") }
+{ [ valita7, noun.act:valinta,+ noun.act:valitseminen,+]  pitää_parempana,  verrata,* frames: 1 (select as an alternative over another; "I always choose the fish over the meat courses in this restaurant"; "She opted for the job on the East coast") }
+{ jättäytyä_pois,  luistaa,  valita7,@ frames: 1 (choose not to do something, as out of fear of failing; "She copped out when she was supposed to get into the hang glider") }
+{ päättää1,  arvioida3,@ frames: 1 (see fit or proper to act in a certain way; decide to act in a certain way; "She chose not to attend classes and now she failed the exam") }
+{ tehdä_ennakkoluuloiseksi,  vaikuttaa1,  verb.social:vaikuttaa1,@ frames: 1 (influence (somebody's) opinion in advance) }
+{ aiheuttaa_ennakkomieltymys,  aiheuttaa_puolueellisuutta,  aiheuttaa_suosimista,  määrätä_ennalta,  tehdä_ennakkoluuloiseksi,@ frames: 1 (cause to be biased) }
+{ esittää_tietyssä_valossa,  värittää,  suunnata,  [ painottaa1, noun.quantity:painoarvo,+ noun.quantity:painokerroin,+]  aiheuttaa_ennakkomieltymys,@ frames: 1 (present with a bias; "He biased his presentation so as to please the share holders") }
+{ [ altistaa, noun.cognition:alttius1,+]  saattaa,  tehdä_taipuvaiseksi,@ frames: 1 (make susceptible; "This illness predisposes you to gain weight") }
+{ [ tehdä_taipuvaiseksi, olla_haluton<approximate/>,!]  taivuttaa,  vaikuttaa_ratkaisevasti,@ frames: 1 (make receptive or willing towards an action or attitude or belief; "Their language inclines us to believe them") }
+{ [ olla_haluton<approximate/>, tehdä_taipuvaiseksi,!]  olla_vastahakoinen,  vaikuttaa_ratkaisevasti,@ frames: 1 (make unwilling) }
+{ tuomita_ennakolta,  arvioida3,@ frames: 1 (judge beforehand, especially without sufficient evidence) }
+{ arvottaa,  [ arvioida7, noun.act:arviointi,+ noun.cognition:arvio,+ noun.attribute:arvo1,+ adj.all:kriittinen2^arvioiva,+ noun.person:arviomies3,+ noun.person:arvioija,+ noun.person:arviomies1,+ noun.cognition:arviointi1,+ noun.cognition:arvostus,+ noun.person:arvioija5,+ noun.person:arvioija1,+ noun.person:arviomies2,+ noun.cognition:arviointi,+ noun.person:arvioitsija,+ noun.act:arvon_määrittäminen,+]  [ evaluoida, noun.act:evaluointi,+]  [ arvostella2, noun.act:arviointi,+ noun.cognition:arvio,+ noun.attribute:arvo1,+ adj.all:kriittinen2^arvioiva,+ noun.person:arviomies3,+ noun.person:arvioija,+ noun.person:arviomies1,+ noun.cognition:arviointi1,+ noun.cognition:arvostus,+ noun.person:arvioija5,+ noun.person:arvioija1,+ noun.person:arviomies2,+ noun.cognition:arviointi,+ noun.person:arvioitsija,+ noun.act:arvon_määrittäminen,+]  arvioida3,@ arvioida8,$ frames: 1 (evaluate or estimate the nature, quality, ability, extent, or significance of; "I will have the family jewels appraised by a professional"; "access all the factors when taking a risk") }
+{ [ arvioida8, noun.attribute:arvonmääritys,+]  [ arvostaa1, noun.attribute:arvonmääritys,+]  määrittää_arvo,  arvioida5,@ arvottaa,$ frames: 1 (estimate the value of (property) for taxation; "Our house hasn't been assessed in years") }
+{ [ standardisoida, noun.act:standardisointi,+]  arvottaa,@ frames: 1 (evaluate by comparing with a standard) }
+{ arvioida_uudelleen,  arvioida3,@ frames: 1 (appraise anew; "Homes in our town are reappraised every five years and taxes are increased accordingly") }
+{ arvioida_uudestaan,  arvioida_uudelleen1,  arvottaa,@ frames: 1 (revise or renew one's assessment) }
+{ [ sensuroida, noun.person:sensori,+]  arvottaa,@ frames: 1 (subject to political, religious, or moral censorship; "This magazine is censored by the government") }
+{ miettiä_jtak,  ajatella3,@ frames: 1 (consider or ponder something carefully; "She bethought her of their predicament") }
+{ [ pitää_jtak_totena, olla_uskomatta,!]  [ uskoa_jhk, olla_uskomatta,! noun.cognition:usko1,+ noun.cognition:uskomus1,+ adj.all:uskottava1,+ noun.person:uskova,+]  hyväksyä3,@ frames: 1 (accept as true; take to be true; "I believed his report"; "We didn't believe his stories from the War"; "She believes in spirits") }
+{ niellä2,  uskoa2,  pitää_jtak_totena,@ frames: 1 (accept as true; "I can't buy this story") }
+{ olla_jotain_mieltä,  verb.communication:todistaa4,@ olla_jostakin_jotakin_mieltä,$ frames: 1 (assert or affirm; "Rousseau's philosophy holds that people are inherently good") }
+{ uskoa3,  luottaa,@ frames: 1 (have trust in; trust in the truth or veracity of) }
+{ pitää_jtak_totena1,  [ uskoa_jhk1, adj.all:uskottava1,+]  uskoa3,@ frames: 1 (credit with veracity; "You cannot believe this man"; "Should we believe a publication like the National Enquirer?") }
+{ olla_uskossa,  [ uskoa<note>Jumalaan</note>4, noun.person:uskovainen,+]  pitää_jtak_totena,@ noun.cognition:usko3,;c frames: 1 (follow a credo; have a faith; be a believer; "When you hear his sermons, you will be able to believe, too") }
+{ uskoa_väärään_aatteeseen<unconfirmed/>,  olla_uskossa,@ noun.cognition:usko3,;c frames: 1 (hold a false or unorthodox belief) }
+{ [ olla_uskomatta, pitää_jtak_totena,! uskoa_jhk,!]  epäillä,  torjua1,@ frames: 1 (reject as false; refuse to accept) }
+{ [ sisällyttää, jättää_pois1,! noun.act:sisällyttäminen,+]  nähdä1,@ frames: 1 (consider as part of something; "I include you in the list of culprits") }
+{ ottaa_lukuun,  sisällyttää,@ frames: 1 (include as if by counting; "I can count my colleagues in the opposition") }
+{ sisällyttää1,  sisällyttää,@ frames: 1 (consider (an instance of something) as part of a general rule or principle) }
+{ hylätä4,  poistaa,  karsia,   frames: 1 (dismiss from consideration or a contest; "John was ruled out as a possible suspect because he had a strong alibi"; "This possibility can be eliminated from our consideration") }
+{ [ torjua1, hyväksyä3,! kelpuuttaa,! adj.all:torjuva,+]  arvioida3,@ frames: 1 (refuse to accept or acknowledge; "I reject the idea of starting a war"; "The journal rejected the student's paper") }
+{ [ torjua2, adj.all:kielteinen1^torjuva1,+]  torjua1,@ frames: 1 (refuse to acknowledge, ratify, or recognize as valid; "The woman repudiated the divorce settlement") }
+{ [ jäävätä, noun.act:jäävääminen,+]  torjua1,@ noun.group:laki,;c frames: 1 (challenge or except to a judge as being incompetent or interested, in canon and civil law) }
+{ [ hyväksyä3, torjua1,! noun.cognition:hyväksyminen,+ noun.state:hyväksyminen1,+ noun.state:hyväksyntä3,+]  [ kelpuuttaa, torjua1,!]  arvioida3,@ hyväksyä6,$ frames: 1 (consider or hold as true; "I cannot accept the dogma of this church"; "accept an argument") }
+{ hyväksyä4,  hyväksyä3,@ frames: 1 (accept as true or valid; "He received Christ") }
+{ [ hyväksyä5, hylätä5,! noun.feeling:hyväksyminen1,+ noun.feeling:hyväksyntä1,+ noun.communication:hyväksyminen,+ noun.communication:hyväksyntä,+]  hyväksyä3,@ frames: 1 (accept (documents) as valid) }
+{ [ hylätä5, hyväksyä5,!]  torjua1,@ frames: 1 (reject (documents) as invalid) }
+{ [ epäillä1, noun.cognition:epävarmuus,+ noun.person:epäilijä2,+ noun.person:epäilijä,+]  olla_uskomatta,@ frames: 1 (consider unlikely or have doubts about; "I doubt that she will accept his proposal of marriage") }
+{ [ epäillä2, noun.attribute:epäilys,+]  olla_luottamatta_jhk,@ frames: 1 (lack confidence in or have doubts about; "I doubt these reports"; "I suspect her true motives"; "she distrusts her stepmother") }
+{ saattaa_huonoon_valoon,  verb.communication:torjua3,@ frames: 1 (cause to be distrusted or disbelieved; "The paper discredited the politician with its nasty commentary") }
+{ [ olla_luottamatta_jhk, luottaa,!]  [ epäillä3, luottaa,! noun.cognition:epäluottamus,+ noun.attribute:epäilys1,+ noun.cognition:epäily1,+ noun.person:epäilty1,+]  olla_uskomatta,@ frames: 1 (regard as untrustworthy; regard with suspicion; have no faith or confidence in) }
+{ tukeutua,  luottaa,@ frames: 1 (rely on for support; "We can lean on this man") }
+{ [ luottaa, olla_luottamatta_jhk,! epäillä3,! noun.cognition:luottamus1,+ noun.cognition:luottamus,+ noun.state:luottamus1,+]  pitää_jtak_totena,@ frames: 1 (have confidence or faith in; "We can trust in God"; "Rely on your friends"; "bank on your good education"; "I swear by my grandmother's recipes") }
+{ muuttaa_mieltään1,  pitää1,@ frames: 1 (change one's mind; "He rethought his decision to take a vacation") }
+{ kääntää_kelkkansa,  perua<note>puheitaan_ym.</note>,  perääntyä_jstak,  muuttaa_mieltään1,@ frames: 1 (modify one's opinion, make it less strong) }
+{ tehdä_täyskäännös,  muuttaa_mieltään1,@ frames: 1 (change one's mind and assume the opposite viewpoint) }
+{ otaksua3,  olettaa3,  päätellä4,@ frames: 1 (infer from incomplete evidence) }
+{ pitää1,  olla_mielipiteenä,  arvioida3,@ frames: 1 (judge or regard; look upon; judge; "I think he is very smart"; "I believe her to be very smart"; "I think that he is her boyfriend"; "The racist conceives such people to be inferior") }
+{ [ ajatella4, noun.cognition:ajattelu2,+]  olla_mielipiteenä1,  pitää1,@ frames: 1 (dispose the mind in a certain way; "Do you really think so?") }
+{ ajatella5,  pitää2,  suhtautua,  katsoa,  pitää1,@ frames: 1 (look on as or consider; "she looked on this affair as a joke"; "He thinks of himself as a brilliant musician"; "He is reputed to be intelligent") }
+{ [ tuntea_itsensä_jksk, noun.feeling:tunteet1,+]  pitää1,@ frames: 1 (have a feeling or perception about oneself in reaction to someone's behavior or attitude; "She felt small and insignificant"; "You make me feel naked"; "I made the students feel different about themselves") }
+{ nähdä1,  pitää3,  arvella2,  tarkastella2,  arvioida9,  pitää1,@ tulkita,$ frames: 1 (deem to be; "She views this quite differently from me"; "I consider her to be shallow"; "I don't see the situation quite as negatively as you do") }
+{ antaa_arvoa,  nähdä1,@ frames: 1 (regard or treat with consideration, respect, and esteem; "Please consider your family") }
+{ sanoa,  nähdä1,@ verb.communication:kutsua5,$ frames: 1 (consider or regard as being; "I would not call her beautiful") }
+{ pitää4,  nähdä1,@ frames: 1 (feel about or towards; consider, evaluate, or regard; "How did you like the President's speech last night?") }
+{ suhteellistaa,  nähdä1,@ frames: 1 (consider or treat as relative) }
+{ [ samastua, noun.attribute:samastuminen,+]  [ samaistua, noun.attribute:samastuminen,+]  nähdä1,@ frames: 1 (consider (oneself) as similar to somebody else; "He identified with the refugees") }
+{ [ suosia, noun.feeling:suosio,+]  nähdä1,@ frames: 1 (consider as the favorite; "The local team was favored") }
+{ [ abstrahoida, noun.cognition:abstraktio,+ noun.Tops:abstrahointi,+ noun.cognition:abstrahointi,+ adj.all:teoreettinen1^abstraktiivinen,+]  nähdä1,@ frames: 1 (consider a concept without thinking of a specific example; consider abstractly or theoretically) }
+{ [ konkretisoida, noun.act:konkretisointi,+]  nähdä1,@ frames: 1 (consider an abstract concept to be real) }
+{ [ konkretisoida1, noun.act:konkretisointi,+]  [ hypostatisoida<unconfirmed/>, noun.act:hypostatisointi,+]  konkretisoida,@ frames: 1 (construe as a real existence, of a conceptual entity) }
+{ [ idealisoida1, noun.act:idealisaatio,+]  [ ihannoida1, noun.cognition:ihanne,+]  nähdä1,@ frames: 1 (consider or render as ideal; "She idealized her husband after his death") }
+{ [ romantisoida, noun.act:romantisointi1,+]  kaunistella,  antaa_hohtoa,  idealisoida1,@ frames: 1 (interpret romantically; "Don't romanticize this uninteresting and hard work!") }
+{ [ jumaloida, noun.person:jumalolento,+ noun.state:jumalointi,+ noun.act:jumalaksi_korottaminen,+ noun.person:jumalointi,+]  palvoa,  idealisoida1,@ frames: 1 (consider as a god or godlike; "These young men deify financial success") }
+{ korottaa1,  ylistää,  jumaloida,@ frames: 1 (deify or glorify) }
+{ olla_jostakin_jotakin_mieltä,  pitää_jonakin,  nähdä2,  olettaa4,  nähdä1,@ olla_jotain_mieltä,$ frames: 1 (keep in mind or convey as a conviction or view; "take for granted"; "view as important"; "hold these truths to be self-evident"; "I hold him personally responsible") }
+{ [ kunnioittaa1, halveksia,! noun.state:kunnioitus,+ noun.act:kunnioitus3,+ noun.cognition:kunnioitus,+]  [ arvostaa2, olla_kunnioittamatta,! noun.feeling:arvostus,+ noun.cognition:arvostus2,+ noun.state:arvostus,+ noun.cognition:arvo2,+]  [ pitää_arvossa, olla_kunnioittamatta,!]  nähdä1,@ frames: 1 (regard highly; think much of; "I respect his judgement"; "We prize his creativity") }
+{ arvostaa3,  kunnioittaa1,@ frames: 1 (esteem very highly; "She thinks the world of her adviser") }
+{ [ halveksia, kunnioittaa1,!]  [ olla_kunnioittamatta, arvostaa2,! pitää_arvossa,!]  nähdä1,@ frames: 1 (have little or no respect for; hold in contempt) }
+{ [ aliarvioida3, noun.cognition:aliarviointi,+]  [ aliarvostaa, noun.cognition:aliarviointi,+]  halveksia,@ frames: 1 (esteem lightly) }
+{ [ analysoida3, noun.act:analyysi1,+ noun.person:analyysin_tekijä,+]  [ määrittää1, noun.act:määritys,+]  analysoida2,@ frames: 1 (analyze (chemical substances)) }
+{ suorittaa_myrkyllisyyskoe,  tehdä_biologinen_analyysi,  tehdä_biotesti,  tehdä_eliökoe,  tehdä_eläinkoe,  analysoida3,@ frames: 1 (subject to a bio-assay) }
+{ [ arvottaa1, noun.person:arvioitsija,+]  määrätä2,@ frames: 1 (fix or determine the value of; assign a value to; "value the jewelry and art work in the estate") }
+{ [ yliarvostaa1, aliarvioida4,! noun.cognition:yliarvostus,+ noun.communication:yliarvostus,+]  [ yliarvioida1, aliarvioida4,! noun.cognition:yliarvio,+ noun.communication:yliarviointi,+]  arvottaa1,@ frames: 1 (assign too high a value to; "You are overestimating the value of your old car") }
+{ [ aliarvioida4, yliarvostaa1,! noun.cognition:aliarviointi,+ yliarvioida1,! noun.cognition:aliarvio<unconfirmed/>,+ noun.cognition:aliarviointi2,+ noun.cognition:aliarvioiminen,+]  arvottaa1,@ frames: 1 (assign too low a value to; "Don't underestimate the value of this heirloom-you may sell it at a good price") }
+{ päästää_kellumaan,  arvottaa1,@ frames: 1 (allow (currencies) to fluctuate; "The government floated the ruble for a few months") }
+{ [ arvioida10, noun.person:arvostelija1,+]  tarkistaa5,  analysoida2,@ frames: 1 (look at again; examine again; "let's review your situation") }
+{ muistella3,  muistella<approximate/>4,  muistaa4,@ frames: 1 (look back upon (a period of time, sequence of events); remember; "she reviewed her achievements with pride") }
+{ tarkastaa2,  tarkastaa<unconfirmed/>3,  käydä_läpi<unconfirmed/>1,  verb.perception:tarkastella3,@ frames: 1 (hold a review (of troops)) }
+{ parantaa,  verestää,  petrata,  kerrata,  muistaa,@ frames: 1 (refresh one's memory; "I reviewed the material before the test") }
+{ [ tarkastaa4, noun.person:tarkastaja3,+]  käydä_läpi2,  [ tutkia_tarkoin, noun.person:tutkija5,+]  tutkia8,  analysoida2,@ frames: 1 (examine carefully for accuracy with the intent of verification; "audit accounts and tax returns") }
+{ tutkia9,  analysoida2,@ verb.change:hävittää6,* frames: 1 (examine methodically; "screen the suitcases") }
+{ [ päättää2, noun.cognition:päättäminen,+ adj.all:päättäväinen1,+ noun.act:päättäminen1,+]  tehdä_päätös,  [ ratkaista4, noun.cognition:ratkaisu4,+ noun.act:ratkaiseminen1,+]  verb.communication:väitellä3,* frames: 1 (reach, make, or come to a decision about something; "We finally decided after lengthy deliberations") }
+{ arvioida11,  arvioida5,@ tehdä_päätelmä,$ pitää_jnak,$ frames: 1 (calculate as being; "I make the height about 100 feet") }
+{ pitää_jnak,  nähdä1,@ arvioida11,$ frames: 1 (consider as being; "It wasn't the problem some people made it") }
+{ haluta,  päättää2,@ frames: 1 (determine by choice; "This action was willed and intended") }
+{ aikoa,  aikoa3,@ frames: 1 (intend or have as a purpose; "She designed to go far in the world of business") }
+{ [ sinetöidä, noun.communication:sinetti,+]  päättää2,@ frames: 1 (decide irrevocably; "sealing dooms") }
+{ [ päättää3, noun.cognition:päättäminen,+ adj.all:päättäväinen1,+]  selvittää6,  sopia,  ratkaista5,  [ tuomita3, adj.pert:tuomioon_liittyvä,+ noun.person:tuomari2,+]  verb.change:lopettaa3,@ frames: 1 (bring to an end; settle conclusively; "The case was decided"; "The judge decided the case in favor of the plaintiff"; "The father adjudicated when the sons were quarreling over their inheritance") }
+{ selvittää7,  päättää3,@ frames: 1 (decide how much is to be paid on an insurance claim) }
+{ saada_päättämään,  verb.communication:houkutella2,@ päättää2,> frames: 1 (cause to decide; "This new development finally decided me!") }
+{ aikoa1,  [ päättää4, noun.act:päätös1,+ noun.communication:päätös1,+]  päättää2,@ frames: 1 (reach a decision; "he resolved never to drink again") }
+{ määrätä2,  asettaa3,   frames: 1 (fix conclusively or authoritatively; "set the rules") }
+{ määrittää_isyys,  määrätä2,@ noun.group:laki,;c frames: 1 (fix the paternity of; "The court filiated the child born out of wedlock") }
+{ [ muotoilla, noun.communication:muoto1,+]  määrätä2,@ frames: 1 (determine the arrangement of (data) for storage and display (in computer science)) }
+{ veloittaa,  määrätä2,@ frames: 1 (set or ask for a certain price; "How much do you charge for lunch?"; "This fellow charges $100 for a massage") }
+{ rajoittaa,  verb.stative:eritellä,@ frames: 1 (fix in scope; fix the boundaries of; "the tree determines the border of the property") }
+{ [ alustaa, noun.communication:alustaminen,+]  asettaa_alkuarvo,  määrätä2,@ frames: 1 (assign an initial value to a computer program) }
+{ vaikuttaa_ratkaisevasti,  [ muotoilla1, noun.process:muotoilu,+ noun.cognition:muoto2,+]  muovata,  [ vaikuttaa2, noun.person:vaikutus,+ noun.phenomenon:vaikutus2,+ noun.act:vaikutus,+ noun.person:vaikuttaja,+]  [ säännellä, noun.act:sääntely,+]  verb.creation:aiheuttaa7,@ frames: 1 (shape or influence; give direction to; "experience often determines ability"; "mold public opinion") }
+{ luoda_väärin<unconfirmed/>,  vaikuttaa_ratkaisevasti,@ frames: 1 (shape or form or make badly; "Our miscreated fantasies") }
+{ olla<note>vaikutusta</note>,  painaa,  vaikuttaa_ratkaisevasti,@ frames: 1 (have influence to a specified degree; "Her opinion carries a lot of weight") }
+{ [ ratkaista6, adj.all:ratkaiseva5,+]  vaikuttaa_ratkaisevasti,@ frames: 1 (influence or determine; "The vote in New Hampshire often decides the outcome of the Presidential election") }
+{ uudistaa,  vaikuttaa_ratkaisevasti,@ frames: 1 (shape anew or differently; "The new foreign minister reshaped the foreign policy of his country") }
+{ ajoittaa2,  vaikuttaa_ratkaisevasti,@ frames: 1 (set the speed, duration, or execution of; "we time the process to manufacture our cars very precisely") }
+{ [ indeksoida, noun.act:indeksointi,+ noun.relation:indeksi,+]  vaikuttaa_ratkaisevasti,@ frames: 1 (adjust through indexation; "The government indexes wages and prices") }
+{ määrätä_tahti,  vaikuttaa_ratkaisevasti,@ frames: 1 (regulate or set the pace of; "Pace your efforts") }
+{ määrätä_ennakolta,  vaikuttaa_ratkaisevasti,@ frames: 1 (determine beforehand) }
+{ [ predestinoida, noun.event:predestinaatio,+]  määrätä_ennalta1,  [ ennaltamäärätä, noun.cognition:ennaltamäärääminen1,+]  määrätä_ennakolta,@ frames: 1 (foreordain or determine beforehand) }
+{ kirota,  predestinoida,@ frames: 1 (foredoom to failure; "This project is jinxed!") }
+{ [ predestinoida1, noun.cognition:predestinaatio,+]  [ ennaltamäärätä1, noun.cognition:ennaltamääräys,+]  määrätä_ennakolta,@ noun.cognition:teologia1,;c frames: 1 (foreordain by divine will or decree) }
+{ [ pohtia2, noun.cognition:pohdiskelu,+]  harkita2,  miettiä3,  ajatella3,@ frames: 1 (consider carefully and deeply; reflect upon; turn over in one's mind) }
+{ selvittää8,  verb.communication:harkita,@ frames: 1 (deliberate or decide; "See whether you can come tomorrow"; "let's see--which movie should we see tonight?") }
+{ harkita3,  ottaa_tarkasteltavaksi,@ frames: 1 (consider as a possibility; "I contemplated leaving school and taking a full-time job") }
+{ harkita4,  verb.communication:harkita,@ frames: 1 (consider, ponder, or plan (an action) beforehand; "premeditated murder") }
+{ murehtia,  [ hautoa1, verb.stative:viipyä1,^]  verb.emotion:olla_huolissaan,@ frames: 1 (think moodily or anxiously about something) }
+{ tutkailla,  [ meditoida, noun.cognition:meditaatio,+]  [ mietiskellä1, noun.cognition:mietiskely,+]  suunnitella,@ frames: 1 (think intently and at length, as for spiritual purposes; "He is meditating in his study") }
+{ [ suunnitella2, noun.person:suunnittelija6,+ noun.act:suunnittelu2,+ noun.cognition:suunnitelma1,+ noun.cognition:suunnitelma,+]  kaavailla,  suunnitella,@ frames: 1 (make plans for something; "He is planning a trip with his family") }
+{ laatia_yksityiskohtainen_suunnitelma,  suunnitella2,@ frames: 1 (plan in detail; "Bush is charting a course to destroy Saddam Hussein") }
+{ aikoa2,  aikoa3,@ frames: 1 (have the will and intention to carry out some action; "He plans to be in graduate school next year"; "The rebels had planned turmoil and confusion") }
+{ olla_tarkoituksena,  olla_tavoitteena,  [ haluta1, noun.attribute:halu,+]  [ pyrkiä, noun.person:pyrkijä,+ noun.feeling:pyrkimys,+ noun.attribute:pyrkimys1,+]  [ tavoitella, noun.person:tavoittelija,+]  tähdätä_jhk,  aikoa2,@ frames: 1 (have an ambitious plan or a lofty goal) }
+{ ampua_yli,  olla_tarkoituksena,@ frames: 1 (aim too high; "The plan overshoots its aim") }
+{ ajaa_liian_pitkälle,  ampua_yli,@ frames: 1 (run beyond or past; "The plane overran the runway") }
+{ [ toivoa, noun.person:toivoja<approximate/>,+]  yrittää,  aikoa2,@ frames: 1 (intend with some possibility of fulfilment; "I hope to have finished this work by tomorrow evening") }
+{ esitellä,  [ ehdottaa, noun.communication:ehdotus3,+]  esittää,  suunnitella2,@ frames: 1 (present for consideration, examination, criticism, etc.; "He proposed a new plan for dealing with terrorism"; "She proposed a new theory of relativity") }
+{ esittää1,  esitellä,@ frames: 1 (put forward for consideration; "He offered his opinion") }
+{ esitellä1,  esitellä,@ frames: 1 (put before (a body); "introduce legislation") }
+{ [ laatia1, noun.act:laatiminen1,+ noun.person:laatija,+]  suunnitella2,@ frames: 1 (make up plans or basic details for; "frame a policy") }
+{ tehdä_salaliitto,  [ vehkeillä, noun.person:vehkeilijä,+]  juonitella,  juonitella2,@ frames: 1 (engage in plotting or enter into a conspiracy, swear together; "They conspired to overthrow the government") }
+{ [ vehkeillä_yhdessä, noun.person:vehkeilijä,+]  tehdä_salaliitto,@ frames: 1 (conspire together; "The two men coconspired to cover up the Federal investigation") }
+{ laatia_vastajuoni,  juonitella2,@ frames: 1 (make a plot in response to another plot) }
+{ tehdä_salaliitto1,  olla_salaisessa_yhteistoiminnassa,  verb.social:vuorovaikuttaa,@ frames: 1 (act in unison or agreement and in secret towards a deceitful or illegal purpose; "The two companies conspired to cause the value of the stock to fall") }
+{ juonitella1,  vehkeillä1,  metkuilla,  suunnitella3,  juonitella2,@ frames: 1 (form intrigues (for) in an underhand manner) }
+{ [ juonitella2, noun.cognition:juoni2,+]  [ vehkeillä2, noun.person:vehkeilijä2,+]  [ juonia, noun.cognition:juoni2,+]  suunnitella2,@ frames: 1 (plan secretly, usually something illegal; "They plotted the overthrow of the government") }
+{ kaavailla1,  suunnitella4,  suunnitella2,@ frames: 1 (devise a system or form a scheme for) }
+{ [ aikoa3, noun.act:aikomus,+]  tarkoittaa,  ajatella6,   frames: 1 (have in mind as a purpose; "I mean no harm"; "I only meant to help you"; "She didn't think to harm me"; "We thought to return early that night") }
+{ tarkoittaa1,  aikoa5,@ frames: 1 (destine or designate for a certain purpose; "These flowers were meant for you") }
+{ aikoa4,  pyrkiä1,  [ tarkoittaa2, noun.cognition:tarkoitus4,+]  aikoa3,@ frames: 1 (propose or intend; "I aim to arrive at noon") }
+{ [ haluta2, noun.person:haluaja,+]  verb.communication:vaatia2,@ verb.contact:etsintäkuuluttaa,$ frames: 1 (wish or demand the presence of; "I want you here at noon!") }
+{ aikoa5,  suunnitella5,  [ tarkoittaa3, noun.cognition:tarkoitus3,+]  täsmentää,  suunnitella2,@ frames: 1 (design or destine; "She was intended to become the director") }
+{ tarkoittaa4,  aikoa5,@ frames: 1 (plan something for a specific role or purpose or effect; "This room is not designed for work") }
+{ ehdottaa1,  määrätä3,  panna_esityslistalle,  aikoa5,@ frames: 1 (designate or schedule; "He slated his talk for 9 AM"; "She was slated to be his successor") }
+{ suunnitella6,  junailla,  johtaa1,  [ järjestää3, noun.act:järjestäminen,+]  [ organisoida, noun.act:organisointi,+]  toteuttaa,  suunnitella2,@ frames: 1 (plan and direct (a complex undertaking); "he masterminded the robbery") }
+{ laatia_ohjelma,  suunnitella6,@ frames: 1 (plan and oversee the development and details of; "The meeting between the two Presidents had been carefully choreographed") }
+{ [ kartoittaa1, noun.artifact:kartta,+]  tutkia6,@ frames: 1 (explore or survey for the purpose of making a map; "We haven't even begun to map the many galaxies that we know exist") }
+{ kartoittaa2,  verb.creation:kartoittaa,@ frames: 1 (make a chart of; "chart the territory") }
+{ tehdä_kartta,  piirtää_kartta,  verb.creation:kartoittaa,@ frames: 1 (make a plat of; "Plat the town") }
+{ [ suunnitella7, noun.act:suunnitelma,+]  suunnitella2,@ frames: 1 (provide a detailed plan or design; "She laid out her plans for the new house") }
+{ laatia_suunnitelmia,  luonnostella<approximate/>,  sommitella,  suunnitella8,  suunnitella7,@ frames: 1 (plan where and when songs should be inserted into a theatrical production, or plan a theatrical production in general) }
+{ laatia2,  suunnitella7,@ frames: 1 (lay out a full-scale working drawing of the lines of a vessel's hull) }
+{ suunnitella9,  verb.creation:suunnitella4,@ frames: 1 (design as an engineer; "He engineered the water supply project") }
+{ vaalia,  pohtia3,  leikitellä,  pallotella,  pohdiskella1,  harkita5,  harkita3,@ frames: 1 (take into consideration, have in view; "He entertained the notion of moving to South America") }
+{ leikitellä1,  leikkiä,  ottaa_tarkasteltavaksi,@ verb.social:leikitellä,$ frames: 1 (consider not very seriously; "He is trifling with her"; "She plays with the thought of moving to Tasmania") }
+{ [ laskea2, adj.all:laskettava,+ noun.act:laskenta,+]  arvioida12,  luulla1,  luottaa_jhk,  [ ennustaa1, noun.communication:ennuste1,+ noun.person:ennustaja2,+ noun.communication:ennakkoarvio,+]  arvioida3,@ frames: 1 (judge to be probable) }
+{ arvioida_väärin2,  arvioida_väärin1,@ frames: 1 (judge incorrectly; "I had misestimated his determination") }
+{ ottaa_huomioon3,  varautua,  arvioida5,@ frames: 1 (take account of; "You have to reckon with our opponents"; "Count on the monsoon") }
+{ luottaa1,  uskoa5,  turvata1,  nojata,  luottaa,@ frames: 1 (have faith or confidence in; "you can count on me to help you any time"; "Look to your friends for support"; "You can bet on that!"; "Depend on your family in times of crisis") }
+{ laskelmoida,  kohdistaa,  suunnata1,  tähdätä,  ohjata,  suunnitella10,  aikoa5,@ frames: 1 (specifically design a product, event, or activity for a certain public) }
+{ [ liittää, erottaa8,!]  [ yhdistää, erottaa8,! noun.state:yhdistymä,+ adj.all:yhdistävä^yhdistävä1,+]  linkittää,  [ assosioida, erottaa8,!]  suunnitella,@ frames: 1 (make a logical or causal connection; "I cannot connect these two pieces of evidence in my mind"; "colligate these facts"; "I cannot relate these events at all") }
+{ yhdistää_toisiinsa,  liittää,@ verb.stative:olla_yhteydessä,$ frames: 1 (place into a mutual relationship; "I cannot interrelate these two events") }
+{ saattaa_vastaavuussuhteeseen,  liittää,@ verb.stative:olla_vastaavuussuhteessa,$ frames: 1 (bring into a mutual, complementary, or reciprocal relation; "I cannot correlate these two pieces of information") }
+{ pitää_erillään,  [ erottaa8, liittää,! yhdistää,! assosioida,!]  erottaa2,@ frames: 1 (regard as unconnected; "you must dissociate these two events!"; "decouple our foreign policy from ideology") }
+{ samastaa1,  samaistaa,  liittää,@ frames: 1 (conceive of as united or associated; "Sex activity is closely identified with the hypothalamus") }
+{ assosioida_vapaasti,  liittää,@ noun.act:psykoterapia,;c frames: 1 (associate freely; "Let's associate freely to bring up old memories") }
+{ [ väitellä, noun.person:väittelijä1,+ noun.communication:väittely,+]  verb.communication:harkita,@ frames: 1 (argue with one another; "We debated the question of abortion"; "John debated Mary") }
+{ [ päättää5, noun.act:päättyminen,+]  saattaa_päätökseen,  viedä_loppuun,  verb.change:lopettaa3,@ frames: 1 (bring to a close; "The committee concluded the meeting") }
+{ pitää_jnk,  kokea3,  järkeillä2,@ verb.communication:antaa_ratkaisu,$ frames: 1 (come to believe on the basis of emotion, intuitions, or indefinite grounds; "I feel that he doesn't like me"; "I find him to be obnoxious"; "I found the movie rather entertaining") }
+{ selittää_tarkasti,  määrittää2,  rajata,  rajoittaa,@ frames: 1 (define clearly; "I cannot narrow down the rules for this game") }
+{ konkretisoida2,  selittää_tarkasti,@ frames: 1 (make something concrete) }
+{ [ hallita2, verb.stative:hylätä,^ noun.person:hallitsija2,+]  määrätä4,  [ päättää6, verb.stative:hylätä,^]  säätää1,  päättää2,@ frames: 1 (decide with authority; "The King decreed that all firstborn males should be killed") }
+{ kumota5,  hylätä6,  kaataa,  peruuttaa,  hallita2,@ frames: 1 (rule against; "The Republicans were overruled when the House voted on the bill") }
+{ edellyttää,  vaatia,  verb.communication:merkitä4,@ noun.cognition:logiikka3,;c frames: 1 (require as a necessary antecedent or precondition; "This step presupposes two prior ones") }
+{ otaksua4,  olettaa5,  olettaa1,@ frames: 1 (take for granted or as a given; suppose beforehand; "I presuppose that you have done your work") }
+{ [ olettaa6, noun.communication:olettamus1,+ noun.communication:oletus,+]  ottaa_lähtökohdaksi,  otaksua4,@ frames: 1 (take as a given; assume as a postulate or axiom; "He posited three basic laws of nature") }
+{ väittää,  [ vakuuttaa, adj.all:mahdollinen3^vakuutettavissa_oleva,+ noun.communication:vakuuttaminen2,+]  olettaa6,@ frames: 1 (assert to be true; "The letter asserts a free society") }
+{ perustaa1,  olettaa7,  otaksua4,@ frames: 1 (take something as preexisting and given) }
+{ [ reagoida, adj.all:arka12^reagoiva1,+ noun.act:reaktio,+ noun.phenomenon:reaktio,+]  [ vastata, adj.all:vastaanottavainen5,+ noun.person:vastaaja2,+ adj.all:vastaanottavainen5^vastaava10,+]  verb.social:toimia,@ frames: 1 (show a response or a reaction to something) }
+{ seota,  reagoida,@ frames: 1 (react in an excited, delighted, or surprised way; "he flipped when he heard that he was accepted into Princeton University") }
+{ [ ylireagoida, noun.act:ylireagointi,+]  reagoida,@ frames: 1 (show an exaggerated response to something; "Don't overreact to the bad news--take it easy") }
+{ [ vastata1, noun.act:vastaus,+]  reagoida,@ frames: 1 (react to a stimulus or command; "The steering of my new car answers to the slightest touch") }
+{ ottaa_vastaan1,  reagoida,@ frames: 1 (be sexually responsive to, used of a female domesticated mammal; "The cow accepted the bull") }
+{ reagoida<broader/>1,  reagoida,@ frames: 1 (react to a decoy, of wildfowl) }
+{ reagoida2,  reagoida,@ frames: 1 (respond favorably or as hoped; "The cancer responded to the aggressive therapy") }
+{ ottaa_vastaan2,  reagoida,@ frames: 1 (react to in a certain way; "The President was greeted with catcalls") }
+{ räjähtää,  reagoida,@ frames: 1 (show a violent emotional reaction; "The boss exploded when he heard of the resignation of the secretary") }
+{ [ hyväksyä6, adj.all:hyväksyvä1,+ noun.state:hyväksyminen1,+ noun.state:hyväksyntä3,+ noun.act:hyväksyminen2,+ noun.state:hyväksyntä,+ noun.act:hyväksyntä,+]  kelpuuttaa1,  reagoida,@ hyväksyä3,$ frames: 1 (react favorably to; consider right and proper; "People did not accept atonal music at that time"; "We accept the idea of universal health care") }
+{ [ vastata2, noun.act:vastaus,+]  reagoida,@ frames: 1 (respond to a signal; "answer the door"; "answer the telephone") }
+{ [ odottaa1, noun.cognition:odotus,+ adj.all:toiveikas4^odottava1,+]  arvioida3,@ odottaa2,$ frames: 1 (regard something as probable or likely; "The meteorologists are expecting rain for tomorrow") }
+{ [ odottaa2, adj.all:toiveikas4^odottava1,+ noun.cognition:odotus1,+ noun.person:odottaja,+]  olla_valmistautunut,  odottaa1,$ frames: 1 (look forward to the probable occurrence of; "We were expecting a visit from our relatives"; "She is looking to a promotion"; "he is waiting to be drafted") }
+{ odottaa_innolla_jtak,  odottaa2,@ frames: 1 (expect or hope for; "I look to hear from you soon") }
+{ katsoa<approximate/>1,  odottaa2,@ frames: 1 (turn one's interests or expectations towards; "look to the future"; "this method looks to significant wavings") }
+{ odottaa3,  nähdä_ennakolta,  tietää_ennakolta,  nähdä_ennalta,  tietää_ennalta,  ennustaa2,  olla_selvillä,@ frames: 1 (realize beforehand) }
+{ huomata2,  arvata1,@ frames: 1 (discern or comprehend; "He could tell that she was unhappy") }
+{ [ uskoa6, noun.cognition:usko,+ noun.person:uskova,+]  [ luottaa2, noun.cognition:luottamus,+]  odottaa1,@ frames: 1 (be confident about something; "I believe that he will come back from the war") }
+{ osoittaa_todeksi,  vahvistaa6,  varmistaa4,  saada_tietoonsa,@ frames: 1 (learn or discover with certainty) }
+{ huomata3,  [ havaita2, huomata1,^]  saada_tietoonsa,@ verb.creation:löytää,$ frames: 1 (make a discovery; "She found that he had lied to her"; "The story is false, so far as I can discover") }
+{ tonkia,  huomata3,@ frames: 1 (bring to light; "He raked up the misdeeds of his predecessor") }
+{ selvittää_jkn_hinta,  osoittaa_todeksi,@ frames: 1 (ascertain or learn the price of; "Have you priced personal computers lately?") }
+{ ottaa_selville,  nuuskia,  huomata3,@ frames: 1 (search and discover through persistent investigation; "She ferreted out the truth") }
+{ [ keskittyä, noun.attribute:keskittyminen,+ noun.cognition:keskittyminen,+ noun.cognition:keskipiste,+ noun.cognition:keskipiste1,+]  syventyä1,  kiinnittää_tarkkaavaisuutensa,  [ keskittää_huomionsa, noun.attribute:keskittyminen,+ noun.cognition:keskittyminen,+ noun.cognition:keskipiste,+ noun.cognition:keskipiste1,+]  kohdistaa_huomionsa,  suunnitella,@ temmata_mukaansa,$ frames: 1 (direct one's attention on something; "Please focus on your studies and not on your hobbies") }
+{ temmata_mukaansa,  naulita,  vallata,@ keskittyä,$ frames: 1 (hold (someone's attention); "The discovery of the skull riveted the paleontologists") }
+{ palauttaa_ajatuksistaan,  keskittyä,@ frames: 1 (cause one's (or someone else's) thoughts or attention to return from a reverie or digression; "She was recalled by a loud laugh") }
+{ [ ajatella7, noun.cognition:ajatus1,+]  keskittyä,@ frames: 1 (focus one's attention on a certain state; "Think big"; "think thin") }
+{ valita8,  valita1,@ frames: 1 (choose in one's mind; "Think of any integer between 1 and 25") }
+{ juolahtaa_mieleen1,  tulla_mieleen1,  verb.stative:muuttua_jksik,@ frames: 1 (come to one's mind; suggest itself; "It occurred to me that we should hire another secretary"; "A great idea then came to her") }
+{ varautua1,  ottaa_huomioon4,  ottaa_laskuihin,  ottaa_lukuun1,  laskea2,@ frames: 1 (allow or plan for a certain possibility; concede the truth or validity of something; "I allow for this possibility"; "The seamstress planned for 5% shrinkage after the first wash") }
+{ budjetoida,  varata1,  varautua1,@ frames: 1 (calculate enough money for; provide for in the budget; "I have not budgeted for these expensive meals") }
+{ [ budjetoida1, noun.possession:budjetti,+ noun.possession:budjetti1,+]  laskea,@ frames: 1 (make a budget) }
+{ hyväksyä7,  sallia1,  osoittaa3,  varata2,  [ korvamerkitä, noun.attribute:korvamerkki<unconfirmed/>,+]  varata_tiettyyn_tarkoitukseen,  panna_syrjään,  verb.possession:antaa2,@ frames: 1 (give or assign a resource to a particular person or cause; "I will earmark this money for your research"; "She sets aside time for meditation every day") }
+{ ajatella8,  [ huolehtia, noun.cognition:huomio7,+]  ajatella10,@ frames: 1 (be concerned with or about something or somebody) }
+{ varoa,  välttää,  verb.perception:varoa,@ frames: 1 (be on one's guard; be cautious or wary about; be alert to; "Beware of telephone salesmen") }
+{ [ hämmästyttää1, noun.feeling:hämmästys,+]  [ ällistyttää1, noun.feeling:ällistys,+]  yllättää,  tyrmistyttää,  ällistää,  hämmästyttää2,@ frames: 1 (affect with wonder; "Your ability to speak six languages amazes me!") }
+{ hämmentää6,  hämmästyttää1,@ frames: 1 (amaze or bewilder, as with brilliant wit or intellect or skill; "Her arguments dazzled everyone"; "The dancer dazzled the audience with his turns and jumps") }
+{ hämmästyttää2,  yllättää1,  verb.emotion:vaikuttaa,@ frames: 1 (cause to be surprised; "The news really surprised me") }
+{ pudottaa_pommi,  hämmästyttää2,@ frames: 1 (utter or do something surprising; "Father exploded a bombshell when he forbade us to go to the prom") }
+{ käräyttää,  yllättää2,  hämmästyttää2,@ kiinnittää_huomio,$ frames: 1 (discover or come upon accidentally, suddenly, or unexpectedly; catch somebody doing something or in a certain state; "She caught her son eating candy"; "She was caught shoplifting") }
+{ kiinnittää_huomio,  nähdä3,  verb.perception:todistaa1,@ käräyttää,$ frames: 1 (become aware of; "he caught her staring out the window") }
+{ ällistyttää2,  yllättää3,  lyödä_ällikällä,  kummastuttaa1,  tyrmistyttää1,  hämmästyttää2,@ frames: 1 (overcome with amazement; "This boggles the mind!") }
+{ lukea_syyksi,  lukea_jk_jkn_ansioksi,  lukea_jk_jkn_syyksi,  pitää_jtak_jkn_aiheuttamana,  pitää_jtak_jkn_ominaisuutena,  pitää_jtak_jkn_tekemänä,  liittää1,  yhdistää1,  arvioida3,@ lukea_syyksi1,$ frames: 1 (attribute or credit to; "We attributed this quotation to Shakespeare"; "People impute great cleverness to cats") }
+{ lukea_syyksi1,  lukea_syyksi,@ lukea_syyksi,$ frames: 1 (attribute (responsibility or fault) to a cause or source; "The teacher imputed the student's failure to his nervousness") }
+{ tehdä_aistilliseksi,  tehdä_lihalliseksi,  lukea_syyksi,@ frames: 1 (ascribe to an origin in sensation) }
+{ antaa_kunnia,  antaa_tunnustus,  lukea_syyksi,@ frames: 1 (give someone credit for something; "We credited her for saving our jobs") }
+{ syyttää_edelleen<unconfirmed/>,  lukea_syyksi,@ frames: 1 (attribute to another source) }
+{ [ antropomorfisoida, noun.cognition:antropomorfismi,+]  lukea_syyksi,@ frames: 1 (ascribe human features to something) }
+{ [ personoida, noun.act:personointi,+ noun.act:personifikaatio,+]  elollistaa,  lukea_syyksi,@ frames: 1 (attribute human qualities to something; "The Greeks personated their gods ridiculous") }
+{ lukea_ansioksi,  tunnustaa_ansiot,  antaa_tunnustus1,  lukea_syyksi,@ frames: 1 (ascribe an achievement to; "She was not properly credited in the program") }
+{ panna_jk_jkn_syyksi,  [ syyttää, noun.communication:syy3,+ noun.communication:syyllisyys1,+]  väittää_jkn_syyksi,  lukea_syyksi,@ frames: 1 (attribute responsibility to; "We blamed the accident on her"; "The tragedy was charged to her inexperience") }
+{ mennä_perille1,  tulla_ymmärretyksi,  verb.body:vaikuttaa,@ verb.perception:rekisteröidä,$ frames: 1 (enter into someone's consciousness; "Did this event register in your parents' minds?") }
+{ [ iskostaa2, noun.act:iskostaminen1,+]  verb.emotion:vaikuttaa,@ frames: 1 (produce or try to produce a vivid impression of; "Mother tried to ingrain respect for our elders in us") }
+{ käsittää5,  oivaltaa2,  tajuta9,  ymmärtää15,  huomata4,  tietää1,@ frames: 1 (be fully aware or cognizant of) }
+{ johtaa2,  päätellä4,@ noun.cognition:loogisuus,;c frames: 1 (derive by reason; "elicit a solution") }
+{ saada_selville2,  selvittää9,  päästä_perille,  käsittää6,  ymmärtää1,@ frames: 1 (come to understand) }
+{ seurata1,  analysoida2,@ verb.change:pysytellä_ajan_tasalla,$ verb.social:pitää_silmällä,$ frames: 1 (follow, discover, or ascertain the course of development of something; "We must follow closely the economic development is Cuba"; "trace the student's progress") }
+{ ihmetellä,  tiedustella,  verb.communication:kysyä3,@ frames: 1 (have a wish or desire to know something; "He wondered who had built this beautiful church") }
+{ heijastaa,  ulkoistaa,  lukea_syyksi,@ noun.cognition:psykologia,;c frames: 1 (regard as objective) }
+{ [ sisäistää1, noun.cognition:sisäistys,+ noun.location:sisämaa,+ noun.location:sisäosa,+ noun.location:sisus1,+]  lukea_syyksi,@ noun.cognition:psykologia,;c frames: 1 (incorporate within oneself; make subjective or personal; "internalize a belief") }
+{ tarkoittaa5,  liittää,@ frames: 1 (intend to refer to; "I'm thinking of good food when I talk about France"; "Yes, I meant you when I complained about people who gossip!") }
+{ määrittää_rajat,  verb.change:vähentää3,@ frames: 1 (set, mark, or draw the boundaries of something) }
+{ [ rajoittaa1, noun.location:rajalinja,+ noun.cognition:rajalinja,+]  erottaa2,@ frames: 1 (separate clearly, as if by boundaries) }
+{ [ luodata, noun.act:luotaus,+]  verb.change:määrittää1,@ frames: 1 (measure the depth of something) }
+{ tehdä_päätelmä,  olla_jtak_mieltä,  ajatella9,  tulkita3,  verb.creation:luoda_aivotyöllä,@ arvioida11,$ frames: 1 (make, formulate, or derive in the mind; "I draw a line here"; "draw a conclusion"; "draw parallels"; "make an estimate"; "What do you make of his remarks?") }
+{ aktivoida,  nähdä1,@ frames: 1 (consider expenditures as capital assets rather than expenses) }
+{ [ kapitaloida, noun.act:kapitalointi1,+]  [ kapitalisoida, noun.act:kapitalisointi1,+]  laskea,@ frames: 1 (compute the present value of a business or an income) }
+{ yliarvostaa2,  kapitaloida,@ frames: 1 (estimate the capital value of (a company) at an unreasonably or unlawfully high level) }
+{ paljastua1,  saada_jku_kiinni,  verb.perception:havaita6,@ frames: 1 (trap; especially in an error or in a reprehensible act; "He was caught out"; "She was found out when she tried to cash the stolen checks") }
+{ koota_yhteen,  koota1,  [ keskittää, noun.cognition:keskipiste,+]  verb.change:kohdistaa2,@ frames: 1 (bring into focus or alignment; to converge or cause to converge; of ideas or emotions) }
+{ keskittyä_uudelleen,  koota_yhteen,@ frames: 1 (focus anew; "The group needs to refocus its goals") }
+{ uhrata,  antaa,  kohdistaa1,  osoittaa4,  omistautua,  suunnitella,@ verb.possession:uhrata2,$ frames: 1 (dedicate; "give thought to"; "give priority to"; "pay attention to") }
+{ tyytyä1,  alistua1,  taipua,  hyväksyä3,@ frames: 1 (accept as inevitable; "He resigned himself to his fate") }
+{ [ havainnoida1, noun.act:havainnointi,+ noun.act:havainnointi1,+ noun.cognition:havainto1,+ noun.cognition:havainto,+]  [ huomata5, noun.communication:huomautus4,+]  pysyä,  pitää5,  säilyttää,   frames: 1 (stick to correctly or closely; "The pianist kept time with the metronome"; "keep count"; "I cannot keep track of all my employees") }
+{ paheksua2,  paheksua1,@ frames: 1 (show disapproval by discouraging; "any measure tending to fuse invalids into a class with special privileges should be discountenanced") }
+{ [ ratkaista7, noun.act:ratkaisu1,+ noun.act:ratkaiseminen,+ noun.person:ratkaisija,+]  selvittää10,  laskea,@ frames: 1 (find the solution; "solve an equation"; "solve for x") }
+{ jakaa_tekijöihin,  ratkaista7,@ frames: 1 (resolve (a polynomial) into factors) }
+{ aavistaa_pahaa,  [ epäillä4, noun.cognition:epäilys4,+]  verb.emotion:huolestuttaa,@ frames: 1 (suggest fear or doubt; "Her heart misgave her that she had acted inexcusably") }
+{ asettua_jkn_puolelle,  liittyä_jhk1,  asettua_jkn_kannalle,  asettua_jkn_rinnalle,  asettua_jonkun_kannalle,  ottaa_kantaa,@ frames: 1 (align oneself with a group or a way of thinking) }
+{ sopia1,  asettua_jkn_puolelle,@ frames: 1 (agree on (a position)) }
+{ uskoa<note>jnk_olemassaoloon\,_toteutumiseen\,_arvoon_ym.</note>7,  pitää_jtak_totena,@ frames: 1 (have a firm conviction as to the goodness of something; "John believes in oat bran") }
+{ ottaa_tarkasteltavaksi,  ottaa_esimerkiksi,  käsitellä2,  tarkastella3,  ajatella10,@ frames: 1 (take into consideration for exemplifying purposes; "Take the case of China"; "Consider the following case") }
+{ ajatella10,  suunnitella,@ frames: 1 (have on one's mind, think about actively; "I'm thinking about my friends abroad"; "She always thinks about her children first") }
+{ irtautua<unconfirmed/>,  ottaa_tarkasteltavaksi,@ frames: 1 (consider apart from a particular case or instance; "Let's abstract away from this particular example") }
+{ kylvää,  juurruttaa,  verb.communication:ilmoittaa,@ frames: 1 (put firmly in the mind; "Plant a thought in the students' minds") }
+{ [ päivätä, noun.time:päivämäärä,+ noun.time:päivämäärä1,+]  verb.possession:varustaa1,@ frames: 1 (provide with a dateline; mark with a date; "She wrote the letter on Monday but she dated it Saturday so as not to reveal that she procrastinated") }
+{ [ päivätä1, noun.communication:päiväysrivi,+]  merkitä_aika_ja_paikka,  päivätä,@ frames: 1 (mark with a date and place; "dateline a newspaper article") }
+{ [ päivätä2, noun.time:päivämäärä,+ noun.time:päivämäärä1,+]  varustaa_päiväysleimalla,  verb.contact:jättää_jälki,@ päivätä,@ frames: 1 (stamp with a date; "The package is dated November 24") }
+{ järjestää4,  pystyttää1,  laittaa1,  organisoida1,  verb.social:järjestää2,@ frames: 1 (arrange thoughts, ideas, temporal events; "arrange my schedule"; "set up one's life"; "I put these memories with those of bygone times") }
+{ rinnastaa1,  esittää_samanaikaisina,  järjestää4,@ frames: 1 (arrange or represent events so that they co-occur; "synchronize biblical events") }
+{ havahtua,  verb.emotion:vaikuttaa,@ frames: 1 (make aware; "They were awakened to the sad facts") }
+{ [ analysoida4, noun.artifact:analysaattori,+ noun.act:analyysi,+ noun.person:analyytikko1,+]  eritellä2,   frames: 1 (break down into components or essential features; "analyze today's financial market") }
+{ tehdä_faktorianalyysi,  analysoida4,@ frames: 1 (to perform a factor analysis of correlational data) }
+{ pitää_yllä,  verb.emotion:valloittaa,@ frames: 1 (hold the attention of; "The soprano held the audience"; "This story held our interest"; "She can hold an audience spellbound") }
+{ luoda_uudelleen,  verb.creation:luoda_aivotyöllä,@ frames: 1 (form anew in the imagination; recollect and re-form in the mind; "His mind re-creates the entire world") }
+{ nauttia_täysin_siemauksin,  imeä_itseensä,  uppoutua,@ frames: 1 (be fascinated or spell-bound by; pay close attention to; "The mother drinks in every word of her son on the stage") }
+{ muistaa7,  muistaa2,@ frames: 1 (maintain in the forefront of one's awareness; "He kept note of the location of the soldiers") }
+{ niellä3,  tukahduttaa1,  tukahduttaa,@ frames: 1 (keep from expressing; "I swallowed my anger and kept quiet") }
+{ herättää_huomio,  saada_kiinnostus,  saada_valtoihinsa,  valloittaa,  verb.stative:kiehtoa,@ frames: 1 (capture the attention or imagination of; "This story will grab you"; "The movie seized my imagination") }
+{ vallata1,  saada_otteeseensa,  iskeä,  verb.emotion:vallata,@ frames: 1 (affect; "Fear seized the prisoners"; "The patient was seized with unbearable pains"; "He was seized with a dreadful disease") }
+{ [ maksaa, noun.person:maksaja,+]  sulattaa,@ frames: 1 (bear (a cost or penalty), in recompense for some action; "You'll pay for this!"; "She had to pay the penalty for speaking out rashly"; "You'll pay for this opinion later") }
+{ kärsiä_seuraukset,  maksaa_hinta,  maksaa,@ frames: 1 (suffer the results or consequences of one's behavior or actions) }
+{ purkaa,  ratkaista8,  ratkaista1,@ paljastaa2,$ frames: 1 (find the solution or key to; "break the code") }
+{ paljastaa2,  verb.contact:tuhota4,@ purkaa,$ frames: 1 (find a flaw in; "break an alibi"; "break down a proof") }
+{ kyseenalaistaa<broader/>,  verb.communication:moittia12,@ verb.communication:vedota3,$ frames: 1 (challenge the sincerity or truthfulness of; "call the speaker on a question of fact") }
+{ [ huudahtaa, noun.communication:huudahdus1,+]  verb.communication:päästää_ilmoille1,@ verb.communication:huudella,$ frames: 1 (utter in a loud voice or announce; "He called my name"; "The auctioneer called the bids") }
+{ sisältyä,  sisällyttää,@ frames: 1 (include, as on a list; "How many people are carried on the payroll?") }
+{ [ ajatella11, noun.cognition:ajatus1,+ noun.cognition:ajattelu,+]  miettiä4,  suunnitella,@ ajatella12,$ frames: 1 (ponder; reflect on, or reason about; "Think the matter through"; "Think how hard life in Russia must be these days") }
+{ [ ajatella12, noun.cognition:ajatteleminen,+]  miettiä5,  suunnitella,@ ajatella11,$ frames: 1 (decide by pondering, reasoning, or reflecting; "Can you think what to do next?") }
+{ [ kalibroida, noun.attribute:kaliiperi1,+]  mitata,@ frames: 1 (measure the caliber of; "calibrate a gun") }
+{ [ luokitella8, noun.act:luokitus1,+ noun.act:luokittelu1,+ noun.person:luokittelija,+ noun.group:luokka2,+ noun.communication:luokitteleva_morfeemi,+ noun.group:luokka1,+ adj.pert:luokitus-,+ noun.cognition:luokittelu,+ noun.group:luokka5,+ noun.group:luokka10,+]  nimittää1,@ frames: 1 (assign to a class or kind; "How should algae be classified?"; "People argue about how to relegate certain mushrooms") }
+{ nimittää1,  valita9,  pitää_jtak_jkn_ominaisuutena<approximate/>1,  arvioida3,@ frames: 1 (decide as to where something belongs in a scheme; "The biologist assigned the mushroom to the proper class") }
+{ arvioida<broader/>13,  arvioida5,@ noun.cognition:matematiikka,;c frames: 1 (approximate by ignoring all terms beyond a chosen one; "truncate a series") }
+{ hyväksyä8,  myöntää2,  tunnustaa1,  hyväksyä3,@ frames: 1 (accept as legally binding and valid; "acknowledge the deed") }

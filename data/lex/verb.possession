@@ -1,0 +1,847 @@
+{ [ antaa, antaa_takaisin,^ ottaa,! noun.act:antaminen3,+]  [ siirtää_haltuun<unconfirmed/>, antaa_takaisin,^ ottaa,!]  siirtää1,@ olla,> frames: 1 (transfer possession of something concrete or abstract to somebody; "I gave her my money"; "can you give me lessons?"; "She gave the children lots of love and tender loving care") }
+{ joutua_maksamaan,  pulittaa,  antaa,@ frames: 1 (give reluctantly; "He coughed up some money for his children's tuition") }
+{ antaa1,  antaa_haltuun<unconfirmed/>,  ojentaa,@ frames: 1 (leave with; give temporarily; "Can I give you my keys while I go in the pool?"; "Can I give you the children for the weekend?") }
+{ [ antaa_lahjaksi, noun.person:antaja,+]  [ lahjoittaa, noun.possession:lahja,+]   frames: 1 (give as a present; make a gift of; "What will you give her for her birthday?") }
+{ hakeutua<note>intransitiivi_idiomin_osa</note>,   frames: 1 (to get into a position of having, e.g., safety, comfort; "take shelter from the storm") }
+{ antaa_myötäjäiset<approximate/>,  varustaa_myötäjäisillä,  antaa_lahjaksi,@ frames: 1 (furnish with an endowment; "When she got married, she got dowered") }
+{ antaa_kirkkoherranvirka,  antaa_papinvirka,  antaa_pastoraatti,  antaa_myötäjäiset<approximate/>,@ frames: 1 (endow with a benefice) }
+{ levittää,  jakaa,  jaella,  antaa_lahjaksi,@ frames: 1 (give to several people; "The teacher handed out the exams") }
+{ lahjoittaa1,  antaa_pois,  antaa_lahjaksi,@ frames: 1 (make a gift of; "She gave away her antique furniture") }
+{ [ arpoa, noun.act:arpajaiset2,+]  antaa_lahjaksi,@ frames: 1 (dispose of in a lottery; "We raffled off a trip to the Bahamas") }
+{ antaa_juomarahaa,  antaa_tippiä,  antaa_lahjaksi,@ frames: 1 (give a tip or gratuity to in return for a service, beyond the compensation agreed on; "Remember to tip the waiter"; "fee the steward") }
+{ [ pitää, varata2,^ pitää_itsellään,^ hukata1,! noun.act:pitäminen,+]  [ säilyttää, varata2,^ pitää_itsellään,^ hukata1,!]  olla,@ pitää_vapaana,$ frames: 1 (retain possession of; "Can I keep my old stuffed animals?"; "She kept her maiden name after she married") }
+{ siirtää,  säilyttää1,  pitää,@ frames: 1 (hold over goods to be sold for the next season) }
+{ [ hoitaa, noun.act:hoito4,+ noun.person:hoitaja4,+]  [ pitää1, noun.act:pito,+]  olla,@ verb.stative:suojella2,$ frames: 1 (look after; be the keeper of; have charge of; "He keeps the shop when I am gone") }
+{ pitää2,  ylläpitää,  olla,@ frames: 1 (maintain for use and service; "I keep a car in the countryside"; "She keeps an apartment in Paris for her shopping trips") }
+{ olla,  omistaa,  verb.stative:olla8,$ frames: 1 (have or possess, either in a concrete or an abstract sense; "She has $1,000 in the bank"; "He has got two beautiful daughters"; "She holds a Master's degree from Harvard") }
+{ pitää3,  säilyttää2,  olla,@ pitää4,$ frames: 1 (have as a supply; "I always keep batteries in the freezer"; "keep food for a week in the pantry"; "She keeps a sixpack and a week's worth of supplies in the refrigerator") }
+{ pitää4,  säilyttää3,  varastoida3,@ pitää3,$ frames: 1 (store or keep customarily; "Where do you keep your gardening tools?") }
+{ [ monopolisoida, noun.act:monopolisointi,+ noun.person:monopolisoija,+ noun.state:monopoli,+ noun.person:monopolisti,+]  olla,@ frames: 1 (have or exploit a monopoly of; "OPEC wants to monopolize oil") }
+{ käyttää,  olla,@ frames: 1 (have and exercise; "wield power and authority") }
+{ [ omistaa1, noun.person:omistaja4,+ noun.person:omistaja3,+]  olla1,  olla_oma,  verb.stative:olla8,$ frames: 1 (have ownership or possession of; "He owns three houses in Florida"; "How many cars does she have?") }
+{ omistaa_etukäteen<unconfirmed/>,  omistaa1,@ frames: 1 (possess beforehand) }
+{ olla2,   frames: 1 (have left; "I have two years left"; "I don't have any money left"; "They have two more years before they retire") }
+{ [ ottaa, vallata_takaisin,^ hakea6,^ verb.social:kiertää<note>idiomin_osa</note>,^ antaa,! siirtää_haltuun<unconfirmed/>,!]   frames: 1 (take into one's possession; "We are taking an orphan from Romania"; "I'll take three salmon steaks") }
+{ ottaa_pois,  viedä,  ottaa,@ frames: 1 (take from a person or place; "We took the abused child away from its parents") }
+{ vallata_takaisin,  ottaa_takaisin_haltuunsa,  ottaa,@ frames: 1 (regain possession of something) }
+{ saada_sattumalta,  löytää,  saada1,@ frames: 1 (obtain, especially accidentally) }
+{ lunastaa_katteeton_sekki<unconfirmed/>,  saada2,@ frames: 1 (get credit or money by using a bad check; "The businessman kited millions of dollars") }
+{ kirjoittaa_katteeton_sekki,  verb.change:kasvattaa,@ frames: 1 (increase the amount (of a check) fraudulently; "He kited many checks") }
+{ löytää1,  törmätä,  saada_sattumalta,@ frames: 1 (encounter by chance; "I stumbled across a long-lost cousin last night in a restaurant") }
+{ ottaa_valtaansa,  vallata,   frames: 1 (take by force; "Hitler took the Baltic Republics"; "The army took the fort on the hill") }
+{ pelastaa,  ottaa_valtaansa,@ frames: 1 (take forcibly from legal custody; "rescue prisoners") }
+{ valloittaa_tikapuiden_avulla,  ottaa_valtaansa,@ frames: 1 (take by attacking with scaling ladders; "The troops scaled the walls of the fort") }
+{ [ ostaa, ostaa3,^ ostaa_ulos,^ hankkia_varastoon,^ myydä2,! noun.possession:ostos1,+ noun.act:ostaminen,+ noun.person:ostaja1,+ noun.act:osto1,+ noun.possession:ostos,+ noun.act:osto,+]  saada1,@ noun.act:kauppa,;c maksaa1,* verb.cognition:valita1,* verb.stative:saada,$ frames: 1 (obtain by purchase; acquire by means of a financial transaction; "The family purchased a new car"; "The conglomerate acquired a new company"; "She buys for the big department store") }
+{ ostaa_takaisin,  lunastaa,  ostaa,@ frames: 1 (buy what had previously been sold, lost, or given away; "He bought back the house that his father sold years ago") }
+{ [ ottaa1, hakea6,^]  ostaa,@ noun.act:kauppa,;c frames: 1 (buy, select; "I'll take a pound of that sausage") }
+{ ostaa1,  ostaa,@ noun.act:kauppa,;c frames: 1 (purchase; "What did you get at the toy store?") }
+{ myydä_loppuun,  myydä2,@ noun.act:kauppa,;c frames: 1 (sell; "We cleared a lot of the old model cars") }
+{ [ vuokrata, noun.time:vuokra-aika,+ noun.communication:vuokrasopimus,+ noun.person:vuokra-asukas,+ noun.person:vuokralainen2,+ noun.act:vuokraus1,+ noun.possession:vuokra,+]  palkata,  ottaa_palvelukseen,  ottaa2,  ottaa_vuokralle,  saada1,@ frames: 1 (engage for service under a term of contract; "We took an apartment on a quiet street"; "Let's rent a car"; "Shall we take a guide in Rome?") }
+{ antaa_vuokralle,  [ vuokrata1, noun.person:vuokraaja2,+ noun.person:vuokraaja1,+ noun.person:vuokranantaja1,+ vuokrata2,^ noun.person:vuokranantaja2,+ noun.possession:vuokra,+]  antaa,@ frames: 1 (grant use or occupation of under a term of contract; "I am leasing my country estate to some foreigners") }
+{ [ edelleenvuokrata, noun.possession:edelleenvuokraus,+]  jälleenvuokrata,  antaa_vuokralle,@ frames: 1 (lease or rent all or part of (a leased or rented property) to another person; "We sublet our apartment over the summer") }
+{ vuokrata2,  teettää_alihankintana,  lainata2,@ frames: 1 (grant the services of or the temporary use of, for a fee; "We rent out our apartment to tourists every year"; "He hired himself out as a cook") }
+{ [ tilata, noun.person:tilaaja1,+]  ostaa,@ frames: 1 (receive or obtain regularly; "We take the Times every day") }
+{ ottaa<note>Wordnetin_merkitysjaottelu_on_syvältä</note>3,  [ hyväksyä, adj.all:hyvä9^hyväksyttävä1,+]   frames: 1 (make use of or accept for some purpose; "take a risk"; "take an opportunity") }
+{ [ vastaanottaa, noun.person:vastaanottaja,+ noun.act:vastaanotto1,+]  saada,  saada1,@ hyväksyä1,$ frames: 1 (get something; come into possession of; "receive payment"; "receive a gift"; "receive letters from the front") }
+{ painostaa,  vastaanottaa,@ frames: 1 (get by trying hard; "she hustled a free lunch from the waiter") }
+{ ottaa_vastaan,  vastaanottaa1,  vastaanottaa,@ frames: 1 (receive (a report) officially, as from a committee) }
+{ vastaanottaa_varastettua_tavaraa,  vastaanottaa,@ frames: 1 (receive stolen goods) }
+{ [ saada1, noun.act:saaminen,+]  [ hankkia, adj.all:käsillä_oleva1^hankittavissa_oleva,+ noun.act:hankkiminen,+ noun.group:hankkija,+ noun.person:hankkija,+ adj.all:hankintoja_tekevä,+ adj.all:hankkiva,+ noun.act:hankkiminen1,+]  verb.change:saada2,$ frames: 1 (come into the possession of something concrete or abstract; "She got a lot of paintings from her uncle"; "They acquired a new pet"; "Get your results the next day"; "Get permission to take a few days off from work") }
+{ ansaita,  saada1,@ noun.act:kauppa,;c frames: 1 (get by buying and selling; "the company turned a good profit after a year") }
+{ ostaa2,  saada1,@ frames: 1 (acquire by trade or sacrifice or exchange; "She wanted to buy his love with her dedication to him and his work") }
+{ löytää2,  saada1,@ löytää4,$ frames: 1 (obtain through effort or management; "She found the time and energy to take care of her aging parents"; "We found the money to send our sons to college") }
+{ pölliä,  saada1,@ frames: 1 (seize upon or latch onto something; "The Republicans glommed onto Whitewater") }
+{ saada_hallintaansa,  ottaa_haltuun,  saada_tuurilla,  saada1,@ frames: 1 (take possession of; "She entered upon the estate of her rich relatives") }
+{ [ kieltää, antaa7,! sallia,! noun.person:kieltäjä1,+ noun.communication:kieltäytyminen2,+]  pitää,@ kieltäytyä,$ frames: 1 (refuse to let have; "She denies me every pleasure"; "he denies her her weekly allowance") }
+{ [ kieltäytyä, noun.act:kieltäymys,+ noun.person:kieltäjä1,+]  verb.social:hillitä1,@ kieltää,$ frames: 1 (deny oneself (something); restrain, especially from indulging in some pleasure; "She denied herself wine and spirits") }
+{ järjestää,  hankkia_käsiinsä,  tavoittaa,  hankkia1,  saada1,@ frames: 1 (get something or somebody for a specific purpose; "I found this gadget that will serve as a bottle opener"; "I got hold of these tools to fix our plumbing"; "The chairman got hold of a secretary on Friday night to type the urgent letter") }
+{ [ kieltäytyä_antamasta, noun.person:kieltäytyjä,+]  pitää_itsellään,  kieltää,@ frames: 1 (hold back; refuse to hand over or share; "The father is withholding the allowance until the son cleans his room") }
+{ pidätellä,  kieltäytyä_antamasta,@ frames: 1 (withhold information; "I kept your little secret to myself all these years") }
+{ [ kieltäytyä_antamasta1, noun.person:kieltäjä1,+]  kieltäytyä_antamasta,@ frames: 1 (refuse to grant, as of a petition or request; "The dean denied the students' request for more physics courses"; "the prisoners were denied the right to exercise for more than 2 hours a day") }
+{ säästää,  kieltäytyä_antamasta,@ frames: 1 (hold back or set aside, especially for future use or contingency; "they held back their applause in anticipation") }
+{ varata,  säästää,@ frames: 1 (set aside or apart for a specific purpose or use; "this land was devoted to mining") }
+{ jäädyttää,  pidättää,  kieltäytyä_antamasta,@ frames: 1 (hold as reserve or withdraw from circulation; of capital) }
+{ [ pidättää1, noun.act:pidätys2,+]  pitää,@ frames: 1 (retain and refrain from disbursing; of payments; "My employer is withholding taxes") }
+{ vähentää,  pidättää1,@ frames: 1 (deduct from someone's wages) }
+{ liittää,  ottaa7,@ frames: 1 (take (territory) as if by conquest; "Hitler annexed Lithuania") }
+{ [ rahoittaa, noun.act:rahoittaminen,+ noun.possession:rahoitus,+ noun.act:rahoitus1,+]  elättää,@ rahoittaa4,* kartuttaa<unconfirmed/>,$ frames: 1 (furnish money for; "The government funds basic research in many areas") }
+{ kartuttaa<unconfirmed/>,  rahoittaa<unconfirmed/>1,  kääriä1,@ rahoittaa,$ frames: 1 (accumulate a fund for the discharge of a recurrent liability; "fund a medical care plan") }
+{ sijoittaa_valtionobligaatioihin,  investoida,@ frames: 1 (invest money in government securities) }
+{ [ rahoittaa_laina<unconfirmed/>, noun.group:rahasto,+]  varustaa1,@ frames: 1 (provide a fund for the redemption of principal or payment of interest) }
+{ [ sijoittaa<unconfirmed/>, noun.possession:sijoitus<unconfirmed/>1,+]  rahoittaa,@ frames: 1 (supply with funds in return for a promised share of profits) }
+{ rahoittaa2,  rahoittaa,@ frames: 1 (provide with sufficient funds; finance; "Who will bankroll the restoration of the former East German economy?") }
+{ rahoittaa3,  ottaa_hoitaakseen,  rahoittaa,@ frames: 1 (take up, as of debts or payments; "absorb the costs for something") }
+{ [ avustaa, noun.possession:avustukset,+]  [ tukea, noun.possession:tuki,+ noun.act:tukeminen_rahallisesti,+ noun.person:tukija6,+]  elättää,@ frames: 1 (support through subsidies; "The arts in Europe are heavily subsidized") }
+{ [ tukea1, noun.act:tukeminen_rahallisesti,+]  [ avustaa1, noun.possession:avustukset,+]  maksaa1,@ frames: 1 (secure the assistance of by granting a subsidy, as of nations or military forces) }
+{ [ rahoittaa4, noun.act:rahoittaminen,+ noun.act:raha-asiat,+ noun.act:rahoitus,+ noun.cognition:rahoitus,+ noun.cognition:rahoitusoppi,+ noun.act:rahoitus1,+]  maksaa1,@ frames: 1 (obtain or provide money for; "Can we finance the addition to our home?") }
+{ sijoittaa1,  rahoittaa4,@ frames: 1 (help (an enterprise) in its early stages of development by providing seed money) }
+{ antaa_tukea,  [ tukea2, noun.act:tuki6,+ noun.person:tukija,+ noun.possession:tuki8,+]  rahoittaa4,@ frames: 1 (support financial backing for; "back this enterprise") }
+{ [ rahoittaa5, noun.act:raha-asiat,+ noun.act:rahoitus,+]  hyvittää4,@ frames: 1 (sell or provide on credit) }
+{ hankkia_varoja,  kerätä_rahaa,  kerätä_varoja,  hankkia9,@ frames: 1 (raise money for a cause or project; "We are fundraising for AIDS research") }
+{ periä,  veloittaa,  ottaa,@ frames: 1 (call for and obtain payment of; "we collected over a million dollars in outstanding debts"; "he collected the rent") }
+{ [ kerätä, teettää_alihankintana,^]  periä,@ frames: 1 (collect fees or profits) }
+{ rahoittaa_uudelleen,  rahoittaa4,@ frames: 1 (renew the financing of) }
+{ rahastoida,  sijoittaa2,  kääriä1,@ frames: 1 (place or store up in a fund for accumulation) }
+{ tallentaa_tietokoneeseen,  varastoida,@ frames: 1 (store in a computer; "computerized dictionary") }
+{ rahastoida<unconfirmed/>1,  sijoittaa<unconfirmed/>3,  rahoittaa4,@ frames: 1 (convert (short-term floating debt) into long-term debt that bears fixed interest and is represented by bonds) }
+{ elättää,  antaa,@ frames: 1 (support materially or financially; "he does not support his natural children"; "The scholarship supported me when I was in college") }
+{ elättää1,  hankkia_elanto,  tienata,  elättää,@ frames: 1 (supply means of subsistence; earn a living; "He provides for his large family by working three jobs"; "Women nowadays not only take care of the household but also bring home the bacon") }
+{ auttaa_läpi,  elättää,@ frames: 1 (support financially through a period of time; "The scholarship saw me through college"; "This money will see me through next month") }
+{ [ sponsoroida, noun.person:sponsori,+ noun.person:sponsori1,+]  [ rahoittaa6, noun.person:rahoittaja2,+]  kustantaa,  elättää,@ frames: 1 (assume sponsorship of) }
+{ [ sponsoroida1, noun.person:sponsori,+]  tukea3,  verb.social:tukea3,@ frames: 1 (assume responsibility for or leadership of; "The senator announced that he would sponsor the health care plan") }
+{ toimia_toisena_sponsorina,  sponsoroida,@ frames: 1 (sponsor together with another sponsor) }
+{ [ siirtää1, noun.person:siirtäjä3,+ noun.act:siirto13,+]  verb.motion:siirtää1,* vaihtaa_omistajaa,> frames: 1 (cause to change ownership; "I transferred my stock holdings to my children") }
+{ luovuttaa,  siirtää1,@ frames: 1 (transfer by a lease or by a will) }
+{ [ luovuttaa1, adj.all:luovutettavissa_oleva,+ adj.all:luovutuskelpoinen,+]  [ myydä, adj.all:myytävissä_oleva,+]  [ siirtää2, adj.all:siirrettävissä_oleva,+ adj.all:siirtokelpoinen,+]  siirtää1,@ frames: 1 (transfer property or ownership; "The will aliened the property to the heirs") }
+{ siirtää3,  siirtää1,@ frames: 1 (transfer by endorsement to another in return for value received; "negociate a bond") }
+{ tehdä_kauppaa,  myydä2,@ noun.act:kauppa,;c frames: 1 (sell or discount; "negociate securities") }
+{ [ luovuttaa2, adj.all:luovutettavissa_oleva^luovutettavissa_oleva1,+ adj.all:luovutettavissa_oleva^luovutettavissa<idiomatic_pos/>,+ noun.act:luovutus11,+ noun.act:luovuttaminen2,+]  siirtää1,@ noun.group:laki,;c frames: 1 (transmit a title or property) }
+{ siirtyä,  verb.change:muuttua,@ frames: 1 (transfer to another; of rights or property; "Our house passed under his official control") }
+{ siirtää_maalliseen_omistukseen,  siirtää1,@ frames: 1 (transfer from ecclesiastical to civil possession, use, or control) }
+{ vaihtaa_omistajaa,  verb.motion:siirtää1,@ frames: 1 (be transferred to another owner; "This restaurant changed hands twice last year") }
+{ siirtyä_jollekin,  vaihtaa_omistajaa,@ uskoa_jollekin,$ frames: 1 (become legally vested; "The property vests in the trustees") }
+{ [ heittää_pois, noun.act:heittäminen,+]  viskata_menemään,  heittää_menemään,  [ heittää_roskiin, noun.act:heittäminen,+]  hylätä,  hankkiutua_eroon,@ frames: 1 (throw or cast away; "Put away your worries") }
+{ päästä_eroon,  hankkiutua_eroon,@ frames: 1 (discard as undesirable; "the candidate sloughed off his former campaign workers") }
+{ päästä_eroon1,  hylätä1,  heittää_pois,@ frames: 1 (toss out; get rid of; "deep-six these old souvenirs!") }
+{ keventää_lastia,  heittää_yli_laidan,  heittää_pois,@ frames: 1 (throw away, of something encumbering) }
+{ heittää_pois1,  romuttaa,  heittää_pois,@ frames: 1 (dispose of (something useless or old); "trash these old chairs"; "junk an old car"; "scrap your old computer") }
+{ poistaa,  heittää_pois,@ frames: 1 (get rid of; "We waste the dirty water by channeling it into the sewer") }
+{ karsia,  kitkeä_pois,  kammata,  hankkiutua_eroon,@ frames: 1 (remove unwanted elements; "The company weeded out the incompetent people"; "The new law weeds out the old inequities") }
+{ maksaa_työnteolla,  hankkiutua_eroon,@ frames: 1 (cause to go away through effort or work; "work off the extra pounds you have gained over the holidays"; "we must work off the debt") }
+{ hankkiutua_eroon,  [ poistaa1, noun.act:poistaminen4,+ noun.act:poisto2,+]   frames: 1 (dispose of; "Get rid of these old shoes!"; "The company got rid of all the dead wood") }
+{ poistaa2,  hankkiutua_eroon,@ frames: 1 (remove something that has been rejected; "cull the sick members of the herd") }
+{ jättää,  hylätä2,  tehdä_bänät,  hankkiutua_eroon,@ frames: 1 (sever all ties with, usually unceremoniously or irresponsibly; "The company dumped him after many years of service"; "She dumped her boyfriend when she fell in love with a rich man") }
+{ kaataa_jätteitä,  heittää_pois,@ frames: 1 (throw away as refuse; "No dumping in these woods!") }
+{ heittää_pois2,  heittää_pois,@ frames: 1 (dispose of (something no longer useful or needed); "She finally retired that old coat") }
+{ säilyttää4,  säilöä,  pitää,@ frames: 1 (to keep up and reserve for personal or special use; "She saved the old family photographs in a drawer") }
+{ nuukailla,  pihistellä,  kitsastella,  pihdata,  pihtailla,  varustaa1,@ frames: 1 (supply sparingly and with restricted quantities; "sting with the allowance") }
+{ lisätä_siivekkeet<unconfirmed/>,  varustaa3,@ frames: 1 (equip (a car) with fins) }
+{ varustaa_moottorilla,  varustaa3,@ frames: 1 (equip with a motor; "motorized scooters are now the rage") }
+{ varustaa_moottorilla1,  varustaa3,@ frames: 1 (equip with a motor vehicle; "The police around here are not motorized and patrol the streets on horseback") }
+{ rakentaa_terassi,  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (provide (a house) with a terrace; "We terrassed the country house") }
+{ varustaa_puolikorkealla_paneelilla,  varustaa1,@ noun.act:puusepäntyö,;c frames: 1 (provide with a dado; "The owners wanted to dado their dining room") }
+{ [ hermottaa, noun.attribute:hermotus,+]  varustaa1,@ frames: 1 (supply nerves to (some organ or body part)) }
+{ kierrättää,  käyttää_uudelleen,  verb.consumption:kierrättää,@ säilyttää4,* frames: 1 (reuse (materials from waste products)) }
+{ [ palsamoida, noun.act:palsamointi,+ noun.person:palsamoija,+]  suojella,@ frames: 1 (preserve a dead body) }
+{ [ muumioida, noun.body:muumio,+ noun.act:muumiointi,+]  palsamoida,@ verb.change:muumioitua,$ frames: 1 (remove the organs and dry out (a dead body) in order to preserve it; "Th Egyptians mummified their pharaohs") }
+{ heittää_pois3,  hylätä3,  heittää_menemään1,  hylätä5,@ noun.communication:slangi,;u frames: 1 (throw away; "Chuck these old notes") }
+{ jättää1,  hylätä4,  jättää_sikseen,  [ luopua, noun.communication:luopuminen5,+ noun.act:luopuminen3,+]  antaa_alttiiksi,@ frames: 1 (turn away from; give up; "I am foreswearing women forever") }
+{ antaa_alttiiksi,  luovuttaa3,   frames: 1 (give up with the intent of never claiming again; "Abandon your life to God"; "She gave up her children to her ex-husband when she moved to Tahiti"; "We gave the drowning victim up for dead") }
+{ hylätä5,  jättää2,  [ luopua1, noun.act:luopuminen,+ noun.act:luovutus1,+]  heittää_pois,@ frames: 1 (forsake, leave behind; "We abandoned the old car in the empty parking lot") }
+{ hylätä6,  verb.cognition:hylätä2,@ frames: 1 (forsake; "ditch a lover") }
+{ jättää_rannalle,  hylätä7,  verb.cognition:hylätä2,@ frames: 1 (leave stranded or isolated with little hope of rescue; "the travellers were marooned") }
+{ [ luovuttaa4, noun.person:luovutuksensaaja1,+ noun.possession:luovutus<unconfirmed/>,+ noun.possession:luovutustoimi<unconfirmed/>,+ noun.communication:luovutus,+ noun.communication:luovutustoimi,+]  [ siirtää4, noun.person:siirronsaaja1,+ noun.communication:siirto,+ noun.communication:siirtotoimi,+ noun.communication:siirtäminen,+ adj.all:luovutettavissa_oleva^siirrettävä,+ adj.all:luovutettavissa_oleva^siirtokelpoinen1,+]  siirtää1,@ frames: 1 (transfer one's right to) }
+{ [ antaa2, noun.act:antaminen2,+]  luovuttaa5,  myöntää,  jakaa1,  jaella1,@ frames: 1 (give out; "We were assigned new uniforms") }
+{ jakaa_uudelleen,  jaella1,@ frames: 1 (allot again; "They were realloted additional farm land") }
+{ [ testamentata, tehdä_perinnöttömäksi,! noun.communication:testamentti2,+]  jättää_perinnöksi,  antaa_lahjaksi,@ verb.change:jättää1,$ kertoa,$ frames: 1 (leave or give by will after one's death; "My aunt bequeathed me all her jewelry"; "My grandfather left me his entire estate") }
+{ [ testamentata1, noun.person:testamentinsaaja1,+ noun.possession:testamentti1,+]  testamentata,@ frames: 1 (give by will, especially real property) }
+{ mennä,  palata,  siirtyä1,  siirtyä_perintönä,  vaihtaa_omistajaa,@ tulla_jkn_osaksi1,$ frames: 1 (be inherited by; "The estate fell to my sister"; "The land returned to the family"; "The estate devolved to an heir that everybody had assumed to be dead") }
+{ tulla_jkn_osaksi,  mennä,@ tulla_jkn_osaksi1,$ tulla_jkn_osaksi2,$ frames: 1 (fall to somebody by assignment or lot; "The task fell to me"; "It fell to me to notify the parents of the victims") }
+{ tulla_jkn_osaksi1,  päätyä_jllk,  vaihtaa_omistajaa,@ tulla_jkn_osaksi,$ mennä,$ frames: 1 (come into the possession of; "The house accrued to the oldest son") }
+{ antaa3,  testamentata,@ frames: 1 (give to or transfer possession of; "She passed the family jewels on to her daughter-in-law") }
+{ siirtää5,  antaa3,@ frames: 1 (transmit from one generation to the next; "propagate these characteristics") }
+{ jättää_perinnöksi1,  antaa3,@ frames: 1 (passed on, as by inheritance; "This ring was handed down through many generations") }
+{ [ ojentaa, antaa3,^ välittää1,^ verb.social:siirtää2,^ verb.communication:kertoa_eteenpäin,^ jakaa,^ jättää_perinnöksi1,^ antaa_haltuun1,^ jaella,^ antaa13,^]  kurkottaa,  välittää,  siirtää<approximate/>6,  antaa4,  siirtää1,@ frames: 1 (place into the hands or custody of; "hand me the spoon, please"; "Turn the files over to me, please"; "He turned over the prisoner to his lawyers") }
+{ sujauttaa,  livauttaa,  ojentaa,@ frames: 1 (pass on stealthily; "He slipped me the key when nobody was looking") }
+{ syöttää,  verb.contact:lennättää1,@ frames: 1 (throw (a ball) to another player; "Smith passed") }
+{ [ tartuttaa, noun.event:tartunta,+ adj.all:tarttuva5^tarttuva6,+ adj.all:tarttuva5^tartuntavaarallinen,+ noun.event:tartuttaminen,+]  siirtää7,@ frames: 1 (transfer to another; "communicate a disease") }
+{ ladata,  siirtää7,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (transfer from a storage device to a computer's memory) }
+{ painaa_offsetilla,  siirtää7,@ frames: 1 (cause (printed matter) to transfer or smear onto another surface) }
+{ [ siirtää7, noun.person:siirtäjä3,+ noun.act:siirto5,+ noun.act:siirtäminen1,+]  verb.motion:siirtää1,@ frames: 1 (move from one place to another; "transfer the data"; "transmit the news"; "transfer the patient to another hospital") }
+{ [ tuoda, viedä1,!]  siirtää7,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (transfer (electronic data) into a database or document) }
+{ [ viedä1, tuoda,!]  siirtää7,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (transfer (electronic data) out of a database or document in a format that can be used by other programs) }
+{ siirtää8,  siirtää7,@ frames: 1 (transfer to a peripheral device, of computer data) }
+{ viedä2,  siirtää7,@ verb.motion:siirtää7,$ frames: 1 (transfer (entries) from one account book to another) }
+{ [ FTP, noun.communication:FTP,+]  siirtää7,@ frames: 1 (use the file transfer protocol to transfer data from one computer to another; "You can FTP these data") }
+{ tallentaa_väliaikaisesti,  tehdä_välitallennus,  siirtää7,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (transfer data intended for a peripheral device (usually a printer) into temporary storage) }
+{ [ ladata1, siirtää_tietoa<broader/>,! lähettää_tiedosto,! siirtää_palvelimelle,!]  [ noutaa, siirtää_tietoa<broader/>,! lähettää_tiedosto,! siirtää_palvelimelle,!]  [ imuttaa, siirtää_tietoa<broader/>,! lähettää_tiedosto,! siirtää_palvelimelle,!]  [ imuroida, siirtää_tietoa<broader/>,! lähettää_tiedosto,! siirtää_palvelimelle,!]  siirtää7,@ frames: 1 (transfer a file or program from a central computer to a smaller computer or to a computer at a remote location) }
+{ [ siirtää_tietoa<broader/>, ladata1,! noutaa,! imuttaa,! imuroida,!]  [ lähettää_tiedosto, ladata1,! noutaa,! imuttaa,! imuroida,!]  [ siirtää_palvelimelle, ladata1,! noutaa,! imuttaa,! imuroida,!]  siirtää7,@ frames: 1 (transfer a file or program to a central computer from a smaller computer or a computer at a remote location) }
+{ [ jakaa2, noun.person:jakaja,+ noun.act:jakelu4,+ noun.act:jako4,+]  osoittaa,  [ varata1, noun.possession:varaus,+ noun.act:varaaminen1,+ noun.act:varaaminen,+ noun.act:varaus,+]  ositella,  annostella,  antaa2,@ frames: 1 (distribute according to a plan or set apart for a special purpose; "I am allocating a loaf of bread to everyone on a daily basis"; "I'm allocating the rations for the camping trip") }
+{ jakaa_uudelleen1,  jakaa3,  jakaa2,@ frames: 1 (allocate, distribute, or apportion anew; "Congressional seats are reapportioned on the basis of census data") }
+{ säännöstellä,  annostella1,  jakaa2,@ frames: 1 (distribute in rations, as in the army; "Cigarettes are rationed") }
+{ [ säännöstellä1, noun.act:säännöstely2,+]  verb.change:vähentää3,@ frames: 1 (restrict the consumption of a relatively scarce commodity, as during war; "Bread was rationed during the siege of the city") }
+{ [ antautua, noun.person:antautuja,+]  [ luovuttaa6, noun.act:luovutus4,+]  antaa5,  luopua2,  antaa_lahjaksi,@ frames: 1 (relinquish possession or control over; "The squatters had to surrender the building after the police moved in") }
+{ luovuttaa7,  antautua,@ frames: 1 (surrender, as a result of pressure or force) }
+{ myydä1,  antautua,@ verb.social:kavaltaa,$ frames: 1 (give up for a price or reward; "She sold her principles for a successful career") }
+{ esittää_tieto,  paljastaa,  verb.communication:kertoa6,@ kertoa,$ frames: 1 (convey or reveal information; "Give one's name") }
+{ äänestää<note>antaa_ääni</note>,  esittää_tieto,@ frames: 1 (deposit; "cast a vote"; "cast a ballot") }
+{ [ hyväksyä1, kieltäytyä1,! noun.act:hyväksyminen1,+ noun.act:hyväksyminen2,+]  [ ottaa_vastaan1, kieltäytyä1,!]  [ ottaa4, ottaa_vastatakseen,^ verb.stative:ottaa_suojiinsa,^ ottaa_hoitaakseen,^ hyväksyä4,^ noun.person:ottaja1,+]  suostua,  saada1,@ vastaanottaa,$ frames: 1 (receive willingly something given or offered; "The only girl who would have him was the miller's daughter"; "I won't have this dog in my house!"; "Please accept my present") }
+{ hyväksyä2,  ottaa_vastaan2,  ottaa_mukaan,  päästää_mukaan,  ottaa5,  kelpuuttaa,  päästää,  hyväksyä1,@ verb.social:hyväksyä2,$ frames: 1 (admit into a group or community; "accept students for graduate study"; "We'll have to vote on whether or not to admit a new member") }
+{ [ tankata, noun.act:tankkaus,+]  tankata1,@ frames: 1 (take on more fuel, as of a plane, ship, or car) }
+{ [ tankata1, noun.act:tankkaus,+]  verb.contact:imeä3,@ frames: 1 (take in fuel, as of a ship; "The tanker fueled in Bahrain") }
+{ ottaa_vastaan_mielellään,  hyväksyä1,@ frames: 1 (accept gladly; "I welcome your proposals") }
+{ [ kieltäytyä1, hyväksyä1,! ottaa_vastaan1,! noun.communication:kieltäytyminen,+]  torjua,  hylätä8,  verb.communication:hylätä1,$ frames: 1 (refuse to accept; "He refused my offer of hospitality") }
+{ [ hyväksyä3, jättää_lunastamatta,!]  kelpuuttaa1,  hyväksyä1,@ frames: 1 (accept as pay; "we honor checks and drafts") }
+{ maksaa,  maksaa_osansa,  maksaa1,@ frames: 1 (provide; "The city has to put up half the required amount") }
+{ [ jättää_lunastamatta, hyväksyä3,!]  hylätä9,  kieltäytyä1,@ frames: 1 (refuse to accept; "dishonor checks and drafts") }
+{ [ saada2, adj.all:käsillä_oleva1^saatavissa_oleva4,+ noun.act:saanti,+ noun.act:saavuttaminen2,+]  hankkia2,  saada1,@ frames: 1 (come into possession of; "How did you obtain the visa?") }
+{ hankkia3,  saada2,@ frames: 1 (get (a product) from another country or business; "She sourced a supply of carpet"; "They are sourcing from smaller companies") }
+{ [ hankkia4, noun.act:hankkiminen2,+ noun.act:hankinta,+ noun.person:hankkija1,+]  saada_haltuunsa,  saada2,@ frames: 1 (get by special effort; "He procured extra cigarettes even though they were rationed") }
+{ kiristää,  saada2,@ frames: 1 (get despite difficulties or obstacles; "I extracted a promise from the Dean for two new positions") }
+{ hakea,  saada2,@ frames: 1 (obtain by legal or official process; "take out a license"; "take out a patent") }
+{ tulla_valituksi,  päästä_opiskelemaan,  saada2,@ frames: 1 (secure a place in a college, university, etc.) }
+{ suojata_tekijänoikeus,  hankkia4,@ frames: 1 (secure a copyright on a written work; "did you copyright your manuscript?") }
+{ [ patentoida, noun.communication:patentti,+ noun.person:patentinhaltija,+]  hankkia4,@ frames: 1 (obtain a patent for; "Should I patent this invention?") }
+{ hankkia_vaivalloisesti,  puristaa,  saada2,@ frames: 1 (obtain with difficulty; "He eked out some information from the archives") }
+{ kituuttaa,  ansaita3,@ frames: 1 (make by laborious and precarious means; "He eked out a living as a painter") }
+{ palkata1,  värvätä,  hankkia4,@ frames: 1 (hire for work or assistance; "engage aid, help, services, or support") }
+{ palkata2,  pestata,  rekrytoida,  palkata1,@ frames: 1 (seek to employ; "The lab director recruited an able crew of assistants") }
+{ tavoitella,  hakea1,  verb.emotion:haluta4,@ frames: 1 (try to get or reach; "seek a position"; "seek an education"; "seek happiness") }
+{ [ pyrkiä_jhk, noun.act:pyrkiminen,+ noun.act:pyrkimys1,+]  [ yrittää, noun.act:yritys3,+]  tavoitella,@ frames: 1 (make a serious effort to attain something; "His campaign bid for the attention of the poor population") }
+{ [ etsiä, noun.person:etsijä2,+]  hakea2,  tavoitella,@ frames: 1 (make a search (for); "Things that die with their eyes open and questing"; "The animal came questing through the forest") }
+{ [ kiristää1, noun.act:kiristys1,+]  tiukata,  puristaa1,  piinata<broader/>,  vaivata<broader/>,  huijata,  kiskoa,  ylihinnoitella,@ frames: 1 (obtain by coercion or intimidation; "They extorted money from the executive by threatening to reveal his past to the company boss"; "They squeezed money from the owner of the business by threatening him") }
+{ nostaa_hintaa_sovitusta_hinnasta<unconfirmed/>,  verb.social:pettää5,@ frames: 1 (raise the price of something after agreeing on a lower price) }
+{ [ kiristää2, noun.act:kiristys4,+]  ottaa_valtaansa,@ noun.act:rikos1,;c frames: 1 (obtain through intimidation) }
+{ [ kiristää3, noun.act:kiristys2,+ noun.act:kiristäminen3,+ noun.person:kiristäjä,+]  kiristää2,@ noun.act:rikos1,;c frames: 1 (obtain through threats) }
+{ myydä_mustassa_pörssissä,  myydä2,@ noun.act:rikos1,;c frames: 1 (sell illegally, as on the black market) }
+{ [ trokata, noun.person:trokari,+]  myydä2,@ noun.act:rikos1,;c frames: 1 (sell illicit products such as drugs or alcohol; "They were bootlegging whiskey") }
+{ kaupata,  pyörittää_mustaa_pörssiä,  kaupata1,@ noun.act:rikos1,;c verb.motion:liikennöidä,$ frames: 1 (deal in illegally, such as arms or liquor) }
+{ [ myydä2, ostaa,! noun.person:myyjä3,+ noun.act:myynti3,+ noun.act:myynti,+]  vaihtaa,@ noun.act:kauppa,;c antaa,* verb.stative:mennä_kaupaksi,$ frames: 1 (exchange or deliver for money or its equivalent; "He sold his house in January"; "She sells her body to survive and support her drug habit") }
+{ myydä<broader/>3,  myydä2,@ noun.act:kauppa,;c frames: 1 (sell securities or commodities or foreign currency that is not actually owned by the seller, who hopes to cover (buy back) the sold items at a lower price and thus to earn a profit) }
+{ myydä_alennuksella,  myydä2,@ noun.act:kauppa,;c frames: 1 (sell cheaply as remainders; "The publisher remaindered the books") }
+{ jälleenmyydä,  myydä2,@ noun.act:kauppa,;c frames: 1 (sell (something) again after having bought it) }
+{ [ myydä4, noun.act:myyminen,+]  myydä2,@ frames: 1 (sell articles, television programs, or photos to several publications or independent broadcasting stations) }
+{ myydä_kokoelmasta,  myydä2,@ noun.act:taide,;c noun.act:kauppa,;c frames: 1 (sell (art works) from a collection, especially in order to raise money for the purchase of other art works; "The museum deaccessioned several important works of this painter") }
+{ [ myydä_pois, noun.act:myynti6,+]  myydä2,@ frames: 1 (get rid of by selling, usually at reduced prices; "The store sold off the surplus merchandise") }
+{ tyrkyttää,  huijata_ostamaan,  myydä_väkisin,  myydä2,@ noun.act:kauppa,;c noun.act:rikos1,;c frames: 1 (sell as genuine, sell with the intention to deceive) }
+{ [ realisoida, noun.act:realisointi,+]  muuttaa_rahaksi,  myydä2,@ noun.act:kauppa,;c frames: 1 (convert into cash; of goods and property) }
+{ [ huutokaupata, noun.act:huutokauppa,+ noun.person:huutokaupan_meklari,+ noun.person:huutokaupan_toimittaja,+]  myydä_huutokaupalla,  meklaroida,  pitää_huutokauppaa,  toimia_meklarina_huutokaupassa,  myydä2,@ noun.act:kauppa,;c frames: 1 (sell at an auction) }
+{ [ käydä_kauppaa, jakaa7,^ kaupata1,^]  [ myydä5, noun.person:myyjä3,+ noun.act:myynti3,+ noun.act:myynti,+]  toimittaa<note>asia</note><note>liiketoimintaa</note>,@ noun.act:kauppa,;c verb.stative:mennä_kaupaksi,$ myydä6,$ frames: 1 (do business; offer for sale as for one's livelihood; "She deals in gold"; "The brothers sell shoes") }
+{ myydä_huumeita,  käydä_kauppaa,@ noun.act:rikos1,;c frames: 1 (sell or promote the sale of (illegal goods such as drugs); "The guy hanging around the school is pushing drugs") }
+{ toimittaa<note>asia</note><note>liiketoimintaa</note>,  suorittaa<note>asia</note><note>liiketoimintaa</note>,  harjoittaa<note>asia</note><note>liiketoimintaa</note>,  verb.social:vuorovaikuttaa,@ noun.act:kauppa,;c frames: 1 (conduct business; "transact with foreign governments") }
+{ myydä6,  diilata,  käydä_kauppaa,@ noun.act:kauppa,;c käydä_kauppaa,$ frames: 1 (sell; "deal hashish") }
+{ käydä_kauppaa_mustassa_pörssissä,  käydä_kauppaa,@ noun.act:rikos1,;c frames: 1 (deal on the black market) }
+{ osallistua_pyramidikauppaan,  käydä_kauppaa,@ noun.act:rikos1,;c frames: 1 (use or deal in (as of stock or commercial transaction) in a pyramid deal) }
+{ [ jakaa4, noun.group:jako,+ noun.person:jakaja1,+ noun.act:jako5,+]  jaella1,@ noun.act:korttipeli,;c jakaa5,$ frames: 1 (distribute cards to the players in a game; "Who's dealing?") }
+{ [ jakaa5, noun.person:jakaja1,+ noun.group:jako,+ noun.act:jako5,+]  ojentaa,@ noun.act:korttipeli,;c jakaa4,$ frames: 1 (give (a specific card) to a player; "He dealt me the Queen of Spades") }
+{ jakaa_väärin<note>korttipelissä</note>,  jakaa4,@ noun.act:korttipeli,;c frames: 1 (deal cards wrongly) }
+{ [ myydä_vähittäin, myydä_tukuttain,! noun.act:myynti1,+]  myydä2,@ noun.act:kauppa,;c verb.stative:myydä_vähittäin,$ frames: 1 (sell on the retail market) }
+{ [ myydä_tukuttain, myydä_vähittäin,!]  myydä2,@ noun.act:kauppa,;c frames: 1 (sell in large quantities) }
+{ tuottaa,  tuottaa<note>voittoa</note>1,  saada3,  vaihtaa_omistajaa,* frames: 1 (be sold for a certain price; "The painting brought $10,000"; "The old print fetched a high price at the auction") }
+{ myydä_loppuun1,  myydä_pois1,  myydä7,  heittää_pois,@ noun.act:kauppa,;c myydä2,* frames: 1 (get rid of all one's merchandise) }
+{ myydä_pois_museon_kokoelmista,  heittää_pois,@ frames: 1 (dispose of by selling; "the museum sold off its collection of French impressionists to raise money"; "the publishing house sold off one of its popular magazines") }
+{ saada_takaisin,  saavuttaa,  saada1,@ löytää4,$ frames: 1 (get or find back; recover the use of; "She regained control of herself"; "She found her voice and replied quickly") }
+{ ottaa<approximate/>6,  saada1,@ frames: 1 (get or regain something necessary, usually quickly or briefly; "Catch some sleep"; "catch one's breath") }
+{ [ löytää3, noun.person:löytäjä,+ noun.act:löytäminen,+]  löytää_sattumalta,  törmätä1,  [ kohdata, noun.event:kohtaaminen,+]  kohdata_sattumalta,   frames: 1 (come upon, as if by accident; meet with; "We find this idea in Plato"; "I happened upon the most wonderful bakery not very far from here"; "She chanced upon an interesting book in the bookstore the other day") }
+{ hakea3,  noutaa1,  saada_takaisin,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (obtain or retrieve from a storage device; as of information on a computer) }
+{ käyttää1,  hakea3,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (access or locate by address) }
+{ [ kirjautua_sisään, kirjautua_ulos,!]  kirjautua,  sisäänkirjautua,  hakea3,@ frames: 1 (enter a computer; "Have you logged in lately?") }
+{ [ kirjautua_ulos, kirjautua_sisään,!]  uloskirjautua,  verb.motion:poistua5,@ frames: 1 (exit a computer; "Please log off before you go home") }
+{ voittaa_takaisin,  saada_takaisin1,  saada1,@ frames: 1 (regain or make up for; "recuperate one's losses") }
+{ maksaa_takaisin,  [ hyvittää, noun.possession:hyvitys2,+]  [ korvata, noun.possession:korvaus2,+]  korvata1,@ frames: 1 (reimburse or compensate (someone), as for a loss) }
+{ [ korvata1, noun.possession:korvaus1,+]  [ hyvittää1, noun.possession:hyvitys,+]  palkita,  kompensoida,  maksaa1,@ frames: 1 (make payment to; compensate; "My efforts were not remunerated") }
+{ [ maksaa_liikaa, alipalkata,!]  maksaa1,@ frames: 1 (pay too much) }
+{ [ alipalkata, maksaa_liikaa,! noun.act:alipalkkaaminen,+]  maksaa1,@ frames: 1 (pay too little) }
+{ maksaa_ennakkoon,  maksaa1,@ frames: 1 (pay for something before receiving it) }
+{ jakaa_kustannukset_tasan,  maksaa_omansa,  maksaa1,@ frames: 1 (share expenses equally and split the cost of something; "My boyfriend and I always go Dutch") }
+{ [ korvata2, noun.possession:korvaus1,+ noun.act:korvaus,+]  [ hyvittää2, noun.act:hyvitys2,+ noun.possession:hyvitys3,+]  maksaa1,@ frames: 1 (make amends for; pay compensation for; "One can never fully repair the suffering and losses of the Jews in the Third Reich"; "She was compensated for the loss of her arm in the accident") }
+{ [ vakuuttaa, noun.state:vakuutus,+]  verb.competition:suojata,@ frames: 1 (take out insurance for) }
+{ [ turvata, noun.state:turva,+]  vapauttaa_vastuusta,  verb.communication:kattaa,@ frames: 1 (secure against future loss, damage, or liability; give security for; "This plan indemnifies workers against wages lost through illness") }
+{ lisävakuuttaa,  vakuuttaa,@ frames: 1 (provide additional insurance for) }
+{ ottaa_rinnakkaisvakuutus,  vakuuttaa,@ frames: 1 (take out coinsurance) }
+{ [ maksaa1, maksaa7,^ rahoittaa,^ lahjoa2,^ maksaa_pois,^ maksaa9,^ noun.possession:maksu,+ noun.person:maksun_saaja,+ noun.person:maksaja,+ noun.act:maksaminen,+ noun.act:maksusuoritus,+]  antaa,@ frames: 1 (give money, usually in exchange for goods or services; "I paid four dollars for this sandwich"; "Pay the waitress, please") }
+{ maksaa_kymmenykset,  maksaa1,@ maksaa_kymmenykset1,$ frames: 1 (pay a tenth of one's income, especially to the church; "Although she left the church officially, she still tithes") }
+{ maksaa_kymmenykset1,  maksaa_kymmenykset,$ frames: 1 (pay one tenth of; pay tithes on, especially to the church; "He tithed his income to the Church") }
+{ [ maksaa2, laiminlyödä_maksu,! noun.possession:maksu,+ noun.act:maksaminen,+ noun.act:maksusuoritus,+]  maksaa_osuutensa,  maksaa3,@ frames: 1 (cancel or discharge a debt; "pay up, please!") }
+{ [ maksaa3, noun.possession:maksu,+ noun.person:maksaja,+ noun.act:maksaminen,+ noun.act:maksusuoritus,+]  maksaa5,@ frames: 1 (discharge or settle; "pay a debt"; "pay an obligation") }
+{ selvittää_tilit,  maksaa5,@ frames: 1 (pay someone and settle a debt; "I squared with him") }
+{ [ maksaa4, verb.competition:kostaa2,^ verb.competition:maksaa,^ verb.competition:selvittää_välit_lopullisesti,^ verb.competition:tehdä_tilit_selväksi,^ noun.person:maksun_saaja,+ noun.person:maksaja,+]  korvata3,  hyvittää3,  maksaa5,@ frames: 1 (do or give something to somebody in return; "Does she pay you for the work you are doing?") }
+{ [ laiminlyödä_maksu, maksaa2,! noun.possession:laiminlyönti,+]  verb.social:jättää_tekemättä,@ olla_velkaa,* frames: 1 (fail to pay up) }
+{ olla_velkaa,  olla_auki,  verb.stative:olla1,@ frames: 1 (be in debt; "She owes me $200"; "I still owe for the car"; "The thesis owes much to his adviser") }
+{ olla_velkaa1,   frames: 1 (be obliged to pay or repay) }
+{ maksaa5,  suorittaa1,  verb.communication:sopia5,@ frames: 1 (dispose of; make a financial settlement) }
+{ ottaa_hengiltä,  maksaa5,@ frames: 1 (settle the affairs of by determining the debts and applying the assets to pay them off; "liquidate a company") }
+{ selvittää,  maksaa5,@ frames: 1 (dispose of; "settle the bills") }
+{ kieltäytyä<approximate/>2,  kieltäytyä1,@ palautua,> palautua,$ frames: 1 (refuse to accept and send back; "bounce a check") }
+{ [ palautua, käsitellä,!]  verb.motion:palata,@ kieltäytyä<approximate/>2,$ frames: 1 (come back after being refused; "the check bounced") }
+{ [ maksaa6, noun.possession:maksuosoitus,+]  maksaa1,@ siirtää1,* frames: 1 (send (money) in payment; "remit $25") }
+{ antaa6,  [ myöntää1, noun.act:myöntäminen,+ noun.attribute:myönnetty_lupa,+ noun.attribute:myönnetty_oikeus,+]  [ suoda, noun.act:suominen,+]  määrätä,  antaa,@ frames: 1 (allow to have; "grant a privilege") }
+{ [ antaa7, kieltää,!]  [ sallia, kieltää,!]  [ myöntää2, noun.attribute:myönnetty_lupa,+ noun.attribute:myönnetty_oikeus,+ noun.person:myöntäjä,+]  antaa,@ verb.communication:antaa_lupa,$ frames: 1 (let have; "grant permission"; "Mandela was allowed few visitors in prison") }
+{ sallia1,  antaa7,@ frames: 1 (grant in a condescending manner) }
+{ avustaa2,  antaa7,@ frames: 1 (put on a fixed allowance, as of food) }
+{ [ luovuttaa<unconfirmed/>8, noun.possession:luovutus<unconfirmed/>,+]  antaa_lahjaksi,@ frames: 1 (transfer by deed; "grant land") }
+{ [ arvostaa, adj.all:arvokas6,+]  pitää_suuressa_arvossa,  antaa_jllk_arvoa,  tajuta,  [ ymmärtää, adj.all:tarkka8^ymmärtävä,+]  pitää_arvossa,  verb.cognition:nähdä1,@ frames: 1 (hold dear; "I prize these old photographs") }
+{ [ lunastaa1, hyötyä1,^ käyttää_hyväkseen,^ adj.all:vaihdettava1^lunastettava2,+]  muuttaa_rahaksi1,  vaihtaa,@ frames: 1 (exchange for cash; "I cashed the check as soon as it arrived in the mail") }
+{ realisoida1,  likvidoida,  lunastaa1,@ frames: 1 (convert into cash; "I had to liquidate my holdings to pay off my ex-husband") }
+{ [ lunastaa2, noun.person:lunastaja,+]  lunastaa1,@ frames: 1 (convert into cash; of commercial papers) }
+{ maksaa_takaisin1,  maksaa7,  maksaa1,@ frames: 1 (pay off (loans or promissory notes)) }
+{ maksaa_lunnaat,  [ lunastaa3, noun.person:lunastaja,+]  lunastaa_vapaaksi,  vaihtaa,@ noun.act:rikos1,;c frames: 1 (exchange or buy back for money; under threat) }
+{ lunastaa4,  vaihtaa,@ frames: 1 (to turn in (vouchers or coupons) and receive something in exchange) }
+{ [ vaihtaa, noun.act:vaihto6,+]  siirtää1,@ frames: 1 (give to, and receive from, one another; "Would you change places with me?"; "We have been exchanging letters for a year") }
+{ [ korvata4, noun.cognition:korvike,+]  [ vaihtaa1, noun.event:vaihto,+ noun.act:vaihto3,+ noun.act:vaihtaminen,+]  verb.change:muuttaa3,@ frames: 1 (put in the place of another; switch seemingly equivalent items; "the con artist replaced the original with a fake Rembrandt"; "substitute regular milk with fat-free milk"; "synonyms can be interchanged without a changing the context's meaning") }
+{ pelkistää,  sieventää,  korvata4,@ noun.cognition:matematiikka,;c frames: 1 (simplify the form of a mathematical equation of expression by substituting one term for another) }
+{ [ viistää, noun.act:viistäminen,+]  korvata4,@ noun.cognition:geometria,;c frames: 1 (replace a corner by a plane) }
+{ [ korvata5, noun.cognition:korvike,+]  [ sijaistaa, noun.act:sijaistaminen,+ noun.person:sijainen4,+ noun.cognition:sijainen,+]  astua_tilalle,  tuurata,  toimia_sijaisena,  vaihtaa,@ frames: 1 (be a substitute; "The young teacher had to substitute for the sick colleague"; "The skim milk substitutes for cream--we are on a strict diet") }
+{ käydä_kauppaa1,  [ vaihtaa2, noun.act:vaihtokauppa,+ noun.act:vaihto7,+ noun.event:vaihdos,+ noun.act:vaihtosopimus,+]  vaihtaa,@ frames: 1 (exchange or give (something) in exchange for) }
+{ tehdä_vaihtokauppa,  vaihtaa,@ frames: 1 (exchange goods without involving money) }
+{ saada_tingityksi,  tinkiä,  hieroa_kauppoja,  kinastella,@ frames: 1 (persuade the seller to accept a lower price; "She beat the merchant down $100") }
+{ kinastella,  riidellä,  tinkiä1,  tinkiä2,@ frames: 1 (wrangle (over a price, terms of an agreement, etc.); "Let's not haggle over a few dollars") }
+{ [ tinkiä2, noun.communication:tinkiminen,+]  hieroa_kauppoja1,  verb.communication:järjestellä,@ frames: 1 (negotiate the terms of an exchange; "We bargained for a beautiful rug in the bazaar") }
+{ tehdä_vaihtokauppa1,  vaihtaa,@ noun.act:kauppa,;c frames: 1 (turn in as payment or part payment for a purchase; "trade in an old car for a new one") }
+{ [ kaupata1, noun.person:kauppias7,+ noun.act:kauppa3,+ noun.act:kaupankäynti2,+ noun.act:kauppa1,+]  [ markkinoida, noun.act:markkinointi1,+]  noun.act:kauppa,;c ostaa,* myydä2,* frames: 1 (engage in the trade of; "he is merchandising telephone sets") }
+{ käydä_kauppaa2,  kaupata1,@ noun.act:kauppa,;c frames: 1 (trade or deal a commodity; "They trafficked with us for gold") }
+{ [ arbitroida, noun.act:arbitraasi,+ noun.act:arbitraatio,+ noun.person:arbitraasia_harjoittava_henkilö,+]  kaupata1,@ noun.act:kauppa,;c frames: 1 (practice arbitrage, as in the stock market) }
+{ diilata1,  myydä8,  myyskennellä,  kaupata1,@ noun.act:rikos1,;c frames: 1 (deal illegally; "traffic drugs") }
+{ ansaita1,  toimittaa<note>asia</note><note>liiketoimintaa</note>,@ noun.act:kauppa,;c frames: 1 (do business worth a certain amount of money; "The company turns over ten million dollars a year") }
+{ neuvotella,  verb.communication:järjestellä,@ noun.act:kauppa,;c frames: 1 (act as a broker) }
+{ hemmotella,  antaa_lahjaksi,@ verb.consumption:kestittää,$ frames: 1 (provide with a gift or entertainment; "Grandmother always treated us to the circus"; "I like to treat myself to a day at a spa when I am depressed") }
+{ antaa8,  myöntää3,  luovuttaa9,  [ ojentaa1, noun.act:ojentaminen1,+]  jakaa2,@ frames: 1 (give, especially as an honor or reward; "bestow honors and prizes at graduation") }
+{ antaa_todistus,  antaa8,@ frames: 1 (present someone with a certificate) }
+{ antaa9,  myöntää4,  aiheuttaa,@ frames: 1 (give as judged due or on the basis of merit; "the referee awarded a free kick to the team"; "the jury awarded a million dollars to the plaintiff"; "Funds are granted to qualified researchers") }
+{ myöntää_eläke,  siirtää_eläkkeelle,  antaa9,@ frames: 1 (grant a pension to) }
+{ [ ojentaa2, noun.act:ojentaminen1,+]  luovuttaa10,  antaa,@ frames: 1 (hand over formally) }
+{ todeta,  ojentaa2,@ frames: 1 (submit (a verdict) to a court) }
+{ antaa10,  [ lahjoittaa2, noun.act:lahjoitus1,+ noun.possession:lahjoitus2,+ noun.possession:lahja2,+]  antaa_lahjaksi,@ frames: 1 (give to a charity or good cause; "I donated blood to the Red Cross for the victims of the earthquake"; "donate money to the orphanage"; "She donates to her favorite charity every month") }
+{ [ antaa11, noun.act:antaminen4,+]  myöntää5,  vihkiä<note>tohtoriksi\,_maisteriksi</note>,  [ lahjoittaa3, noun.act:lahjoittaminen,+]  suoda1,  antaa8,@ frames: 1 (present; "The university conferred a degree on its most famous former student, who never graduated"; "bestow an honor on someone") }
+{ antaa12,  [ lahjoittaa4, noun.possession:lahja4,+]  antaa,@ frames: 1 (give as a gift) }
+{ antaa_paljon<unconfirmed/>,  antaa,@ frames: 1 (bestow in large quantities; "He heaped him with work"; "She heaped scorn upon him") }
+{ vihkiä1,  antaa11,@ frames: 1 (confer a miter on (a bishop)) }
+{ kiittää,  muistella_kiitollisena,  siunata,  antaa11,@ frames: 1 (confer prosperity or happiness on) }
+{ suorittaa_akateeminen_loppututkinto,  [ valmistua, noun.event:valmistumisjuhla,+ noun.act:valmistuminen,+ noun.event:valmistujaiset,+]  [ valmistua_korkeakoulusta<unconfirmed/>, noun.event:valmistumisjuhla,+ noun.act:valmistuminen,+ noun.event:valmistujaiset,+]  myöntää_oppiarvo,  antaa_todistus1,  antaa11,@ suorittaa_akateeminen_loppututkinto1,> frames: 1 (confer an academic degree upon; "This school graduates 2,000 students each year") }
+{ suorittaa_akateeminen_loppututkinto1,  [ valmistua1, noun.event:valmistumisjuhla,+ noun.act:valmistuminen,+ noun.event:valmistujaiset,+]  [ valmistua_korkeakoulusta<unconfirmed/>1, noun.event:valmistumisjuhla,+ noun.act:valmistuminen,+ noun.event:valmistujaiset,+]  saada_oppiarvo,  suorittaa_tutkinto,  suorittaa_ylioppilastutkinto,  vastaanottaa,@ frames: 1 (receive an academic degree upon completion of one's studies; "She graduated in 1990") }
+{ hukuttaa,  syytää,  verb.consumption:kuluttaa2,@ frames: 1 (expend profusely; also used with abstract nouns; "He was showered with praise") }
+{ [ hyvittää4, veloittaa_tiliä,! veloittaa1,!]  tilittää,@ frames: 1 (accounting: enter as credit; "We credit your account with $100") }
+{ [ tasata, noun.possession:tasaaminen,+]  [ täsmätä, noun.possession:täsmääminen,+]  tilittää,@ frames: 1 (compute credits and debits of an account) }
+{ saattaa_pois_tasapainosta,  tilittää,@ frames: 1 (cause to be off balance; "It is not desirable to overbalance the budget") }
+{ [ tilittää, noun.possession:tilinpito,+ noun.communication:tili,+]  [ laskea, noun.act:laskenta,+ noun.cognition:laskelma,+]   frames: 1 (keep an account of) }
+{ [ veloittaa_tiliä, hyvittää4,!]  [ veloittaa1, hyvittää4,!]  tilittää,@ noun.cognition:kirjanpito,;c frames: 1 (enter as debit) }
+{ lainata,  lainata2,@ noun.act:kauppa,;c frames: 1 (extend credit to; I won't pay her debts anymore"; "don't trust my ex-wife") }
+{ laskea_pääoma_ja_korko,  tilittää,@ frames: 1 (calculate principal and interest) }
+{ [ säästää1, noun.possession:säästöt,+]  laittaa_sivuun,   frames: 1 (accumulate money for future use; "He saves half his salary") }
+{ tuhlata,  törsätä,  käyttää2,@ tuhlata3,$ frames: 1 (spend lavishly or wastefully on; "He blew a lot of money on his new home theater") }
+{ [ käyttää_liikaa_rahaa, kuluttaa<broader/>,!]  verb.consumption:kuluttaa2,@ frames: 1 (spend at a high rate) }
+{ tuhlata1,  käyttää2,@ frames: 1 (spend wastefully; "wanton one's money away") }
+{ [ kuluttaa<broader/>, käyttää_liikaa_rahaa,!]  käyttää2,@ frames: 1 (spend at less than the normal rate) }
+{ haaskata,  käyttää2,@ frames: 1 (spend (money or other resources) unwisely) }
+{ kitsastella1,  venyttää_penniä,  käyttää2,@ frames: 1 (spend money frugally; spend as little as possible) }
+{ [ säästää2, noun.person:säästäjä1,+]  ostaa,* frames: 1 (spend less; buy at a reduced price) }
+{ käyttää2,  [ kuluttaa1, noun.act:kulutus3,+ noun.person:kuluttaja1,+ noun.possession:kulut,+ noun.act:kuluttaminen1,+]  maksaa1,@ frames: 1 (pay out; "spend money") }
+{ [ tuhlata2, noun.person:tuhlari1,+]  verb.consumption:kuluttaa,@ frames: 1 (spend completely; "I spend my pocket money in two days") }
+{ [ elää_yli_varojensa, kuluttaa<broader/>2,!]  tuhlata2,@ frames: 1 (spend more than available of (a budget)) }
+{ [ kuluttaa<broader/>2, elää_yli_varojensa,!]  tuhlata2,@ frames: 1 (spend less than the whole of (a budget, for example)) }
+{ vaatia,  viedä3,  kuluttaa<note>eri_konstruktio</note>3,  kestää,  verb.consumption:tuhlata_loppuun,@ verb.consumption:kuluttaa,$ frames: 1 (require (time or space); "It took three hours to get to work this morning"; "This event occupied a very short time") }
+{ käydä_jssak,  vierailla_jssak,  vaatia,@ frames: 1 (spend or use time; "I may be an hour") }
+{ [ tuhlata3, säästää3,! noun.attribute:tuhlaavaisuus1,+ noun.person:tuhlari3,+]  törsätä1,  hukata,  verb.consumption:tuhlata_loppuun,@ tuhlata,$ frames: 1 (spend thoughtlessly; throw away; "He wasted his inheritance on his insincere friends"; "You squandered the opportunity to get and advanced degree") }
+{ kiristää_leipävyötä,  säästää5,@ frames: 1 (live frugally and use less resources; "In the new economy, we all have to learn to tighten our belts") }
+{ polttaa,  tuhlata3,@ frames: 1 (spend (significant amounts of money); "He has money to burn") }
+{ tuhlata4,  [ irrotella, noun.act:irrottelu,+]  törsätä2,  verb.consumption:kuluttaa2,@ frames: 1 (indulge oneself; "I splurged on a new TV") }
+{ [ säästää3, tuhlata3,!]  hoitaa_säästäväisesti,  olla_säästäväinen,  käyttää_säästäväisesti,  säilyttää4,@ frames: 1 (use cautiously and frugally; "I try to economize my spare time"; "conserve your energy for the ascent to the summit") }
+{ [ rationalisoida, noun.act:rationalisointi1,+]  järjestää_tehokkaammaksi,  verb.social:järjestää2,@ frames: 1 (structure and run according to rational or scientific principles in order to achieve desired results; "We rationalized the factory's production and raised profits") }
+{ [ säästää4, noun.act:säästötoimi,+]  säästää3,@ frames: 1 (tighten one's belt; use resources carefully) }
+{ haeskella,  verb.competition:metsästää2,@ frames: 1 (collect or look around for (food)) }
+{ haalia_kokoon,  haeskella,@ frames: 1 (forage food) }
+{ pummata,  vipata,  kerjätä,@ frames: 1 (obtain or seek to obtain by cadging or wheedling; "he is always shnorring cigarettes from his friends") }
+{ kärttää,  [ pummata1, noun.person:pummi,+ noun.person:pummi1,+]  kaivella,  [ siipeillä, noun.person:siipeilijä1,+ noun.person:siivelläeläjä1,+]  saada2,@ frames: 1 (ask for and get free; be a parasite) }
+{ elää_siivellä,  kärttää,@ frames: 1 (live off somebody's generosity; "This young man refuses to work and is freeloading") }
+{ [ kerjätä, noun.communication:kerjäläisyys,+ noun.communication:kerjääminen,+]  verb.communication:pyytää1,@ frames: 1 (ask to obtain free; "beg money and food") }
+{ kerjätä1,  [ pummata2, noun.person:pummi2,+]  kerjätä,@ frames: 1 (beg by accosting people in the street and asking for money) }
+{ [ investoida, luopua6,! noun.act:investointi,+]  [ sijoittaa4, luopua6,! noun.act:sijoittaminen4,+ noun.possession:sijoitus2,+ noun.person:sijoittaja1,+]  varata_jtak,  [ satsata, luopua6,!]  käyttää2,@ frames: 1 (make an investment; "Put money into bonds") }
+{ investoida_uudelleen,  investoida,@ frames: 1 (re-invest (a previous investment) into a similar fund or security; "She rolled over her IRA") }
+{ pidentää,  verb.communication:neuvotella_uudelleen,@ frames: 1 (negociate to repay a loan at a later date for an additional fee; "roll over a loan") }
+{ verosuunnitella,  investoida,@ frames: 1 (invest (money) so that it is not taxable) }
+{ sitoa,  investoida,@ frames: 1 (invest so as to make unavailable for other purposes; "All my money is tied up in long-term investments") }
+{ [ keinotella, noun.person:keinottelija1,+ adj.all:epäviisas10^keinotteleva1,+]  investoida,@ frames: 1 (invest at a risk; "I bought this house not because I want to live in it but to sell it later at a good price, so I am speculating") }
+{ keinotella1,  keinotella,@ noun.act:investointi,;c verb.change:nousta3,$ frames: 1 (try to raise the price of stocks through speculative buying) }
+{ ottaa_haltuun1,  vallata1,  valloittaa,  ottaa7,@ frames: 1 (take possession of by force, as after an invasion; "the invaders seized the land and property of the inhabitants"; "The army seized the town"; "The militia captured the castle") }
+{ vallata_uudelleen,  ottaa_takaisin,@ frames: 1 (conquer anew; "The country reconquered the territory lost in the previous war") }
+{ [ vallata<approximate/>2, noun.act:valtaus,+]  ottaa7,@ frames: 1 (occupy or take possession of beforehand or before another or appropriate for use in advance; "the army preoccupied the hills") }
+{ [ takavarikoida, noun.act:takavarikko1,+ noun.act:takavarikointi1,+ noun.communication:takavarikko,+ noun.communication:takavarikkoon_ottaminen,+ noun.communication:takavarikkoonotto,+ noun.communication:takavarikkoonpano,+ noun.communication:takavarikkotoimenpide,+ noun.communication:takavarikoiminen,+ noun.communication:takavarikointi,+ noun.act:takavarikko2,+ noun.act:takavarikointi,+ noun.act:takavarikko,+]  ottaa_haltuun2,  ottaa,@ takavarikoida1,$ frames: 1 (take temporary possession of as a security, by legal authority; "The FBI seized the drugs"; "The customs agents impounded the illegal shipment"; "The police confiscated the stolen artwork") }
+{ julistaa_menetetyksi,  takavarikoida,@ frames: 1 (appropriate (property) for public use; "the county condemned the land to build a highway") }
+{ takavarikoida1,  ottaa,@ takavarikoida,$ frames: 1 (requisition forcibly, as of enemy property; "the estate was sequestered") }
+{ pidättää_palkka,  takavarikoida,@ frames: 1 (take a debtor's wages on legal orders, such as for child support; "His employer garnished his wages in order to pay his debt") }
+{ [ vallata3, noun.act:valtaus1,+]  ostaa_ulos,  ostaa3,  ottaa_haltuunsa,  ostaa,@ frames: 1 (take over ownership of; of corporations and companies) }
+{ [ ottaa7, noun.act:ottaminen1,+]  anastaa,  siepata,  [ vallata4, noun.act:vallankaappaus,+]  ottaa_valtaansa1,  ottaa_haltuunsa1,  [ valloittaa1, noun.act:vallankaappaus,+]  ottaa_valtaansa,@ frames: 1 (seize and take control without authority and possibly with force; take as one's right or possession; "He assumed to himself the right to fill all positions in the town"; "he usurped my rights"; "She seized control of the throne after her husband died") }
+{ ottaa_haltuunsa2,  ottaa7,@ frames: 1 (seize control of; "they hijacked the judicial process") }
+{ tunkeutua,  [ vallata5, noun.group:valtaaja,+]  ottaa7,@ frames: 1 (take over (a company) by buying a controlling interest of its stock; "T. Boone Pickens raided many large companies") }
+{ [ vaatia1, menettää2,! noun.person:vaatimuksen_esittäjä,+ noun.person:vaatija,+]  vaatia_oikeutenaan,  vaatia_itselleen,  verb.communication:pyytää1,@ verb.communication:vaatia_itselleen,$ frames: 1 (demand as being one's due or property; assert one's right or title to; "He claimed his suitcases at the airline counter"; "Mr. Smith claims special tax exemptions because he is a foreign resident") }
+{ julistautua<approximate/>,  vaatia1,@ frames: 1 (put forward a claim and assert right or possession of; "pretend the title of King") }
+{ [ tilata1, luovuttaa_takaisin_siviilikäyttöön,!]  vaatia1,@ frames: 1 (demand and take for use or service, especially by military or public authority for public service) }
+{ [ luovuttaa_takaisin_siviilikäyttöön, tilata1,!]  vapauttaa1,@ frames: 1 (release from government control) }
+{ noutaa2,  ottaa_haltuun3,  saada_takaisin2,  saada1,@ frames: 1 (claim back) }
+{ takavarikoida2,  ulosmitata,  noutaa2,@ frames: 1 (legally take something in place of a debt payment) }
+{ julistaa_lunastusoikeus_menetetyksi,  noutaa2,@ frames: 1 (subject to foreclosing procedures; take away the right of mortgagors to redeem their mortgage) }
+{ vaatia2,  pitää5,  vaatia1,@ frames: 1 (make undue claims to having) }
+{ [ näpistää, noun.act:näpistely,+]  varastaa,  anastaa1,  pihistää,  pölliä1,  kähveltää,  näpistellä,  varastaa5,@ frames: 1 (make off with belongings of others) }
+{ [ varastaa1, noun.person:varas3,+]  pölliä2,  varastaa5,@ noun.act:rikos1,;c frames: 1 (take illegally; "rustle cattle") }
+{ varastaa_myymälästä,  näpistää1,  varastaa5,@ noun.act:rikos1,;c frames: 1 (steal in a store) }
+{ ryöstää_aseella_uhaten,  [ ryöstää_aseellisesti, noun.act:ryöstö_aseella_uhaten,+]  ryöstää,  varastaa4,@ noun.act:rikos1,;c verb.competition:hyökätä3,* frames: 1 (rob at gunpoint or by means of some other threat) }
+{ [ ryöstää1, noun.person:ryöstäjä1,+ noun.act:ryöstö,+ noun.person:ryöstön_uhri,+]  ryöstää_aseella_uhaten,@ noun.act:rikos1,;c frames: 1 (rob at gunpoint or with the threat of violence; "I was mugged in the streets of New York last night") }
+{ [ plagioida, noun.person:plagioija,+]  varastaa5,@ noun.act:rikos1,;c frames: 1 (copy illegally; of published material) }
+{ [ plagioida1, noun.person:plagioija,+ noun.communication:plagiaatti,+ noun.act:plagiointi,+]  varastaa2,  varastaa5,@ noun.act:rikos1,;c frames: 1 (take without referencing from someone else's writing or speech; of intellectual property) }
+{ plagioida2,  plagiarisoida,  plagioida1,@ noun.act:rikos1,;c frames: 1 (take unauthorized (intellectual material)) }
+{ panna_omaan_taskuunsa,  laittaa_taskuun,  laittaa_taskuunsa,  panna_taskuun,  panna_taskuunsa,  pistää_taskuun,  pistää_taskuunsa,  ottaa,@ frames: 1 (put in one's pocket; "He pocketed the change") }
+{ tehdä_voittoa,  hyötyä,@ frames: 1 (make a lot of money) }
+{ [ hyötyä, menettää1,! saavuttaa_nollataso<unconfirmed/>,! olla_omillaan,!]  saada_voittoa,  ansaita3,@ frames: 1 (make a profit; gain money or materially; "The company has not profited from the merger") }
+{ ansaita2,  hyötyä,@ frames: 1 (make a satisfactory profit; "The company turned a nice dime after a short time") }
+{ tehdä_rahaa,  hyötyä,@ frames: 1 (make a big profit; often in a short period of time; "The investor really cleaned up when the stock market went up") }
+{ hyötyä1,  käyttää_hyväkseen,  hyötyä2,@ frames: 1 (take advantage of or capitalize on) }
+{ keinotella2,  hyötyä2,@ frames: 1 (make an unreasonable profit, as on the sale of difficult to obtain goods) }
+{ ottaa_etua,  käyttää_hyväkseen1,  käyttää_hyväksi,  hyödyntää,  hyötyä2,@ frames: 1 (draw advantages from; "he is capitalizing on her mistake"; "she took advantage of his absence to meet her lover") }
+{ [ saavuttaa_nollataso<unconfirmed/>, hyötyä,! menettää1,!]  [ olla_omillaan, hyötyä,! menettää1,!]   frames: 1 (make neither profit nor loss) }
+{ suojella,  [ säilyttää5, adj.all:suoja-^säilövä,+]  [ ylläpitää1, noun.act:ylläpito,+]  hoitaa,@ frames: 1 (keep in safety and protect from harm, decay, loss, or destruction; "We preserve these archeological findings"; "The old lady could not keep up the building"; "children must be taught to conserve our national heritage"; "The museum curator conserved the ancient manuscripts") }
+{ [ plastinoida, noun.process:plastinointi,+]  suojella,@ frames: 1 (preserve (tissue) with plastics, as for teaching and research purposes; "The doctor plastinates bodies to teach anatomy to his students") }
+{ käyttää_loppuun,  kuluttaa_loppuun,  ehdyttää,  verb.consumption:kuluttaa,@ verb.change:kulua_loppuun,$ frames: 1 (deplete; "exhaust one's savings"; "We quickly played out our strength") }
+{ [ varastoida, noun.possession:varasto,+ noun.act:varastointi1,+]  pitää,@ frames: 1 (keep or lay aside for future use; "store grain for the winter"; "The bear stores fat for the period of hibernation when he doesn't eat") }
+{ varustaa_muonalla,  varastoida,@ frames: 1 (lay in provisions; "The vessel victualled before the long voyage") }
+{ varastoida1,  varastoida3,@ frames: 1 (put into long-term storage) }
+{ laittaa_säilöön,  varastoida3,@ frames: 1 (put (something) in a place for storage; "the treasure found int he ancient tomb was reposited in the museum") }
+{ varastoida_laiturille,  varastoida3,@ frames: 1 (store on a wharf; "Wharf the merchandise") }
+{ [ tankata2, noun.artifact:tankki,+ noun.quantity:tankki,+]  varastoida3,@ frames: 1 (store in a tank by causing (something) to flow into it) }
+{ lennättää,  varastoida3,@ frames: 1 (store in a loft) }
+{ [ varastoida2, noun.act:varastointi,+ noun.artifact:varasto6,+ noun.person:varastonhoitaja,+]  varastoida3,@ frames: 1 (store in a warehouse) }
+{ [ varastoida3, noun.artifact:varasto5,+ noun.act:varastointi1,+]  tallettaa,  pitää,@ frames: 1 (find a place for and put away for storage; "where should we stow the vegetables?"; "I couldn't store all the books in the attic so I sold some") }
+{ panna_autotalliin,  pitää_autotallissa,  varastoida3,@ frames: 1 (keep or store in a garage; "we don't garage our car") }
+{ [ pullottaa, noun.artifact:pullo,+]  varastoida3,@ frames: 1 (store (liquids or gases) in bottles) }
+{ panna_siiloon,  valmistaa_painorehuksi,  varastoida3,@ frames: 1 (store in a silo; "ensile fodder for the cows") }
+{ [ säilyttää6, noun.act:säilyttäminen1,+]  [ pitää6, noun.act:pitäminen,+]  varata2,  tallettaa1,  pitää,@ frames: 1 (secure and keep for possible future use or application; "The landlord retained the security deposit"; "I reserve the right to disagree") }
+{ pitää7,  säilyttää6,@ frames: 1 (keep; "She manages to hold down two jobs") }
+{ pitää_vapaana,  pitää_avoinna,  pitää8,  pidättää2,  verb.social:tilata1,@ pitää,$ frames: 1 (retain rights to; "keep my job for me while I give birth"; "keep my seat, please"; "keep open the possibility of a merger") }
+{ maksaa_ennakkoon1,  antaa_ennakkoa,  lainata2,@ frames: 1 (pay in advance; "Can you advance me some money?") }
+{ [ lahjoa, noun.act:lahjonta1,+ noun.person:lahjoja,+ adj.all:korruptoitunut^lahjottavissa_oleva,+ adj.all:korruptoitunut^lahjottavissa<idiomatic_pos/>,+ noun.possession:lahjus,+]  ostaa4,  [ korruptoida, adj.all:korruptoitunut^korruptoitunut2,+]  maksaa1,@ noun.act:rikos1,;c frames: 1 (make illegal payments to in exchange for favors or influence; "This judge can be bought") }
+{ [ lahjoa1, noun.communication:lahjus,+]  lahjoa,@ frames: 1 (give a conciliatory gift or bribe to) }
+{ ostaa_osakkeita,  investoida,@ noun.act:investointi,;c frames: 1 (buy stocks or shares of a company) }
+{ kahmia,  ansaita3,@ noun.act:rikos1,;c frames: 1 (take money from an illegal transaction) }
+{ ostaa5,  lahjoa2,  lahjoa,@ noun.act:rikos1,;c frames: 1 (pay someone with influence in order to receive a favor) }
+{ hyvittää5,  palauttaa,  maksaa_takaisin2,  antaa_takaisin,  maksaa1,@ frames: 1 (pay back; "Please refund me my money") }
+{ maksaa_takaisin3,  hyvittää5,@ frames: 1 (pay back for some expense incurred; "Can the company reimburse me for my professional travel?") }
+{ pitää_varastossa,  olla,@ frames: 1 (have on hand; "Do you carry kerosene heaters?") }
+{ [ löytää4, kadottaa,! noun.person:löytäjä,+ noun.act:löytäminen,+ noun.person:löytäjä1,+]  saada_takaisin3,  saada1,@ löytää2,$ saada_takaisin,$ frames: 1 (come upon after searching; find the location of something that was missed or lost; "Did you find your glasses?"; "I cannot find my gloves!") }
+{ [ tunnustella, noun.animal:tuntosarvi1,+ noun.animal:tuntokärki,+]  löytää4,@ frames: 1 (find by testing or cautious exploration; "He felt his way around the dark room") }
+{ [ paikantaa, noun.Tops:paikka,+ noun.act:paikka,+]  löytää5,  löytää4,@ verb.contact:kaivaa_ylös,$ frames: 1 (discover the location of; determine the place of; find by searching or examining; "Can you locate your cousins in the Midwest?"; "My search turned up nothing") }
+{ paljastaa1,  paikantaa,@ frames: 1 (bring to light; "The CIA unearthed a plot to kill the President") }
+{ löytää_sattumalta1,  osua,  sattua_löytämään,  onnistua_löytämään,  huomata_sattumalta,  saavuttaa1,  [ keksiä, noun.act:keksiminen,+ noun.communication:keksintö,+]  löytää4,@ frames: 1 (find unexpectedly; "the archeologists chanced upon an old tomb"; "she struck a goldmine"; "The hikers finally struck the main path to the lake") }
+{ hakea4,  ostaa,@ noun.act:kauppa,;c frames: 1 (buy casually or spontaneously; "I picked up some food for a snack") }
+{ maksaa8,  maksaa1,@ frames: 1 (pay for something; "pick up the tab"; "pick up the burden of high-interest mortgages"; "foot the bill") }
+{ paikantaa1,  selvittää1,  paikantaa,@ frames: 1 (locate exactly; "can you pinpoint the position of the enemy?"; "The chemists could not nail the identity of the chromosome") }
+{ [ kadottaa, löytää4,!]   frames: 1 (miss from one's possessions; lose sight of; "I've lost my glasses again!") }
+{ [ hukata1, pitää,! säilyttää,!]   frames: 1 (fail to keep or to maintain; cease to have, either physically or in an abstract sense; "She lost her purse when she left it unattended on her seat") }
+{ nukkua_pää_selväksi,  hukata1,@ frames: 1 (get rid of by sleeping; "sleep off a hangover") }
+{ [ menettää, voittaa,!]   frames: 1 (fail to get or obtain; "I lost the opportunity to spend a year abroad") }
+{ hankkia5,  [ voittaa, menettää,! noun.person:voittaja1,+ noun.possession:voitto2,+ noun.act:voittaminen,+]  saavuttaa2,  saada1,@ frames: 1 (win something through one's efforts; "I acquired a passing knowledge of Chinese"; "Gain an understanding of international finance") }
+{ pettää,  verb.social:pettää5,@ hankkia5,@ frames: 1 (cheat or trick; "He cozened the money out of the old man") }
+{ [ menettää1, hyötyä,! saavuttaa_nollataso<unconfirmed/>,! olla_omillaan,!]  tehdä_tappiota<approximate/>,   frames: 1 (fail to make money in a business; make a loss or fail to profit; "I lost thousands of dollars on that bad investment!"; "The company turned a loss after the first year") }
+{ [ käsitellä, palautua,!]   frames: 1 (be debited and credited to the proper bank accounts; "The check will clear within 2 business days") }
+{ ansaita3,  tienata1,  hankkia6,  tuottaa2,  saada1,@ verb.body:tehdä1,$ netota1,$ frames: 1 (earn on some commercial or business transaction; earn as salary or wages; "How much do you make a month in your new job?"; "She earns a lot in her new job"; "this merger brought in lots of money"; "He clears $5,000 each month") }
+{ ansaita4,  netota,  ansaita3,@ frames: 1 (earn as a salary or wage; "How much does your wife take home after taxes and other deductions?") }
+{ kääriä,  tienata2,  ansaita3,@ frames: 1 (earn large sums of money; "Since she accepted the new position, she has been raking it in") }
+{ [ ansaita5, noun.possession:ansiotulot1,+ noun.possession:ansio1,+]  hankkia7,  saada1,@ frames: 1 (acquire or deserve by one's efforts or actions) }
+{ ansaita6,  voittaa1,  ansaita5,@ frames: 1 (win an athletic letter) }
+{ [ hyötyä2, noun.attribute:hyöty5,+ noun.person:hyötyjä,+ noun.attribute:hyöty,+]  saada_jstak_hyötyä,  saada_etua,  saavuttaa3,  saada_hyötyä_jstak,  saada1,@ frames: 1 (derive a benefit from; "She profited from his vast experience") }
+{ pyramid<unconfirmed/>,  hyötyä2,@ noun.act:investointi,;c frames: 1 (enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts) }
+{ edistää,  [ hyödyttää, noun.attribute:hyöty,+]  tuottaa_hyötyä,  auttaa,  olla_hyötyä,  tehdä_hyvää,  verb.body:auttaa,@ frames: 1 (be beneficial for; "This will do you good") }
+{ sopia,  verb.stative:sopia9,@ frames: 1 (be agreeable or suitable; "White wine doesn't agree with me") }
+{ netota1,  voittaa2,  tehdä_voittoa1,  saada_puhdasta_voittoa,  hyötyä2,@ tuottaa_voittoa,$ ansaita3,$ frames: 1 (make as a net profit; "The company cleared $1 million") }
+{ ansaita_bruttona,  tuottaa_voittoa_bruttona,  ansaita3,@ frames: 1 (earn before taxes, expenses, etc.) }
+{ tuottaa_voittoa,  tuottaa_puhdasta_voittoa,  tuottaa3,@ netota1,$ frames: 1 (yield as a net profit; "This sale netted me $1 million") }
+{ [ tuottaa3, noun.quantity:tuotto,+ noun.artifact:tuotto1,+]  ansaita3,@ noun.possession:sijoitus2,;c frames: 1 (bring in; "interest-bearing accounts"; "How much does this savings certificate pay annually?") }
+{ tuottaa_tulosta,  kannattaa,  tuottaa3,@ frames: 1 (yield a profit or result; "His efforts finally paid off") }
+{ tuottaa4,  saada4,  saada2,@ frames: 1 (obtain; "derive pleasure from one's garden") }
+{ kaivaa_esiin,  löytää6,  löytää4,@ verb.perception:etsiä,* frames: 1 (get or find by searching; "What did you rout out in the library?") }
+{ kähveltää1,  pihistää1,  varastaa5,@ frames: 1 (take unlawfully) }
+{ [ kavaltaa, noun.act:kavallus1,+ noun.person:kavaltaja1,+]  pistää_taskuunsa1,  anastaa2,  tehdä_virkarikos,  varastaa5,@ frames: 1 (appropriate (as property entrusted to one's care) fraudulently to one's own use; "The accountant embezzled thousands of dollars while working for the wealthy family") }
+{ huijata1,  tehdä_vilunkia,  kavaltaa,@ frames: 1 (commit fraud and steal from one's employer; "We found out that she had been fiddling for years") }
+{ saada5,  hankkia8,  tuottaa4,@ verb.emotion:saada_aikaan1,$ frames: 1 (get or derive; "He drew great benefits from his membership in the association") }
+{ antaa_haltuun1,  [ luovuttaa11, noun.act:luovutus12,+]  antaa_käsiin,  antaa13,  ojentaa,@ frames: 1 (to surrender someone or something to another; "the guard delivered the criminal to the police"; "render up the prisoners"; "render the town to the enemy"; "fork over the money") }
+{ auttaa_jkta_selviytymään_jstak,  pelastaa1,  antaa_haltuun1,@ frames: 1 (deliver something in trust to somebody for a special purpose and for a limited period) }
+{ luovuttaa_morsian,  antaa_haltuun1,@ frames: 1 (formally hand over to the bridegroom in marriage; of a bride by her father) }
+{ käydä_vaihtokauppaa,  vaihtaa3,  tehdä_vaihtokauppa1,@ noun.act:kauppa,;c frames: 1 (trade in in a bartering transaction) }
+{ [ jakaa6, noun.person:jakaja5,+ noun.act:jakaminen6,+ noun.act:jakaminen5,+]  panna_tasan,  antaa14,  annostella2,  levittää,@ verb.contact:irrota2,* frames: 1 (give out as one's portion or share) }
+{ jaella1,  antaa15,  [ jakaa7, noun.act:jakaminen5,+ noun.act:jakaminen4,+ noun.act:jako4,+]  antaa,@ frames: 1 (administer or bestow, as in small portions; "administer critical remarks to everyone present"; "dole out some money"; "shell out pocket money for the children"; "deal a blow to someone"; "the machine dispenses soft drinks") }
+{ jakaa8,  määrätä1,  verb.communication:määrittää,@ jakaa6,* frames: 1 (determine the quantity of someone's share) }
+{ nauttia,  [ jakaa9, noun.person:jakaja5,+]  osallistua,  saada1,@ frames: 1 (have, give, or receive a share of; "We shared the cake") }
+{ antaa_osuus,  nauttia,@ frames: 1 (allow someone to have a share or profit) }
+{ [ jakaa10, noun.relation:jakaminen1,+]  verb.consumption:käyttää1,@ frames: 1 (use jointly or in common) }
+{ jakaa<broader/>11,  jakaa10,@ frames: 1 (share a room or a bed designed for only one person) }
+{ yhdistää,  jakaa10,@ frames: 1 (combine into a common fund; "We pooled resources") }
+{ [ kunnallistaa, adj.pert:kunnallinen1,+ adj.pert:kunnan<gen/>,+]  jakaa10,@ frames: 1 (make something the property of the commune or community) }
+{ [ kertoa, noun.communication:kertominen,+]  jättää_jonnekin,  välittää1,  verb.communication:kertoa2,@ testamentata,$ esittää_tieto,$ frames: 1 (transmit (knowledge or skills); "give a secret to the Russians"; "leave your name and address here"; "impart a new skill to the students") }
+{ [ tarjota, noun.communication:tarjous3,+]  tehdä_tarjous,  tarjota2,@ frames: 1 (make a tender of; in legal settlements) }
+{ esittää_tarjous,  tarjota1,  antaa_lahjaksi,@ frames: 1 (offer or present for acceptance) }
+{ olla_tarjolla,  varustaa1,@ frames: 1 (make available or accessible, provide or furnish; "The conference center offers a health spa"; "The hotel offers private meeting rooms") }
+{ asettaa_liikennevalot,  varustaa1,@ frames: 1 (provide with traffic signals; "signalize a busy intersection") }
+{ [ tarjota2, noun.person:tarjoaja3,+]  tarjoutua,  antaa,@ frames: 1 (present for acceptance or rejection; "She offered us all a cold drink") }
+{ tarjota3,  markkinoida1,@ frames: 1 (make available for sale; "The stores are offering specials on sweaters this week") }
+{ laittaa_esille,  tarjota3,@ frames: 1 (make available for sale at an auction; "The dealer put up three of his most valuable paintings for auction") }
+{ esittää,  osoittaa1,  verb.communication:kertoa8,@ tarjota4,$ frames: 1 (offer verbally; "extend my greetings"; "He offered his sympathy") }
+{ tarjota4,  varustaa1,@ esittää,$ frames: 1 (make available; provide; "extend a loan"; "The bank offers a good deal on new mortgages") }
+{ [ markkinoida1, noun.act:markkinat2,+ adj.all:vienti-^markkinakelpoinen,+ noun.person:markkinoija,+]  kaupata1,@ noun.act:kauppa,;c frames: 1 (engage in the commercial promotion, sale, or distribution of; "The company is marketing its new line of beauty products") }
+{ [ markkinoida2, noun.artifact:markkinapaikka,+]  käydä_kauppaa,@ noun.act:kauppa,;c frames: 1 (deal in a market) }
+{ [ tarjota5, noun.communication:tarjous2,+ noun.communication:tarjous3,+ noun.person:tarjoaja,+ noun.person:tarjouksentekijä,+]  kilpailla<note>sopimuksesta_ym.</note>,  tehdä_tarjous<note>huutokaupassa_ym.</note>1,  esittää_tarjous1,  noun.act:huutokauppa,;c tinkiä2,* frames: 1 (propose a payment; "The Swiss dealer offered $2 million for the painting") }
+{ tarjota<note>jnk_puolesta</note>6,  tarjota5,@ noun.act:huutokauppa,;c frames: 1 (bid on behalf of someone else) }
+{ merkitä,  tarjota5,@ noun.act:investointi,;c frames: 1 (offer to buy, as of stocks and shares; "The broker subscribed 500 shares") }
+{ luvata,  lahjoittaa5,  antaa10,@ frames: 1 (pay (an amount of money) as a contribution to a charity or service, especially at regular intervals; "I pledged $10 a month to my favorite radio station") }
+{ [ tarjota_liikaa, tarjota_liian_vähän,!]  tarjota5,@ noun.act:huutokauppa,;c frames: 1 (bid more than the object is worth) }
+{ [ tarjota_liian_vähän, tarjota_liikaa,!]  tarjota5,@ noun.act:huutokauppa,;c frames: 1 (bid too low) }
+{ [ tarjota_muita_enemmän, alittaa_kilpailijan_tarjous,!]  tarjota5,@ noun.act:huutokauppa,;c frames: 1 (bid higher than others) }
+{ [ alittaa_kilpailijan_tarjous, tarjota_muita_enemmän,!]  tarjota5,@ noun.act:huutokauppa,;c frames: 1 (bid lower than a competing bidder) }
+{ kehottaa,  käskeä,  pyytää,  kutsua,  vaatia3,  verb.competition:pelata,@ noun.act:korttipeli,;c frames: 1 (make a demand, as for a card or a suit or a show of hands; "He called his trump") }
+{ kahdentaa,  kehottaa,@ frames: 1 (bridge: make a demand for (a card or suit)) }
+{ määrätä_valtti,  verb.competition:pelata6,@ noun.act:bridge,;c frames: 1 (designate (a trump suit or no-trump) with the final bid of a hand) }
+{ korottaa,  kehottaa,@ frames: 1 (make a higher bid than (the previous bid or player); in a card game) }
+{ tarjota<broader/>7,  kehottaa,@ frames: 1 (bid (a hand of cards) at less than the strength of the hand warrants) }
+{ tarjota_enemmän,  kehottaa,@ noun.act:bridge,;c frames: 1 (bid over an opponent's bid when one's partner has not bid or doubled) }
+{ tarjota_liikaa1,  kehottaa,@ noun.act:bridge,;c frames: 1 (to bid for more tricks than one can expect to win,) }
+{ tarjota<broader/>8,  kehottaa,@ noun.act:bridge,;c frames: 1 (make a preemptive bid in the game of bridge) }
+{ suorittaa2,  maksaa9,  antaa_rahaa,  suorittaa_maksu,  maksaa1,@ frames: 1 (expend, as from a fund) }
+{ kuulua_jklle,  olla_jkn_oma,  kuulua,  verb.stative:olla1,@ frames: 1 (be owned by; be in the possession of; "This book belongs to me") }
+{ ottaa_kannettavakseen,  ottaa_maksettavakseen,  ottaa_vastatakseen,  ottaa_vastuulleen,  [ ottaa_itselleen, noun.act:ottaminen1,+]  [ ottaa_niskoilleen, noun.act:ottaminen1,+]  ottaa,@ frames: 1 (take on as one's own the expenses or debts of another person; "I'll accept the charges"; "She agreed to bear the responsibility") }
+{ vastata_seurauksista,  ottaa_syy_niskoilleen,  ottaa_kannettavakseen,@ frames: 1 (accept the unpleasant consequences of one's actions) }
+{ kantaa,  olla3,  olla,@ frames: 1 (have rightfully; of rights, titles, and offices; "She bears the title of Duchess"; "He held the governorship for almost a decade") }
+{ ehättää_ensin<approximate/>,  saada1,@ frames: 1 (acquire for oneself before others can do so) }
+{ ostaa_etuosto-oikeuden_nojalla<unconfirmed/>,  saada1,@ frames: 1 (gain possession of by prior right or opportunity, especially so as to obtain the right to buy (land)) }
+{ harjoittaa_kulkukauppaa,  [ kaupitella, noun.person:kauppias7,+]  [ kaupustella, noun.person:kaupustelija2,+ noun.act:kaupustelu1,+ adj.all:myyntikelpoinen^kaupaksi_menevä,+ noun.person:kaupittelija,+ adj.all:myyntikelpoinen^kaupattava,+]  [ kaupata2, noun.person:kauppias7,+]  myydä9,  käydä_kauppaa,@ frames: 1 (sell or offer for sale from place to place) }
+{ luopua3,  hylätä5,@ frames: 1 (forgo or do or go without) }
+{ [ menettää2, vaatia1,! noun.possession:menetys1,+ noun.possession:menetys,+]  hylätä<narrower/>10,  [ luopua<narrower/>4, noun.act:luopumiskirja,+]  pidättyä<narrower/>,  hylätä5,@ frames: 1 (lose (s.th.) or lose the right to (s.th.) by some error, offense, or crime; "you've forfeited your right to name your successor"; "forfeited property") }
+{ luopua5,  menettää2,@ frames: 1 (let slip; "He lapsed his membership") }
+{ ottaa_haltuun4,  vallata6,  ottaa_haltuun1,@ frames: 1 (capture after a fight; "The troops carried the town after a brief fight") }
+{ ottaa_takaisin,  vallata_takaisin1,  ottaa_valtaansa,@ frames: 1 (take back by force, as after a battle; "The military forces managed to recapture the fort") }
+{ [ siepata1, noun.process:sieppaus,+]  verb.change:muuttaa3,@ frames: 1 (bring about the capture of an elementary particle or celestial body and causing it enter a new orbit; "This nucleus has captured the slow-moving neutrons"; "The star captured a comet") }
+{ [ antautua1, noun.act:antautuminen,+]  verb.competition:luovuttaa2,@ verb.stative:kaatua,$ frames: 1 (be captured; "The cities fell to the enemy") }
+{ napata,  siepata2,  ottaa,@ frames: 1 (get hold of or seize quickly and easily; "I snapped up all the good buys during the garage sale") }
+{ [ ahnehtia, noun.person:ahne_henkilö,+]  napata,@ frames: 1 (take greedily; take more than one's share) }
+{ kääriä1,  [ kerätä1, noun.act:kerääminen1,+]  [ kumuloida, noun.act:kumuloituminen,+]  haalia,  kasata,  koota,  hamstrata,  ahnehtia1,  varastoida,@ frames: 1 (get or gather together; "I am accumulating evidence for the man's unfaithfulness to his wife"; "She is amassing a lot of data for her thesis"; "She rolled up a small fortune") }
+{ hakea5,  noutaa3,  saada1,@ frames: 1 (gather or collect; "You can get the results on Monday"; "She picked up the children at the day care center"; "They pick up our trash twice a week") }
+{ [ hamstrata1, noun.person:hamstraaja,+]  kätkeä,  piilottaa,  säilyttää7,  haalia1,  rohmuta,  varastoida4,  säästää1,@ frames: 1 (save up as for future use) }
+{ [ varastoida<approximate/>5, haalia1,^ varastoida,^]  varastoida,@ frames: 1 (store, like bees; "bees hive honey and pollen"; "He hived lots of information") }
+{ hankkia9,  kerätä2,  periä,@ frames: 1 (collect funds for a specific purpose; "The President raised several million dollars for his college") }
+{ periä_veroa,  panna_veroa,  verottaa,  veloittaa3,@ frames: 1 (impose and collect; "levy a fine") }
+{ veloittaa2,  rahastaa,  määrätä_maksu,  periä_veroa,@ frames: 1 (charge a fee for using; "Toll the bridges into New York City") }
+{ maksaa_kymmenykset<approximate/>2,  periä_veroa,@ kantaa_kymmenykset,$ frames: 1 (levy a tithe on (produce or a crop); "The wool was tithed") }
+{ kantaa_kymmenykset,  veloittaa3,@ maksaa_kymmenykset<approximate/>2,$ frames: 1 (exact a tithe from; "The church was tithed") }
+{ määrätä_uudelleen,  periä_veroa,@ frames: 1 (impose anew; "The fine was reimposed") }
+{ laatia,  periä1,  periä_veroa,@ frames: 1 (impose as a duty, burden, or punishment; "lay a responsibility on someone") }
+{ [ sakottaa, noun.possession:sakko1,+]  periä_veroa,@ frames: 1 (impose a fine on; "he was fined for littering") }
+{ [ verottaa1, noun.possession:verotus,+ noun.act:verotus,+ noun.possession:verotulot,+ noun.person:verottaja1,+ adj.all:verotettava,+ noun.possession:verokertymä,+]  periä_veroa,@ frames: 1 (levy a tax on; "The State taxes alcohol heavily"; "Clothing is not taxed in our state") }
+{ määrätä_valmistevero,  verottaa1,@ frames: 1 (levy an excise tax on) }
+{ määrätä_tariffi,  tariffoida,  verottaa1,@ frames: 1 (charge a tariff; "tariff imported goods") }
+{ verottaa_lisää,  verottaa1,@ frames: 1 (levy an extra tax on; "surtax luxury items that cost more than $1,000") }
+{ verottaa_liikaa,  verottaa1,@ frames: 1 (tax excessively; "Don't overtax my constituents!") }
+{ taksoittaa,  [ arvioida_veron_suuruus, noun.possession:arvio,+]  verb.cognition:määrätä2,@ määrätä_suuruus,$ frames: 1 (set or determine the amount of (a payment such as a fine)) }
+{ määrätä_suuruus,  taksoittaa1,  veloittaa3,@ taksoittaa,$ frames: 1 (charge (a person or a property) with a payment, such as a tax or a fine) }
+{ antaa_avustuksena,  [ antaa16, noun.act:antaminen3,+]  avustaa3,  kantaa_kortensa_kekoon,  antaa,@ frames: 1 (contribute to some cause; "I gave at the office") }
+{ [ yhdistää1, noun.act:yhdisteleminen,+]  antaa_avustuksena,@ frames: 1 (add together from different sources; "combine resources") }
+{ antaa17,  jaella1,@ antaa_lääkettä,$ frames: 1 (give or convey physically; "She gave him First Aid"; "I gave him a punch in the nose") }
+{ antaa_lääkettä,  verb.body:antaa,@ antaa17,$ verb.communication:antaa,$ frames: 1 (give (as medicine); "I gave him the drug") }
+{ pinnoittaa,  antaa17,@ frames: 1 (apply (the tread) to a tire) }
+{ antaa18,  antaa17,@ verb.social:teloittaa,* frames: 1 (perform (a church sacrament) ritually; "administer the last unction") }
+{ puhaltaa<approximate/>,  antaa18,@ frames: 1 (breathe or blow onto as a ritual or sacramental act, especially so as to symbolize the action of the Holy Spirit) }
+{ antaa19,  [ palauttaa1, noun.act:palautus,+]  antaa,@ frames: 1 (give back; "render money") }
+{ syöttää_takaisin,  antaa19,@ frames: 1 (submit (information) again to a program or automatic system) }
+{ luovuttaa12,  jättää3,  antaa_lahjaksi,@ noun.group:laki,;c frames: 1 (make over as a return; "They had to render the estate") }
+{ [ palauttaa2, noun.act:palauttaminen,+]  hyvittää5,@ frames: 1 (give or bring back; "Restore the stolen painting to its rightful owner") }
+{ kattaa,  verb.stative:olla1,@ frames: 1 (be sufficient to meet, defray, or offset the charge or cost of; "Is this enough to cover the check?") }
+{ [ tallettaa2, ottaa8,! noun.person:tallettaja1,+ noun.possession:talletus,+]  tallettaa_pankkiin,  antaa,@ frames: 1 (put into a bank account; "She deposits her paycheck every month") }
+{ tallettaa_uudelleen,  tallettaa2,@ frames: 1 (deposit once again; "redeposit a cheque") }
+{ kirjoittaa_sekki,  ottaa8,@ frames: 1 (withdraw money by writing a check) }
+{ [ ottaa8, tallettaa2,!]  nostaa,  hakea6,  verb.change:irrottaa,@ verb.motion:nostaa,$ frames: 1 (remove (a commodity) from (a supply source); "She drew $2,000 from the account"; "The doctors drew medical supplies from the hospital's emergency bank") }
+{ kajota<approximate/>,  ottaa8,@ frames: 1 (take a small amount from; "I had to dip into my savings to buy him this present") }
+{ ohjata_muualle,  siirtää<approximate/>9,  ottaa8,@ frames: 1 (withdraw (money) and move into a different location, often secretly and with dishonest intentions) }
+{ ylittää_tili,  ottaa8,@ frames: 1 (draw more money from than is available; "She overdrew her account") }
+{ käyttää_hyväkseen2,  ottaa8,@ frames: 1 (draw from or dip into to get something; "tap one's memory"; "tap a source of money") }
+{ poistaa_myynnistä,  poistaa3,  vetää_pois_markkinoilta,  vetää_pois,  ottaa,@ frames: 1 (cause to be returned; "recall the defective auto tires"; "The manufacturer tried to call back the spoilt yoghurt") }
+{ poistaa_käytöstä,  poistaa_myynnistä,@ frames: 1 (withdraw from active service; "The warship was decommissioned in 1998") }
+{ varastaa3,  ottaa_valtaansa,@ frames: 1 (take by stealing; "The thief relieved me of $100") }
+{ vapauttaa,  vapauttaa_jk_jsatk,@ frames: 1 (free from a burden, evil, or distress) }
+{ tasoittaa,  lieventää,  selvittää2,  vapauttaa_jk_jsatk,@ frames: 1 (free from obstructions; "smooth the way towards peace negotiations") }
+{ jättää_ilman,  kieltäytyä_antamasta,@ frames: 1 (keep from having, keeping, or obtaining) }
+{ mennä_sanattomaksi<idiomatic_pos/>,  jättää_ilman,@ frames: 1 (deprive of speech; "When he met his idol, the young man was tongue-tied") }
+{ ottaa_pois1,  riistää,  jättää_ilman,@ frames: 1 (deprive someone of benefits, as a penalty) }
+{ huijata2,  petkuttaa,  jättää_ilman,@ frames: 1 (evade payment to; "He bilked his creditors") }
+{ [ luopua6, investoida,! sijoittaa4,! satsata,!]  [ desinvestoida, noun.act:desinvestointi,+]  ottaa8,@ frames: 1 (reduce or dispose of; cease to hold (an investment); "The company decided to divest"; "the board of trustees divested $20 million in real estate property"; "There was pressure on the university to disinvest in South Africa") }
+{ riistää1,  ottaa,@ frames: 1 (take away possessions from someone; "The Nazis stripped the Jews of all their assets") }
+{ riistää<broader/>2,  riistää1,@ frames: 1 (deprive of the possession of real estate) }
+{ putsata,  riistää1,@ frames: 1 (deprive completely of money or goods; "The robbers cleaned us out in a couple of hours") }
+{ riisua,  riistää1,@ frames: 1 (strip; "unclothe your heart of envy") }
+{ riistää3,  kyniä,  ryövätä3,@ frames: 1 (strip of honors, possessions, or attributes) }
+{ riistää<broader/>4,  viedä<broader/>4,  riistää1,@ frames: 1 (deprive of sex or sexual powers) }
+{ jäädä_orvoksi,  riistää1,@ frames: 1 (deprive of parents) }
+{ [ kuolla<approximate/>, noun.state:kuolleen_omaisen_sureminen,+]  [ menettää3, noun.state:menetys,+]  ryöstää2,  riistää1,@ frames: 1 (deprive through death) }
+{ [ periä2, noun.person:perijä,+]  saada1,@ periä3,$ periä4,$ frames: 1 (obtain from someone after their death; "I inherited a castle from my French grandparents") }
+{ [ periä3, noun.attribute:periytyminen,+]  vastaanottaa,@ periä2,$ frames: 1 (receive by genetic transmission; "I inherited my good eyesight from my mother") }
+{ periä4,  periä2,$ frames: 1 (receive from a predecessor; "The new chairman inherited many problems from the previous chair") }
+{ [ tehdä_perinnöttömäksi, testamentata,!]  jättää_ilman,@ frames: 1 (prevent deliberately (as by making a will) from inheriting) }
+{ [ vapauttaa1, noun.act:vapautuspäätös,+ noun.communication:vapautus,+]  [ luopua7, noun.communication:luopuminen5,+ noun.act:luopuminen3,+]  jättää4,  päästää_irti,  luovuttaa13,  ojentaa,@ frames: 1 (part with a possession or right; "I am relinquishing my bedroom to the long-term house guest"; "resign a claim to the throne") }
+{ [ luovuttaa14, noun.act:luovutus4,+]  antaa_periksi,  antaa,@ frames: 1 (give over; surrender or relinquish to the physical control of another) }
+{ aiheuttaa,  saada_aikaan,  antaa22,$ frames: 1 (cause to have, in the abstract sense or physical sense; "She gave him a black eye"; "The draft gave me a cold") }
+{ [ myöntää6, noun.person:myöntäjä,+]   frames: 1 (bestow, especially officially; "grant a degree"; "give a divorce"; "This bill grants us new rights") }
+{ [ ostaa_luotolla, maksaa_käteisellä,!]  maksaa1,@ frames: 1 (pay with a credit card; pay with plastic money; postpone payment by recording a purchase as a debt; "Will you pay cash or charge the purchase?") }
+{ [ maksaa_käteisellä, ostaa_luotolla,!]  maksaa1,@ frames: 1 (pay (for something) with cash) }
+{ [ köyhdyttää, rikastuttaa,! noun.act:köyhdyttäminen,+]  jättää_ilman,@ frames: 1 (make poor) }
+{ madaltaa,  köyhdyttää,@ frames: 1 (lessen and make more modest; "reduce one's standard of living") }
+{ [ köyhdyttää1, noun.act:köyhdyttäminen,+ noun.state:köyhistyminen,+ noun.person:köyhä,+]  tehdä_jku_kerjäläiseksi,  köyhdyttää,@ frames: 1 (reduce to beggary) }
+{ asettaa_konkurssiin,  saattaa_vararikkoon,  ajaa_konkurssiin,  ajaa_vararikkoon,  syöstä_turmioon,  viedä_perikatoon,  viedä_taloudelliseen_perikatoon,  tuhota,  hajottaa,  pirstoa,  rikkoa,  särkeä,  pakottaa_konkurssiin,  saattaa_konkurssiin,  kaataa,  köyhdyttää,@ frames: 1 (reduce to bankruptcy; "My daughter's fancy wedding is going to break me!"; "The slump in the financial markets smashed him") }
+{ joutua_vararikkoon,   frames: 1 (become bankrupt or insolvent; fail financially and close; "The toy company went bankrupt after the competition hired cheap Mexican labor"; "A number of banks failed that year") }
+{ [ rikastuttaa, köyhdyttää,!]  verb.change:lisätä6,@ frames: 1 (make wealthy or richer; "the oil boom enriched a lot of local people") }
+{ koota_omaisuutta,  rikastuttaa,@ frames: 1 (enrich oneself by taking advantage of one's position; "The congressmen feathered his nest through his connection with big business") }
+{ [ ylihinnoitella, aliveloittaa,! noun.possession:ylihinta1,+]  huiputtaa,  veloittaa_liikaa,  nylkeä,  kiskoa1,  kyniä1,  ryöstää3,  ukottaa,  ryövätä,  verb.social:pettää5,@ veloittaa3,* frames: 1 (rip off; ask an unreasonable price) }
+{ [ aliveloittaa, ylihinnoitella,! noun.possession:aliveloitus,+]  veloittaa3,@ frames: 1 (charge (someone) too little money) }
+{ antaa_alennusta,  laskea_hintoja,  alentaa_hintaa,@ frames: 1 (give a reduction in price on; "I never discount these books-they sell like hot cakes") }
+{ antaa_alennusta1,  antaa_alennusta,@ frames: 1 (grant as a discount or in exchange; "The camera store owner allowed me $50 on my old camera") }
+{ [ korottaa_hintaa, alentaa_hintaa,!]  hinnoitella,@ frames: 1 (increase the price of) }
+{ pitää_samana,  suojella,@ frames: 1 (hold the line on prices; keep the price of something constant) }
+{ [ alentaa_hintaa, korottaa_hintaa,!]  alentaa,@ frames: 1 (reduce the price of) }
+{ antaa_hyvitystä,  antaa_alennusta,@ frames: 1 (give a reduction in the price during a sale; "The store is rebating refrigerators this week") }
+{ [ veloittaa3, noun.communication:veloitus,+]  [ laskuttaa, noun.communication:lasku,+]  tilittää,@ veloittaa4,$ frames: 1 (demand payment; "Will I get charged for this service?"; "We were billed for 4 nights in the hotel, although we stayed only 3 nights") }
+{ veloittaa_lisämaksu,  periä_lisämaksu,  veloittaa3,@ frames: 1 (charge an extra fee, as for a special service) }
+{ [ laskuttaa1, noun.communication:lasku,+]  veloittaa3,@ frames: 1 (send an bill to; "She invoiced the company for her expenses") }
+{ [ veloittaa4, noun.communication:veloitus,+]  veloittaa_tiliä,@ veloittaa3,$ frames: 1 (enter a certain amount as a charge; "he charged me $15") }
+{ velkaantua,  olla_velkaa1,@ frames: 1 (accumulate as a debt; "he chalked up $100 in the course of the evening") }
+{ [ varastaa4, noun.person:varas2,+]  [ ryövätä1, noun.person:ryöstäjä3,+ noun.person:ryöväri1,+]  varastaa5,@ frames: 1 (take something away by force or without the consent of the owner; "The burglars robbed him of all his money") }
+{ näpistellä1,  varastaa4,@ frames: 1 (pilfer or rob; "pick pockets") }
+{ [ varastaa5, noun.person:varas4,+ noun.act:varastaminen,+]  ryövätä2,  viedä5,  ottaa_valtaansa,@ frames: 1 (take without the owner's consent; "Someone stole my wallet on the train"; "This author stole entire paragraphs from my dissertation") }
+{ näpistää2,  [ pihistää2, noun.person:pihistäjä,+]  [ varastaa6, noun.act:varastelu,+]  kähveltää2,  pölliä3,  varastaa5,@ frames: 1 (take by theft; "Someone snitched my wallet!") }
+{ pihistää3,  pölliä4,  varastaa5,@ frames: 1 (take without permission; "he walked off with my wife!"; "The thief walked off with my gold watch") }
+{ kaupitella1,  tyrkyttää1,  ryöstää<approximate/>4,  varastaa5,@ frames: 1 (sell something to or obtain something from by energetic and especially underhanded activity) }
+{ istuttaa,  varustaa,@ noun.act:karjanhoito,;c frames: 1 (place into a river; "plant fish") }
+{ hankkia_täydennystä,  varustaa,@ noun.act:karjanhoito,;c frames: 1 (stock again; "He restocked his land with pheasants") }
+{ [ varustaa, noun.act:varustaminen,+ noun.possession:varasto,+]  varustaa1,@ frames: 1 (provide or furnish with a stock of something; "stock the larder with meat") }
+{ hankkia_varastoon,  varustaa1,@ noun.act:kauppa,;c frames: 1 (amass so as to keep for future use or sale or for a particular occasion or use; "let's stock coffee as long as prices are low") }
+{ [ varastoida_liikaa, varustaa_liian_niukasti,!]  hankkia_varastoon,@ frames: 1 (stock excessively) }
+{ [ varustaa_liian_niukasti, varastoida_liikaa,!]  hankkia_varastoon,@ frames: 1 (stock with less than the usual or desirable number or quantity) }
+{ varustaa_tekstillä<approximate/>,  varustaa1,@ frames: 1 (provide with a caption, as of a photograph or a drawing) }
+{ [ lainata1, lainata2,! noun.person:lainaaja,+ antaa_lainaksi,!]  [ ottaa_lainaksi, lainata2,! antaa_lainaksi,!]  saada1,@ frames: 1 (get temporarily; "May I borrow your lawn mower?") }
+{ [ lainata2, lainata1,! noun.person:lainaaja1,+ adj.all:käsillä_oleva1^lainattavissa_oleva,+ noun.possession:laina,+ ottaa_lainaksi,!]  [ antaa_lainaksi, lainata1,! ottaa_lainaksi,!]  antaa,@ frames: 1 (give temporarily; let have for a limited time; "I will lend you my car"; "loan me some money") }
+{ antaa20,  suoda2,  lahjoittaa6,  antaa_oma_lisänsä,  vaikuttaa_osaltaan,  [ lisätä, noun.artifact:lisääminen,+]  tuoda_mukanaan,  verb.change:muuttaa3,@ frames: 1 (bestow a quality on; "Her presence lends a certain cachet to the company"; "The music added a lot to the play"; "She brings a special atmosphere to our meetings"; "This adds a light note to the program") }
+{ laskea_mukaan,  antaa20,@ frames: 1 (be a contributing factor; "make things factor into a company's profitability") }
+{ juurruttaa,  valaa,  antaa20,@ frames: 1 (impart gradually; "Her presence instilled faith into the children"; "transfuse love of music into the students") }
+{ puhaltaa1,  juurruttaa,@ frames: 1 (impart as if by breathing; "He breathed new life into the old house") }
+{ kaunistella,  antaa20,@ frames: 1 (impart a cheap brightness to; "his tinseled image of Hollywood") }
+{ [ uhrata, noun.act:uhraus2,+ noun.person:uhraaja,+ noun.act:uhraaminen1,+]  verb.stative:rukoilla,@ frames: 1 (make a sacrifice of; in religious rituals) }
+{ [ uhrata<broader/>1, noun.act:uhrilahja,+]  uhrata,@ frames: 1 (offer as a sacrifice by killing or by giving up to destruction; "The Aztecs immolated human victims"; "immolate the valuables at the temple") }
+{ käydä_ostoksilla,  käydä_kaupassa,  saada2,@ noun.act:kauppa,;c ostaa,* frames: 1 (do one's shopping; "She goes shopping every Friday") }
+{ ostaa_markkinoilla,  käydä_ostoksilla,@ noun.act:kauppa,;c frames: 1 (buy household supplies; "We go marketing every Saturday") }
+{ käydä_ostoksilla1,  shoppailla,  [ katsella, noun.person:katselija1,+]  [ kierrellä, noun.person:kiertelijä,+]  selailla,  verb.contact:etsiä,@ noun.act:kauppa,;c verb.contact:selata,$ frames: 1 (shop around; not necessarily buying; "I don't need help, I'm just browsing") }
+{ verrata_hintoja,  käydä_ostoksilla1,@ noun.act:kauppa,;c frames: 1 (compare prices for a given item) }
+{ ostella_antiikkia,  käydä_ostoksilla1,@ noun.act:kauppa,;c frames: 1 (shop for antiques; "We went antiquing on Saturday") }
+{ ostaa_valmiina,  ostaa_eineksiä,  ostaa,@ frames: 1 (purchase prepared food to be eaten at home) }
+{ katsella_näyteikkunoita,  olla_ikkunaostoksilla,  käydä_ostoksilla1,@ frames: 1 (examine the shop windows; shop with the eyes only) }
+{ varustaa1,  antaa21,  tarjota9,  kalustaa,  antaa,@ frames: 1 (give something useful or necessary to; "We provided the room with an electrical heater") }
+{ putkittaa,  varustaa1,@ frames: 1 (provide with a tube or insert a tube into) }
+{ myydä_lippuja,  myydä_pääsylippuja,  varustaa1,@ frames: 1 (provide with a ticket for passage or admission; "Ticketed passengers can board now") }
+{ hankkia_karjaa,  varustaa1,@ noun.act:karjanhoito,;c hankkia_kaloja,$ frames: 1 (supply with livestock; "stock a farm") }
+{ hankkia_kaloja,  varustaa1,@ noun.act:karjanhoito,;c hankkia_karjaa,$ frames: 1 (supply with fish; "stock a lake") }
+{ varustaa<broader/>2,  varustaa3,@ frames: 1 (equip with a stock; "stock a rifle") }
+{ [ reunustaa, noun.shape:reunus,+]  varustaa1,@ frames: 1 (furnish with a rim; "rim a hat") }
+{ varustaa_otenauhalla<unconfirmed/>,  varustaa1,@ frames: 1 (provide (a musical instrument) with frets; "fret a guitar") }
+{ porrastaa,  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (furnish with steps; "The architect wants to step the terrace") }
+{ [ aidata, noun.artifact:aidoitus,+]  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (provide with rails; "The yard was railed") }
+{ varustaa_arinalla,  varustaa_ritilällä,  varustaa1,@ frames: 1 (furnish with a grate; "a grated fireplace") }
+{ [ pääomittaa, noun.possession:pääoma1,+]  varustaa1,@ frames: 1 (supply with capital, as of a business by using a combination of capital used by investors and debt capital provided by lenders) }
+{ varustaa_aakkosilla,  varustaa1,@ noun.communication:kieli,;c frames: 1 (provide with an alphabet; "Cyril and Method alphabetized the Slavic languages") }
+{ varustaa_laiturilla,  varustaa1,@ frames: 1 (provide with a wharf; "Wharf the mouth of the river") }
+{ ilmajäähdyttää,  [ ilmastoida, noun.artifact:ilmastointilaite,+ noun.artifact:ilmanvaihto,+ noun.artifact:ilmastointi,+]  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (equip with an apparatus for controlling the humidity and temperature; "Our house is not air-conditioned") }
+{ [ ilmastoida1, noun.artifact:ilmastointilaite,+ noun.artifact:ilmanvaihto,+ noun.artifact:ilmastointi,+]  verb.change:käsitellä,@ frames: 1 (control the humidity and temperature of; "The room was cool because it had been air-conditioned") }
+{ pukea_univormuun,  pukea_virkapukuun,  [ univormussa<idiomatic_pos/>, noun.artifact:univormu,+]  virkapuvussa<idiomatic_pos/>,  varustaa1,@ frames: 1 (provide with uniforms; "The guards were uniformed") }
+{ vetää_rautatietä,  varustaa1,@ frames: 1 (supply with railroad lines; "railroad the West") }
+{ muodostaa_kumppanuus,  varustaa1,@ frames: 1 (provide with a partner) }
+{ pörröttää<approximate/>,  varustaa1,@ frames: 1 (furnish with whiskers; "a whiskered jersey") }
+{ [ tekstittää, noun.communication:tekstitys,+]  varustaa1,@ noun.cognition:esittävät_taiteet,;c frames: 1 (supply (a movie) with subtitles) }
+{ [ otsikoida, noun.communication:otsikko<broader/>1,+]  varustaa1,@ noun.act:kustantaminen,;c frames: 1 (provide (a newspaper page or a story) with a headline) }
+{ tehdä_vastaava_lahjoitus<unconfirmed/>,  varustaa1,@ frames: 1 (provide funds complementary to; "The company matched the employees' contributions") }
+{ varustaa_kenkänauloin<approximate/>,  varustaa1,@ frames: 1 (supply with hobnails) }
+{ ottaa_vaimokseen,  varustaa1,@ frames: 1 (provide with a wife; marry (someone) to a wife) }
+{ [ muonittaa, noun.person:muonittaja,+ noun.food:muona,+]  varustaa1,@ frames: 1 (supply with food; "The population was victualed during the war") }
+{ ahtaa_täyteen,  ylensyödä,  mässäillä,  varustaa1,@ frames: 1 (supply or feed to surfeit) }
+{ [ lämmittää, noun.artifact:lämmitin3,+ noun.artifact:lämmitys,+ adj.all:kuuma2^lämmitettävä,+ noun.phenomenon:lämpö,+ noun.attribute:lämpö2,+ noun.cognition:lämpötila,+ noun.artifact:lämmitin2,+]  varustaa1,@ frames: 1 (provide with heat; "heat the house") }
+{ höyrylämmittää,  lämmittää,@ frames: 1 (heat by means of steam) }
+{ [ sijoittaa5, noun.act:sijoittaminen2,+ noun.attribute:sijoittelu,+]  verb.competition:sijoittaa,@ frames: 1 (assign a location to; "The company located some of their agents in Los Angeles") }
+{ tehdä_istumapaikkoja,  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (provide with seats; "seat a concert hall") }
+{ uusia_istumapaikat,  tehdä_istumapaikkoja,@ noun.act:arkkitehtuuri,;c frames: 1 (provide with new seats; "reseat Carnegie Hall") }
+{ asentaa_istuinosa,  varustaa1,@ noun.act:huonekalupuusepäntyö,;c frames: 1 (put a seat on a chair) }
+{ vaihtaa_istuin,  asentaa_istuinosa,@ noun.act:huonekalupuusepäntyö,;c frames: 1 (provide with a new seat; "reseat the old broken chair") }
+{ rakentaa_ramppi_jhk,  [ rampittaa, noun.artifact:ramppi1,+]  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (furnish with a ramp; "The ramped auditorium") }
+{ aseistaa,  aseistautua,@ frames: 1 (supply with weapons) }
+{ [ aseistautua, noun.artifact:aseistus,+ noun.artifact:ase2,+]  varustautua,  [ aseistaa1, noun.artifact:aseistus,+ noun.artifact:ase2,+]  varustaa1,@ frames: 1 (supply with arms; "The U.S. armed the freedom fighters in Afghanistan") }
+{ [ varustaa_uudelleen, noun.act:varustautuminen,+]  aseistautua,@ frames: 1 (arm again; "After the war, the defeated country was not rearmed by the victors") }
+{ panna_välilehtiä,  varustaa1,@ frames: 1 (provide (books) with blank leaves) }
+{ [ lasittaa, noun.substance:lasi,+]  varustaa_lasilla,  varustaa1,@ frames: 1 (furnish with glass; "glass the windows") }
+{ asentaa_kaksinkertaiset_ikkunat,  lasittaa,@ frames: 1 (provide with two sheets of glass) }
+{ kreneloida,  varustaa_sakaroilla,  hammastaa,  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (supply with battlements) }
+{ pengertää<approximate/>,  varustaa1,@ frames: 1 (provide with a causeway; "A causewayed swamp") }
+{ [ kanavoida, noun.artifact:kanava,+ noun.act:kanalisaatio,+ noun.act:kanavoiminen,+]  ojittaa,  varustaa1,@ frames: 1 (provide (a city) with a canal) }
+{ asentaa<broader/>,  varustaa1,@ frames: 1 (provide with a bushing) }
+{ laudoittaa<approximate/>,  varustaa1,@ frames: 1 (supply with a brattice, to ventilate mines) }
+{ kalustaa1,  [ sisustaa, noun.artifact:sisustus,+]  varustaa1,@ frames: 1 (provide or equip with furniture; "We furnished the house in the Biedermeyer style") }
+{ varustaa_säleverhoin,  tehdä_säleikkö,  varustaa1,@ frames: 1 (equip or bar with slats; "Slat the windows") }
+{ kalustaa_uudelleen,  kalustaa1,@ frames: 1 (furnish with new or different furniture; "We refurnished the living room") }
+{ tarjota_ankkuripaikka,  tarjota_laituripaikka,  tarjota_makuupaikka,  tarjota_makuusija,  varustaa1,@ frames: 1 (provide with a berth) }
+{ majoittaa,  varustaa1,@ frames: 1 (furnish with a bed; "The inn keeper could bed all the new arrivals") }
+{ majoittaa1,  majoittaa,@ frames: 1 (provide with a bunk; "We bunked the children upstairs") }
+{ [ tietokoneistaa, noun.artifact:tietokone,+]  varustaa1,@ frames: 1 (provide with computers; "Our office is fully computerized now") }
+{ [ puvustaa, noun.person:puvustaja,+]  varustaa1,@ noun.cognition:esittävät_taiteet,;c frames: 1 (furnish with costumes; as for a film or play) }
+{ pehmustaa<approximate/>,  varustaa1,@ noun.act:huonekalupuusepäntyö,;c frames: 1 (provide with a bottom or a seat; "bottom the chairs") }
+{ rakentaa<broader/>,  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (provide (a ceiling) with rafters) }
+{ työstää,  varustaa1,@ frames: 1 (furnish with tools) }
+{ uusia_kalusto,  korvata4,@ frames: 1 (provide (a workshop or factory) with new tools) }
+{ varustaa_avaimilla,  varustaa1,@ frames: 1 (provide with a key; "We were keyed after the locks were changed in the building") }
+{ [ tankata3, noun.act:tankkaus,+]  täyttää_polttoaineella,  varustaa1,@ frames: 1 (provide with a combustible substance that provides energy; "fuel aircraft, ships, and cars") }
+{ tankata4,  tankata3,@ frames: 1 (fill with gasoline; "Gas up the car") }
+{ [ tankata5, noun.act:tankkaus,+]  tankata3,@ frames: 1 (provide with additional fuel, as of aircraft, ships, and cars) }
+{ tankata6,  tankata3,@ frames: 1 (fill (a ship's bunker) with coal or oil) }
+{ [ muonittaa1, noun.person:muonittaja,+]  tarjota10,  varustaa1,@ frames: 1 (supply with provisions) }
+{ antaa22,  tuottaa5,  aiheuttaa1,  saada_aikaan1,  synnyttää,  tarjota11,  varustaa1,@ aiheuttaa,$ frames: 1 (be the cause or source of; "He gave me a lot of trouble"; "Our meeting afforded much interesting information") }
+{ [ varustaa3, noun.artifact:varusteet4,+ noun.act:varustelu,+ noun.artifact:varustus2,+ noun.artifact:varusteet3,+ noun.act:varustaminen1,+ noun.artifact:varusteet1,+]  varustaa1,@ frames: 1 (provide with (something) usually for a specific purpose; "The expedition was equipped with proper clothing, food, and other necessities") }
+{ naulata_hevosenkenkä,  kengittää,  varustaa3,@ frames: 1 (equip (a horse) with a horseshoe or horseshoes) }
+{ varustaa4,  varustaa3,@ frames: 1 (outfit or equip, as with accessories; "The actors were turned out lavishly") }
+{ kojeistaa,  varustaa3,@ frames: 1 (equip with instruments for measuring, recording, or controlling) }
+{ vahvistaa<unconfirmed/>,  varustaa1,@ frames: 1 (equip (an electronic circuit or device) with transistors) }
+{ [ panna_kuonokoppa, irrottaa,!]  varustaa3,@ frames: 1 (fit with a muzzle; "muzzle the dog to prevent it from biting strangers") }
+{ [ irrottaa, panna_kuonokoppa,!]  hankkiutua_eroon,@ frames: 1 (remove the muzzle from (a dog)) }
+{ varustaa5,  varustaa3,@ frames: 1 (supply with a set of articles or tools) }
+{ kalustaa2,  varustaa6,  varustaa3,@ frames: 1 (furnish; "a beautifully appointed house") }
+{ järjestää_uudelleen,  pistää_uusiksi,  varustaa3,@ frames: 1 (re-equip a factory or plant) }
+{ kunnostaa,  varustaa3,@ frames: 1 (fit out again) }
+{ aseistaa2,  varustaa7,  varustaa3,@ frames: 1 (equip with armor) }
+{ [ verhoilla, noun.act:verhoiluala,+ noun.person:verhoilija,+ noun.artifact:verhoilu,+]  varustaa1,@ noun.act:huonekalupuusepäntyö,;c frames: 1 (provide furniture with padding, springs, webbing, and covers) }
+{ varustaa8,  varustaa3,@ frames: 1 (provide with military equipment) }
+{ [ täydentää, noun.attribute:täydentäminen,+ noun.attribute:täydennys1,+ noun.artifact:täydennys,+]  verb.change:lisätä6,@ varustaa1,* verb.stative:täydentää1,$ frames: 1 (add as a supplement to what seems insufficient; "supplement your diet") }
+{ [ vitaminoida, noun.substance:vitamiini,+]  täydentää,@ frames: 1 (add vitamins as a supplement; "vitaminized processed foods") }
+{ täydentää1,  täydentää,@ frames: 1 (supplement what is thought to be deficient; "He eked out his meager pay by giving private lessons"; "Braque eked out his collages with charcoal") }
+{ edetä,  edistyä,  lentää_korkealle,  kukoistaa<note>dedicated_to_Esa_Saarinen</note>,  menestyä,  verb.change:kääntyä1,@ frames: 1 (make steady progress; be at the high point in one's career or reach a high point in historical significance or importance; "The new student is thriving") }
+{ toimia_pankkiirina,  verb.social:olla_töissä,@ toimia_pankkiirina1,$ frames: 1 (be in the banking business) }
+{ toimia_pankkiirina1,  verb.competition:toimia_jnk,@ toimia_pankkiirina,$ frames: 1 (act as the banker in a game or in gambling) }
+{ asioida_pankissa,  olla_pankin_asiakas,  toimittaa<note>asia</note><note>liiketoimintaa</note>,@ frames: 1 (do business with a bank or keep an account at a bank; "Where do you bank in this town?") }
+{ [ uhrata2, noun.act:uhraus1,+ noun.act:uhraaminen,+]  luopua8,  vapauttaa1,@ verb.cognition:uhrata,$ verb.communication:omistautua,$ frames: 1 (endure the loss of; "He gave his life for his children"; "I gave two sons to the war") }
+{ luopua9,  luovuttaa15,  antautua,@ frames: 1 (formally assign ownership of; "She signed away her rights") }
+{ myydä_tappiolla,  myydä2,@ frames: 1 (sell at a loss) }
+{ palauttaa3,  maksaa_takaisin4,  antaa,@ frames: 1 (make repayment for or return something) }
+{ hyvittää6,  palauttaa3,@ verb.competition:kostaa2,$ frames: 1 (make a compensation for; "a favor that cannot be paid back") }
+{ [ palkita1, noun.event:palkka,+]  hyvittää7,  maksaa10,  verb.social:toimia,@ frames: 1 (act or give recompense in recognition of someone's behavior or actions) }
+{ [ ryövätä3, noun.act:ryöstäminen,+ noun.possession:ryöstösaalis1,+ noun.act:ryöstely2,+]  rosvota,  ryöstää5,  varastaa7,  anastaa3,  ottaa_valtaansa,@ frames: 1 (steal goods; take as spoils; "During the earthquake people looted the stores that were deserted by their owners") }
+{ [ hävittää, noun.act:hävitys4,+]  tuhota1,  ottaa_valtaansa,@ verb.contact:tuhota4,* frames: 1 (plunder (a town) after capture; "the barbarians sacked Rome") }
+{ ryöstää6,  varastaa5,@ noun.act:rikos1,;c frames: 1 (take illegally; of intellectual property; "This writer plundered from famous authors") }
+{ pihistää4,  [ kitsastella2, noun.person:kitupiikki<unconfirmed/>4,+]  pihtailla1,  säästää2,@ frames: 1 (subsist on a meager allowance; "scratch and scrimp") }
+{ voida_luopua,  luopua10,  tulla_toimeen_ilman,  antaa,@ frames: 1 (give up what is not strictly needed; "he asked if they could spare one of their horses to speed his journey") }
+{ [ salakuljettaa, noun.person:salakuljettaja1,+ noun.act:salakuljetus,+]  tuoda_maahan,@ viedä6,@ noun.act:kauppa,;c noun.act:rikos1,;c frames: 1 (import or export without paying customs duties; "She smuggled cigarettes across the border") }
+{ [ tuoda_maahan, viedä6,! noun.artifact:tuonti,+ noun.artifact:tuontitavarat,+ noun.act:tuonti,+]  kaupata1,@ noun.act:kauppa,;c frames: 1 (bring in from abroad) }
+{ [ viedä6, tuoda_maahan,! noun.artifact:vienti,+ noun.person:viejä,+ noun.act:vienti,+ noun.artifact:vientitavara,+ noun.artifact:vientituote,+]  kaupata1,@ noun.act:kauppa,;c frames: 1 (sell or transfer abroad; "we export less than we import and have a negative trade balance") }
+{ hyväksyä4,  [ omaksua, adj.all:omaksuttu,+ noun.act:omaksuminen1,+]  lainata3,  ottaa_itselleen1,  hyväksyä1,@ frames: 1 (take up and practice as one's own) }
+{ omaksua1,  [ seurata, noun.group:seuraajajoukko,+]  [ kannattaa1, noun.act:kannattaminen,+]  verb.cognition:valita1,@ verb.social:noudattaa1,$ frames: 1 (choose and follow; as of theories, ideas, policies, strategies or plans; "She followed the feminist movement"; "The candidate espouses Republican ideals") }
+{ [ pantata, noun.act:panttaus,+ noun.possession:pantti1,+]  kanittaa,  jättää_haltuun,@ noun.act:kauppa,;c frames: 1 (leave as a guarantee in return for money; "pawn your grandfather's gold watch") }
+{ jättää_säilytykseen,  jättää_haltuun,@ luovuttaa_kuljetettavaksi,$ frames: 1 (hand over something to somebody as for temporary safekeeping; "Check your coat at the door") }
+{ jättää_haltuun,  uskoa_haltuun,  uskoa_jklle,@ frames: 1 (give over to another for care or safekeeping; "consign your baggage") }
+{ luovuttaa_kuljetettavaksi,  jättää_haltuun,@ jättää_säilytykseen,$ frames: 1 (consign for shipment on a vehicle; "check your luggage before boarding") }
+{ palauttaa_takaisin,  uskoa_jklle,@ frames: 1 (commit again; "It was recommitted into her custody") }
+{ [ velvoittaa, noun.state:velvollisuus,+]  uskoa_jklle,@ frames: 1 (commit in order to fulfill an obligation; "obligate money") }
+{ jättää_huomaan,  hylätä5,@ frames: 1 (commit forever; commit irrevocably) }
+{ lähettää,  verb.contact:toimittaa2,@ frames: 1 (send to an address) }
+{ [ passittaa, noun.act:passittaminen,+ noun.act:passitus,+]  sijoittaa_laitokseen,  lähettää1,  määrätä2,  sijoittaa_laitoshoitoon,  toimittaa1,  siirtää7,@ frames: 1 (cause to be admitted; of persons to an institution; "After the second episode, she had to be committed"; "he was committed to prison") }
+{ sijoittaa_sairaalaan,  joutua_sairaalaan,  passittaa,@ frames: 1 (admit into a hospital; "Mother had to be hospitalized because her blood pressure was too high") }
+{ [ uskoa_jklle, noun.person:uskottu_mies2,+]  [ uskoa, noun.person:uskottu_mies2,+]  ojentaa,@ frames: 1 (confer a trust upon; "The messenger was entrusted with the general's secret"; "I commit my soul to God") }
+{ alentaa,  nipistää,  vähentää_hinnasta,  verb.change:supistaa6,@ frames: 1 (cut the price of) }
+{ taata,  verb.communication:taata1,@ frames: 1 (assure payment of) }
+{ todistaa_ymmärrystä_vailla_olevaksi,  taata,@ frames: 1 (guarantee payment on; of checks) }
+{ vastata_kustannuksista,  kustantaa1,  maksaa1,@ frames: 1 (bear the expenses of) }
+{ hautoa,  suojella1,  pitää,@ frames: 1 (keep in one's possession; of animals) }
+{ [ vapauttaa_jk_jsatk, verb.stative:poistaa,^]  vapauttaa2,  päästää_jk_jstak,  [ päästää1, verb.stative:poistaa,^]   frames: 1 (relieve from; "Rid the house of pests") }
+{ puhdistaa,  vapauttaa_jk_jsatk,@ frames: 1 (clear from impurities, blemishes, pollution, etc.; "clear the water before it can be drunk") }
+{ tuhota_syöpäläiset,  vapauttaa_jk_jsatk,@ frames: 1 (rid of vermin; "The exterminator disinfests the house") }
+{ irrottaa1,  vapauttaa_jstk,  vapauttaa_jk_jsatk,@ frames: 1 (free from a body or physical form or reality) }
+{ [ dumpata, noun.act:dumppaus1,+]  myydä_polkuhintaan,  myydä2,@ frames: 1 (sell at artificially low prices) }
+{ [ hinnoitella, noun.possession:hinta,+ noun.cognition:hinnoittelu,+]  verb.cognition:määrätä2,@ frames: 1 (determine the price of; "The grocer priced his wares high") }
+{ vääristellä,  manipuloida,  hinnoitella,@ frames: 1 (manipulate in a fraudulent manner; "rig prices") }
+{ ylihinnoitella1,  hinnoitella,@ frames: 1 (price excessively high) }
+{ myydä<broader/>10,  myydä2,@ antaa_alennusta,* frames: 1 (sell cheaper than one's competition) }
+{ alittaa,  tarjota12,  hinnoitella,@ frames: 1 (offer for sale at a price lower than the market price) }
+{ [ kiinnittää, noun.person:kiinnitysvelallinen,+ noun.possession:kiinnitys,+ noun.person:kiinnitysvelkoja,+]  olla_velkaa,@ frames: 1 (put up as security or collateral) }
+{ tehdä_velkakirja,  kiinnittää,@ frames: 1 (issue bonds on) }
+{ suorittaa_loppuun,  maksaa_pois,  maksaa2,@ frames: 1 (eliminate by paying off (debts)) }
+{ maksaa_pois1,  suorittaa_loppuun,@ frames: 1 (pay off (a mortgage)) }
+{ [ lyhentää, noun.act:lyhennys1,+]  suorittaa_loppuun,@ frames: 1 (liquidate gradually) }
+{ [ nastoittaa, noun.artifact:nasta,+]  varustaa1,@ frames: 1 (provide with cleats; "cleat running shoes for better traction") }
+{ myydä_loppuun2,  heittää_pois,@ frames: 1 (terminate by selling off or disposing of; "He closed out his line of sports cars") }
+{ [ hiilestää, noun.substance:hiili2,+]  varustaa1,@ frames: 1 (supply with coal) }
+{ tukea_olkakivellä,  varustaa1,@ noun.cognition:arkkitehtuuri,;c frames: 1 (furnish with a corbel) }
+{ asentaa_kappa,  varustaa1,@ noun.cognition:arkkitehtuuri,;c frames: 1 (furnish with a cornice) }
+{ napata1,  siepata3,  saada2,@ frames: 1 (get by acting quickly and smartly; "snag a bargain") }
+{ säätää_perustuslaki,  varustaa1,@ frames: 1 (provide with a constitution, as of a country; "The United States were constitutionalized in the late 18th century") }
+{ varustaa_kuparipohjalla,  varustaa1,@ frames: 1 (provide with a copper bottom; "copper-bottom a frying pan") }
+{ panna_verhot_ikkunaan,  verhota,  varustaa1,@ frames: 1 (provide with drapery; "curtain the bedrooms") }
+{ takavarikoida3,  ulosmitata1,  takavarikoida,@ frames: 1 (confiscate by distress) }
+{ pidättää3,  ulosmitata2,  periä_veroa,@ frames: 1 (levy a distress on) }
+{ varustaa_portilla,  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (supply with a gate; "The house was gated") }
+{ tehdä_heräteostoksia,  ostaa,@ noun.act:kauppa,;c frames: 1 (buy on impulse without proper reflection) }
+{ laatia_hakemisto,  varustaa1,@ noun.act:kustantaminen,;c frames: 1 (provide with an index; "index the book") }
+{ [ liittää1, noun.shape:liitos1,+ noun.shape:liittymäkohta,+]  [ liittää_yhteen, noun.shape:liitos1,+ noun.shape:liittymäkohta,+]  yhdistää2,  [ niveltää, noun.shape:niveltäminen,+ noun.act:nivelliitos,+ noun.act:niveltäminen,+ noun.body:nivel,+ noun.act:nivellys,+]  varustaa1,@ noun.act:puusepäntyö,;c frames: 1 (provide with a joint; "the carpenter jointed two pieces of wood") }
+{ [ johdottaa, noun.artifact:johdinsarja,+ noun.person:johdottaja1,+]  varustaa3,@ frames: 1 (provide with electrical circuits; "wire the addition to the house") }
+{ uusia_sähköjohdot,  johdottaa,@ frames: 1 (provide with new wiring; "the university rewired the dormitories when most students brought computers and television sets") }
+{ luovuttaa16,  myydä11,  siirtää10,  myydä2,@ frames: 1 (give, sell, or transfer to another; "She disposed of her parents' possessions") }
+{ sijoittaa_uudelleen,  luovuttaa16,@ frames: 1 (dispose anew; "The goods were redisposed at a great loss") }
+{ [ lahjoa3, noun.possession:lahjus1,+]  maksaa1,@ noun.act:rikos1,;c frames: 1 (pay a kickback; make an illegal payment) }
+{ kerätä<approximate/>3,  saada1,@ frames: 1 (get in addition, as an increase; "The candidate picked up thousands of votes after his visit to the nursing home") }
+{ olla4,  saada6,  tehdä,  verb.competition:tehdä_pisteitä,@ verb.body:tehdä1,$ frames: 1 (achieve a point or goal; "Nicklaus had a 70"; "The Brazilian team got 4 goals"; "She made 29 points that day") }
+{ syytää1,  varustaa1,@ frames: 1 (supply in large amounts or quantities; "We poured money into the education of our children") }
+{ myydä12,  myydä2,@ frames: 1 (dispose of by selling; "The chairman of the company told the salesmen to move the computers") }
+{ syytää2,  varustaa1,@ frames: 1 (supply in great quantities; "Pump money into a project") }
+{ antaa_jonkun_vastuulle,  jättää_huoleksi,  jättää_huostaan,  uskoa1,  ojentaa,@ frames: 1 (put into the care or protection of someone; "He left the decision to his deputy"; "leave your child the nurse's care") }
+{ käyttää_polttoaineena,  olla_polttoaineena,  varustaa1,@ frames: 1 (provide with fuel; "Oil fires the furnace") }
+{ [ muistaa, noun.communication:muistelu,+]  testamentata,@ frames: 1 (show appreciation to; "He remembered her in his will") }
+{ täyttää,  tarjota_liikaa2,  kyllästää,  varustaa1,@ frames: 1 (supply with an excess of; "flood the market with tennis shoes"; "Glut the country with cheap imports from the Orient") }
+{ lisätä1,  antaa20,@ frames: 1 (add as an extra or as a gratuity) }
+{ [ palauttaa4, noun.communication:palaute2,+]  verb.social:antaa_vastalahja,@ frames: 1 (return in kind; "return a compliment"; "return her love") }
+{ [ säästää5, noun.person:säästäjä1,+ noun.person:säästäväinen_henkilö,+ noun.act:säästö,+ noun.attribute:säästäväisyys3,+ noun.person:säästäjä<approximate/>,+]  käyttää2,@ frames: 1 (spend sparingly, avoid the waste of; "This move will save money"; "The less fortunate will have to economize now") }
+{ toimittaa<broader/>2,  varustaa1,@ frames: 1 (provide with a toggle or toggles) }
+{ täplittää,  varustaa1,@ frames: 1 (provide with a patch; also used metaphorically; "The field was patched with snow") }
+{ juottaa,  varustaa1,@ frames: 1 (provide with water; "We watered the buffalo") }
+{ tarjota_pääsy,  avautua,  antaa23,   frames: 1 (afford access to; "the door opens to the patio"; "The French doors give onto a terrace") }
+{ anastaa4,  ottaa_haltuunsa3,  saada2,@ frames: 1 (obtain illegally or unscrupulously; "Grab power") }
+{ antaa24,  aiheuttaa,@ frames: 1 (carry out or perform; "deliver an attack", "deliver a blow"; "The boxer drove home a solid left") }
+{ sälyttää,  välittää2,  antaa24,@ frames: 1 (deliver (a blow); "He landed several blows on his opponent's head") }
+{ tulla_jkn_osaksi2,  tulla_jkn_osaksi,$ siirtyä_perintönä1,$ frames: 1 (to be given by assignment or distribution; "The most difficult task fell on the youngest member of the team"; "The onus fell on us"; "The pressure to succeed fell on the youngest student") }
+{ siirtyä_perintönä1,  tulla_jkn_osaksi2,$ frames: 1 (to be given by right or inheritance; "The estate fell to the oldest daughter") }
+{ vaatia4,  vaatia<unconfirmed/>5,  verb.communication:vaatia11,@ verb.communication:vaatia9,$ frames: 1 (demand payment of (a loan); "Call a loan") }
+{ kantaa1,  omata,  verb.stative:olla9,@ frames: 1 (have on the surface or on the skin; "carry scars") }
+{ saada7,  saada1,@ verb.cognition:käsittää1,$ verb.cognition:saada_tulokseksi,$ frames: 1 (acquire as a result of some effort or action; "You cannot get water out of a stone"; "Where did she get these news?") }
+{ antaa_korvaukseksi,  antaa_vastineeksi,  korvata2,@ frames: 1 (deliver in exchange or recompense; "I'll give you three books for four CDs") }
+{ rahoittaa_lainalla,  varustaa1,@ frames: 1 (provide with leverage; "We need to leverage this company") }
+{ rahoittaa_lainalla1,  täydentää,@ frames: 1 (supplement with leverage; "leverage the money that is already available") }
+{ kiristää<broader/>4,  kyniä2,  kiristää1,@ frames: 1 (get or extort (money or other possessions) from someone; "They bled me dry--I have nothing left!") }
+{ poistaa<broader/>4,  ottaa,@ frames: 1 (free or relieve (someone) of a burden) }
+{ panna_tappi,  varustaa_hanalla,  varustaa1,@ verb.contact:panna_tappi,$ verb.motion:valuttaa,$ frames: 1 (furnish with a tap or spout, so as to be able to draw liquid from it; "tap a cask of wine") }
+{ kattaa1,  varustaa1,@ frames: 1 (provide with a top or finish the top (of a structure); "the towers were topped with conical roofs") }
+{ varustaa_heijastimin,  varustaa1,@ frames: 1 (provide with reflectors, such as chemicals; "the driveway was reflectorized for safety reasons") }
+{ tulla_sijaan,  korvata4,@ frames: 1 (substitute one creditor for another, as in the case where an insurance company sues the person who caused an accident for the insured) }
+{ ulkoistaa,  hankkia3,@ frames: 1 (obtain goods or services from an outside supplier; to contract work out; "Many companies outsource and hire consultants in order to maintain a flexible workforce") }
+{ asentaa_jälkikäteen,  varustaa1,@ verb.contact:asentaa_jälkikäteen,$ frames: 1 (provide with parts, devices, or equipment not available or in use at the time of the original manufacture; "They car companies retrofitted all the old models with new carburetors") }
+{ kehystää,  [ reunustaa1, noun.location:reuna,+ noun.artifact:reunaleikkuri,+]  varustaa1,@ frames: 1 (provide with a border or edge; "edge the tablecloth with embroidery") }
+{ varustaa_ampumarei'illä,  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (supply with projecting galleries; "machicolate the castle walls") }
+{ tarjota_sanitaatiota,  varustaa1,@ noun.act:arkkitehtuuri,;c frames: 1 (provide with sanitary facilities or appliances) }
+{ siirtää11,  siirtää7,@ frames: 1 (move from one place to another, especially of wild animals; "The endangered turtles were translocated to a safe environment") }
+{ [ siirtää12, noun.process:siirto,+]  verb.motion:siirtää6,@ frames: 1 (transfer (a chromosomal segment) to a new position) }
+{ ottaa_omakseen,  ottaa<note>Wordnetin_merkitysjaottelu_on_syvältä</note>3,@ frames: 1 (take or assume for one's own use; "He co-opted the criticism and embraced it") }
+{ [ varttaa, noun.artifact:varsi2,+]  varustaa3,@ frames: 1 (equip with a shaft) }
+{ varustaa_puomilla,  varustaa_tangolla,  varustaa3,@ frames: 1 (furnish with spars) }
+{ varustaa<broader/>9,  varustaa3,@ frames: 1 (furnish with staves; "stave a ladder") }
+{ uskoa_jollekin,  antaa,@ siirtyä_jollekin,$ frames: 1 (place (authority, property, or rights) in the control of a person or group of persons; "She vested her vast fortune in her two sons") }
+{ laittaa_hattu,  varustaa1,@ frames: 1 (furnish with a hat) }
+{ rajoittaa_perintöä<unconfirmed/>,  testamentata,@ frames: 1 (limit the inheritance of property to a specific class of heirs) }
+{ antaa_jklle_läänitykseksi,  antaa,@ frames: 1 (put in possession of land in exchange for a pledge of service, in feudal society; "He enfeoffed his son-in-law with a large estate in Scotland") }
+{ teemoittaa,  varustaa1,@ frames: 1 (provide with a particular theme or motive; "the restaurant often themes its menus") }
+{ lyödä_kassaan,  ostaa,* frames: 1 (record, add up, and receive payment for items purchased; "She was checking out the apples that the customer had put on the conveyer belt") }
+{ ilmata,  hankkiutua_eroon,@ frames: 1 (remove air or gas from) }
+{ tehdä_kofeiinittomaksi,  hankkiutua_eroon,@ frames: 1 (remove caffeine from (coffee)) }
+{ poistaa_hiilihappo,  hankkiutua_eroon,@ frames: 1 (remove carbon dioxide from) }
+{ poistaa_aivot,  hankkiutua_eroon,@ noun.cognition:kirurgia,;c frames: 1 (remove the cerebrum from (a human body)) }
+{ poistaa_kloori,  hankkiutua_eroon,@ frames: 1 (remove chlorine from (water)) }
+{ poistaa_rasva,  hankkiutua_eroon,@ frames: 1 (remove the fat from) }
+{ poistaa_fibriinit,  hankkiutua_eroon,@ frames: 1 (remove fibrin from (blood)) }
+{ poistaa_rasva1,  hankkiutua_eroon,@ frames: 1 (remove grease or oil from (a pan)) }
+{ poistaa_ioneja,  hankkiutua_eroon,@ frames: 1 (remove ions from) }
+{ ottaa_pois_pörssilistauksesta,  hankkiutua_eroon,@ frames: 1 (remove (a security) from listing at a stock exchange) }
+{ siirtää_pois_tavanomaiselta_paikaltaan,  hankkiutua_eroon,@ frames: 1 (remove from the proper or usual locality) }
+{ poistaa_happi,  hankkiutua_eroon,@ frames: 1 (remove oxygen from (water)) }
+{ poistaa_väriaine<unconfirmed/>,  hankkiutua_eroon,@ frames: 1 (remove stain from (a laboratory specimen) to enhance contrast) }
+{ poistaa_rikki,  hankkiutua_eroon,@ frames: 1 (remove sulfur from) }
+{ poistaa_punkit,  hankkiutua_eroon,@ frames: 1 (free (a pet) of ticks) }
+{ poistaa_katkaravun_ruuansulatuskanava,  hankkiutua_eroon,@ frames: 1 (remove the dark dorsal vein of (a shrimp)) }
+{ puhdistaa1,  hankkiutua_eroon,@ frames: 1 (remove mold marks or sand from (a casting)) }
+{ kaapia,  hankkiutua_eroon,@ frames: 1 (remove adhering flesh from (hides) when preparing leather manufacture) }
+{ nylkeä1,  hankkiutua_eroon,@ frames: 1 (strip the blubber or skin from (a whale or seal)) }
+{ [ poistaa<broader/>5, asettaa_kirjasin,!]  hankkiutua_eroon,@ noun.communication:painatus,;c frames: 1 (remove a portion of space between (adjacent letters)) }
+{ [ asettaa_kirjasin, poistaa<broader/>5,!]  varustaa1,@ noun.communication:painatus,;c frames: 1 (furnish with a kern) }
+{ poistaa_ydin,  hankkiutua_eroon,@ frames: 1 (remove the pith from (a plant)) }
+{ irrottaa_kuonaa,  hankkiutua_eroon,@ frames: 1 (remove the scum from) }
+{ [ riisua_ohjakset, verb.contact:panna_suitset_suuhun<unconfirmed/>,!]  hankkiutua_eroon,@ frames: 1 (remove the bridle from (a horse or mule)) }
+{ kuluttaa4,  käyttää2,@ frames: 1 (spend or invest; "lay out thousands on gold"; "he laid out a fortune in the hope of making a huge profit") }
+{ linnoittaa,  verb.contact:linnoittaa,@ frames: 1 (fortify by furnishing with battlements for defense; "an embattled castle") }
+{ pitää_päämajaansa_jossakin,  varustaa1,@ frames: 1 (provide with headquarters; "the compnay is headquartered in New Jersey") }

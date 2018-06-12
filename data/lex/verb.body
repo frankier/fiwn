@@ -1,0 +1,547 @@
+{ [ hengittää, hengittää_sisään,^ hengittää_ulos,^ noun.act:hengittäminen,+]  henkäistä,  [ respiroida, noun.act:respiraatio,+]  hengittää_ulos,* vetää_henkeä,* hengähtää_helpotuksesta,$ hengittää1,$ frames: 1 (draw air into, and expel out of, the lungs; "I can breathe better when the air is clean"; "The patient is respiring") }
+{ [ hengittää1, adj.pert:hengitys-,+ noun.act:hengitys,+]  verb.perception:kokea1,@ hengittää,$ frames: 1 (undergo the biomedical and metabolic processes of respiration by taking up oxygen and producing carbon monoxide) }
+{ [ hengähtää_helpotuksesta, adj.pert:hengitys-,+]  hengittää,@ hengittää,$ frames: 1 (breathe easily again, as after exertion or anxiety) }
+{ [ tukahtua, noun.state:tukehtuminen1,+]  hengittää,@ frames: 1 (breathe with great difficulty, as when experiencing a strong emotion; "She choked with emotion when she spoke about her deceased husband") }
+{ saada_hyperventilaatiokohtaus,  hyperventiloida,  hengittää,@ aiheuttaa_hyperventilaatiokohtaus<unconfirmed/>,$ frames: 1 (breathe excessively hard and fast; "The mountain climber started to hyperventilate") }
+{ aiheuttaa_hyperventilaatiokohtaus<unconfirmed/>,  hoitaa,@ saada_hyperventilaatiokohtaus,$ frames: 1 (produce hyperventilation in; "The nurses had to hyperventilate the patient") }
+{ [ aspiroida, noun.act:aspiraatio,+]  vetää_henkeä,@ frames: 1 (suck in (air)) }
+{ [ röyhtäistä, noun.act:röyhtäisy,+ noun.act:röyhtäys,+ noun.act:röyhtäily,+]  päästää2,@ frames: 1 (expel gas from the stomach; "In China it is polite to burp at the table") }
+{ pakottaa_ulos,  päästää2,@ frames: 1 (emit or cause to move with force of effort; "force out the air"; "force out the splinter") }
+{ [ hikata, noun.state:hikka,+]  [ nikotella, noun.state:nikotus,+]  [ hikotella, noun.state:hikka,+]  hengittää,@ frames: 1 (breathe spasmodically, and make a sound; "When you have to hiccup, drink a glass of cold water") }
+{ [ huokailla, noun.event:huokailu,+ noun.communication:huokaus,+ noun.communication:huoahdus,+ noun.communication:huokaisu,+]  [ huokaista, noun.communication:huokailu,+]  [ huoata, noun.event:huokailu,+ noun.communication:huokaus,+ noun.communication:huoahdus,+ noun.communication:huokaisu,+]  hengittää,@ frames: 1 (heave or utter a sigh; breathe deeply and heavily; "She sighed sadly") }
+{ [ hengittää_ulos, vetää_henkeä,!]  hengittää,@ frames: 1 (expel air; "Exhale when you lift the weight") }
+{ pidätellä,  verb.social:hillitä,@ frames: 1 (keep from exhaling or expelling; "hold your breath") }
+{ hengittää_ulos1,  levitä,  levittää<unconfirmed/>,  päästää_ulos<unconfirmed/>,  kantautua_jostakin,  kulkeutua_jostakin,  levitä_jostakin,  [ säteillä_jostakin, noun.substance:säteily,+]  kantautua,  päästää2,@ frames: 1 (give out (breath or an odor); "The chimney exhales a thick smoke") }
+{ [ aivastaa, noun.state:aivastus,+ noun.state:aivastaminen,+ noun.person:aivastelija,+]  toimia_väkisin,@ hengittää_ulos,* frames: 1 (exhale spasmodically, as when an irritant entered one's nose; "Pepper makes me sneeze") }
+{ [ vetää_henkeä, hengittää_ulos,!]  inhaloida,  hengittää_sisään,  hengittää,@ frames: 1 (draw in (air); "Inhale deeply"; "inhale the fresh mountain air"; "The patient has trouble inspiring"; "The lung cancer patient cannot inspire air very well") }
+{ puuskuttaa,  [ puhkua, noun.act:puhkuminen,+]  [ huohottaa, noun.act:huohotus,+]  haukkoa_henkeään,  läähättää,  puhaltaa_ilmaa_keuhkoista,@ frames: 1 (breathe noisily, as when one is exhausted; "The runners reached the finish line, panting heavily") }
+{ [ yskiä, yskiä1,^ verb.possession:joutua_maksamaan,^ noun.state:yskä,+ noun.state:yskintä,+ noun.state:yskähdys,+ noun.state:yskiminen,+]  [ köhiä, yskiä1,^ verb.possession:joutua_maksamaan,^]  yskiä1,@ frames: 1 (exhale abruptly, as when one has a chest cold or congestion; "The smoker coughs all day") }
+{ yskiä_hakkaavaa_yskää,  köhiä1,  yskiä,@ frames: 1 (cough spasmodically; "The patient with emphysema is hacking all day") }
+{ [ yskiä1, noun.process:yskiminen,+ noun.person:yskijä,+ noun.act:yskiminen,+]  sylkeä,  päästää1,@ frames: 1 (discharge (phlegm or sputum) from the lungs and out of the mouth) }
+{ [ tuhahtaa, noun.act:tuhahtaminen,+ noun.person:tuhahtelija,+]  hengittää_ulos,@ frames: 1 (make a snorting sound by exhaling hard; "The critic snorted contemptuously") }
+{ [ vinkua, noun.act:vinkuminen,+]  hengittää_pihisten,  [ pihistä, noun.act:pihinä,+]  hengittää,@ frames: 1 (breathe with difficulty) }
+{ [ puhkua1, noun.act:puhkuminen,+]  läähättää1,  puuskuttaa1,  puhaltaa_ilmaa_keuhkoista,@ frames: 1 (blow hard and loudly; "he huffed and puffed as he made his way up the mountain") }
+{ [ puhaltaa_ilmaa_keuhkoista, noun.act:puhallus,+]  [ puhaltaa<broader/>, noun.act:puhallus,+]  hengittää_ulos,@ frames: 1 (exhale hard; "blow on the soup to cool it down") }
+{ puhaltaa_sisään,  puhaltaa_ilmaa_keuhkoista,@ puhaltaa_sisään<approximate/>1,$ frames: 1 (blow or breathe hard on or into) }
+{ [ haukotella, noun.act:haukotus,+ noun.act:haukotteleminen,+ noun.person:haukottelija,+]  hengittää,@ frames: 1 (utter a yawn, as from lack of oxygen or when one is tired; "The child yawned during the long performance") }
+{ [ niiskuttaa, noun.person:niiskuttaja,+]  [ tuhista, noun.act:tuhina,+]  vetää_henkeä,@ frames: 1 (inhale audibly through the nose; "the sick student was sniffling in the back row") }
+{ [ räpäyttää, noun.act:räpytys,+ noun.act:räpäys,+]  [ räpäyttää_silmää, noun.act:räpytys,+ noun.act:räpäys,+]  iskeä_silmää,  räpyttää_silmää,  räpytellä,  räpyttää,  toimia_väkisin,@ frames: 1 (briefly shut the eyes; "The TV announcer never seems to blink") }
+{ [ räpyttää1, noun.act:räpyttely,+]  räpäyttää,@ frames: 1 (wink or blink, especially repeatedly) }
+{ räpytellä1,  vinkata,  räpäyttää,@ frames: 1 (wink briefly; "bat one's eyelids") }
+{ iskeä_silmää1,  verb.communication:elehtiä,@ frames: 1 (signal by winking; "She winked at him") }
+{ iskeä_silmää2,  [ räpytellä2, noun.act:räpytys,+ noun.act:räpäys,+]  [ räpyttää2, noun.act:räpytys,+ noun.act:räpäys,+]  [ räpyttää_silmiä, noun.act:räpytys,+ noun.act:räpäys,+]  verb.change:tukahduttaa6,@ frames: 1 (force to go away by blinking; "blink away tears") }
+{ katsoa_kieroon,  irvistää,@ frames: 1 (cross one's eyes as if in strabismus; "The children squinted so as to scare each other") }
+{ siristellä,  siristää,  näyttää_jltak,@ frames: 1 (partly close one's eyes, as when hit by direct blinding light; "The driver squinted as the sun hit his windshield") }
+{ [ säpsähtää, noun.communication:säpsähdys,+]  irvistää,@ frames: 1 (make a face indicating disgust or dislike; "She winced when she heard his pompous speech") }
+{ pudottaa,  varistaa,  luoda_nahka,  olla_karvanlähtö,  olla_sulkasato,  luoda_nahkansa,  verb.contact:päästä_eroon,@ frames: 1 (cast off hair, skin, horn, or feathers; "our dog sheds every Spring") }
+{ [ hilseillä, noun.phenomenon:hilseily,+]  kesiä,  pudottaa,@ frames: 1 (peel off in scales; "dry skin desquamates") }
+{ [ nykiä, noun.state:nykiminen,+ noun.act:nykiminen,+ noun.act:nykäisy1,+ noun.act:nykäys1,+]  [ nytkähtää, noun.act:nytkähdys,+]  liikkua_tahtomattaan,@ verb.motion:nytkähdellä,$ frames: 1 (make an uncontrolled, short, jerky motion; "his face is twitching") }
+{ [ väristä, noun.state:värinä1,+]  nykiä,@ frames: 1 (make fine, irregular, rapid twitching movements; "His heart fibrillated and he died") }
+{ liikkua_tahtomattaan,  liikkua_refleksinomaisesti,  verb.motion:siirtää,@ frames: 1 (move in an uncontrolled manner) }
+{ toimia_väkisin,  toimia_refleksinomaisesti,  toimia,@ frames: 1 (act in an uncontrolled manner) }
+{ [ toimia, verb.perception:konstailla,^ verb.perception:oikutella,^]  käyttäytyä,  tehdä,  menetellä,  verb.creation:näytellä2,$ esittää,$ frames: 1 (behave in a certain manner; show a certain behavior; conduct or comport oneself; "You should act like an adult"; "Don't behave like a fool"; "What makes her do this way?"; "The dog acts ferocious, but he is really afraid of people") }
+{ tehdä_kaikkensa,  toimia,@ frames: 1 (try very hard to please someone; "She falls over backwards when she sees her mother-in-law") }
+{ rohjeta,  tohtia,  toimia,@ frames: 1 (take liberties or act with too much confidence) }
+{ käyttäytyä_vulgaaristi,  toimia,@ frames: 1 (act in a vulgar manner; "The drunkard tends to vulgarize") }
+{ optimoida,  toimia,@ frames: 1 (act as an optimist and take a sunny view of the world) }
+{ [ puoskaroida, noun.act:puoskarointi,+ noun.person:puoskari1,+]  toimia,@ noun.act:lääketiede,;c frames: 1 (act as a medical quack or a charlatan) }
+{ uhata,  toimia,@ frames: 1 (act in a threatening manner; "A menacing person") }
+{ tehdä1,  toimia,@ verb.possession:olla4,$ verb.possession:ansaita3,$ frames: 1 (act in a certain way so as to acquire; "make friends"; "make enemies") }
+{ mahtailla,  [ rehennellä, noun.person:rehvastelija,+]  uhota,  rehvastella,  herrastella,  ylvästellä,  toimia,@ frames: 1 (act in an arrogant, overly self-assured, or conceited manner) }
+{ käyttäytyä_jäätävästi,  toimia,@ frames: 1 (suddenly behave coldly and formally; "She froze when she saw her ex-husband") }
+{ huikennella,  toimia,@ frames: 1 (behave extremely cruelly and brutally) }
+{ romantisoida,  toimia,@ frames: 1 (act in a romantic way) }
+{ olla_tunteellinen,  [ tunteilla, noun.act:tunnelmointi,+]  toimia,@ frames: 1 (act in a sentimental way or indulge in sentimental thoughts or expression) }
+{ [ hutiloida, noun.act:hutilointi,+ noun.person:hutilus,+]  toimia,@ frames: 1 (spoil by behaving clumsily or foolishly; "I bungled it!") }
+{ [ pelata, noun.act:pelaaminen,+]  leikkiä,  toimia,@ frames: 1 (engage in an activity as if it were a game rather than take it seriously; "They played games on their opponents"; "play the stock market"; "play with her feelings"; "toy with an idea") }
+{ esittää,  leikkiä1,  toimia,@ toimia,$ verb.creation:näytellä,$ frames: 1 (pretend to have certain qualities or state of mind; "He acted the idiot"; "She plays deaf when the news are bad") }
+{ matkia,  pelleillä,  pilkata,  toimia,@ frames: 1 (act as a stooge, in a compliant or subordinate manner; "He stooged for the flamboyant Senator") }
+{ tutista,  [ täristä, noun.state:tärinä,+]  [ vapista, noun.state:vapina,+]  väristä1,  vavista,  liikkua_tahtomattaan,@ frames: 1 (move with or as if with a tremor; "his hands shook") }
+{ täristä1,  hytistä,  vavista1,  liikkua_tahtomattaan,@ frames: 1 (shake, as from cold; "The children are shivering--turn on the heat!") }
+{ [ levätä, olla_aktiivinen,!]  verb.contact:loikoilla,@ frames: 1 (be at rest) }
+{ [ olla_aktiivinen, levätä,!]  olla_liikkeessä,   frames: 1 (be in a state of action; "she is always moving") }
+{ [ nukkua, nukkua_pitempään_aamulla,^ verb.consumption:asua_työpaikan_ulkopuolella,^ verb.consumption:asua<note>talossa\,_jossa_on_henkilökuntana</note>,^ herätä2,! noun.cognition:nukkuminen,+ noun.time:nukkuminen,+ noun.person:nukkuja,+]  koisata,  vetää_lonkkaa,  levyttää,  vetää_unta_palloon,  [ uinua, nukkua_pitempään_aamulla,^ verb.consumption:asua_työpaikan_ulkopuolella,^ verb.consumption:asua<note>talossa\,_jossa_on_henkilökuntana</note>,^ herätä2,!]  [ goijata, nukkua_pitempään_aamulla,^ verb.consumption:asua_työpaikan_ulkopuolella,^ verb.consumption:asua<note>talossa\,_jossa_on_henkilökuntana</note>,^ herätä2,!]  [ tutia, nukkua_pitempään_aamulla,^ verb.consumption:asua_työpaikan_ulkopuolella,^ verb.consumption:asua<note>talossa\,_jossa_on_henkilökuntana</note>,^ herätä2,!]  [ torkkua, nukkua_pitempään_aamulla,^ verb.consumption:asua_työpaikan_ulkopuolella,^ verb.consumption:asua<note>talossa\,_jossa_on_henkilökuntana</note>,^ herätä2,!]  levätä,@ frames: 1 (be asleep) }
+{ nukkua_yhdessä<unconfirmed/>,  nukkua_yhdessä<approximate/>1,  nukkua,@ frames: 1 (sleep fully clothed in the same bed with one's betrothed) }
+{ [ torkahtaa, noun.act:torkut,+ noun.act:torkahtelu,+]  [ torkkua1, uinahtaa,^ noun.act:torkkuminen,+ pilkkiä,^]  [ nuokkua, uinahtaa,^ pilkkiä,^]  torkahtaa1,@ frames: 1 (sleep lightly or for a short period of time) }
+{ [ torkahtaa1, noun.time:torkut,+]  ottaa_nokkaunet,  ottaa_nokoset,  nukkua,@ frames: 1 (take a siesta; "She naps everyday after lunch for an hour") }
+{ nukkua_liian_pitkään,  nukkua,* frames: 1 (sleep longer than intended) }
+{ nukkua_pitempään_aamulla,  nukkua,@ frames: 1 (sleep later than usual or customary; "On Sundays, I sleep in") }
+{ [ nukkua_talviunta, olla_kesähorroksessa,! suvehtia,!]  talvehtia,  [ horrostaa, olla_kesähorroksessa,! suvehtia,!]  nukkua,@ frames: 1 (sleep during winter; "Bears must eat a lot of food before they hibernate in their caves") }
+{ [ olla_kesähorroksessa, nukkua_talviunta,! horrostaa,!]  [ suvehtia, nukkua_talviunta,! horrostaa,!]  nukkua,@ frames: 1 (sleep during summer; "certain animals estivate") }
+{ [ torkkua2, torkahtaa2,^ noun.act:torkahtelu,+]  levätä,@ frames: 1 (be on the verge of sleeping; "The students were drowsing in the 8 AM class") }
+{ nuokkua1,  torkkua2,@ frames: 1 (be almost asleep; "The old man sat nodding by the fireplace") }
+{ nuokkua2,   frames: 1 (let the head fall forward through drowsiness; "The old man was nodding in his chair") }
+{ nukahtaa,  nukahtaa1,@ frames: 1 (fall asleep fast, as when one is extremely tired; "after the long drive, we zonked out and slept for 10 hours") }
+{ [ kuorsata, noun.event:kuorsaus,+ noun.person:kuorsaaja,+ noun.act:kuorsaaminen,+ noun.act:kuorsaus,+]  vetää_hirsiä,  vedellä_hirsiä,  hengittää,@ nukkua,* frames: 1 (breathe noisily during one's sleep; "she complained that her husband snores") }
+{ [ nukahtaa1, herätä,!]  väsähtää,  torkahtaa2,  simahtaa,  vaipua_uneen,  uinahtaa,  pilkkiä,   frames: 1 (change from a waking to a sleeping state; "he always falls asleep during lectures") }
+{ asettua_nukkumaan_jhk,  mennä_nukkumaan,  yöpyä,  käydä_makuulle,  käydä_nukkumaan,@ frames: 1 (go to bed; "We bedded down at midnight") }
+{ yöpyä1,  yöpyä_tilapäisesti,  nukkua1,  asettua_nukkumaan_jhk,@ frames: 1 (sleep in a convenient place; "You can crash here, though it's not very comfortable") }
+{ [ käydä_nukkumaan, nousta_ylös_vuoteesta,! nousta_ylös,!]  [ mennä_nukkumaan1, nousta_ylös_vuoteesta,! nousta_ylös,!]  asettua_nukkumaan,  ryömiä_peiton_alle<unconfirmed/>,  painaa_pää_tyynyyn<unconfirmed/>,  painua_pehkuihin,  nukahtaa<broader/>2,  mennä_levolle,  mennä_sänkyyn,   frames: 1 (prepare for sleep; "I usually turn in at midnight"; "He goes to bed at the crack of dawn") }
+{ [ nousta_ylös_vuoteesta, käydä_nukkumaan,! mennä_nukkumaan1,! noun.act:nousu3,+]  [ nousta_ylös, käydä_nukkumaan,! mennä_nukkumaan1,! noun.act:nousu3,+]   frames: 1 (get up and out of bed; "I get up at 7 A.M. every day"; "They rose early"; "He uprose at night") }
+{ herättää,  verb.motion:kohottaa2,@ frames: 1 (cause to rise; "The sergeant got us up at 2 A.M.") }
+{ [ herätä, nukahtaa1,! noun.act:herääminen,+ noun.person:herääjä1,+ noun.act:herätys1,+]  [ herättää1, noun.cognition:herääminen,+ noun.person:herääjä1,+ noun.act:herääminen,+ noun.act:herätys1,+]  havahtua,  verb.change:kääntyä1,@ nukkua,* frames: 1 (stop sleeping; "She woke up to the sound of the alarm clock") }
+{ [ havahtua1, nukuttaa,! vaivuttaa_uneen,!]  [ herätä1, nukuttaa,! vaivuttaa_uneen,! noun.act:herääminen,+ noun.person:herättäjä,+ noun.act:herätys1,+]  [ herättää2, noun.person:herättäjä,+ noun.cognition:herääminen,+]  verb.change:muuttaa3,@ frames: 1 (cause to become awake or conscious; "He was roused by the drunken men in the street"; "Please wake me at 6 AM.") }
+{ herättää_uudelleen,  havahtua1,@ frames: 1 (awaken once again) }
+{ [ nukuttaa, havahtua1,! herätä1,!]  [ vaivuttaa_uneen, havahtua1,! herätä1,!]  verb.change:muuttaa3,@ nukkua,> frames: 1 (make fall asleep; "The soft music caused us to fall asleep") }
+{ vaikuttaa,  verb.change:muuttaa3,@ frames: 1 (act physically on; have an effect upon; "the medicine affects my heart rate") }
+{ [ hyökätä, noun.person:hyökkääjä1,+]  [ syövyttää, noun.process:syövytys,+]  vaikuttaa,@ frames: 1 (begin to injure; "The cancer cells are attacking his liver"; "Rust is attacking the metal") }
+{ [ haavautua, noun.state:haavauma1,+ adj.pert:haavainen,+ noun.state:haavautuma,+]  vaikuttaa,@ frames: 1 (affect with an ulcer; "Her stomach was ulcerated") }
+{ [ herätä2, nukkua,! uinua,! goijata,! tutia,! torkkua,!]   frames: 1 (be awake, be alert, be there) }
+{ valvoa,  herätä2,@ frames: 1 (not go to bed; "Don't stay up so late--you have to go to work tomorrow"; "We sat up all night to watch the election") }
+{ pitää_hereillä,  valvoa,> frames: 1 (prevent from going to bed at night; "The anticipation of the trip kept the children up all night"; "I kept myself up all night studying for the exam") }
+{ [ hypnotisoida, noun.person:hypnotisti,+ noun.state:hypnoosi,+ noun.person:hypnotisoija,+]  lumota,  ottaa_valtoihinsa,  rauhoittaa,@ frames: 1 (induce hypnosis in) }
+{ saattaa_transsitilaan,  lumota1,  hypnotisoida,@ frames: 1 (put into a trance) }
+{ [ nukuttaa1, palauttaa<note>jtak_mieleen</note>,! noun.artifact:nukute,+]  [ puuduttaa, palauttaa<note>jtak_mieleen</note>,! noun.artifact:puudute,+]  huumata,@ frames: 1 (administer an anesthetic drug to; "The patient must be anesthetized before the operation"; "anesthetize the gum before extracting the teeth") }
+{ nukuttaa_eetterillä,  nukuttaa1,@ frames: 1 (anesthetize with ether) }
+{ puuduttaa_kokaiinilla,  nukuttaa1,@ frames: 1 (anesthetize with cocaine) }
+{ nukuttaa_kloroformilla,  nukuttaa1,@ frames: 1 (anesthetize with chloroform; "Doctors used to put people under by chloroforming them") }
+{ puuduttaa_jäädyttämällä<unconfirmed/>,  nukuttaa1,@ noun.act:toimenpide2,;c frames: 1 (anesthetize by cold) }
+{ [ palauttaa<note>jtak_mieleen</note>, nukuttaa1,! puuduttaa,!]  tuoda<note>jtak_mieleen</note>,  virvoittaa,  herättää<note>muistoja</note>3,  havahtua1,@ frames: 1 (return to consciousness; "These pictures bring back sad memories") }
+{ [ rauhoittaa, piristää,! noun.act:rauhoittavan_lääkkeen_antaminen,+ adj.all:ruumiintoimintoja_hidastava^rauhoittava6,+ noun.artifact:rauhoittava1,+ noun.artifact:rauhoittava_lääke1,+ stimuloida,!]  [ antaa_rauhoittavia_lääkkeitä, piristää,! stimuloida,!]  [ antaa_rauhoittavia, piristää,! stimuloida,!]  vaikuttaa,@ frames: 1 (cause to be calm or quiet as by administering a sedative to; "The patient must be sedated before the operation") }
+{ [ piristää, rauhoittaa,! noun.artifact:piriste1,+ viedä_energiaa,! antaa_rauhoittavia_lääkkeitä,! antaa_rauhoittavia,!]  [ stimuloida, rauhoittaa,! viedä_energiaa,! antaa_rauhoittavia_lääkkeitä,! antaa_rauhoittavia,!]  vaikuttaa,@ frames: 1 (cause to be alert and energetic; "Coffee and tea stimulate me"; "This herbal infusion doesn't stimulate") }
+{ [ viedä_energiaa, piristää,! stimuloida,!]  verb.change:heikentää3,@ frames: 1 (deprive of energy) }
+{ katekoida<unconfirmed/>,  piristää,@ frames: 1 (inject with libidinal energy) }
+{ [ piristyä, noun.artifact:piristys,+]  tointua,@ frames: 1 (gain or regain energy; "I picked up after a nap") }
+{ [ pyörtyä, noun.event:pyörtyminen,+]  menettää_tajuntansa,  menettää_tajuntansa1,@ frames: 1 (pass out from weakness, physical or emotional distress due to a loss of blood supply to the brain) }
+{ menettää_tajuntansa1,  [ pyörtyä1, noun.cognition:pyörtyminen,+]  verb.change:kääntyä1,@ frames: 1 (lose consciousness due to a sudden trauma, for example) }
+{ palata_tajuihinsa,  virota,  elpyä,  tulla_tajuihinsa,  verb.change:kääntyä1,@ elvyttää1,$ tehdä_eloisaksi,$ frames: 1 (return to consciousness; "The patient came to quickly"; "She revived after the doctor gave her an injection") }
+{ tehdä_eloisaksi,  herättää_henkiin,  [ elävöittää, noun.act:elävöittäminen,+]  entisöidä,  korjata,  herättää_eloon,  virkistää,  piristää,@ palata_tajuihinsa,$ frames: 1 (give new life or energy to; "A hot soup will revive me"; "This will renovate my spirits"; "This treatment repaired my health") }
+{ [ virkistää1, väsyä,!]  [ piristää1, piristää2,^ siistiytyä,^ virkistäytyä,^ virkistää2,^]  elävöittää1,  verb.change:muuttaa3,@ frames: 1 (make fresh again) }
+{ raikastaa,  [ virkistää2, noun.act:virkistys,+]  piristää2,  siistiytyä,  virkistäytyä,  verb.change:muuttua,@ frames: 1 (become or make oneself fresh again; "She freshened up after the tennis game") }
+{ [ pestä, noun.act:peseytyminen,+ noun.act:pesu,+ noun.act:peseminen1,+]  raikastaa,@ frames: 1 (wash one's face and hands; "She freshened up in the bathroom") }
+{ [ jännittyä, rentouttaa,! noun.state:jännitys2,+]  vaikuttaa,@ jännittyä1,> frames: 1 (cause to be tense and uneasy or nervous or anxious; "he got a phone call from his lawyer that tensed him up") }
+{ vääntää,  verb.contact:kiertää,@ frames: 1 (twist (a body part) into a strained position; "crick your neck") }
+{ [ rentouttaa, jännittyä,! noun.artifact:rentoutusaine,+ noun.feeling:rentous,+ noun.object:rentouttaja,+ adj.all:ruumiintoimintoja_hidastava^rentouttava1,+]  tehdä_rentoutuneeksi,  vaikuttaa,@ rentoutua1,> frames: 1 (cause to feel relaxed; "A hot bath always relaxes me") }
+{ rentoutua,  vapautua,  rentouttaa,@ frames: 1 (release from mental strain, tension, or formality; "unbend the mind from absorbing too much information") }
+{ [ jännittyä1, rentoutua1,! noun.state:jännitys2,+ noun.body:jännittäjä,+ rauhoittua,!]  pingottua,  verb.change:kääntyä1,@ frames: 1 (become tense, nervous, or uneasy; "He tensed up when he saw his opponent enter the room") }
+{ [ rentoutua1, jännittyä1,! noun.act:rentoutuminen,+ noun.process:rentoutuminen,+ adj.all:ruumiintoimintoja_hidastava^rentouttava1,+]  höllentää,  löysentää,  hellittää,  ottaa_rennosti,  [ rauhoittua, jännittyä1,!]  verb.change:kääntyä1,@ frames: 1 (become less tense, rest, or take one's ease; "He relaxed in the hot tub"; "Let's all relax after a hard day's work") }
+{ rentoutua2,  oleilla,  oleskella,  rentoutua1,@ frames: 1 (engage in passive relaxation; "After a hard day's work, I vegetate in front of the television") }
+{ istua_mukavasti,  ottaa_rennosti1,  levätä1,  rentoutua3,  rentoutua1,@ frames: 1 (settle into a comfortable sitting position) }
+{ verryttää,  [ lämmitellä, noun.act:lämmittely,+]  verrytellä,  harjoittaa,@ frames: 1 (make one's body limber or suppler by stretching, as if to prepare for strenuous physical activity) }
+{ [ venytellä, noun.act:venytys,+ noun.act:venyttely1,+]  jännittyä,@ frames: 1 (extend one's limbs or muscles, or the entire body; "Stretch your legs!"; "Extend your right arm above your head") }
+{ sitoa_raajat_haralleen,  venytellä,@ frames: 1 (stretch out completely; "They spread-eagled him across the floor") }
+{ työntää_esiin,  kurkottaa,  [ ojentaa, noun.body:ojentaja,+]  verb.communication:elehtiä,@ frames: 1 (thrust or extend out; "He held out his hand"; "point a finger"; "extend a hand"; "the bee exserted its sting") }
+{ [ yliojentaa, noun.act:yliojennus,+]  työntää_esiin,@ frames: 1 (extend a joint beyond its normal range; "Don't hyperextend your elbow") }
+{ [ kurkottaa1, noun.animal:kurki,+]  kurkottautua,  venytellä,@ frames: 1 (stretch (the neck) so as to see better; "The women craned their necks to see the President drive by") }
+{ [ elvyttää, noun.object:elvyttäjä,+]  [ virkistää3, noun.act:virkistäminen,+]  piristää,@ frames: 1 (impart vigor, strength, or vitality to; "Exercise is invigorating") }
+{ [ hymyillä, noun.communication:hymy,+ noun.communication:hymyily,+ noun.communication:hymyileminen,+ noun.person:hymyilijä,+]  irvistää,@ frames: 1 (change one's facial expression by spreading the lips, often to signal pleasure) }
+{ paljastaa_hymykuopat,  hymyillä,@ frames: 1 (produce dimples while smiling; "The child dimpled up to the adults") }
+{ hymyillä_leveästi,  [ virnistää, noun.person:virnistelijä,+ noun.person:virnuilija,+ noun.communication:virnisteleminen,+ noun.communication:virne,+ noun.communication:virnistys,+]  [ virnuilla, noun.person:virnistelijä,+ noun.person:virnuilija,+ noun.communication:virnisteleminen,+ noun.communication:virne,+ noun.communication:virnistys,+]  virnistellä,  hymyillä,@ frames: 1 (to draw back the lips and reveal the teeth, in a smile, grimace, or snarl) }
+{ hymyillä_säteilevästi,  loistaa,  hymyillä,@ frames: 1 (smile radiantly; express joy through one's facial expression) }
+{ hymyillä_omahyväisesti,  hymyillä_teeskennellen,  hymyillä_teennäisesti,  hymyillä,@ frames: 1 (smile affectedly or derisively) }
+{ virnistellä1,  hymyillä_omahyväisesti,@ frames: 1 (to smirk contemptuously) }
+{ [ kiljua, noun.event:kiljaisu<note>aasista</note>,+]  ulvoa,  nauraa,@ frames: 1 (laugh loudly and harshly) }
+{ hörönauraa,  nauraa,@ frames: 1 (laugh a deep, hearty laugh) }
+{ nauraa_äänekkäästi,  [ ulvoa1, noun.communication:ulvonta1,+]  nauraa,@ frames: 1 (laugh unrestrainedly and heartily) }
+{ [ hihittää, noun.communication:hihitys1,+]  [ tirskua, noun.communication:tirskunta,+ noun.communication:tirskahdus,+]  nauraa,@ frames: 1 (laugh quietly) }
+{ [ kikattaa, noun.person:kikattaja,+ noun.communication:kikatus,+]  tirskua1,  hihittää1,  nauraa,@ frames: 1 (laugh nervously; "The girls giggled when the rock star came into the classroom") }
+{ tirskahtaa,  hohottaa,  nauraa,@ frames: 1 (laugh unrestrainedly) }
+{ luhistua,  murtua,  verb.change:heikentää3,@ frames: 1 (weaken or destroy in spirit or body; "His resistance was broken"; "a man broken by the terrible experience of near-death") }
+{ [ romahtaa, noun.state:romahdus,+]  lyyhistyä,  kärsiä1,@ frames: 1 (collapse due to fatigue, an illness, or a sudden attack) }
+{ kuolla_kuin_kärpäsiä,  pudota_kuin_kärpäsiä,  romahtaa,@ frames: 1 (rapidly collapse, die, or drop out in large numbers; "the contestants dropped like flies when the thermometer hit one hundred degrees") }
+{ kouristaa,  krampata,  vetää_suonta,  kärsiä1,@ frames: 1 (suffer from sudden painful contraction of a muscle) }
+{ kouristaa1,  vaikuttaa,@ frames: 1 (affect with or as if with a cramp) }
+{ kompastua,  kaatua,  romahtaa,@ frames: 1 (fall forward and down; "The old woman went over without a sound") }
+{ [ käkättää, noun.communication:käkätys,+]  nauraa,@ frames: 1 (emit a loud, unpleasant kind of laughing) }
+{ hekottaa,  hohottaa1,  nauraa_äänekkäästi1,  nauraa,@ frames: 1 (laugh boisterously) }
+{ [ hihittää2, noun.communication:hihitys,+]  [ höröttää, noun.communication:hörötys,+]  myhähdellä,  nauraa,@ frames: 1 (laugh quietly or with restraint) }
+{ [ nauraa, verb.communication:kuitata_vitsillä,^ verb.communication:lyödä_leikiksi,^ verb.communication:nauraa_jollekin,^ verb.communication:pilkata6,^ itkeä1,! noun.communication:nauru,+ noun.person:naureskelija,+ noun.communication:nauraminen,+ kyynelehtiä,!]  ilmaista_iloa,  ilmaista_hilpeyttä,  [ iloita, verb.communication:kuitata_vitsillä,^ verb.communication:lyödä_leikiksi,^ verb.communication:nauraa_jollekin,^ verb.communication:pilkata6,^ itkeä1,! kyynelehtiä,!]  verb.emotion:ilmaista_tunteita,@ frames: 1 (produce laughter) }
+{ nauraa_kippurassa,  nauraa,@ frames: 1 (be overcome with laughter) }
+{ [ hekottaa1, noun.communication:hekotus,+]  nauraa,@ frames: 1 (laugh loudly and in an unrestrained way) }
+{ [ hymyillä_ivallisesti, noun.communication:hymähdys,+]  [ virnuilla1, noun.person:virnuilija1,+ noun.communication:virnuilu,+]  hymyillä,@ hymyillä_ivallisesti1,$ frames: 1 (smile contemptuously; "she sneered at her little sister's efforts to play the song on the piano") }
+{ [ hymyillä_ivallisesti1, noun.communication:hymähdys,+]  [ virnuilla2, noun.person:virnuilija1,+ noun.communication:virnuilu,+]  verb.communication:ilmaista10,@ hymyillä_ivallisesti,$ frames: 1 (express through a scornful smile; "she sneered her contempt") }
+{ rypistää_otsaansa,  [ mulkaista, noun.act:mulkoilu,+]  kurtistaa_kulmiaan,  mulkoilla,  irvistää,@ frames: 1 (look angry or sullen, wrinkle one's forehead, as if to signal disapproval) }
+{ [ mulkaista1, noun.act:mulkoilu,+]  katsoa_vihaisesti,  tuijottaa_vihaisesti,  mulkoilla1,  tuijottaa,@ frames: 1 (look at with a fixed gaze; "The girl glared at the man who tried to make a pass at her") }
+{ [ tuijottaa, noun.person:tuijottelija,+ noun.act:tuijotus,+]  verb.perception:katsoa1,@ frames: 1 (fixate one's eyes; "The ancestor in the painting is staring down menacingly") }
+{ näyttää_jltak,  verb.stative:olla1,@ frames: 1 (have a certain outward or facial expression; "How does she look?"; "The child looks unhappy"; "She looked pale after the surgery") }
+{ mulkaista2,  katsoa_vihaisesti1,  rypistää_otsaansa,@ frames: 1 (frown with displeasure) }
+{ [ kohauttaa, verb.communication:sivuuttaa_olankohautuksella,^]  verb.communication:elehtiä,@ frames: 1 (raise one's shoulders to indicate indifference or resignation) }
+{ [ taputtaa, noun.communication:taputukset,+ noun.person:taputtaja,+]  läimäyttää,  verb.communication:elehtiä,@ frames: 1 (clap one's hands together; "The children were clapping to the music") }
+{ [ irvistää, noun.communication:irvistys,+]  ilmehtiä,  irvistellä,  verb.communication:ilmaista,@ frames: 1 (contort the face to indicate a certain mental or emotional state; "He grimaced when he saw the amount of homework he had to do") }
+{ vääntää1,  irvistää,@ frames: 1 (twist into a strained configuration; "screw up one's face") }
+{ [ mutristaa, noun.communication:mutristus,+ noun.communication:mutristaminen,+]  irvistää,@ frames: 1 (make a sad face and thrust out one's lower lip; "mop and mow"; "The girl pouted") }
+{ niistää,  päästää1,@ frames: 1 (free of obstruction by blowing air through; "blow one's nose") }
+{ selvittää_kurkkua,  rykiä,  yskiä,@ frames: 1 (clear mucus or food from one's throat; "he cleared his throat before he started to speak") }
+{ käydä_suihkussa,  kylpeä,@ frames: 1 (take a shower; wash one's body in the shower; "You should shower after vigorous exercise") }
+{ [ hautoa, noun.act:hautominen1,+]  kylvettää,@ frames: 1 (bathe with warm water or medicated lotions; "His legs should be fomented") }
+{ [ kylpeä, noun.person:kylpijä,+]  käydä_kylvyssä,  [ peseytyä, noun.act:peseytyminen,+]  siistiä,@ frames: 1 (cleanse the entire body; "bathe daily") }
+{ [ siistiä, noun.act:siistiminen,+]  [ puhdistaa, noun.act:puhdistus1,+]  huolitella,@ frames: 1 (clean one's body or parts thereof, as by washing; "clean up before you see your grandparents"; "clean your fingernails before dinner") }
+{ puhdistaa_nuolemalla,  siistiä,@ puhdistaa1,$ frames: 1 (to cleanse (itself or another animal) by licking; "The cat washes several times a day") }
+{ [ puhdistaa1, pestä,^]  [ pestä1, noun.act:pesu1,+ noun.act:pesu,+ noun.act:peseminen1,+]  siistiä,@ puhdistaa_nuolemalla,$ frames: 1 (cleanse (one's body) with soap and water) }
+{ pestä_sienellä,  puhdistaa1,@ frames: 1 (wash with a sponge) }
+{ [ kuurata, noun.act:kuuraus,+]  pestä2,  puhdistaa1,@ frames: 1 (wash thoroughly; "surgeons must scrub prior to an operation") }
+{ [ saippuoida, noun.artifact:saippua1,+]  [ vaahdottaa, noun.object:vaahto2,+ noun.object:vaahto3,+]  siistiä,@ puhdistaa1,* frames: 1 (rub soap all over, usually with the purpose of cleaning) }
+{ [ kurlata, noun.substance:kurlausvesi,+]  huuhdella,  puhdistaa1,@ frames: 1 (rinse one's mouth and throat with mouthwash; "gargle with this liquid") }
+{ [ ajaa_karvat, noun.act:ajaminen,+]  [ ajaa_partansa, noun.act:ajaminen,+]  ajella,  huolitella,@ frames: 1 (remove body hair with a razor) }
+{ poistaa_karvat,  epiloida,  verb.change:irrottaa,@ frames: 1 (remove body hair; "epilate her legs") }
+{ ajaa_parta,  ajaa_karvat,@ frames: 1 (shave with a razor) }
+{ ajella_munkin_pää,  ajaa_karvat,@ frames: 1 (shave the head of a newly inducted monk) }
+{ [ kylvettää, noun.person:kylpijä,+ noun.act:kylpeminen1,+ noun.act:kylpeminen,+ noun.act:kylpy,+ noun.artifact:kylpyamme1,+ noun.artifact:kylpyhuone,+]  pestä_jkta_ammeessa,  siistiä,@ frames: 1 (clean one's body by immersion into water; "The child should bathe every day") }
+{ [ huuhdella1, noun.artifact:huuhteluruisku<unconfirmed/>,+ noun.act:huuhtelu3,+]  siistiä,@ frames: 1 (direct a spray of water into a bodily cavity, for cleaning) }
+{ [ kammata, noun.artifact:kampa,+ noun.act:kampaaminen,+]  suoria,  selvittää,  huolitella,@ frames: 1 (smoothen and neaten with or as with a comb; "comb your hair before dinner"; "comb the wool") }
+{ silottaa,  siistiä1,  harjata,  kammata,@ frames: 1 (give a smooth and glossy appearance; "slick one's hair") }
+{ koristella,  laittaa,  [ kammata1, noun.body:kampaus,+]  tehdä_kampaus,  asetella,  huolitella,@ järjestää_hiukset,$ frames: 1 (arrange attractively; "dress my hair for the wedding") }
+{ leikata_polkkatukka,  koristella,@ frames: 1 (cut hair in the style of a bob; "Bernice bobs her hair these days!") }
+{ kammata_nostettu_tukkalaite,  verb.creation:muodistaa,@ frames: 1 (style women's hair in a pompadour) }
+{ taivuttaa,  taivuttaa1,@ frames: 1 (make a marcel in a woman's hair) }
+{ taivuttaa1,  koristella,@ frames: 1 (set waves in; "she asked the hairdresser to wave her hair") }
+{ aallottaa,  rihlata,  uurtaa,  taivuttaa1,@ frames: 1 (make wavy with a heated goffering iron; "goffer the trim of the dress") }
+{ [ permanentata, noun.body:permanentti,+]  taivuttaa1,@ frames: 1 (give a permanent wave to; "She perms her hair") }
+{ laittaa_muotovaahtoa,  laittaa_geeliä,  levittää_geeliä,  huolitella,@ frames: 1 (apply a styling gel to; "she mousses her hair") }
+{ panna_jhk_pomadaa,  huolitella,@ frames: 1 (apply pomade to (hair)) }
+{ tupeerata,  kammata,@ frames: 1 (ruffle (one's hair) by combing the ends towards the scalp, for a full effect) }
+{ huolitella,  huolitella<unconfirmed/>1,  siistiä2,  verb.change:koristaa,@ frames: 1 (care for one's external appearance; "He is always well-groomed") }
+{ [ siistiytyä1, noun.act:siivous,+]  huolitella,@ frames: 1 (make oneself clean, presentable or neat; "Clean up before you go to the party") }
+{ [ meikata, noun.artifact:meikki,+]  ehostaa,  huolitella,@ frames: 1 (apply make-up or cosmetics to one's face to appear prettier; "She makes herself up every morning") }
+{ [ korostaa, noun.artifact:korostusväri,+]  meikata,@ frames: 1 (apply a highlighter to one's cheeks or eyebrows in order to make them more prominent; "highlight the area above your eyebrows") }
+{ levittää_huulipunaa,  meikata,@ frames: 1 (apply lipstick to; "She lipsticked her mouth") }
+{ laittaa_poskipunaa,  meikata,@ frames: 1 (redden by applying rouge to; "she rouged her cheeks") }
+{ käyttää_hoitoainetta,  pestä_tukka,@ frames: 1 (apply conditioner to in order to make smooth and shiny; "I condition my hair after washing it") }
+{ puhdistaa_hammaslangalla,  siistiä,@ frames: 1 (use dental floss to clean; "floss your teeth after every meal") }
+{ pestä_tukka,  pestä_tukkansa_shampoolla,  puhdistaa1,@ frames: 1 (use shampoo on (hair)) }
+{ [ puuteroida, noun.artifact:puuteri1,+ noun.person:puuteroija,+]  meikata,@ frames: 1 (apply powder to; "She powdered her nose"; "The King wears a powdered wig") }
+{ [ talkita, noun.substance:talkki1,+]  puuteroida,@ frames: 1 (apply talcum powder to (one's body)) }
+{ hoitaa_käsiä_ja_kynsiä,  huolitella,@ frames: 1 (care for (one's hand) by cutting and shaping the nails, etc.) }
+{ hoitaa_käsiä_ja_kynsiä1,  verb.contact:katkaista4,@ frames: 1 (trim carefully and neatly; "manicure fingernails") }
+{ [ parturoida, noun.person:parturi,+ noun.person:parturi-kampaaja,+]  leikata_hiukset,  huolitella,@ frames: 1 (perform the services of a barber: cut the hair and/or beard of) }
+{ tehdä_jalkahoito,  huolitella,@ frames: 1 (care for one's feet by cutting and shaping the nails, etc.) }
+{ laittautua,  kaunistautua,  huolitella,@ frames: 1 (use special care in dressing, making-up, etc.; "She dolled herself up for the night out with her friends") }
+{ koristautua,  siistiytyä2,  tälläytyä,  pyntätä,  siistiä3,  sliipata,  kaunistautua1,  huolitella,@ frames: 1 (dress and groom with particular care, as for a special occasion; "He spruced up for the party") }
+{ [ parfymoida, noun.artifact:parfyymit,+ noun.artifact:parfyymi,+ noun.cognition:parfyymi,+]  käyttää_hajuvettä,  huolitella,@ frames: 1 (apply perfume to; "She perfumes herself every day") }
+{ laittautua1,  [ tälläytyä1, noun.act:tälläytyminen,+]  koristautua1,  [ pukeutua, noun.artifact:puku,+]  ylipukeutua1,@ pukeutua4,$ frames: 1 (dress or groom with elaborate care; "She likes to dress when going to the opera") }
+{ ylipukeutua,  ylipukeutua1,@ frames: 1 (dress up showily; "He pranked himself out in his best clothes") }
+{ pukeutua_mauttomasti,  ylipukeutua1,@ frames: 1 (dress up in a cheap and provocative way) }
+{ [ ylipukeutua1, alipukeutua<unconfirmed/>,!]  [ laittautua2, pukeutua4,^ pukeutua_rennosti,!]  pynttäytyä,  laittautua_hienoksi,  tälläytyä2,  [ asustaa, noun.artifact:asu,+]  pyntätä1,  pukeutua1,  pukeutua4,@ pukeutua2,$ pukeutua7,$ frames: 1 (put on special clothes to appear particularly appealing and attractive; "She never dresses up, even when she goes to the opera"; "The young girls were all fancied up for the party") }
+{ [ pukeutua2, noun.artifact:puku1,+ noun.person:pukeutuja,+]  pukeutua4,@ pukeutua4,$ ylipukeutua1,$ frames: 1 (dress in a certain manner; "She dresses in the latest Paris fashion"; "he dressed up in a suit and tie") }
+{ vaatettaa<narrower/>,  ylipukeutua1,@ frames: 1 (adorn with a robe) }
+{ pukeutua<broader/>3,  pukea2,@ frames: 1 (dress primly) }
+{ ylipukeutua<approximate/>2,  ylipukeutua1,@ frames: 1 (dress up garishly and tastelessly) }
+{ [ pukeutua_rennosti, laittautua2,!]  [ alipukeutua<unconfirmed/>, ylipukeutua1,!]  pukeutua4,@ frames: 1 (dress informally and casually; "On Fridays, employees can underdress") }
+{ laittautua<approximate/>3,  pukeutua4,@ frames: 1 (dress very carefully and in a finicky manner) }
+{ järjestää_hiukset,  kammata2,  sukia,  harjata1,  puhdistaa2,  siistiä4,  verb.change:koristaa,@ koristella,$ frames: 1 (give a neat appearance to; "groom the dogs"; "dress the horses") }
+{ [ laihduttaa, lihoa,! noun.process:laihduttaminen,+]  verb.change:kääntyä1,@ frames: 1 (take off weight) }
+{ hikoilla<approximate/>,  laihduttaa,@ frames: 1 (lose weight by sweating; "I sweated off 3 pounds in the sauna") }
+{ [ lihoa, laihduttaa,! noun.person:lihonut_henkilö,+]  verb.change:kääntyä1,@ frames: 1 (increase (one's body weight); "She gained 20 pounds when she stopped exercising") }
+{ pyöristyä,  lihoa1,  tukevoitua,  lihoa,@ frames: 1 (become round, plump, or shapely; "The young woman is fleshing out") }
+{ [ pukeutua4, pukeutua_rennosti,^ laittautua2,^ riisuutua,! noun.person:pukija,+ noun.act:pukeutuminen,+ noun.artifact:puku,+ riisuuntua,!]  pukea,  verb.change:muuttua,@ laittautua1,$ pukeutua2,$ pukea2,$ frames: 1 (put on clothes; "we had to dress quickly"; "dress the patient"; "Can the child dress by herself?") }
+{ pukea<note>lämpimästi</note>1,  pukeutua5,  pukeutua4,@ frames: 1 (dress warmly; "Mother bundled up the children for the long way to school") }
+{ laittaa_hattu_päähän,  pukea3,@ frames: 1 (put on or wear a hat; "He was unsuitably hatted") }
+{ [ sovittaa, noun.act:sovitus1,+]  koettaa,  kokeilla,  pukea3,@ frames: 1 (put on a garment in order to see whether it fits and looks nice; "Try on this sweater to see how it looks") }
+{ pukeutua_myssyyn,  laittaa_hattu_päähän,@ frames: 1 (dress in a bonnet) }
+{ olla,  pitää,  verb.stative:olla8,@ frames: 1 (have or show an appearance of; "wear one's hair in a certain way") }
+{ olla1,  olla_yllään,  pitää1,  verb.stative:olla8,@ frames: 1 (have on one's person; "He wore a red ribbon"; "bear a scar") }
+{ [ pukea2, riisuutua,! noun.person:pukija,+ noun.act:pukeutuminen,+ noun.artifact:puku,+ riisuuntua,!]  [ vaatettaa1, noun.artifact:vaatetus3,+ noun.artifact:vaate2,+ noun.artifact:vaatetus1,+ noun.artifact:vaatekappale,+]  hankkia_vaatetus,  varustaa_vaatteilla,  varustaa,  verb.change:kääntyä1,@ pukeutua4,$ frames: 1 (provide with clothes or put clothes on; "Parents must feed and dress their child") }
+{ [ peittää, noun.act:peittäminen1,+]  pukeutua6,  pukea2,@ frames: 1 (clothe, as if for protection from the elements; "cover your head!") }
+{ pukeutua_pikkutakkiin,  pukea2,@ frames: 1 (put a jacket on; "The men were jacketed") }
+{ pukeutua_kaapuun,  pukea2,@ frames: 1 (put a frock on) }
+{ pukea_paita_päälleen,  pukea2,@ frames: 1 (put a shirt on) }
+{ pukeutua_johonkin_tiettyyn_asuun,  pukea2,@ frames: 1 (put a habit on) }
+{ verhota,  pukea2,@ frames: 1 (provide or cover with a cloak) }
+{ [ ylipukea, alipukeutua1,!]  pukea2,@ frames: 1 (dress too warmly; "You should not overclothe the child--she will be too hot") }
+{ [ alipukeutua1, ylipukea,!]  pukea2,@ frames: 1 (dress without sufficient warmth; "She was underdressed for the hiking trip and suffered hypothermia") }
+{ pukeutua_korsettiin,  pukea2,@ frames: 1 (dress with a corset) }
+{ kengittää,  pukea2,@ frames: 1 (furnish with shoes; "the children were well shoed") }
+{ [ riisuutua, pukeutua4,! pukea2,! noun.state:riisuminen,+]  [ riisuuntua, pukeutua4,! pukea2,! noun.state:riisuminen,+]  verb.change:ottaa_pois2,@ verb.change:riisua,$ frames: 1 (get undressed; "please don't undress in front of everybody!"; "She strips in front of strangers every night for a living") }
+{ kuoria,  riisua,@ frames: 1 (take off, as with some difficulty; "He peeled off his blood-soaked shirt") }
+{ riisua,  riisuutua,@ frames: 1 (remove clothes; "take off your shirt--it's very hot in here") }
+{ pukea3,  pukea_ylleen,  sonnustautua,  pukeutua4,@ frames: 1 (put clothing on one's body; "What should I wear today?"; "He put on his best suit for the wedding"; "The princess donned a long blue dress"; "The queen assumed the stately robes"; "He got into his jeans") }
+{ kietoa_huiviin,  pukea3,@ frames: 1 (wrap in or adorn with a scarf) }
+{ [ pujahtaa, riisuutua1,! noun.artifact:pujo-,+]  pukea3,@ frames: 1 (put on with ease or speed; "slip into something more comfortable after work"; "slip on one's shoes") }
+{ [ riisuutua1, pujahtaa,!]  riisua,@ frames: 1 (take off with ease or speed; "She slipped off her jacket") }
+{ pukea_takkiin,  pukea2,@ frames: 1 (cover or provide with a coat) }
+{ pukeutua_vastakkaisen_sukupuolen_vaatteisiin,  pukeutua_ristiin,  pukeutua4,@ frames: 1 (dress in the clothes of the other sex) }
+{ [ pukeutua7, noun.artifact:puku<broader/>5,+]  [ pukeutua<broader/>8, noun.artifact:puku<broader/>5,+]  pukea2,@ ylipukeutua1,$ frames: 1 (dress in a costume; "We dressed up for Halloween as pumpkins") }
+{ pukeutua_keikarimaiseen_tyyliin,  pukeutua4,@ frames: 1 (dress like a dandy) }
+{ pukeutua9,  pukeutua_kaapuun1,  pukea2,@ pukeutua10,$ frames: 1 (clothe formally; especially in ecclesiastical robes) }
+{ pukeutua10,  pukeutua2,@ pukeutua9,$ frames: 1 (clothe oneself in ecclesiastical garments) }
+{ olla_päällä,  olla_yllään1,  pitää2,  pukeutua4,* frames: 1 (be dressed in; "She was wearing yellow that day") }
+{ [ hedelmöittää, noun.act:hedelmöitys,+ noun.event:hedelmöitys,+ noun.event:hedelmöittäminen,+ noun.act:hedelmöittäminen,+]  [ siittää, noun.act:siitos,+ noun.act:siittäminen,+]  verb.change:muuttaa3,@ frames: 1 (introduce semen into (a female)) }
+{ idättää,  hedelmöittää,@ verb.contact:kerrostaa1,$ frames: 1 (render fertile and preserve by placing between layers of earth or sand; "stratify seeds") }
+{ elävöityä,  verb.motion:siirtää,@ frames: 1 (show signs of life; "the fetus quickened") }
+{ [ hedelmöittää1, noun.event:hedelmöitys,+ noun.event:hedelmöittäminen,+]  panna_paksuksi,  laittaa_pulla_uuniin,  tehdä_raskaaksi,  siittää1,  hedelmöittää,@ hedelmöittää2,$ frames: 1 (make pregnant; "He impregnated his wife again") }
+{ [ hedelmöittää2, noun.event:hedelmöitys,+ noun.event:hedelmöittäminen,+]  hedelmöittää,@ hedelmöittää1,$ frames: 1 (fertilize and cause to grow; "the egg was impregnated") }
+{ rokottaa,  hedelmöittää2,@ frames: 1 (impregnate with the virus or germ of a disease in order to render immune) }
+{ [ ristipölyttää, noun.event:ristipölytys,+]  hedelmöittää,@ ristipölyttyä,> frames: 1 (cause to undergo cross-fertilization; "Mendel cross-fertilized different kinds of beans") }
+{ [ ristipölyttyä, noun.event:ristipölytys,+]  verb.change:kääntyä1,@ frames: 1 (undergo cross-fertilization; become fertile) }
+{ [ pölyttää, noun.event:pölytys,+ noun.animal:pölyttäjä,+]  hedelmöittää,@ frames: 1 (fertilize by transfering pollen) }
+{ tulla_raskaaksi,  verb.change:kääntyä1,@ verb.contact:paritella1,* frames: 1 (become pregnant; undergo conception; "She cannot conceive"; "My daughter was conceived in Christmas Day") }
+{ paritella<approximate/>,  verb.contact:paritella1,@ frames: 1 (mate successfully; of livestock) }
+{ saada_perillinen,  saada_jälkikasvua,  [ synnyttää, noun.act:synnyttäminen,+ noun.event:syntyminen,+]  siittää2,  verb.creation:saada_aikaan,@ frames: 1 (make children; "Abraham begot Isaac"; "Men often father children but don't recognize them") }
+{ [ ejakuloida, noun.person:ejakuloija,+]  päästää1,@ frames: 1 (eject semen) }
+{ [ lisääntyä, noun.process:lisääntyminen3,+ noun.act:lisääntyminen,+ noun.act:lisääntyminen1,+]  jatkaa_sukua,  verb.creation:saada_aikaan,@ noun.cognition:biologia,;c frames: 1 (have offspring or produce more individuals of a given animal or plant; "The Bible tells people to procreate") }
+{ kasvattaa,  lisääntyä1,  lisääntyä,@ noun.cognition:biologia,;c frames: 1 (multiply sexually or asexually) }
+{ kasvattaa1,  kasvattaa,@ noun.cognition:biologia,;c frames: 1 (propagate asexually; "The bacterial growth vegetated along") }
+{ lisäännyttää,  verb.change:käsitellä,@ noun.Tops:kasvi,;c kasvattaa,> frames: 1 (cause to propagate, as by grafting or layering) }
+{ ympätä,  lisäännyttää,@ frames: 1 (insert a bud for propagation) }
+{ [ hedelmöidä, noun.plant:hedelmä,+ noun.process:hedelmöinti,+]  tehdä_hedelmää,  lisääntyä,@ frames: 1 (bear fruit; "the apple trees fructify") }
+{ synnyttää1,  [ lisääntyä2, noun.act:lisääntyminen1,+]  lisääntyä,@ frames: 1 (have young (animals) or reproduce (organisms); "pandas rarely breed in captivity"; "These bacteria reproduce") }
+{ versoa,  synnyttää1,@ frames: 1 (breed freely and abundantly) }
+{ [ kutea, noun.animal:kutukala,+]  laskea_mätimunia,  verb.contact:munia,@ frames: 1 (lay spawn; "The salmon swims upstream to spawn") }
+{ kutea1,  kutea,@ frames: 1 (spawn; "oysters spat") }
+{ [ synnyttää2, noun.act:synnytys,+ noun.event:synnytys,+ noun.event:syntymä,+ noun.time:synty,+ noun.time:syntymä,+ noun.process:synnytys1,+ noun.process:synnyttäminen,+]  saada_lapsi,  verb.creation:tuottaa13,@ tulla_raskaaksi,* olla_raskaana,$ frames: 1 (cause to be born; "My wife had twins yesterday!") }
+{ olla_synnyttämässä,  synnyttää2,* frames: 1 (be in confinement for childbirth) }
+{ synnyttää3,  verb.perception:kokea1,@ synnyttää2,* frames: 1 (undergo the efforts of childbirth) }
+{ synnyttää<broader/>4,  synnyttää2,@ frames: 1 (give birth to twins) }
+{ synnyttää5,  synnyttää2,@ frames: 1 (give birth; used for animals; "The cow dropped her calf this morning") }
+{ [ varsoa, noun.animal:varsa,+]  synnyttää2,@ frames: 1 (give birth to a foal; "the mare foaled") }
+{ [ penikoida, noun.animal:pentu3,+]  synnyttää2,@ frames: 1 (give birth to cubs; "bears cub every year") }
+{ saada_pentuja,  synnyttää2,@ frames: 1 (have kittens; "our cat kittened again this year") }
+{ [ karitsoida, noun.animal:karitsa,+]  [ vuonia, noun.animal:vuona,+]  synnyttää2,@ frames: 1 (give birth to a lamb; "the ewe lambed") }
+{ synnyttää_pesue,  poikia,  synnyttää2,@ frames: 1 (give birth to a litter of animals) }
+{ [ penikoida1, noun.animal:penikka,+ noun.animal:pentu1,+]  poikia1,  synnyttää2,@ frames: 1 (birth; "the dog whelped") }
+{ [ porsia, noun.process:porsinta,+]  synnyttää2,@ frames: 1 (give birth; "sows farrow") }
+{ vasikoida,  synnyttää2,@ frames: 1 (have fawns; "deer fawn") }
+{ vasikoida1,  poikia2,  synnyttää2,@ frames: 1 (birth; "the whales calve at this time of year") }
+{ olla_raskaana,  synnyttää6,  odottaa,  kantaa,  odottaa_lasta,  olla_pulla_uunissa,  synnyttää2,@ tulla_raskaaksi,* odottaa_lasta1,$ synnyttää2,$ frames: 1 (be pregnant with; "She is bearing his child"; "The are expecting another child in January"; "I am carrying his child") }
+{ odottaa_lasta1,  verb.cognition:odottaa2,@ olla_raskaana,$ frames: 1 (look forward to the birth of a child; "She is expecting in March") }
+{ [ kantaa<note>raskauden_loppuun_saakka</note>1, saada_keskenmeno,!]  olla_raskaana,* frames: 1 (carry out a pregnancy; "She decided to carry the child to term, even though the foetus was shown to be defective") }
+{ [ saada_keskenmeno, kantaa<note>raskauden_loppuun_saakka</note>1,!]  keskeyttää,@ frames: 1 (suffer a miscarriage) }
+{ keskeyttää,  abortoida,  tehdä_abortti,  päästää1,@ tulla_raskaaksi,* frames: 1 (terminate a pregnancy by undergoing an abortion) }
+{ keskenmennä<unconfirmed/>,  verb.change:kuolla3,@ frames: 1 (cease development, die, and be aborted; "an aborting fetus") }
+{ [ hautoa1, noun.artifact:hautomakone,+ noun.process:haudonta1,+ noun.process:haudonta,+]  suojata,  lisääntyä,@ verb.motion:istuutua,* verb.contact:siittää1,$ kuoriutua,$ frames: 1 (sit on (eggs); "Birds brood"; "The female covers the eggs") }
+{ kuohita,  [ kastroida, noun.act:kastraatio,+ noun.act:kastrointi1,+]  salvaa,  leikata,  poistaa_munasarjat,  steriloida,  steriloida1,@ frames: 1 (remove the ovaries of; "Is your cat spayed?") }
+{ poistaa_munasarjat1,  kuohita,@ frames: 1 (remove the ovaries of (female mammals such as cats)) }
+{ [ kuohita1, noun.act:kuohitseminen,+]  salvaa1,  kastroida1,  steriloida1,@ frames: 1 (remove the testicles of a male animal) }
+{ kastroida<note>kukko</note>2,  [ salvaa2, noun.animal:salvukukko,+]  kuohita1,@ frames: 1 (convert a cock into a capon) }
+{ kuohita2,  kastroida3,  salvaa3,  kuohita1,@ frames: 1 (cut off the testicles (of male animals such as horses); "the vet gelded the young horse") }
+{ sterilisoida,  steriloida1,@ frames: 1 (remove the vas deferens; "many men choose to be vasectomized as a form of safe birth control") }
+{ [ steriloida1, noun.act:sterilisaatio,+ noun.act:sterilisointi1,+ noun.act:sterilointi2,+ noun.act:sterilointi1,+]  kuohita3,  tehdä_sukupuolettomaksi,  riistää_sukupuolettomaksi,  kastroida4,  leikata1,  leikata2,@ frames: 1 (make infertile; "in some countries, people with genetically transmissible disabilites are sterilized") }
+{ tehdä_kasvojenkohotusleikkaus,  leikata2,@ frames: 1 (perform cosmetic surgery on someone's face) }
+{ porata,  leikata2,@ frames: 1 (operate on with a trephine) }
+{ [ menstruoida, noun.process:menstruaatio,+]  olla_kuukautiset,  vuotaa_verta,@ tuottaa_munasoluja,* frames: 1 (undergo menstruation; "She started menstruating at the age of 11") }
+{ tuottaa_munasoluja,  päästää1,@ frames: 1 (produce and discharge eggs; "women ovulate about once every month") }
+{ [ steriloida2, noun.act:sterilisointi,+ noun.artifact:sterilisaattori,+ noun.act:sterilointi,+]  desinfektoida,@ frames: 1 (make free from bacteria) }
+{ desinfioida,  desinfektoida,@ frames: 1 (disinfect with an antiseptic; "The animals were antisepticized by the veterinarian before the operation") }
+{ [ autoklaavata, noun.artifact:autoklaavi,+]  käsitellä_autoklaavissa,  steriloida2,@ frames: 1 (subject to the action of an autoclave) }
+{ kuoriutua,  verb.change:syntyä3,@ hautoa1,$ frames: 1 (emerge from the eggs; "young birds, fish, and reptiles hatch") }
+{ [ ärsyttää, lievittää,! adj.all:stimuloiva^ärsyttävä6,+ noun.state:ärsytys2,+ tyynnyttää,!]  verb.change:heikentää2,@ frames: 1 (excite to an abnormal condition, or chafe or inflame; "Aspirin irritates my stomach") }
+{ [ tulehtua, adj.all:sairaalloinen1^tulehduksellinen,+ noun.state:tulehdus2,+]  verb.change:huonontua,@ tulehduttaa,$ frames: 1 (become inflamed; get sore; "His throat inflamed") }
+{ [ tulehduttaa, adj.all:sairaalloinen1^tulehduksellinen,+ noun.state:tulehdus2,+]  verb.change:heikentää2,@ tulehtua,$ frames: 1 (cause inflammation in; "The repetitive motion inflamed her joint") }
+{ [ lievittää, ärsyttää,!]  [ tyynnyttää, ärsyttää,!]  helpottaa,@ frames: 1 (cause to feel better; "the medicine soothes the pain of the inflammation") }
+{ helpottaa,  huojentaa,  [ lieventää, adj.all:hillitsevä^lievittävä2,+ noun.act:lievitys1,+]  lievittää1,  verb.change:kohentaa1,@ frames: 1 (provide physical relief, as from pain; "This pill will relieve your headaches") }
+{ [ hieroa, noun.person:hieroja,+ noun.act:hieronta1,+]  hoitaa,@ frames: 1 (give a massage to; "She massaged his sore back") }
+{ sattua,  voida_huonosti,@ verb.perception:särkeä1,> frames: 1 (give trouble or pain to; "This exercise will hurt your back") }
+{ voida_huonosti,  verb.change:muuttaa3,@ frames: 1 (cause to feel unwell; "She was indisposed") }
+{ [ kärsiä, voida_hyvin,! noun.feeling:kärsimys1,+ noun.state:kärsimys1,+ noun.attribute:kärsivällisyys1,+ noun.person:kärsijä1,+]  [ potea, voida_hyvin,!]  [ kitua, voida_hyvin,!]  verb.stative:olla1,@ frames: 1 (feel pain or be in pain) }
+{ olla2,  kärsiä,@ kärsiä1,$ frames: 1 (suffer from; be ill with; "She has arthritis") }
+{ [ voida_hyvin, kärsiä,! potea,! kitua,!]  verb.stative:olla1,@ frames: 1 (be healthy; feel good; "She has not been well lately") }
+{ [ kärsiä1, noun.person:kärsijä1,+]  saada,  verb.perception:kokea,@ olla2,$ frames: 1 (undergo (as of injuries and illnesses); "She suffered a fracture in the accident"; "He had an insulin shock after eating three candy bars"; "She got a bruise on her leg"; "He got his arm broken in the scuffle") }
+{ vaikertaa,  [ kitistä, noun.communication:kitinä,+]  inistä,  itkeä,  valittaa,  vikistä,  itkeä1,@ frames: 1 (cry weakly or softly; "she wailed with pain") }
+{ [ itkeä1, nauraa,! noun.act:itkeminen,+ noun.communication:itku,+ noun.person:itkijä,+ noun.act:itku,+ iloita,!]  [ kyynelehtiä, nauraa,! iloita,!]  verb.emotion:ilmaista_tunteita,@ itkeä2,$ frames: 1 (shed tears because of sadness, rage, or pain; "She cried bitterly when she heard the news of his death"; "The girl in the wheelchair wept with frustration when she could not get up the stairs") }
+{ [ itkeä2, noun.act:itkeminen,+]  verb.change:muuttaa3,@ itkeä1,$ frames: 1 (bring into a particular state by crying; "The little boy cried himself to sleep") }
+{ huutaa,  kailottaa,  karjua,  itkeä1,@ frames: 1 (cry loudly; "Don't bawl in public!") }
+{ [ kyynelehtiä1, noun.body:kyynel,+ noun.process:kyynelehtiminen,+]  itkeä1,@ frames: 1 (fill with tears or shed tears; "Her eyes were tearing") }
+{ [ nyyhkyttää, noun.act:nyyhkytys1,+ noun.act:nyyhkyttäminen,+]  itkeä1,@ frames: 1 (weep convulsively; "He was sobbing inconsolably") }
+{ [ niiskuttaa1, noun.person:niiskuttaja2,+ noun.act:niiskutus,+]  [ nyyhkyttää1, noun.act:nyyhkytys,+ noun.act:nyyhkintä,+ noun.act:nyyhke,+]  [ pillittää, noun.act:pillitys,+]  ruikuttaa,  tuhista1,  itkeä3,  parkua,  vollottaa,  nyyhkiä,  itkeä1,@ frames: 1 (cry or whine with snuffling; "Stop snivelling--you got yourself into this mess!") }
+{ [ hikoilla1, hikoilla<approximate/>,^ noun.body:hiki,+ noun.process:hikoilu,+ noun.person:hikoilija,+]  erittää2,@ frames: 1 (excrete perspiration through the pores in the skin; "Exercise makes one sweat") }
+{ ylihedelmöittää,  tulla_raskaaksi,@ frames: 1 (conceive when a fetus is already present in the uterus) }
+{ [ tihkua, noun.event:tihkuminen1,+]  kohota,  pursua,  erittää,  erittää2,@ frames: 1 (release (a liquid) in drops or small quantities; "exude sweat through the pores") }
+{ tiputtaa,  tihkua,@ frames: 1 (give off (a liquid); "The doctor distilled a few drops of disinfectant onto the wound") }
+{ olla_täynnä,  höyrytä,  tihkua,@ frames: 1 (be wet with sweat or blood, as of one's face) }
+{ [ hikoilla2, noun.process:hikoilu1,+]  tihkua,@ frames: 1 (give off (water) through the skin) }
+{ [ purkautua, noun.state:purkaus,+]  tihkua,@ frames: 1 (geology: cause molten material, such as lava, to pour forth) }
+{ valua,  vuotaa,  tihkua,@ frames: 1 (exude profusely; "She was streaming with sweat"; "His nose streamed blood") }
+{ erittää_pihkaa,  tihkua,@ frames: 1 (exude or form gum; "these trees gum in the Spring") }
+{ [ erittää1, noun.process:erittyminen1,+ noun.body:erityselin,+ noun.body:erityselin<unconfirmed/>1,+]  [ vapauttaa, noun.process:vapauttaminen,+]  tihkua,@ frames: 1 (generate and separate from cells or bodily fluids; "secrete digestive juices"; "release a hormone into the blood stream") }
+{ vuotaa_vettä,  kostua,  erittää1,@ frames: 1 (secrete or form water, as tears or saliva; "My mouth watered at the prospect of a good dinner"; "His eyes watered") }
+{ läkähtyä_kuumuuteen,  läkähtyä,  hikoilla1,@ frames: 1 (suffer from intense heat; "we were sweltering at the beach") }
+{ haavoittaa,  satuttaa,  sattua,@ frames: 1 (cause injuries or bodily harm to) }
+{ polkea,  talloa,  tallata,  haavoittaa,@ frames: 1 (injure by trampling or as if by trampling; "The passerby was trampled by an elephant") }
+{ aiheuttaa_aivotärähdys,  haavoittaa,@ frames: 1 (injure the brain; sustain a concussion) }
+{ vammauttaa<broader/>,  haavoittaa,@ frames: 1 (injure with a calk) }
+{ loukata,  satuttaa1,  sattua,@ frames: 1 (cause bodily suffering to and make sick or indisposed) }
+{ olla_sopimaton,  sattua,@ frames: 1 (not be very easily digestible; "Spicy food disagrees with some people") }
+{ [ kiduttaa, noun.person:kiduttaja1,+ noun.act:kidutus,+ noun.state:kidutus,+ noun.act:kidutus2,+ noun.person:kiduttaja,+]  haavoittaa,@ frames: 1 (subject to torture; "The sinners will be tormented in Hell, according to the Bible") }
+{ kiduttaa<broader/>1,  kiduttaa,@ frames: 1 (torture on the rack) }
+{ tehdä_marttyyriksi,  kiduttaa2,  kiduttaa,@ frames: 1 (torture and torment like a martyr) }
+{ [ venähtää, noun.state:venähdys1,+]  nyrjähtää,  haavoittaa,@ frames: 1 (strain abnormally; "I pulled a muscle in my leg when I jumped up"; "The athlete pulled a tendon in the competition") }
+{ päästää,  [ virtsata, noun.person:virtsaaja,+ noun.substance:virtsa,+ noun.process:virtsaaminen1,+]  [ pissiä, noun.substance:pisu,+]  tehdä_lätäkkö,  [ pissata, noun.person:pissaaja,+ noun.process:pissiminen,+ noun.substance:pissa,+ noun.process:pissaaminen1,+]  tehdä_tarpeensa,  kusta,  heittää_vettä,  erittää2,@ tyhjentää_suoli1,$ virtsata1,$ frames: 1 (eliminate urine; "Again, the cat had made on the expensive rug") }
+{ virtsata1,  erittää2,@ päästää,$ frames: 1 (pass after the manner of urine; "The sick men urinated blood") }
+{ kastella,  päästää,@ frames: 1 (make one's bed or clothes wet by urinating; "This eight year old boy still wets his bed") }
+{ lorottaa<unconfirmed/>,  päästää,@ frames: 1 (urinate, of cattle and horses) }
+{ [ erittää2, adj.pert:erittävä,+ noun.process:erittäminen,+]  ulostaa,  poistaa,  päästää1,@ frames: 1 (eliminate from the body; "Pass a kidney stone") }
+{ [ ulostaa1, adj.all:laksatiivinen^ulostuttava,+]  erittää3,  erittää2,@ frames: 1 (excrete or discharge from the body) }
+{ [ imeä, noun.act:imeminen,+]  ulostaa1,@ noun.act:toimenpide2,;c verb.motion:imeä,$ frames: 1 (empty or clean (a body cavity) by the force of suction; "suction the uterus in an abortion") }
+{ tyhjentää_suoli,  hoitaa,@ ulostaa1,> frames: 1 (excrete or evacuate (someone's bowels or body); "The doctor decided that the patient must be purged") }
+{ tyhjentää_suoli1,  [ ulostaa2, noun.person:ulostaja,+ noun.process:ulostaminen,+]  [ paskoa, noun.process:paska,+ noun.process:paskantaminen,+ noun.substance:paska,+ noun.person:paskoja,+]  paskantaa,  kakkia,  tehdä_tarpeensa1,  kakata,  erittää2,@ päästää,$ frames: 1 (have a bowel movement; "The dog had made in the flower beds") }
+{ sontia,  tyhjentää_suoli1,@ frames: 1 (defecate; used of animals) }
+{ aiheuttaa_ummetusta,  ummettaa,  voida_huonosti,@ frames: 1 (cause to be constipated; "These foods tend to constipate you") }
+{ aiheuttaa_ummetusta1,  [ ummettaa1, noun.state:ummetus1,+]  aiheuttaa_ummetusta,@ frames: 1 (constipate severely) }
+{ vuotaa_verta,  vuotaa_verta_voimakkaasti,  päästää1,@ frames: 1 (lose blood from one's body) }
+{ [ väsyä, virkistää1,!]  [ uupua, noun.state:uupumus,+]  voida_huonosti,@ kyllästyä,> frames: 1 (exhaust or get tired through overuse or great strain or stress; "We wore ourselves out on this hike") }
+{ uuvuttaa,  käyttää_loppuun,  lyödä,  väsyttää,  ajaa_loppuun,  näännyttää,  väsyä,@ frames: 1 (wear out completely; "This kind of work exhausts me"; "I'm beat"; "He was all washed up after the exam") }
+{ [ uupua1, noun.state:uupumus2,+]  uuvuttaa,@ frames: 1 (exhaust physically or emotionally; "She was frazzled after the visit of her in-laws") }
+{ väsyttää1,  uuvuttaa,@ frames: 1 (exhaust by allowing to pull on the line; "play a hooked fish") }
+{ väsyä_liikaa,  väsyttää_liikaa,  uuvuttaa_liikaa,  väsyä,@ frames: 1 (tire excessively) }
+{ kyllästyä,  uupua2,  [ väsyä1, noun.feeling:väsymys,+]  kehittyä,@ frames: 1 (lose interest or become bored with something or somebody; "I'm so tired of your mother and her complaints about my food") }
+{ [ oksentaa, pystyä_pitämään_sisällään,! noun.person:oksentaja,+ noun.artifact:oksetuslääke,+ noun.act:oksentaminen,+ noun.substance:oksennus,+]  tyhjentää_suolensa,  antaa_ylen,  [ yökätä, noun.act:yökkäily,+]  yrjötä,  heittää_laattaa,  [ laatata, pystyä_pitämään_sisällään,! noun.substance:laatta,+]  [ purjota, pystyä_pitämään_sisällään,!]  erittää2,@ frames: 1 (eject the contents of the stomach through the mouth; "After drinking too much, the students vomited"; "He purged continuously"; "The patient regurgitated the food we gave him last night") }
+{ purkautua1,  syöstä,  sylkeä1,  ryöpytä,  päästää1,@ frames: 1 (eject or send out in large quantities, also metaphorical; "the volcano spews out molten rocks every day"; "The editors of the paper spew out hostile articles about the Presidential candidate") }
+{ [ pystyä_pitämään_sisällään, oksentaa,! laatata,! purjota,!]   frames: 1 (manage not to throw up) }
+{ yökätä1,  kakistella,  [ yökkäillä, noun.act:yökkäily,+]   frames: 1 (make an unsuccessful effort to vomit; strain to vomit) }
+{ tukehduttaa,  tukahduttaa,  oksettaa,@ frames: 1 (cause to retch or choke) }
+{ haukkoa_henkeä,  [ tukehtua, noun.state:tukehtuminen1,+]  tikahtua,  pakahtua,  kärsiä,@ frames: 1 (struggle for breath; have insufficient oxygen intake; "he swallowed a fishbone and gagged") }
+{ tukahduttaa1,  kuristaa,  verb.contact:puristaa_yhteen1,@ tukahtua,> frames: 1 (constrict (someone's) throat and keep from breathing) }
+{ paleltua,  kärsiä2,@ frames: 1 (be cold; "I could freeze to death in this office when the air conditioning is turned on") }
+{ olla_helteen_uuvuttama,  läkähtyä1,  kärsiä2,@ frames: 1 (be uncomfortably hot) }
+{ kärsiä2,  potea1,  verb.stative:olla1,@ frames: 1 (feel unwell or uncomfortable; "She is suffering from the hot weather") }
+{ narskuttaa,  verb.contact:kirskua,@ frames: 1 (grind together, of teeth) }
+{ kiusata,  [ vaivata, noun.state:vaiva,+]  kärsiä,@ frames: 1 (be ill or unwell) }
+{ [ hoitaa, noun.act:hoito1,+]   frames: 1 (provide treatment for; "The doctor treated my broken leg"; "The nurses cared for the bomb victims"; "The patient must be treated right away or she will die"; "Treat the infection with antibiotics") }
+{ [ korjata1, adj.all:parantuva^korjaava1,+]  hoitaa,@ frames: 1 (treat a defect; "The new contact lenses will correct for his myopia") }
+{ puhaltaa_sisään<approximate/>1,  hoitaa,@ puhaltaa_sisään,$ frames: 1 (treat by blowing a powder or vapor into a bodily cavity) }
+{ [ vieroittaa, noun.act:vieroitushoito,+]  hoitaa,@ frames: 1 (treat for alcohol or drug dependence; "He was detoxified in the clinic") }
+{ [ huuhdella2, noun.act:huuhtelu2,+]  hoitaa,@ frames: 1 (supply with a constant flow or sprinkling of some liquid, for the purpose of cooling, cleansing, or disinfecting; "irrigate the wound") }
+{ jodioida,  hoitaa,@ frames: 1 (treat with iodine so as to prevent infection; "iodize a wound") }
+{ hoitaa1,  hoitaa,@ noun.act:lääketiede,;c frames: 1 (give medical treatment to) }
+{ hoitaa_eläimiä,  hoitaa1,@ noun.act:lääketiede,;c frames: 1 (provide veterinary care for) }
+{ hoitaa2,  hoitaa,@ noun.act:lääketiede,;c frames: 1 (provide (a person) with medical care) }
+{ [ hoitaa3, noun.person:hoitaja6,+]  hoitaa,@ noun.act:lääketiede,;c frames: 1 (try to cure by special care of treatment, of an illness or injury; "He nursed his cold with Chinese herbs") }
+{ käsitellä,  manipuloida,  hoitaa,@ frames: 1 (treat manually, as with massage, for therapeutic purposed) }
+{ [ antaa, noun.act:antaminen1,+]  [ jakaa, noun.possession:jakelu,+ noun.act:jakelu3,+]  hoitaa,@ noun.act:lääketiede,;c verb.possession:antaa17,* frames: 1 (give or apply (medications)) }
+{ siirtää,  antaa,@ noun.act:lääketiede,;c frames: 1 (give a transfusion (e.g., of blood) to) }
+{ [ digitalisoida, noun.act:digitalishoito,+ noun.act:digitalisointi,+ noun.substance:digitalis,+]  hoitaa_digitaliksella,  antaa,@ noun.act:lääketiede,;c frames: 1 (administer digitalis such that the patient benefits maximally without getting adverse effects) }
+{ terveyttää,  [ parantaa, adj.all:parannettavissa_oleva1,+ adj.all:terveellinen1^parantava1,+ noun.artifact:parannuskeino1,+ noun.artifact:parannus,+]  tervehdyttää,  hoitaa4,  auttaa,@ noun.act:lääketiede,;c hoitaa,* frames: 1 (provide a cure for, make healthy again; "The treatment cured the boy's acne"; "The quack pretended to heal patients but never managed to") }
+{ auttaa,  olla_avuksi,  verb.change:kohentaa1,@ frames: 1 (improve the condition of; "These pills will help the patient") }
+{ helpottaa1,  [ lievittää2, noun.act:lievitys,+]  helpottaa,@ frames: 1 (lessen pain or discomfort; alleviate; "ease the pain in your legs") }
+{ helpottaa2,  parantaa1,  hoitaa,@ noun.act:lääketiede,;c frames: 1 (provide relief for; "remedy his illness") }
+{ sitoa,  hoitaa,@ noun.act:lääketiede,;c frames: 1 (apply a bandage or medication to; "dress the victim's wounds") }
+{ panna_haude,  [ hautoa2, noun.artifact:haude,+]  sitoa,@ noun.act:lääketiede,;c frames: 1 (dress by covering with a therapeutic substance) }
+{ sitoa1,  laastaroida,  sitoa,@ noun.act:lääketiede,;c frames: 1 (dress by covering or binding; "The nurse bandaged a sprained ankle"; "bandage an incision") }
+{ [ sitoa2, noun.act:sitominen2,+ noun.act:sitominen1,+]  sitoa1,@ noun.cognition:kirurgia,;c frames: 1 (bind with a bandage or ligature; "ligate the artery") }
+{ kiinnittää,  sitoa3,  verb.contact:kiinnittää12,@ noun.act:lääketiede,;c frames: 1 (secure (a sprained joint) with a strap) }
+{ [ lastoittaa, noun.artifact:lasta7,+]  hoitaa,@ noun.act:lääketiede,;c frames: 1 (support with a splint; "splint a broken finger") }
+{ leikata2,  [ operoida, adj.all:operatiivinen,+]  hoitaa,@ noun.act:lääketiede,;c frames: 1 (perform surgery on; "The doctors operated on the patient but failed to save his life") }
+{ iskeä_suonta,  leikata2,@ noun.act:lääketiede,;c frames: 1 (practice venesection) }
+{ [ lääkitä, noun.cognition:lääketiede,+ noun.act:lääkintä,+ noun.artifact:lääkitys,+ adj.all:terveellinen1^lääkinnällinen,+ noun.artifact:lääke1,+ noun.act:lääketiede,+]  hoitaa_lääkkeillä,  hoitaa,@ noun.act:lääketiede,;c frames: 1 (treat medicinally, treat with medicine) }
+{ keinohedelmöittää,  verb.change:kyllästää2,@ noun.act:lääketiede,;c frames: 1 (impregnate with a medicinal substance) }
+{ huumata,  lääkitä,@ noun.act:lääketiede,;c frames: 1 (administer a drug to; "They drugged the kidnapped tourist") }
+{ antaa_dopingaineita,  antaa_sääntöjenvastaisia_aineita,  huumata,@ noun.act:lääketiede,;c frames: 1 (give a narcotic to; "The athletes were dope by the coach before the race") }
+{ doupata<note>ravihevosta</note>,  antaa_dopingaineita,@ noun.act:lääketiede,;c frames: 1 (dope (a racehorse)) }
+{ ottaa_yliannos,  kuolla_yliannostukseen,  huumata,@ frames: 1 (dose too heavily; "The rock star overdosed and was found dead in his hotel room") }
+{ nukuttaa2,  huumata1,  tainnuttaa,  huumata,@ frames: 1 (administer narcotics to) }
+{ [ voidella, noun.act:voiteleminen,+ noun.person:voitelija<unconfirmed/>,+ noun.act:voitelu2,+]  [ öljytä, noun.substance:öljy,+]  antaa_viimeinen_voitelu,  sivellä_lääkkeellä,  voidella_linimentillä,  verb.communication:siunata,@ frames: 1 (administer an oil or ointment to; often in a religious ceremony of blessing) }
+{ voidella_salvalla,  lääkitä,@ noun.act:lääketiede,;c frames: 1 (apply a salve to, usually for the purpose of healing) }
+{ iskeä_suonta1,  avata_laskimo,  hoitaa,@ noun.act:lääketiede,;c frames: 1 (draw blood; "In the old days, doctors routinely bled patients as part of the treatment") }
+{ [ ruiskuttaa, noun.substance:ruiske,+ adj.all:ruiskutuskelpoinen,+]  piikittää,  injektoida,  pistää,  antaa,@ noun.act:lääketiede,;c verb.contact:pumpata1,$ frames: 1 (give an injection to; "We injected the glucose into the patient's vein") }
+{ [ infundoida, noun.act:infuusio,+]  ruiskuttaa,@ noun.act:lääketiede,;c frames: 1 (introduce into the body through a vein, for therapeutic purposes; "Some physiologists infuses sugar solutions into the veins of animals") }
+{ [ rokottaa1, noun.act:rokottaminen,+ noun.person:rokottaja,+ noun.act:rokotus1,+ noun.state:rokotusarpi,+ noun.artifact:rokote,+ noun.act:rokote,+]  tehdä_immuuniksi,  ruiskuttaa,@ noun.act:lääketiede,;c frames: 1 (perform vaccinations or produce immunity in by inoculation; "We vaccinate against scarlet fever"; "The nurse vaccinated the children in the school") }
+{ [ kupata, noun.act:kuppaus,+]  laskea_verta,  hoitaa,@ noun.act:lääketiede,;c frames: 1 (treat by applying evacuated cups to the patient's skin) }
+{ sairastua,  verb.change:huonontua,@ frames: 1 (get sick; "She fell sick last Friday, and now she is in the hospital") }
+{ tulla_kalpeaksi_ja_sairaaksi,  sairastua,@ frames: 1 (become pale and sickly) }
+{ saada_tauti,  [ sairastua1, noun.act:sairauden_saaminen,+]  tulla_sairaaksi<unconfirmed/><note>rakenteessa_be_taken_ill</note>,  saada1,  sairastua,@ sairastua2,$ frames: 1 (be stricken by an illness, fall victim to an illness; "He got AIDS"; "She came down with pneumonia"; "She took a chill") }
+{ sairastua2,  saada_tauti,@ saada_tauti,$ frames: 1 (contract; "did you catch a cold?") }
+{ vilustua,  sairastua2,@ frames: 1 (come down with a cold) }
+{ oksettaa,  vahingoittaa,@ frames: 1 (make sick or ill; "This kind of food sickens me") }
+{ [ myrkyttää, noun.act:myrkyttäminen,+]  huumata,@ verb.contact:myrkyttää1,$ frames: 1 (administer poison to; "She poisoned her husband but he did not die") }
+{ [ päihdyttää, noun.artifact:päihde,+ adj.all:alkoholi-^päihdyttävä1,+]  huumata2,  myrkyttää,@ frames: 1 (have an intoxicating effect on, of a drug) }
+{ [ tartuttaa, desinfektoida,! desinfioida1,! adj.all:epäterveellinen1^tartunta-,+ adj.all:septinen^tartunta-1,+ noun.process:tartunta,+]  [ saastuttaa, noun.state:saastuneisuus,+]  verb.change:pilata4,@ frames: 1 (contaminate with a disease or microorganism) }
+{ [ superinfektoida<unconfirmed/>, noun.state:superinfektio,+]  tartuttaa,@ frames: 1 (infect (an infected cell) further or infect a cell already containing similar organisms) }
+{ noeta,  tartuttaa,@ noun.act:maanviljelys1,;c frames: 1 (affect with smut or mildew, as of a crop such as corn) }
+{ [ desinfektoida, tartuttaa,! noun.artifact:desinfiointiaine,+ adj.all:antiseptinen2^desifiointi-,+ adj.all:antiseptinen2^desinfioiva,+ noun.act:desinfiointi,+]  [ desinfioida1, tartuttaa,! noun.artifact:desinfiointiaine,+ adj.all:antiseptinen2^desifiointi-,+ adj.all:antiseptinen2^desinfioiva,+ noun.act:desinfiointi,+]  verb.contact:puhdistaa4,@ frames: 1 (destroy microorganisms or pathogens by cleansing; "disinfect a wound") }
+{ [ kloorata, noun.substance:kloori,+ noun.act:klooraus,+]  desinfektoida,@ frames: 1 (disinfect with chlorine; "chlorinate a pool") }
+{ [ tartuttaa1, adj.all:epäterveellinen1^tartunta-,+ adj.all:septinen^tartunta-1,+]  verb.possession:aiheuttaa,@ frames: 1 (communicate a disease to; "Your children have infected you with this head cold") }
+{ tartuttaa<broader/>2,  tartuttaa1,@ frames: 1 (infect with a canker) }
+{ tarttua<broader/>,  sairastua,@ frames: 1 (become infected with a canker) }
+{ [ traumatisoida, noun.state:trauma1,+ noun.state:trauma,+]  [ järkyttää, noun.event:järkytys,+]  haavoittaa,@ frames: 1 (inflict a trauma upon) }
+{ antaa_sähköshokkeja,  hoitaa,@ frames: 1 (subject to electrical shocks) }
+{ [ stimuloida1, noun.process:stimulointi_galvaanisella_virralla,+]  antaa_sähköshokkeja,@ frames: 1 (stimulate (muscles) by administering a shock) }
+{ [ silpoa, noun.event:silpominen1,+ noun.person:silpoja,+]  turmella,  pahoinpidellä,  runnella,@ frames: 1 (destroy or injure severely; "mutilated bodies") }
+{ runnella,  vammauttaa1,  silpoa1,  haavoittaa,@ frames: 1 (injure or wound seriously and leave permanent disfiguration or mutilation; "people were maimed by the explosion") }
+{ [ nyrjäyttää, noun.state:nyrjähdys1,+]  [ reväyttää, noun.state:revähdys,+]  venähdyttää,  [ venäyttää, noun.state:venähdys3,+]  niksauttaa,  haavoittaa,@ frames: 1 (twist suddenly so as to sprain; "wrench one's ankle"; "The wrestler twisted his shoulder"; "the hikers sprained their ankles when they fell"; "I turned my ankle and couldn't walk for several days") }
+{ mennä_sijoiltaan,  haavoittaa,@ frames: 1 (sprain or dislocate slightly; "subluxate the hip") }
+{ tehdä_raajarikoksi,  tehdä_ontuvaksi,  rampauttaa,  vammauttaa2,  runnella,@ frames: 1 (deprive of the use of a limb, especially a leg; "The accident has crippled her for life") }
+{ vammautua_kinnerjänteestä<unconfirmed/>,  rampauttaa1,  tehdä_raajarikoksi,@ frames: 1 (cripple by cutting the hamstring) }
+{ vaurioitua,  tulla_toimintakyvyttömäksi,  lamautua,  [ vammautua, noun.state:vamma2,+ noun.state:vammaisuus,+]  haavoittaa,@ frames: 1 (injure permanently; "He was disabled in a car accident") }
+{ leikata_kinner<unconfirmed/>,  vaurioitua,@ frames: 1 (disable by cutting the hock) }
+{ kehittyä,  [ huonontua, tointua,! noun.process:huonontuminen,+ noun.state:huonontuminen1,+ tervehtyä,!]  taantua,  [ degeneroitua, noun.state:degeneraatio,+]  [ heiketä, tointua,! tervehtyä,!]  verb.change:huonontua,@ frames: 1 (grow worse; "Her condition deteriorated"; "Conditions in the slums degenerated"; "The discussion devolved into a shouting match") }
+{ [ tointua, huonontua,! noun.process:toipuminen,+ adj.all:terveellinen1^toipumis-,+ heiketä,!]  [ toipua, noun.person:toipilas,+ adj.all:kipeä8^toipuva,+ noun.process:toipuminen,+ adj.all:kipeä8^toipilas-,+]  [ tervehtyä, huonontua,! heiketä,!]  verb.change:kohentua,@ parantua1,$ frames: 1 (get over an illness or shock; "The patient is recuperating") }
+{ parantua,  tointua,@ frames: 1 (recover quickly; "After the surgery, the patient snapped back in a few days") }
+{ parantua1,  virkistyä,  tervehtyä1,  terveyttää,@ tointua,$ frames: 1 (restore to good health or strength) }
+{ [ sortua_uudelleen, noun.act:sortuminen_uudelleen,+]  hairahtaa,  sortua,  [ uusia_rikos, noun.act:uusintarikollisuus,+]  taantua1,  jäädä_jälkeen,  kokea_takaisku,  langeta,  verb.change:palata1,@ frames: 1 (go back to bad behavior; "Those who recidivate are often minor criminals") }
+{ [ kitua1, noun.person:kituja,+]  [ riutua, noun.person:riutuja,+]  kadottaa_puhtinsa,  kuihtua,  nääntyä,  räytyä,  heikentyä,  heiketä1,  virua,  kehittyä,@ frames: 1 (become feeble; "The prisoner has be languishing for years in the dungeon") }
+{ riutua1,  virua1,  kehittyä,@ frames: 1 (become physically weaker; "Political prisoners are wasting away in many prisons all over the world") }
+{ surkastua,  näivettyä,  verb.change:kuihtua1,@ frames: 1 (undergo atrophy; "Muscles that are not used will atrophy") }
+{ laajentua<broader/>,  verb.change:enentyä,@ frames: 1 (undergo hypertrophy; "muscles can hypertrophy when people take steroids") }
+{ saada_höyhenet,  kasvattaa2,@ frames: 1 (grow feathers; "The young sparrows are fledging already") }
+{ kasvattaa2,  [ kehittyä1, noun.process:kehittyminen2,+ noun.process:kehitys1,+]  tuottaa,  [ saada2, noun.act:saaminen,+]  hankkia,  tulla,  verb.change:muuttua,@ verb.change:kehittää10,$ frames: 1 (come to have or undergo a change of (physical features and attributes); "He grew a beard"; "The patient developed abdominal pains"; "I got funny spots all over my body"; "Well-developed breasts") }
+{ kasvaa_uudelleen,  kasvattaa2,@ frames: 1 (grow anew or continue growth after an injury or interruption; "parts of the trunk of this tree can regrow"; "some invertebrates can regrow limbs or their tail after they lost it due to an injury") }
+{ saada<note>idiomin_osa</note>3,  kasvattaa2,@ frames: 1 (develop suddenly; "The tire sprang a leak") }
+{ itää,  [ orastaa, noun.plant:oras,+]  [ versoa1, noun.process:versominen,+ noun.food:verso,+]  kasvattaa2,@ frames: 1 (put forth and grow sprouts or shoots; "the plant sprouted early this year") }
+{ vesoa,  kasvattaa2,@ frames: 1 (grow shoots in the form of stools or tillers) }
+{ [ lehtiä, noun.plant:lehdet,+ noun.plant:lehvistö1,+]  kasvattaa2,@ frames: 1 (produce leaves, of plants) }
+{ muodostaa_palkoja,  kasvattaa2,@ frames: 1 (produce pods, of plants) }
+{ saada_hampaita,  kasvattaa2,@ frames: 1 (grow teeth; cut the baby teeth; "The little one is teething now") }
+{ puhjeta,  verb.change:kasvaa8,@ puhjeta1,$ frames: 1 (grow through the gums; "The new tooth is cutting") }
+{ ankylosoitua<unconfirmed/>,  verb.change:kasvaa8,@ noun.act:lääketiede,;c frames: 1 (undergo ankylosis; "joints ankylose") }
+{ ankylosoida,  ankylosoida<unconfirmed/>1,  verb.contact:liittää3,@ noun.act:lääketiede,;c frames: 1 (produce ankylosis by surgery) }
+{ [ koteloitua, noun.animal:kotelo,+]  kasvattaa2,@ frames: 1 (develop into a pupa; "the insect larva pupate") }
+{ kerätä,  koota,  kasvattaa2,@ frames: 1 (develop; "we worked up an as of an appetite") }
+{ [ märkiä, noun.state:märkärakkula,+ noun.process:märkiminen,+ noun.body:märkä,+ adj.pert:märkivä,+]  päästää1,@ mädättää,$ frames: 1 (ripen and generate pus; "her wounds are festering") }
+{ vetää,  verb.social:rajoittaa2,@ verb.motion:ottaa1,$ frames: 1 (cause to localize at one point; "Draw blood and pus") }
+{ mädättää,  [ märkiä1, noun.process:märkiminen,+ noun.body:märkä,+]  [ märättää, noun.process:märkiminen,+ noun.body:märkä,+]  kypsyttää,  vetää,@ märkiä,$ frames: 1 (cause to ripen and discharge pus; "The oil suppurates the pustules") }
+{ aiheuttaa_kuolio,  synnyttää_kuolio,  [ kuoleutua, noun.phenomenon:kuolio,+]  [ kuolioitua, noun.state:kuolio,+ noun.phenomenon:kuolio,+]  riutua1,@ frames: 1 (undergo necrosis; "the tissue around the wound necrosed") }
+{ uudistaa,  kehittää,  verb.change:kohentaa1,@ frames: 1 (restore strength; "This food revitalized the patient") }
+{ [ nuorentua, noun.phenomenon:nuorentuminen,+]  uudestisyntyä,@ frames: 1 (become young again; "The old man rejuvenated when he became a grandfather") }
+{ [ uudestisyntyä, noun.process:uudentuminen,+ noun.act:uudistaminen3,+]  [ uudistua, noun.process:uudentuminen,+ noun.act:uudistaminen3,+]  verb.change:muuttua,@ frames: 1 (undergo regeneration) }
+{ [ elvyttää1, noun.act:elvytys,+]  palauttaa<note>jtak_mieleen</note>,@ palata_tajuihinsa,> palata_tajuihinsa,$ frames: 1 (cause to regain consciousness; "The doctors revived the comatose man") }
+{ käynnistää,  käynnistää<approximate/>1,  käynnistää_uudelleen,  uudelleenkäynnistää,  elvyttää1,@ frames: 1 (cause to load (an operating system) and start the initial processes; "boot your computer") }
+{ herättää_henkiin1,  herättää4,  herättää_kuolleista,  elvyttää1,@ herätä_henkiin,$ frames: 1 (cause to become alive again; "raise from the dead"; "Slavery is already dead, and cannot be resurrected"; "Upraising ghosts") }
+{ herätä_henkiin,  [ nousta_kuolleista, noun.event:nouseminen,+]  herätä_kuolleista,  verb.motion:palata,@ herättää_henkiin1,$ frames: 1 (return from the dead; "Christ is risen!"; "The dead are to uprise") }
+{ [ rupeutua, noun.body:rupi,+]  arpeutua,  parantua3,@ frames: 1 (form a scab; "the wounds will eventually scab") }
+{ arpeutua1,  parantua2,  parantua3,@ frames: 1 (grow new skin over an injury) }
+{ [ parantua3, noun.process:parantuminen1,+]  verb.change:kohentua,@ frames: 1 (get healthy again; "The wound is healing slowly") }
+{ rakeistaa,  rouhia,  parantua3,@ frames: 1 (form granulating tissue; "wounds and ulcers can granulate") }
+{ uupua3,  hiipua,  väsyä2,  kyllästyä,@ frames: 1 (use up all one's strength and energy and stop working; "At the end of the march, I pooped out") }
+{ harjoittaa,  harjoitella,  treenata,  kuntoilla,  verb.motion:siirtää,* harjoittaa1,$ frames: 1 (do physical exercise; "She works out in the gym every day") }
+{ [ harjoitella1, noun.act:harjoitus3,+]  harjoittaa,@ verb.communication:valmentaa,$ frames: 1 (exercise in order to prepare for an event or competition; "She is training for the Olympics") }
+{ voimistella,  harjoittaa,@ frames: 1 (do gymnastics, roll and turn skillfully) }
+{ kieriä,  voimistella,@ frames: 1 (execute a roll, in tumbling; "The gymnasts rolled and jumped") }
+{ harjoittaa1,  teettää_työtä,  verb.social:teettää_töitä,@ harjoittaa,> harjoittaa,$ frames: 1 (give a workout to; "Some parents exercise their infants"; "My personal trainer works me hard"; "work one's muscles"; "this puzzle will exercise your mind") }
+{ [ lämmitellä1, noun.act:lämmittely,+]  verrytellä1,  [ lämmittää, noun.act:lämmittely,+]  verb.social:teettää_töitä,@ harjoittaa1,@ frames: 1 (cause to do preliminary exercises so as to stretch the muscles; "The coach warmed up the players before the game") }
+{ verrytellä2,  lämmitellä1,@ frames: 1 (cause to become limber; "The violist limbered her wrists before the concert") }
+{ jännittää,  harjoittaa,@ frames: 1 (give a healthy elasticity to; "Let's tone our muscles") }
+{ [ venytellä1, noun.act:venyttäminen,+]  verb.motion:siirtää,@ frames: 1 (extend one's body or limbs; "Let's stretch for a minute--we've been sitting here for over 3 hours") }
+{ [ pierrä, noun.act:pieru,+]  päästää_ilmaa,  [ pieraista, noun.act:pieru,+]  [ piereskellä, noun.act:pieru,+]  toimia_väkisin,@ frames: 1 (expel intestinal gases through the anus) }
+{ [ niiskuttaa2, noun.act:niiskutus,+ noun.person:niiskuttaja2,+]  vetää_henkeä,@ frames: 1 (snuff up mucus through the nose) }
+{ [ sylkeä2, sylkeä,^ verb.possession:pulittaa,^ noun.person:syljeskelijä,+ noun.act:sylkäiseminen,+ noun.act:sylkeminen,+ noun.body:sylki,+ noun.process:syljenvuoto,+]  [ syljeskellä, sylkeä,^ verb.possession:pulittaa,^ noun.person:syljeskelijä,+ noun.act:sylkäiseminen,+ noun.act:sylkeminen,+ noun.body:sylki,+ noun.process:syljenvuoto,+]  yskiä1,@ frames: 1 (expel or eject (saliva or phlegm or sputum) from the mouth; "The father of the victim spat at the alleged murderer") }
+{ räkäistä,  sylkeä3,  sylkäistä,  roiskia_sylkeä,  yskiä1,@ frames: 1 (spit up in an explosive manner) }
+{ lyödä_varpaansa,  verb.contact:osua1,@ frames: 1 (strike (one's toe) accidentally against an object; "She stubbed her toe in the dark and now it's broken") }
+{ vahingoittaa,  haavoittaa,@ frames: 1 (cause or do harm to; "These pills won't harm your system") }
+{ [ kuolata, noun.process:kuolaaminen,+]  toimia_väkisin,@ frames: 1 (produce saliva; "We salivated when he described the great meal") }
+{ [ kuolata1, noun.body:kuola,+ noun.person:kuolaaja,+ verb.emotion:palvoa3,^ verb.emotion:ihannoida1,^]  kuolata,@ frames: 1 (let saliva drivel from the mouth; "The baby drooled") }
+{ [ punastua, noun.act:punastus,+ noun.state:puna,+ noun.state:punastus,+]  verb.change:värjäytyä,@ frames: 1 (turn red, as if in embarrassment or shame; "The girl blushed when a young man whistled as she walked by") }
+{ [ kalveta, noun.attribute:kalpeus1,+]  vaaleta,  verb.change:värjäytyä,@ frames: 1 (turn pale, as if in fear) }
+{ kalventaa,  verb.change:muuttaa3,@ frames: 1 (make pale or sickly; "alcohol etiolates your skin") }
+{ [ ruskettua, noun.state:rusketus,+ noun.process:ruskettuminen,+]  päivettyä,  verb.change:värjäytyä,@ frames: 1 (get a tan, from wind or sun) }
+{ päivettyä1,  [ ruskettua1, noun.state:rusketus,+]  ruskettua,@ frames: 1 (get a tan from being exposed to the sun) }
+{ ottaa_aurinkoa,  lämmitellä_auringonpaisteessa,  olla_auringossa,  paistatella_päivää,  verb.contact:maata1,@ frames: 1 (expose one's body to the sun) }
+{ palaa,  polttaa_itsensä_auringossa,  verb.change:värjäytyä,@ frames: 1 (get a sunburn by overexposure to the sun) }
+{ levitä1,  verb.contact:levittää3,@ frames: 1 (become systemic and spread throughout the body; "this kind of infection generalizes throughout the immune system") }
+{ metastasoida,  lähettää_etäpesäkkeitä,  verb.contact:levittää3,@ frames: 1 (spread throughout the body; "the cancer had metastasized and the patient could not be saved") }
+{ päästää1,  pakottaa_ulos1,  syöstä1,  [ vapauttaa1, noun.process:vapauttaminen,+]   frames: 1 (eliminate (a substance); "combustion products are exhausted in the engine"; "the plant releases a gas") }
+{ [ päästää2, noun.act:päästö1,+]  poistaa1,  päästää1,@ frames: 1 (expel (gases or odors)) }
+{ laskea_leikkiä,  [ vitsailla, noun.communication:vitsi,+ noun.act:vitsi,+]  ilvehtiä,  [ pilailla, noun.communication:pila,+ noun.act:pila2,+]  toimia,@ frames: 1 (act in a funny or teasing way) }
+{ [ pelleillä1, noun.act:pelleily1,+ noun.communication:pelleily,+]  pelehtiä,  ilveillä,  laskea_leikkiä,@ frames: 1 (act as or like a clown) }
+{ tuntea_olonsa_jksk,  verb.stative:olla1,@ frames: 1 (be conscious of a physical, mental, or emotional state; "My cold is gone--I feel fine today"; "She felt tired after the long hike"; "She felt sad after her loss") }
+{ tuntea_olonsa_loistavaksi,  tuntea_olonsa_jksk,@ frames: 1 (be in excellent health and spirits; "he feels like a million after he got the promotion") }
+{ läkähtyä2,  [ tukahtua1, adj.all:hengästynyt^tukahduttava1,+]  tuntea_olonsa_jksk,@ frames: 1 (feel uncomfortable for lack of fresh air; "The room was hot and stuffy and we were suffocating") }
+{ pukeutua_iltapukuun<unconfirmed/>,  pukeutua_kaapuun<unconfirmed/>2,  pukea2,@ frames: 1 (dress in a gown) }
+{ aiheuttaa_keltatauti,  vaikuttaa,@ frames: 1 (affect with, or as if with, jaundice) }
+{ [ hölmöillä, noun.communication:hölynpöly1,+]  toimia,@ frames: 1 (act in a trivial or ineffective way) }
+{ ajaa_yli,  haavoittaa,@ frames: 1 (injure or kill by running over, as with a vehicle) }
+{ lihoa2,  lihoa,@ frames: 1 (gain (weight); "He packed on two pounds over the summer") }
+{ herättää5,  havahtua1,@ frames: 1 (rouse somebody from sleep with a call; "I was called at 5 A.M. this morning") }
+{ olla3,  pitää3,  toimia,@ frames: 1 (behave in a certain way; "make merry") }
+{ olla_tekevinään_jtak,  toimia,@ frames: 1 (begin or appear to begin an action; "He made as if to shake my hand") }
+{ hellittää1,  laantua,  verb.change:vähentyä,@ frames: 1 (diminish or discontinue abruptly; "The patient's fever broke last night") }
+{ [ murtaa, noun.state:murtuma,+ noun.act:murtaminen,+]  haavoittaa,@ murtaa1,$ frames: 1 (fracture a bone of; "I broke my foot while playing hockey") }
+{ [ murtaa1, noun.state:murtuma,+ noun.act:murtaminen,+]  murtaa,$ murtua1,$ frames: 1 (break (a bone); "She broke her clavicle") }
+{ murtaa_uudelleen,  murtaa1,@ frames: 1 (break (a bone) that was previously broken but mended in an abnormal way; "The surgeon had to refracture her wrist") }
+{ [ murtua1, noun.state:murtuma,+]  haljeta,  verb.change:katkaista2,@ murtaa1,$ frames: 1 (become fractured; "The tibia fractured from the blow of the iron pipe") }
+{ puhjeta1,  kasvattaa2,@ puhjeta,$ frames: 1 (have grow through the gums; "The baby cut a tooth") }
+{ ojentaa1,  verb.possession:tarjota2,@ antautua,$ frames: 1 (proffer (a body part); "She gave her hand to her little sister") }
+{ antautua,  verb.communication:hyväksyä,@ ojentaa1,$ frames: 1 (consent to engage in sexual intercourse with a man; "She gave herself to many men") }
+{ [ kääriä, noun.artifact:kääre,+]  hoitaa,@ frames: 1 (treat the body or any part of it by wrapping it, as with blankets or sheets, and applying compresses to it, or stuffing it to provide cover, containment, or therapy, or to absorb blood; "The nurse packed gauze in the wound"; "You had better pack your swollen ankle with ice") }
+{ [ nuuskata, noun.act:nuuhkaisu,+]  [ nuuskia, noun.act:nuuhkaisu,+]  vetää_henkeä,@ frames: 1 (inhale audibly through the nose; "snuff coke") }
+{ vaahdota,  tihkua,@ frames: 1 (exude or expel foam; "the angry man was frothing at the mouth") }
+{ vaahdota1,  vaahdota,@ frames: 1 (exude sweat or lather; "this unfit horse lathers easily") }

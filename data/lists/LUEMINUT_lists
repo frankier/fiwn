@@ -1,0 +1,99 @@
+
+FinnWordNet - suomen wordnet
+============================
+
+
+FinnWordNet
+-----------
+
+FinnWordNet on suomen wordnet. Lisätietoja FinnWordNetistä saa
+ylähakemiston LUEMINUT-tiedostosta sekä FinnWordNet-projektin
+WWW-sivulta:
+
+    http://www.ling.helsinki.fi/kieliteknologia/tutkimus/finnwordnet/
+
+Tämän LUEMINUT-tiedoston loppuosa kuvaa tämän hakemiston sisältöä.
+
+
+lists: FinnWordNet-aineistosta tuotettuja listoja
+-------------------------------------------------
+
+Hakemisto 'lists' sisältää FinnWordNet-datasta tuotettuja listoja.
+Kaikki listat ovat TSV-muodossa (tab separated values), jossa kentät
+on erotettu sarkainmerkeillä ja jossa kenttien arvojen ympärillä ei
+ole lainausmerkkejä. Listat on järjestetty.
+
+HUOMAA: FinnWordNetin versiosta 2.0 alkaen nämä listat vain
+täydentävät hakemiston 'rels' ensisijaista relaatiomuotoista dataa: ne
+yhdistävät useamman relaation informaatiota. Näistä listoista puuttuu
+tällä hetkellä osa aiempien version sisältämästä informaatiosta,
+erityisesti listan fiwn-translations.tsv sisältämät merkitysnumerot ja
+leksikaaliset tunnisteet. Jos tarvitset niitä, ilmoita meille.
+
+Kunkin listan kentät on kuvattu seuraavassa.
+
+Yleisiä kenttätyyppejä:
+
+    Synonyymijoukon tunniste: wordnetin tunniste (fi = FinnWordNet,
+        en-3.0 = PWN 3.0) + ":" + sanaluokkakoodi (n = substantiivi, v
+        = verbi, a = adjektiivi, r = adverbi) + kahdeksannumeroinen
+        luku, joka on alunperin synonyymijoukon siirtymä Princeton
+        WordNetin (PWN) version 3.0 datatiedostossa. FinnWordNetin
+        synonyymijoukon tunnisteiden on tarkoitus olla pysyviä
+        versiosta 2.0 alkaen.
+
+    Synonyymilista: Synonyymien lista yhdessä kentässä, synonyymit
+        erotettuina välilyöntien ympäröimällä pystyviivalla.
+        Sananmerkityksiin ja käännöksiin liittyvät huomaukset sekä
+        käännössuhteen tyyppi on liitetty sanoihin XML-elementteinä.
+
+Synonyymeissa käytetyt XML-elementit ovat tällä hetkellä seuraavat:
+
+    Sananmerkityshuomautus:
+        <head>SANA</head> = sana SANA on monisanaisen ilmauksen
+            pääsana (jos verbilausekkeen ensimmäinen sana tai muun
+            lausekkeen viimeinen sana ei ole pääsana)
+
+    Käännössuhteen tyypit (oletustyyppiä, synonymiaa, ei ole
+    merkitty):
+        <approximate/> = Sana on PWN:n alkuperäisen englanninkielisen
+            sanan likimääräinen käännös (lähisynonyymi)
+        <broader/> = Sana on alkuperäisen englanninkielisen sanan
+            yläkäsitekäännös (merkitykseltään laajempi)
+        <narrower/> = Sana on alkuperäisen englanninkielisen sanan
+            alakäsitekäännös (merkitykseltään suppeampi)
+
+    Käännöshuomautukset:
+        <unconfirmed/> = suomenkielinen sana on englanninkielisen
+            sanan vahvistamaton käännös
+        <gen/> = englannin adjektiivi on käännetty suomeksi
+            substantiivin genetiivillä
+        <idiomatic_pos/> = muu idiomaattinen sanaluokkaero suomen- ja
+            englanninkielisen sanan välillä
+        <cardinal_number/> = perusluku
+        <ordinal_number/> = järjestysluku
+        <note>...</note> = vapaamuotoinen huomautus
+
+fiwn-synsets-extra.tsv - FinnWordNetin synonyymijoukot
+
+    1. Synonyymijoukon tunniste
+    2. Sanaluokka (N, V, A tai Adv)
+    3. Synonyymijoukon synonyymilista FinnWordNetissä
+    4. Selite ja esimerkit (suoraan PWN:stä)
+    5. Synonyymijoukon synonyymilista PWN:ssä
+    6. Hyperonyymien synonyymijoukkojen lista: hyperonyymin
+       synonyymijoukon tunniste, jota seuraa synonyymijoukon
+       ensimmäinen synonyymi; useammat hyperonyymit on erotettu
+       välilyöntien ympäröimillä pystyviivoilla
+    7. Synonyymijoukon sisältävän lexicographer-tiedoston nimi
+
+fiwn-semrels-extra.tsv - FinnWordNetin semanttiset suhteet
+
+    1. Suhteen lähdesynonyymijoukon tunniste
+    2. Suhteen lähdesynonyymijoukon synonyymilista
+    3. Suhteen nimi (yksi seuraavista: also see, attribute, cause,
+       domain: region, domain: topic, domain: usage, entailment,
+       hypernym, instance hypernym, member holonym, part holonym,
+       similar to, substance holonym, verb group)
+    4. Suhteen kohdesynonyymijoukon tunniste
+    5. Suhteen kohdesynonyymijoukon synonyymilista

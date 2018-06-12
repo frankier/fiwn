@@ -1,0 +1,461 @@
+{ rekisteröidä,  huomata,  havaita,* näkyä1,$ verb.cognition:mennä_perille1,$ frames: 1 (be aware of; "Did you register any change when I pressed the button?") }
+{ [ tuntea, noun.attribute:tuntemus1,+ noun.cognition:tunne2,+ noun.cognition:tunto1,+ noun.cognition:tuntemus1,+ noun.cognition:tunto,+ adj.all:tunteva1,+]  havaita,@ verb.stative:tuntua,$ frames: 1 (perceive by a physical sensation, e.g., coming from the skin or muscles; "He felt the wind"; "She felt an object brushing her arm"; "He felt his flesh crawl"; "She felt the heat when she got out of the car") }
+{ [ havaita, adj.all:näkyvä4^havaittavissa_oleva2,+ adj.all:näkyvä4^havaittavissa<idiomatic_pos/>,+ noun.act:havaitseminen1,+ adj.all:ilmeinen9^havaittava3,+ adj.pert:havainto-,+ noun.person:havaitsija,+]  huomata1,  käsittää,  hahmottaa,   frames: 1 (to become aware of through the senses; "I could perceive the ship coming over the horizon") }
+{ [ appersipoida, noun.cognition:apperseptio,+]  havaita,@ noun.cognition:psykologia,;c frames: 1 (perceive in terms of a past experience) }
+{ ottaa_vastaan,  [ vastaanottaa, noun.artifact:vastaanotin,+ adj.all:afferentti^vastaanottavainen,+]  havaita,@ frames: 1 (register (perceptual input); "pick up a signal") }
+{ kuulla,  ottaa_vastaan,@ frames: 1 (receive a communication from someone; "We heard nothing from our son for five years") }
+{ aavistaa,  nähdä_ennakolta,  arvata,  ennustaa,  havaita,@ frames: 1 (perceive intuitively or through some inexplicable perceptive powers) }
+{ ennustaa_kädestä,  aavistaa,@ frames: 1 (divine by reading someone's palms; "The Gypsies chiromanced"; "She refused to chiromance my fate") }
+{ [ kokea, noun.event:kokemus,+ noun.cognition:kokemus1,+]  vastaanottaa1,  olla,  saada,  kokea1,@ havaita,* frames: 1 (go through (mental or physical states or experiences); "get an idea"; "experience vertigo"; "get nauseous"; "receive injuries"; "have a feeling") }
+{ kokea1,  läpikäydä,  verb.change:muuttua,@ frames: 1 (pass through; "The chemical undergoes a sudden change"; "The fluid undergoes shear"; "undergo a strange sensation") }
+{ saada1,  tuntea1,$ frames: 1 (receive as a retribution or punishment; "He got 5 years in prison") }
+{ iskeä_mieleen,  juolahtaa_mieleen,  tupsahtaa,  verb.emotion:vaikuttaa,$ frames: 1 (cause to experience suddenly; "Panic struck me"; "An interesting idea hit her"; "A thought came to me"; "The thought struck terror in our minds"; "They were struck with fear") }
+{ ottaa<note>anglisismi</note>,  kokea,@ verb.cognition:hyväksyä1,$ frames: 1 (experience or feel or submit to; "Take a test"; "Take the plunge") }
+{ [ kärsiä, saada_nauttia_jstk,!]  kestää,  kokea3,@ frames: 1 (undergo or be subjected to; "He suffered the penalty"; "Many saints suffered martyrdom") }
+{ sietää,  kärsiä,@ noun.cognition:lääketiede,;c frames: 1 (have a tolerance for a poison or strong drug or pathogen or environmental condition; "The patient does not tolerate the anti-inflammatory drugs we gave him") }
+{ tuntea1,  kokea2,  koskea,@ saada1,$ verb.change:tarttua,$ frames: 1 (suffer from the receipt of; "She will catch hell for this behavior!") }
+{ kärsiä_kuolema<unconfirmed/>,  kärsiä,@ verb.change:kuolla3,$ frames: 1 (suffer or face the pain of death; "Martyrs may die every day for their faith") }
+{ kärsiä1,  kohdata,  kokea3,@ frames: 1 (undergo or suffer; "meet a violent death"; "suffer a terrible fate") }
+{ [ kokea3, noun.event:kokemus,+ noun.cognition:kokemus,+]  nähdä,  kokea1,@ frames: 1 (go or live through; "We had many trials to go through"; "he saw action in Viet Nam") }
+{ [ tuntea2, noun.state:tunnelma2,+]  kokea3,@ frames: 1 (undergo passive experience of:"We felt the effects of inflation"; "her fingers felt their way through the string quartet"; "she felt his contempt of her") }
+{ [ saada_nauttia_jstk, kärsiä,!]  kokea3,@ frames: 1 (have for one's benefit; "The industry enjoyed a boom") }
+{ alistaa,  altistaa,  verb.change:vaikuttaa,@ kokea3,> frames: 1 (cause to experience or suffer or make liable or vulnerable to; "He subjected me to his awful poetry"; "The sergeant subjected the new recruits to many drills"; "People in Chernobyl were subjected to radiation") }
+{ myrkyttää,  alistaa,@ frames: 1 (expose to the effects of vitriol or injure with vitriol) }
+{ saattaa,  alistaa,@ frames: 1 (cause (someone) to undergo something; "He put her to the torture") }
+{ haaksirikkoutua,  alistaa,@ noun.act:vettä_pitkin_matkustaminen,;c frames: 1 (cause to experience shipwreck; "They were shipwrecked in one of the mysteries at sea") }
+{ [ taittua, noun.phenomenon:taittuminen,+ adj.pert:taittava,+ adj.all:käyrä^taittava,+]  alistaa,@ noun.cognition:valo-oppi,;c frames: 1 (subject to refraction; "refract a light beam") }
+{ saattaa_jnk_vaikutuksen_alaiseksi,  altistaa1,  alistaa,@ frames: 1 (expose or make accessible to some action or influence; "Expose your students to art"; "expose the blanket to sunshine") }
+{ [ tuulettaa, noun.artifact:tuuletin3,+ noun.artifact:tuuletus,+]  saattaa_jnk_vaikutuksen_alaiseksi,@ frames: 1 (expose to the circulation of fresh air so as to retard spoilage; "Wheat should be well ventilated") }
+{ saada_aurinkoa,  saada_auringonsäteilyä,  olla_auringossa,  saattaa_jnk_vaikutuksen_alaiseksi,@ frames: 1 (expose to the rays of the sun or affect by exposure to the sun; "insolated paper may turn yellow and crumble"; "These herbs suffer when sunned") }
+{ tuulettaa1,  saattaa_jnk_vaikutuksen_alaiseksi,@ frames: 1 (expose to fresh air; "aerate your old sneakers") }
+{ [ altistua_liikaa, altistua_liian_vähän,!]  saattaa_jnk_vaikutuksen_alaiseksi,@ noun.act:valokuvaus1,;c frames: 1 (expose excessively; "As a child, I was overexposed to French movies") }
+{ [ altistua_liian_vähän, altistua_liikaa,!]  saattaa_jnk_vaikutuksen_alaiseksi,@ noun.act:valokuvaus1,;c frames: 1 (expose insufficiently; "The child was underexposed to language") }
+{ saattaa_alttiiksi,  valottaa,  altistaa2,  alistaa,@ noun.act:valokuvaus1,;c frames: 1 (expose to light, of photographic film) }
+{ [ ylivalottaa, alivalottua,! noun.act:ylivalotus,+ alivalottaa,!]  saattaa_alttiiksi,@ noun.act:valokuvaus1,;c frames: 1 (expose to too much light; "the photographic film was overexposed and there is no image") }
+{ ylivalottaa1,  ylivalottaa,@ noun.act:valokuvaus1,;c ylivalottua,$ ylivalottaa2,$ frames: 1 (overexpose to sunlight; "be careful not to solarize the photographic film") }
+{ ylivalottua,  verb.change:muuttua,@ noun.act:valokuvaus1,;c ylivalottaa1,$ ylivalottaa2,$ frames: 1 (become overexposed; "The film solarized") }
+{ [ alivalottua, ylivalottaa,!]  [ alivalottaa, ylivalottaa,!]  saattaa_alttiiksi,@ noun.act:valokuvaus1,;c frames: 1 (expose to too little light; "The film is underexposed, so the image is very dark") }
+{ ylivalottaa2,  kehittää,@ noun.act:valokuvaus1,;c ylivalottua,$ ylivalottaa1,$ frames: 1 (reverse some of the tones of (a negative or print) and introduce pronounced outlines of highlights, by exposing it briefly to light, then washing and redeveloping it) }
+{ herkistää_valolle,  herkistää,@ frames: 1 (make (an organism or substance) sensitive to the influence of radiant energy and especially light) }
+{ [ tehdä_tunteettomaksi, herkistää,!]  [ vähentää_valonherkkyyttä, herkistää,!]  [ turruttaa, herkistää,!]  verb.change:muuttaa3,@ frames: 1 (cause not to be sensitive; "The war desensitized many soldiers"; "The photographic plate was desensitized") }
+{ puuduttaa,  turruttaa1,  heikentää,  tylsyttää,  tehdä_tunteettomaksi,@ frames: 1 (make numb or insensitive; "The shock numbed her senses") }
+{ hämmästyttää,  ällistyttää,  typerryttää,  pökerryttää,  tehdä_tunteettomaksi,@ frames: 1 (overcome as with astonishment or disbelief; "The news stunned her") }
+{ huumata,  tainnuttaa,  tehdä_tunteettomaksi,@ frames: 1 (make dull or stupid or muddle with drunkenness or infatuation) }
+{ [ herkistää, tehdä_tunteettomaksi,! vähentää_valonherkkyyttä,! turruttaa,!]  tuntea,> frames: 1 (cause to sense; make sensitive; "She sensitized me with respect to gender differences in this traditional male-dominated society"; "My tongue became sensitized to good wine") }
+{ [ kiihottaa, adj.all:stimuloiva^kiihottava5,+]  yllyttää,  herkistää,@ frames: 1 (stir feelings in; "stimulate my appetite"; "excite the audience"; "stir emotions") }
+{ saada_kananlihalle,  kiihottaa,@ kauhistua,$ frames: 1 (cause (someone's) hair to stand on end and to have goosebumps; "Hitchcock movies horripilate me") }
+{ kauhistua,  kokea,@ saada_kananlihalle,$ frames: 1 (have one's hair stand on end and get goosebumps; "I horripilate when I see violence on television") }
+{ vaikuttaa,  kiihottaa,@ verb.emotion:taivutella,$ verb.consumption:käyttää_hyväkseen,$ frames: 1 (provoke or excite; "The rock musician worked the crowd of young girls into a frenzy") }
+{ suorittaa_fellaatio,  imeä,  harrastaa_suuseksiä,  ottaa_suihin,  kiihottaa,@ frames: 1 (provide sexual gratification through oral stimulation) }
+{ [ sävähtää, noun.feeling:sävähdys,+ noun.feeling:sävärit,+]  kiihottaa,@ frames: 1 (cause to be thrilled by some perceptual input; "The men were thrilled by a loud whistle blow") }
+{ herättää_kiinnostus,  herättää_eloon,  kiihottaa,@ frames: 1 (make keen or more acute; "whet my appetite") }
+{ nähdä_harhanäkyjä,  saada_hallusinaatioita,  hallusinoida,  nähdä_harhoja,  havaita,@ frames: 1 (perceive what is not there; have illusions) }
+{ nähdä_väärin,  havaita,@ frames: 1 (perceive incorrectly) }
+{ tuntea3,  havaita1,  panna_merkille,  havaita,@ frames: 1 (perceive with the senses quickly, suddenly, or momentarily; "I caught the aroma of coffee"; "He caught the allusion in her glance"; "ears open to catch every sound"; "The dog picked up the scent"; "Catch a glimpse") }
+{ nähdä_unta,  havaita,@ verb.body:nukkua,* frames: 1 (experience while sleeping; "She claims to never dream"; "He dreamt a strange scene") }
+{ [ huomata2, olla_piittaamatta,! noun.cognition:huomio5,+ adj.all:vahva13^huomattava17,+]  panna_merkille1,  havaita2,  havaita,* frames: 1 (notice or perceive; "She noted that someone was following her"; "mark my words") }
+{ huomata3,  panna_merkille2,  havaita3,  huomata2,@ frames: 1 (observe with special attention; "Take notice of the great architecture") }
+{ kiinnittää_huomiota,  havainnoida,  [ tarkkailla, adj.all:huomaavainen^tarkkaavainen5,+]  observoida,  havaita,* frames: 1 (observe with care or pay close attention to; "Take note of this chemical reaction") }
+{ [ olla_piittaamatta, huomata2,!]   frames: 1 (fail to notice) }
+{ olla_välittämättä,  olla_piittaamatta,@ frames: 1 (fail to acknowledge; "he passed me up in the street") }
+{ nähdä_vilaukselta,  nähdä2,@ frames: 1 (catch a glimpse of or see briefly; "We glimpsed the Queen as she got into her limousine") }
+{ ärsyttää,  ärtyä,  hiertää,  kalvaa,  ärsyyntyä,  verb.body:ärsyttää,@ frames: 1 (become or make sore by or as if by rubbing) }
+{ [ hangata, noun.act:hankaus,+]  hieroa,  raapia,  [ kutista, noun.cognition:kutina,+]  [ syyhytä, noun.state:syyhy,+]  hinkata,  rapsuttaa,  verb.body:ärsyttää,@ frames: 1 (scrape or rub as if to relieve itching; "Don't scratch your insect bites!") }
+{ [ kutittaa, noun.act:kutittaminen,+ noun.cognition:kutiseminen,+]  kutista1,@ frames: 1 (touch (a body part) lightly so as to excite the surface nerves and cause uneasiness, laughter, or spasmodic movements) }
+{ kärventää,  kuumoittaa,  [ polttaa, noun.state:polte,+]  särkeä1,@ kihelmöidä,$ frames: 1 (cause a sharp or stinging pain or discomfort; "The sun burned his face") }
+{ polttaa_nokkosilla,  polttaa1,  kärventää,@ piiskata_nokkosella,$ frames: 1 (sting with or as with nettles and cause a stinging pain or sensation) }
+{ piiskata_nokkosella,  verb.contact:huitaista1,@ polttaa_nokkosilla,$ frames: 1 (whip with or as with nettles) }
+{ kihelmöidä,  särkeä1,@ kärventää,$ frames: 1 (feel hot or painful; "My eyes are burning") }
+{ [ kutista1, noun.cognition:kutina,+]  särkeä1,@ frames: 1 (have or perceive an itch; "I'm itching--the air is so dry!") }
+{ kutista2,   frames: 1 (cause to perceive an itch; "his skin itched") }
+{ koskea,  sattua,  tehdä_kipeätä,  kivistää,  pakottaa,  [ särkeä, noun.state:särky,+]  [ kärsiä2, noun.feeling:kärsimys1,+ noun.state:kärsimys1,+ noun.person:kärsijä1,+]  jomottaa,  havaita,@ frames: 1 (feel physical pain; "Were you hurting after the accident?") }
+{ [ pistää, noun.cognition:pistos,+]  vihloa,  koskea,@ frames: 1 (feel a sudden sharp, local pain) }
+{ olla_nälkä,  särkeä1,@ frames: 1 (feel the need to eat) }
+{ olla_janoinen,  särkeä1,@ frames: 1 (feel the need to drink) }
+{ [ särkeä1, noun.state:särky,+]  koskea1,  tehdä_kipeää,  jomottaa1,  sattua1,  olla_havaittavissa<approximate/>,@ frames: 1 (be the source of pain) }
+{ konstailla,  oikutella,  särkeä1,@ frames: 1 (make itself felt as a recurring pain; "My arthritis is acting up again") }
+{ [ jyskyttää, noun.event:jyskytys1,+ noun.state:jyskytys,+]  [ sykkiä, noun.event:sykintä1,+ noun.state:sykintä,+]  särkeä1,@ frames: 1 (pulsate or pound with abnormal force; "my head is throbbing"; "Her heart was throbbing") }
+{ vapista,  jyskyttää,@ frames: 1 (twitch or throb with pain) }
+{ [ kihelmöidä1, noun.cognition:kihelmöinti1,+]  nipistellä,  pistellä,  kutista1,@ frames: 1 (cause a stinging or tingling sensation) }
+{ vihloa1,  särkeä1,@ frames: 1 (cause a sharp and sudden pain in; "The pain shot up her leg") }
+{ [ pistellä1, noun.cognition:pistely1,+]  kihelmöidä2,  pistellä2,@ frames: 1 (cause a prickling sensation) }
+{ pistellä2,  polttaa2,  vihlaista,  koskea,@ frames: 1 (cause a stinging pain; "The needle pricked his skin") }
+{ [ haista, haista4,^ noun.act:haistaminen,+]  [ tuoksua, haista4,^]  olla_havaittavissa<approximate/>,@ frames: 1 (emit an odor; "The soup smells good") }
+{ olla_havaittavissa<approximate/>,   frames: 1 (have perceptible qualities) }
+{ löyhkätä,  [ lemuta, haista4,^ noun.cognition:lemu,+]  haista1,@ frames: 1 (smell badly and offensively; "The building reeks of smoke") }
+{ haista1,  lemahtaa,  haista,@ frames: 1 (smell bad; "He rarely washes, and he smells") }
+{ haista2,  haista1,@ frames: 1 (become noticeable; "a terrible stench saluted our nostrils") }
+{ haista3,  haista,* frames: 1 (be smelled; have a strong odor) }
+{ [ haistaa, noun.act:haistaminen,+]  [ haistella, noun.act:haistaminen,+]  havaita,@ frames: 1 (inhale the odor of; perceive by the olfactory sense) }
+{ [ haistella1, vainuta1,^ noun.act:haistelu,+]  [ nuuhkia, vainuta1,^ noun.act:nuuhkaisu,+]  [ nuuhkaista, vainuta1,^ noun.act:nuuhkaus,+]  haistaa,@ frames: 1 (perceive by inhaling through the nose; "sniff the perfume") }
+{ [ haistaa1, aavistaa2,^]  vainuta,  aavistaa1,  haistaa,@ frames: 1 (catch the scent of; get wind of; "The dog nosed out the drugs") }
+{ vainuta1,  aavistaa2,  haistaa2,  vaistota,  haistaa,* frames: 1 (recognize or detect by or as if by smelling; "He can smell out trouble") }
+{ [ hajustaa, poistaa_haju,! noun.attribute:haju,+ deodoroida,!]  parfymoida,  olla_havaittavissa<approximate/>,@ haista,> frames: 1 (cause to smell or be smelly) }
+{ haista4,  hajustaa,@ frames: 1 (cause to smell bad; fill with a bad smell) }
+{ [ nuuskia, noun.act:nuuhkaisu,+]  haistaa,@ frames: 1 (sniff or smell inquiringly) }
+{ lemuta1,  tuoksahtaa,  haistaa,@ frames: 1 (smell strongly and intensely) }
+{ levittää_tuoksuaan_jhk,  täyttää_tuoksullaan,  hajustaa,@ frames: 1 (fill or impregnate with an odor; "orange blossoms perfumed the air in the garden") }
+{ [ suitsuttaa, noun.substance:suitsuke,+ noun.cognition:suitsukesavu,+]  hajustaa,@ frames: 1 (perfume especially with a censer) }
+{ [ poistaa_haju, hajustaa,!]  [ deodoroida, hajustaa,!]  verb.change:muuttaa3,@ frames: 1 (eliminate the odor from; "This stick will deodorize your armpits") }
+{ [ savupuhdistaa, noun.substance:savutusaine<unconfirmed/>,+ noun.act:savupuhdistus,+ noun.act:savutus,+ noun.person:savupuhdistuksen_suorittaja,+ noun.artifact:savustuskammio,+]  [ savuttaa, noun.substance:savutusaine<unconfirmed/>,+ noun.act:savupuhdistus,+ noun.act:savutus,+ noun.person:savupuhdistuksen_suorittaja,+ noun.artifact:savustuskammio,+]  verb.change:käsitellä,@ frames: 1 (treat with fumes, expose to fumes, especially with the aim of disinfecting or eradicating pests) }
+{ [ koskettaa, noun.cognition:kosketusaisti,+ noun.event:kosketus,+]  havaita,@ frames: 1 (perceive via the tactile sense; "Helen Keller felt the physical world by touching people and objects around her") }
+{ [ tunnustella, noun.attribute:tuntemus1,+]  verb.contact:etsiä,@ koskettaa,* verb.contact:kosketella,$ verb.contact:tunnustella,$ verb.contact:palpoida,$ frames: 1 (grope or feel in search of something; "He felt for his wallet") }
+{ olla_ymmärtämättä,  missata,   frames: 1 (fail to perceive or to catch with the senses or the mind; "I missed that remark"; "She missed his point"; "We lost part of what he said") }
+{ löytää,  havaita,* frames: 1 (see for the first time; make a discovery; "Who discovered the North Pole?") }
+{ [ todistaa, noun.person:todistaja6,+ noun.person:todistaja5,+ noun.person:todistaja7,+]  seurata,@ frames: 1 (be a witness to; "She witnessed the accident and had to testify in court") }
+{ olla_silminnäkijä,  todistaa,@ frames: 1 (be present at an event and see it with one's own eyes) }
+{ [ tarkkailla1, noun.person:tarkkailija5,+ noun.act:tarkkailu,+]  katsoa_sivusta,  katsella,  nähdä2,* frames: 1 (observe with attention; "They watched as the murderer was executed") }
+{ todistaa1,  havaita4,  nähdä1,  kokea3,@ löytää3,$ verb.cognition:saada_tietoonsa,$ frames: 1 (perceive or be contemporaneous with; "We found Republicans winning the offices"; "You'll see a lot of cheating in this school"; "The 1960's saw the rebellion of the younger generation against established traditions"; "I want to see results") }
+{ nähdä2,  havaita,@ katsoa4,$ havaita8,$ frames: 1 (perceive by sight or have the power to perceive by sight; "You have to be a good observer to see all the details"; "Can you see the bird in that tree?"; "He is blind--he cannot see") }
+{ nähdä3,  nähdä2,@ verb.cognition:ymmärtää8,$ frames: 1 (see and understand, have a good eye; "The artist must first learn to see") }
+{ huomata<broader/>4,  luoda_silmäys,  nähdä_vilahdus,  nähdä2,@ frames: 1 (see something for a brief time) }
+{ kadottaa_näkyvistä,   frames: 1 (be no longer able to see; "We lost sight of the tower as pulled out of the harbor") }
+{ [ katsoa, noun.person:katselija,+]  nähdä4,  nähdä2,@ frames: 1 (see with attention; "behold Christ!") }
+{ tarkastella,  verb.cognition:analysoida2,@ frames: 1 (look at carefully; study mentally; "view a problem") }
+{ [ katsoa1, kääntää_katse_pois,^ verb.communication:etsiä_jstak,^ verb.cognition:tutkia7,^ huolehtia,^ vahtia2,^ verb.cognition:muistella3,^ verb.cognition:muistella<approximate/>4,^ verb.contact:etsiä,^ katsoa_sivusta,^ verb.emotion:tuntea_ihastusta_jtak_kohtaan,^ katsoa_taaksepäin,^ noun.person:katselija3,+ noun.act:katse,+ katsoa_taakseen,^ noun.act:katsominen,+ verb.contact:hakea,^ verb.emotion:kunnioittaa2,^ pitää_huolta,^]  nähdä2,* frames: 1 (perceive with attention; direct one's gaze towards; "She looked over the expanse of land"; "Look at your child!"; "Look--a deer in the backyard!") }
+{ tutkia,  tarkistaa,  katsoa1,* frames: 1 (observe, check out, and look over carefully or inspect; "The customs agent examined the baggage"; "I must see your passport before you can enter the country") }
+{ katsoa2,  vilkaista,  tsekata,  katsoa1,@ frames: 1 (look at with attention; "Have a look at this!"; "Get a load of this pretty woman!") }
+{ katsoa3,   frames: 1 (observe or determine by looking; "Watch how the dog chases the cats away") }
+{ katsoa_taaksepäin,  katsoa_taakseen,  katsoa1,@ frames: 1 (look towards one's back; "don't look back while you walk") }
+{ kääntää_katse_pois,  katsoa1,@ frames: 1 (avert one's gaze; "She looked away when the nurse pricked her arm with the needle") }
+{ etsiä_jtak,  katsella_ympärilleen_jssak,  katsoa1,@ frames: 1 (look about oneself; "look around to see whether you can find the missing document") }
+{ nähdä_kahtena,  nähdä_väärin,@ nähdä2,* frames: 1 (see things as if they were there twice; "After taking the drug, John saw double") }
+{ [ tuijottaa, noun.act:tuijotus1,+ noun.person:tuijottelija,+ noun.act:tuijotus,+]  katsoa1,@ frames: 1 (look at with fixed eyes; "The students stared at the teacher with amazement") }
+{ nolostuttaa_tuijotuksella,  häkellyttää_katseella,  häkellyttää_katseellaan,  tuijottaa,@ frames: 1 (overcome or cause to waver or submit by (or as if by) staring; "He simply stared down his opponent") }
+{ katsella1,  tarkastella1,  katsoa1,@ frames: 1 (look at attentively) }
+{ katsoa_tähtiä,  tuijottaa,@ noun.cognition:astronomia,;c frames: 1 (observe the stars) }
+{ näyttää,  vaikuttaa1,  verb.stative:olla1,@ frames: 1 (give a certain impression or have a certain outward aspect; "She seems to be sleeping"; "This appears to be a very difficult problem"; "This project looks fishy"; "They appeared like people who had not eaten or slept for a long time") }
+{ näyttää_aikovansa<unconfirmed/>,  näyttää,@ frames: 1 (appear to begin an activity; "He made to speak but said nothing in the end"; "She made as if to say hello to us") }
+{ vaikuttaa2,  näyttää,@ frames: 1 (give the appearance or impression of; "cut a nice figure") }
+{ [ tuntua, noun.state:tunnelma2,+]  näyttää,@ frames: 1 (produce a certain impression; "It feels nice to be home again") }
+{ esiintyä_jnak,  näyttää,@ frames: 1 (be accepted as something or somebody in a false character or identity; "She passed off as a Russian agent") }
+{ vaikuttaa3,  verb.stative:olla1,@ frames: 1 (seem to be true, probable, or apparent; "It seems that he is very gifted"; "It appears that the weather in California is very bad") }
+{ kuulostaa,  kuulua,  näyttää,@ frames: 1 (appear in a certain way; "This sounds interesting") }
+{ kuulostaa1,  kuulua1,   frames: 1 (give off a certain sound or sounds; "This record sounds scratchy") }
+{ olla_riitasointuinen,  dissonoida,  kuulostaa1,@ frames: 1 (be dissonant or harsh; "The violins in this piece dissonated disturbingly") }
+{ leikata,  kuulostaa1,@ frames: 1 (sound sharply or shrilly; "The scream pierced the night") }
+{ päristä,  kuulostaa1,@ frames: 1 (make a characteristic or natural sound; "The drums spoke") }
+{ puhaltaa<note>torveen\,_pilliin_tms.</note>,  soittaa<note>puhallinsoitinta</note>,  soittaa1,@ soida<note>pillistä\,_torvesta_ym.</note>1,$ soida<note>pillistä\,_torvesta_ym.</note>,$ frames: 1 (play or sound a wind instrument; "She blew the horn") }
+{ soida<note>pillistä\,_torvesta_ym.</note>,  päästää_ääni,@ puhaltaa<note>torveen\,_pilliin_tms.</note>,$ frames: 1 (make a sound as if blown; "The whistle blew") }
+{ [ kilahtaa, noun.event:kilahdus3,+]  [ helähtää, noun.event:helähdys1,+]  päästää_ääni,@ frames: 1 (make a light, metallic sound; go `ting') }
+{ näyttää1,  näyttää,@ frames: 1 (be perceived in a certain way; make a certain impression) }
+{ [ heijastua, noun.artifact:heijastin,+]  kaikua,  noun.cognition:akustiikka,;c heijastaa,$ frames: 1 (to throw or bend back (from a surface); "Sound is reflected well in this auditorium") }
+{ heijastaa,  heijastua,@ heijastua,$ frames: 1 (be reflected as heat, sound, or light or shock waves; "the waves reverberate as far away as the end of the building") }
+{ kuvastaa,  peilata,  osoittaa,@ noun.cognition:valo-oppi,;c frames: 1 (show an image of; "her sunglasses reflected his image") }
+{ kuvastaa1,  peilata1,  verb.communication:osoittaa5,@ frames: 1 (manifest or bring back; "This action reflects his true beliefs") }
+{ koitua,  verb.possession:palauttaa4,@ frames: 1 (return or recoil; "Fame redounds to the heroes") }
+{ [ osoittaa, leveillä,^ piilottaa,! brassailla,^ kehuskella,^ mahtailla,^ päteä,^ ylpeillä,^]  nähdä2,> frames: 1 (make visible or noticeable; "She showed her talent for cooking"; "Show me your etchings, please") }
+{ kurkistaa,  osoittaa,@ frames: 1 (cause to appear; "he peeped his head through the window") }
+{ paljastaa,  tuoda_esiin,  paljastaa1,@ frames: 1 (disclose to view as by removing a cover; "The curtain rose to disclose a stunning set") }
+{ kääntää_oikein_päin,  paljastaa,@ verb.motion:kääntyä_kasvokkain,$ frames: 1 (turn so as to expose the face; "face a playing card") }
+{ heijastaa1,  [ projisoida, noun.communication:projisointi,+ noun.artifact:projektori,+]  osoittaa,@ verb.change:ilmaantua3,> frames: 1 (project on a screen; "The images are projected onto the screen") }
+{ piirtyä,  heijastaa1,@ frames: 1 (project on a background, such as a screen, like a silhouette) }
+{ tehdä_oikeutta,  osoittaa,@ frames: 1 (bring out fully or to advantage; "This photograph does not do her justice") }
+{ vilauttaa,  väläyttää,  osoittaa,@ frames: 1 (expose or show briefly; "he flashed a $100 bill") }
+{ [ kehittää, noun.process:kehittäminen,+ noun.artifact:kehite,+]  verb.change:muuttaa3,@ noun.act:valokuvaus1,;c noun.process:valokuvaus,;c frames: 1 (make visible by means of chemical solutions; "Please develop this roll of film for me") }
+{ [ alivalottaa1, noun.process:alivalotus,+]  kehittää,@ noun.act:valokuvaus1,;c noun.process:valokuvaus,;c frames: 1 (process (a film or photographic plate) less than the required time or in an ineffective solution or at an insufficiently high temperature; "These photos are underdeveloped") }
+{ muotoilla_uudelleen,  kehittää,@ noun.process:valokuvaus,;c frames: 1 (develop for a second time, in order to improve the contrast, colour, etc., of a negative or print) }
+{ osoittaa1,  näkyä,  verb.change:ilmaantua3,@ frames: 1 (be or become visible or noticeable; "His good upbringing really shows"; "The dirty side will show") }
+{ näkyä1,  osoittaa1,@ rekisteröidä,$ frames: 1 (show in one's face; "Her surprise did not register") }
+{ näyttää2,  osoittaa,@ frames: 1 (project onto a screen for viewing; "screen a film") }
+{ asettaa_esille,  asettaa_näytteille,  panna_näytteille,  osoittaa,@ frames: 1 (to show, make visible or apparent; "The Metropolitan Museum is exhibiting Goya's works this month"; "Why don't you show your nice legs and wear shorter skirts?"; "National leaders will have to display the highest skills of statesmanship") }
+{ [ avata, sulkea,!]  asettaa_esille,@ frames: 1 (display the contents of a file or start an application as on a computer) }
+{ [ sulkea, avata,! noun.act:sulkeminen1,+]  verb.stative:päättää1,@ frames: 1 (cause a window or an application to disappear on a computer desktop) }
+{ lennättää,  liehuttaa,  osoittaa,@ verb.motion:lennättää,$ frames: 1 (display in the air or cause to float; "fly a kite"; "All nations fly their flags in front of the U.N.") }
+{ ottaa_esiin,  esittää,  näyttää3,  asettaa_esille,@ frames: 1 (bring out for display; "The proud father produced many pictures of his baby"; "The accused brought forth a letter in court that he claims exonerates him") }
+{ käyttää,  panna_päälle,  ottaa_esiin,@ frames: 1 (produce suddenly or automatically; "Turn on the charm"; "turn on the waterworks") }
+{ pitää,  asettaa_esille,@ frames: 1 (hold up something as an example; hold up one's achievements for admiration) }
+{ asettaa_näytteille1,  asettaa_esille,@ frames: 1 (exhibit on a bench; "bench the poodles at the dog show") }
+{ paljastaa_takapuolensa,  näyttää_persettä,  asettaa_esille,@ frames: 1 (expose one's buttocks to; "moon the audience") }
+{ [ pöyhkeillä, noun.communication:pöyhkeily,+]  prameilla,  leveillä,  pröystäillä,  brassailla,  kehuskella,  mahtailla,  päteä,  ylpeillä,  asettaa_esille,@ frames: 1 (display proudly; act ostentatiously or pretentiously; "he showed off his new sports car") }
+{ esitellä,  pöyhkeillä,@ frames: 1 (exhibit the strength of; "The victorious army flexes its invincibility") }
+{ leveillä1,  mahtailla1,  pöyhkeillä,@ frames: 1 (be showy or ostentatious) }
+{ heiluttaa,  asettaa_esille,@ frames: 1 (exhibit aggressively; "brandish a sword") }
+{ olla_mallina,  työskennellä_mallina,  esitellä1,  asettaa_esille,@ frames: 1 (display (clothes) as a mannequin; "model the latest fashion") }
+{ olla_mallina1,  [ istua_mallina, noun.act:istunto,+]  poseerata,  asettaa_esille,@ noun.act:taide,;c frames: 1 (assume a posture as for artistic purposes; "We don't know the woman who posed for Leonardo so often") }
+{ riehua,  olla_mallina1,@ noun.cognition:heraldiikka,;c frames: 1 (be rampant; "the lion is rampant in this heraldic depiction") }
+{ paljastaa1,  saada_esiin,  tuoda_esille,  osoittaa,@ frames: 1 (make visible; "Summer brings out bright clothes"; "He brings out the best in her") }
+{ [ kaivaa_esiin, noun.act:kaivaus,+ noun.location:kaivaus,+ noun.artifact:kaivanto1,+]  löytää1,  paljastaa1,@ frames: 1 (recover through digging; "Schliemann excavated Troy"; "excavate gold") }
+{ louhia,  kaivaa,  nostaa,  kaivaa_esiin,@ frames: 1 (remove, harvest, or recover by digging; "dig salt"; "dig coal") }
+{ esitellä<broader/>2,  paljastaa1,@ frames: 1 (bring out and show for inspection and admiration; "His novel trots out a rich heiress"; "always able to trot out some new excuse") }
+{ paljastaa2,  tuoda_esiin1,  paljastaa1,@ frames: 1 (open to the view; "A walk through town will unfold many interesting buildings") }
+{ [ paljastaa3, adj.all:profeetallinen^paljastava2,+]  verb.communication:juoruta1,@ noun.cognition:teologia1,;c frames: 1 (disclose directly or through prophets; "God rarely reveal his plans for Mankind") }
+{ [ ilmentää, noun.process:ilmentymä,+]  verb.creation:toteuttaa2,@ frames: 1 (manifest the effects of (a gene or genetic trait); "Many of the laboratory animals express the trait") }
+{ leimata,  verb.communication:kuvata,@ frames: 1 (reveal clearly as having a certain character; "His playing stamps him as a Romantic") }
+{ [ piilottaa, osoittaa,!]  kätkeä,  peittää,   frames: 1 (prevent from being seen or discovered; "Muslim women hide their faces"; "hide the money") }
+{ piilottaa1,  kätkeä1,  piilottaa,@ frames: 1 (place out of sight; keep secret; "The money was secreted from his children") }
+{ peittää1,  salata,@ frames: 1 (hide from view; "The lids were occulting her eyes") }
+{ peittää2,  estää,  piilottaa,@ verb.contact:sulkea_barrikadilla,$ frames: 1 (shut out from view or get in the way so as to hide from sight; "The thick curtain blocked the action on the stage"; "The trees obstruct my view of the mountains") }
+{ piiloutua,  [ piileskellä, noun.location:piilopaikka,+]  lymytä,  kätkeytyä,   frames: 1 (be or go into hiding; keep out of sight, as for protection and safety; "Probably his horse would be close to where he was hiding"; "She is hiding out in a cabin in Montana") }
+{ matkustaa_salaa,  piiloutua,@ frames: 1 (hide aboard a ship or a plane to get free transportation; "The illegal immigrants stowed away on board the freighter") }
+{ suojautua,  piiloutua,@ frames: 1 (take shelter; "During the sandstorm, they hunkered down in a small hut") }
+{ piiloutua1,  piiloutua,@ frames: 1 (remain secluded or in hiding; "He is writing his book and is holing up in his study") }
+{ piileskellä1,  piiloutua,@ frames: 1 (keep a low profile, try to be inconspicuous) }
+{ salata,  pitää_omana_tietonaan,  vaieta,  peittää3,   frames: 1 (hold back; keep from being perceived by others; "She conceals her anger well") }
+{ mennä_koloonsa,  piiloutua,@ frames: 1 (hide in the earth like a hunted animal) }
+{ [ peittää4, noun.act:peittäminen1,+]  piilottaa,@ frames: 1 (spread over a surface to conceal or protect; "This paint covers well") }
+{ kätkeä<broader/>2,  piilottaa,@ frames: 1 (hide in one's bosom; "She bosomed his letters") }
+{ kätkeä3,  piilottaa,@ frames: 1 (cover from sight; "Afghani women buried under their burkas") }
+{ kätkeä4,  peittää5,  salata1,  peittää7,@ frames: 1 (hide under a false appearance; "He masked his disappointment") }
+{ kätkeä5,  salata2,  peittää7,@ frames: 1 (hide (feelings) from other people) }
+{ olla_naamioituna_jksik,  peittää7,@ frames: 1 (take part in a masquerade) }
+{ salailla,  sivuuttaa,  silottaa,  salata3,  salata4,@ frames: 1 (cover up a misdemeanor, fault, or error; "Let's not whitewash the crimes of Stalin"; "She tried to gloss over her mistakes") }
+{ [ salata4, noun.act:salaaminen1,+]  [ peitellä, noun.act:peittely,+]  piilottaa,@ frames: 1 (hide from view or knowledge; "The President covered the fact that he bugged the offices in the White House") }
+{ hautoa_mielessään,  suojella<broader/>,  piilottaa,@ frames: 1 (hold back a thought or feeling about; "She is harboring a grudge against him") }
+{ [ esitellä3, noun.communication:esitys1,+ noun.act:esitys2,+ noun.act:esittely,+]  asettaa_näytteille2,  [ esittää1, noun.communication:esillepano,+ noun.communication:esittely1,+ noun.communication:esittely2,+ noun.act:esittely2,+ noun.act:esitys4,+ noun.act:esitelmä,+ noun.act:esittäminen,+ noun.communication:esittäminen1,+]  demonstroida,  osoittaa,@ frames: 1 (give an exhibition of to an interested audience; "She shows her dogs frequently"; "We will demo the new software in Washington") }
+{ paljastaa_syylliseksi,  verb.communication:osoittaa_todeksi,@ frames: 1 (demonstrate the guilt of (someone); "Her strange behavior condemned her") }
+{ tuomita<approximate/>,  paljastaa_syylliseksi,@ frames: 1 (condemn by attainder; "the man was attainted") }
+{ vilkkua,  verb.change:muuttua,@ frames: 1 (become concealed or hidden from view or have its light extinguished; "The beam of light occults every so often") }
+{ ottaa_röntgenkuva,  tutkia,@ frames: 1 (examine by taking x-rays) }
+{ valaista<note>valaista_munia</note>,  tutkia,@ frames: 1 (examine eggs for freshness by holding them against a light) }
+{ tehdä_ruumiinavaus,  tutkia,@ noun.cognition:lääketiede,;c frames: 1 (perform an autopsy on a dead body; do a post-mortem) }
+{ [ auskultoida, noun.act:auskultaatio,+]  [ kuunnella_stetoskoopin_avulla, noun.act:kuuntelu,+]  kuunnella,  tutkia,@ noun.cognition:lääketiede,;c frames: 1 (examine by auscultation) }
+{ tutkia1,  tutkia,@ katsoa1,* frames: 1 (look over carefully or inspect; "He surveyed his new classmates") }
+{ seurata,  katsella2,  katsoa1,* frames: 1 (look attentively; "watch a basketball game") }
+{ [ töllistellä, noun.act:töllistely1,+ noun.person:töllistelijä2,+]  seurata,@ frames: 1 (strain to watch; stare curiously; "The cars slowed down and the drivers rubbernecked after the accident") }
+{ [ katsoa4, noun.person:katselija3,+ noun.person:katsoja1,+]  [ katsella3, noun.person:katselija3,+ noun.person:katsoja1,+]  seurata,@ nähdä2,$ frames: 1 (see or watch; "view a show on television"; "This program will be seen all over the world"; "view an exhibition"; "Catch a show on Broadway"; "see a movie") }
+{ visuaalistaa,  katsoa4,@ noun.cognition:lääketiede,;c frames: 1 (view the outline of by means of an X-ray; "The radiologist can visualize the cancerous liver") }
+{ kuvantaa,  visuaalistaa,@ frames: 1 (render visible, as by means of MRI) }
+{ [ katsoa5, noun.person:katsoja2,+]  katsoa4,@ frames: 1 (be a spectator in a sports event) }
+{ nähdä_etukäteen,  katsoa4,@ frames: 1 (watch (a movie or play) before it is released to the general public) }
+{ [ varoa, noun.person:vartiomies,+ noun.person:vartija8,+]  olla_varuillaan,   frames: 1 (be vigilant, be on the lookout or be careful; "Watch out for pickpockets!") }
+{ vilkaista1,  silmäillä,  lukaista,  selata,  lukea_hutaisten,  lukea_pintapuolisesti,  tutkia,@ frames: 1 (examine hastily; "She scanned the newspaper headlines while waiting for the taxi") }
+{ tutkiskella,  tutkia2,  tutkia,@ frames: 1 (examine minutely or intensely; "the surgeon scanned the X-ray") }
+{ [ kiikaroida, noun.artifact:kiikari1,+]  tutkiskella,@ frames: 1 (scan (game in the forest) with binoculars) }
+{ lukea_läpi,  lukea_huolellisesti,  tutkia3,  tutkia,@ frames: 1 (examine or consider with attention and in detail; "Please peruse this report at your leisure") }
+{ selata1,  selailla,  lukea_läpi,@ frames: 1 (look through a book or other written material; "He thumbed through the report"; "She leafed through the volume") }
+{ tarkentaa,  lähentää_kuvaa,  verb.cognition:keskittyä,@ frames: 1 (examine closely; focus one's attention on; "He zoomed in on the book") }
+{ tarkkailla2,  arvioida,  [ tarkastella2, noun.person:tarkastelija,+ noun.act:tarkastelu2,+ noun.act:tarkistus2,+]  [ tutkiskella1, noun.person:tutkija5,+]  [ tutkia_tarkasti, noun.person:tutkija5,+]  tutkia,@ frames: 1 (to look at critically or searchingly, or in minute detail; "he scrutinized his likeness in the mirror") }
+{ [ etsiä, noun.person:etsijä2,+ noun.act:etsintä2,+]  tutkia,@ frames: 1 (search or seek; "We looked all day and finally found the child in the forest"; "Look elsewhere for the perfect gift!") }
+{ etsiskellä_seksipartneria,  etsiä,@ frames: 1 (look for a sexual partner in a public place; "The men were cruising the park") }
+{ etsiä1,  etsiä,@ frames: 1 (search for something desirable; "prospect a job") }
+{ erottaa,  havaita5,  huomata5,  nähdä5,  bongata,  nähdä6,@ frames: 1 (catch sight of) }
+{ [ havaita6, noun.act:havaitseminen,+ adj.all:näkyvä4^havaittava1,+ noun.cognition:havainto1,+ noun.cognition:havaitseminen,+ noun.person:havainnoitsija,+ noun.act:havainnointi1,+ noun.person:havainnoija,+]  [ löytää2, noun.act:löytäminen3,+ noun.object:löydös,+ noun.person:löytäjä,+ noun.act:löytäminen,+]  [ huomata6, noun.cognition:huomio5,+]  nähdä6,@ verb.creation:löytää,$ frames: 1 (discover or determine the existence, presence, or fact of; "She detected high levels of lead in her drinking water"; "We found traces of lead in the paint") }
+{ [ aistia, noun.cognition:aisti,+]  havaita7,  havaita6,@ frames: 1 (detect some circumstance or entity automatically; "This robot can sense the presence of people in the room"; "particle detectors sense ionization") }
+{ [ ilmentää1, noun.cognition:ilmennys<approximate/>,+]  havaita6,@ ilmentää2,$ frames: 1 (find an instance of (a word or particular usage of a word); "The linguists could not instantiate this sense of the noun that he claimed existed in a certain dialect") }
+{ [ ilmentää2, noun.cognition:ilmennys<approximate/>,+]  verb.social:edustaa1,@ ilmentää1,$ frames: 1 (represent by an instance; "This word instantiates the usage that the linguists claimed to be typical for a certain dialect") }
+{ [ jäljittää, noun.communication:jälki3,+]  havaita6,@ frames: 1 (discover traces of; "She traced the circumstances of her birth") }
+{ havaita8,  havaita6,@ nähdä2,$ frames: 1 (observe as if with an eye; "The camera saw the burglary and recorded it") }
+{ löytää_uudelleen,  löytää,@ frames: 1 (discover again; "I rediscovered the books that I enjoyed as a child") }
+{ [ hävitä, noun.act:häviäminen,+ noun.event:häviäminen1,+]  kaikota,  verb.stative:päättyä,@ frames: 1 (become invisible or unnoticeable; "The effect vanished when day broke") }
+{ häipyä,  hävitä1,  hävitä,@ frames: 1 (go away or disappear; "The fog cleared in the afternoon") }
+{ pulpahtaa_pinnan_alle,  hävitä,@ frames: 1 (disappear suddenly, as if under the surface of a body of water) }
+{ [ tuottaa, noun.person:tuottaja2,+ noun.act:tuotanto,+]  julkaista,  verb.change:ilmaantua3,> frames: 1 (bring onto the market or release; "produce a movie"; "bring out a book"; "produce a new play") }
+{ esittää2,  tuottaa,@ frames: 1 (produce or introduce on the stage; "The Shakespeare Company is offering `King Lear' this month") }
+{ putkahtaa_esiin,  ilmestyä,  ilmaantua,  putkahtaa,  verb.change:ilmaantua3,@ frames: 1 (appear suddenly or unexpectedly; "The farm popped into view as we turned the corner"; "He suddenly popped up out of nowhere") }
+{ peittää_näkyvistä,  sumentaa,  peittää_pilvellä,  pimentää,  verhota_sumuun,  peittää_pilviin,  piilottaa,@ frames: 1 (make less visible or unclear; "The stars are obscured by the clouds"; "the big elm tree obscures our view of the valley") }
+{ samentua,  sumentua,   frames: 1 (become glassy; lose clear vision; "Her eyes glazed over from lack of sleep") }
+{ varjostaa,  peittää_näkyvistä,@ frames: 1 (cast a shadow upon; "The tall tree overshadowed the house") }
+{ [ pimentää1, noun.event:pimennys,+]  peittää6,  varjostaa,@ frames: 1 (cause an eclipse of (a celestial body) by intervention; "The Sun eclipses the moon today"; "Planets and stars often are occulted by other celestial bodies") }
+{ peittää7,  verhota,  naamioitua,  naamioida,  salata5,  piilottaa,@ frames: 1 (make unrecognizable; "The herb masks the garlic taste"; "We disguised our faces before robbing the bank") }
+{ [ naamioida1, noun.act:naamiointi,+ noun.artifact:naamiointiväline,+]  peittää7,@ frames: 1 (disguise by camouflaging; exploit the natural surroundings to disguise something; "The troops camouflaged themselves before they went into enemy territory") }
+{ [ selvittää_asema, hämmentää,!]  määritellä_sijainti,  verb.cognition:päättää2,@ frames: 1 (determine one's position with reference to another point; "We had to orient ourselves in the forest") }
+{ ohjata,  opastaa,  selvittää_asema,@ frames: 1 (use as a guide; "They had the lights to guide on") }
+{ suunnistaa_uudelleen,  selvittää_asema,@ frames: 1 (orient once again, after a disorientation) }
+{ [ hämmentää, selvittää_asema,! noun.cognition:hämmennys,+]  johtaa_harhaan,  eksyttää,  harhauttaa,  verb.cognition:hämmentää3,@ frames: 1 (cause to be lost or disoriented) }
+{ [ vilkkua1, noun.artifact:vilkku,+ noun.artifact:vilkkuvalo,+ noun.communication:vilkkuvalo,+]  tuikkia,  säteillä,@ frames: 1 (gleam or glow intermittently; "The lights were flashing") }
+{ vilkkua2,  välkkyä,  vilkkua1,@ frames: 1 (flash intermittently; "The lights flicked on and off") }
+{ paistaa_täydeltä_terältä,  porottaa,  verb.weather:hohtaa1,@ frames: 1 (shine hard; "The sun beat down on the hikers") }
+{ loistaa_kuin_majakka,  verb.weather:hohtaa1,@ frames: 1 (shine like a beacon) }
+{ säteillä,  olla_havaittavissa<approximate/>,@ frames: 1 (cause to be seen by emitting light as if in rays; "The sun is radiating") }
+{ loistaa,  kimmeltää,  tuikkia1,  kajastaa,  hohtaa,  säteillä,@ frames: 1 (shine brightly, like a star or a light) }
+{ [ hehkua, noun.attribute:hehku3,+]  säteillä,@ frames: 1 (emit a steady even light without flames; "The fireflies were glowing and flying about in the garden") }
+{ [ fluoresoida, adj.all:valoisa1^fluoresoiva,+ noun.phenomenon:fluoresenssi,+ adj.all:värikäs1^fluoresoiva1,+]  hehkua,@ frames: 1 (exhibit or undergo fluorescence) }
+{ säkenöidä,  fluoresoida,@ frames: 1 (physics: fluoresce momentarily when struck by a charged particle or high-energy photon; "the phosphor fluoresced") }
+{ [ hehkua1, noun.attribute:hehku,+]  hohtaa1,  rusottaa,  sädehtiä<broader/>,  säteillä<broader/>1,  loistaa<broader/>1,  näyttää,@ frames: 1 (have a complexion with a strong bright color, such as red or pink; "Her face glowed when she came out of the sauna") }
+{ [ hämärtää, tarkentaa1,!]  verb.change:muuttaa3,@ frames: 1 (to make less distinct or clear; "The haze blurs the hills") }
+{ [ tarkentaa1, hämärtää,! noun.act:tarkentaminen,+]  tarkentaa2,@ frames: 1 (cause to converge on or toward a central point; "Focus the light on this image") }
+{ keskittää_uudelleen,  tarkentaa1,@ frames: 1 (focus once again; The physicist refocused the light beam") }
+{ vaihtaa_puolivalot,  muuttaa_tehoa<approximate/>,@ frames: 1 (switch (a car's headlights) from a higher to a lower beam) }
+{ häikäistä,  sokaista,  sokaista2,@ frames: 1 (to cause someone to lose clear vision, especially from intense light; "She was dazzled by the bright headlights") }
+{ [ loistaa2, noun.attribute:loiste,+]  paistaa,  verb.weather:hohtaa1,@ frames: 1 (shine intensely; "The sun glared down on us") }
+{ paistaa_täydeltä_terältä1,  porottaa1,  loistaa2,@ frames: 1 (glare or strike with great intensity; "The sun was beating down on us") }
+{ kiiltää,  kiilua,  säihkyä,  [ kimaltaa, noun.attribute:kimallus1,+]  [ kimmeltää1, noun.attribute:kimallus1,+]  hehkua2,  loistaa3,  säteillä2,  välkehtiä,  näyttää,@ frames: 1 (be shiny, as if wet; "His eyes were glistening") }
+{ kimallella,  kiiltää,@ frames: 1 (glitter as if covered with spangles) }
+{ [ tarkkailla3, noun.act:tarkkailu1,+ noun.artifact:tarkkailulaite,+ noun.person:tarkkailija3,+]  [ valvoa, noun.person:valvoja4,+]  vahtia,  tarkkailla5,@ frames: 1 (keep tabs on; keep an eye on; keep under surveillance; "we are monitoring the air quality"; "the police monitor the suspect's moves") }
+{ valvoa1,  vahtia1,  tarkkailla5,@ frames: 1 (check, track, or observe by means of a receiver) }
+{ nähdä6,  saada_näkyviinsä,  havaita,@ frames: 1 (catch sight of; to perceive with the eyes; "he caught sight of the king's men coming over the ridge") }
+{ [ töllistellä1, noun.person:töllistelijä1,+]  tuijottaa1,  katsoa1,@ frames: 1 (look at with amorous intentions) }
+{ katsoa_sillä_silmällä,  katsoa1,@ frames: 1 (look seductively at someone) }
+{ luoda_merkitseviä_katseita,  mulkoilla,  silmäillä1,  katsoa1,@ frames: 1 (look suggestively or obliquely; look or gaze with a sly, immodest, or malign expression; "The men leered at the young women on the beach") }
+{ toljottaa,  [ töllöttää, noun.act:töllistely,+]  tollottaa,  töllistellä2,  katsoa1,@ frames: 1 (look with amazement; look stupidly) }
+{ [ ihailla, noun.person:ihailija,+ noun.person:ihailija1,+]  katsoa1,@ frames: 1 (look at with admiration) }
+{ tuijottaa2,  tarkastella,@ frames: 1 (look at thoughtfully; observe deep in thought; "contemplate one's navel") }
+{ katsoa_kaipaavasti,  tarkastella,@ frames: 1 (look or stare at longingly; "The dog his master who was eating a sausage") }
+{ [ kurkistaa1, noun.act:kurkistaminen,+]  [ kurkkia, noun.act:kurkistaminen,+]  katsoa1,@ frames: 1 (look furtively; "He peeped at the woman through the window") }
+{ katsahtaa,  [ vilkaista2, noun.act:vilkaisu1,+]  [ kurkistaa2, noun.act:kurkistus,+]  välkähtää<narrower/>,  [ kurkkia1, noun.act:kurkistus,+]  katsoa1,@ frames: 1 (throw a glance at; take a brief look at; "She only glanced at the paper"; "I only peeked--I didn't see anything interesting") }
+{ tarkastella3,  tutkia4,  tutkia,@ frames: 1 (look over carefully; "Please inspect your father's will carefully") }
+{ kulkea_jnk_läpi,  käydä_tarkastamassa,  tarkastella3,@ frames: 1 (make an official inspection on foot of (the bounds of a property); "Selectmen are required by law to perambulate the bounds every five years") }
+{ tutkia<note>etukäteen</note>5,  tarkastella3,@ frames: 1 (look over, usually with the intention to rob; "They men cased the housed") }
+{ tutkia6,  seuloa,  tarkastaa,  tarkastella3,@ frames: 1 (examine carefully; "Someone should vet this report before it goes out") }
+{ valvoa2,  tutkia1,@ frames: 1 (watch over; "I am overlooking her work") }
+{ olla_huomaamatta,  olla_ymmärtämättä,@ frames: 1 (look past, fail to notice) }
+{ [ tutkia7, noun.act:tutkielma,+ noun.act:tutkimus5,+]  miettiä,  verb.cognition:ajatella3,@ verb.communication:harkita,$ frames: 1 (give careful consideration to; "consider the possibility of moving") }
+{ tulla_ajatelleeksi_jtak,  tutkia7,> frames: 1 (cause oneself to consider something) }
+{ hekumoida,  tuntea_vahingoniloa,  katsoa1,@ frames: 1 (gaze at or think about something with great self-satisfaction, gratification, or joy) }
+{ katsoa6,  katsella4,  mulkoilla1,  silmäillä2,  tarkastella4,  katsoa1,@ frames: 1 (look at) }
+{ pitää_silmänsä_auki,  tarkkailla4,  varoa,@ noun.communication:puhekielen_ilmaus,;u frames: 1 (pay attention; be watchful; "Keep your eyes peeled for any policemen") }
+{ huolehtia,  vahtia2,  pitää_huolta,  varoa,@ frames: 1 (keep under careful scrutiny; "Keep an eye on this prisoner!") }
+{ [ tiedustella, noun.person:tiedustelija,+ noun.act:tiedustelu5,+ noun.act:tiedustelu3,+]  tarkkailla5,@ frames: 1 (explore, often with the goal of finding something or somebody) }
+{ mulkaista,  luoda_nopea_pintapuolinen_silmäys,  katsoa1,@ frames: 1 (look at with a critical eye; "When the movie star entered, all the women gave him the once over") }
+{ [ karsastaa, noun.state:karsastus,+]  katsoa1,@ frames: 1 (be cross-eyed; have a squint or strabismus) }
+{ [ sokaista1, noun.group:sokea,+]  tehdä_jku_sokeaksi,  [ sokeuttaa, noun.group:sokea,+]  verb.change:muuttaa3,@ frames: 1 (make blind by putting the eyes out; "The criminals were punished and blinded") }
+{ sokaista_kuumalla_metallilla<unconfirmed/>,  sokaista1,@ frames: 1 (blind by holding a red-hot metal plate before someone's eyes; "The prisoners were abacinated by their captors") }
+{ [ sokaista2, noun.group:sokea,+]  tehdä_jku_sokeaksi1,  [ sokeuttaa1, noun.group:sokea,+]   frames: 1 (render unable to see) }
+{ sokaista3,  sokaista2,@ noun.cognition:ajohaukan_opettaminen,;c frames: 1 (sew up the eyelids of hawks and falcons) }
+{ sokaistua_lumesta,  sokaista2,@ frames: 1 (affect with snow blindness; "the glare of the sun snow-blinded her") }
+{ tiirailla,  tähyillä,  katsoa1,@ frames: 1 (look searchingly; "We peered into the back of the shop to see whether a salesman was around") }
+{ tunkeilla,  tuppautua,  udella,  [ nuuskia1, haistaa2,^]  tonkia,  etsiä,@ frames: 1 (search or inquire in a meddlesome way; "This guy is always nosing around the office") }
+{ tarkkailla5,  seurata,@ frames: 1 (watch attentively; "Please observe the reaction of these two chemicals") }
+{ [ kuulla1, adj.all:kuuluva,+ noun.cognition:kuulo,+]  havaita,@ frames: 1 (perceive (sound) via the auditory sense) }
+{ [ kuunnella1, kuunnella_salaa1,^ noun.act:kuunteleminen,+ noun.person:kuuntelija,+]  havaita,@ kuulla1,* frames: 1 (hear with intention; "Listen to the sound of this cello") }
+{ kuunnella_loppuun_asti,  kuunnella_loppuun,  kuunnella1,@ frames: 1 (listen to every detail and give a full hearing to) }
+{ kuunnella2,  kuunnella_salaa,  kuunnella1,@ frames: 1 (listen quietly, without contributing to the conversation) }
+{ kiinnittää_huomiota1,  [ kuunnella3, noun.person:kuuntelija,+]  seurata_tarkasti,  kuunnella_tarkkaan,  kiinnittää_tarkkaa_huomiota,  kuunnella1,@ frames: 1 (give heed (to); "The children in the audience attended the recital quietly"; "She hung on his every word"; "They attended to everything he said") }
+{ [ takertua, noun.cognition:takertuminen,+]  keskittyä,  kiinnittää_huomiota1,@ frames: 1 (pay attention to exclusively and obsessively; "The media are fixating on Princess Diana's death") }
+{ [ kuunnella4, noun.act:kuunteleminen,+ noun.person:kuuntelija,+ noun.act:kuuntelu1,+ noun.person:kuulija,+]  ottaa_huomioon,  uskoa,  verb.cognition:keskittyä,@ frames: 1 (listen and pay attention; "Listen to your father"; "We must hear the expert before we make a decision") }
+{ kääntää,  kuunnella4,@ frames: 1 (bend or turn (one's ear) towards a speaker in order to listen well; "He inclined his ear to the wise old man") }
+{ virittää,  verb.change:virittää2,@ frames: 1 (regulate (a radio or television set) in order to receive a certain station or program) }
+{ kitistä,  vingahtaa,  kirskua,  [ vinkua, noun.event:vinkuna,+]  kirahdella,  kirskahtaa,  [ natista, noun.event:natina,+]  pitää_ääntä,@ frames: 1 (make a high-pitched, screeching noise; "The door creaked when I opened it slowly"; "My car engine makes a whining noise") }
+{ [ metelöidä, noun.event:meteli1,+]  pitää_ääntä,@ frames: 1 (make loud and annoying noises) }
+{ [ kalista, noun.event:kalina2,+]  kolista,  paukkua,  pitää_ääntä,@ frames: 1 (make a rattling sound; "clattering dishes") }
+{ [ sirittää, noun.event:siritys1,+]  pitää_ääntä,@ frames: 1 (make a shrill creaking noise by rubbing together special bodily structures; "male insects such as crickets or grasshoppers stridulate") }
+{ peittää8,  pitää_ääntä,@ frames: 1 (make imperceptible; "The noise from the ice machine drowned out the music") }
+{ [ helistä, noun.event:helinä1,+]  [ kilistä, noun.event:kilinä4,+]  [ kalista1, noun.event:kalina4,+]  pitää_ääntä,@ frames: 1 (make a sound typical of metallic objects; "The keys were jingling in his pocket") }
+{ pitää_ääntä,  kajauttaa,  metelöidä1,  päästää_ääni,@ frames: 1 (emit a noise) }
+{ [ kiljua, noun.event:kiljunta,+]  pitää_ääntä,@ frames: 1 (make a loud, piercing sound; "Fighter planes are screaming through the skies") }
+{ lätsähtää,  päästää_ääni,@ frames: 1 (give off the sound of a bullet flattening on impact) }
+{ paukuttaa_pakoputkessa,  [ räjähtää<note>auton_ym._pako-_t._poistoputkessa</note>, noun.event:räjähdys<note>polttomoottorin_pako-_tai_poistoputkessa</note>4,+]  sytyttää_liian_aikaisin,  pitää_ääntä,@ frames: 1 (emit a loud noise as a result of undergoing a backfire; "My old car backfires all the time") }
+{ [ helähtää1, noun.event:helähdys2,+]  päästää_ääni,@ frames: 1 (sound with a twang; "the bowstring was twanging") }
+{ [ heläyttää, noun.event:helähdys2,+]  soittaa1,@ frames: 1 (cause to sound with a twang; "He twanged the guitar string") }
+{ [ kalskahtaa, noun.event:kalske,+]  kalahtaa,  kilahtaa1,  päästää_ääni,@ frames: 1 (make a loud noise; "clanging metal") }
+{ [ kolistella, noun.event:kolina,+]  kalahdella,  päästää_ääni,@ frames: 1 (make a clank; "the train clanked through the village") }
+{ raikua,  päästää_ääni,@ frames: 1 (make a loud resonant noise; "the alarm clangored throughout the building") }
+{ jylistä,  jylähtää,  päästää_ääni,@ frames: 1 (make a deep hollow sound; "Her voice booms out the words of the song") }
+{ [ rummuttaa, noun.person:rumpali,+ noun.person:rummunsoittaja,+]  hakata,  lyödä,  naputtaa,  takoa,  paukuttaa,  päästää_ääni,@ verb.motion:iskeä,$ frames: 1 (make a rhythmic sound; "Rain drummed against the windshield"; "The drums beat all night") }
+{ [ helisyttää, verb.communication:sanella,^ verb.communication:ladella,^ verb.communication:jaaritella3,^ verb.communication:papattaa1,^ noun.event:helinä2,+]  [ kolistella1, verb.communication:sanella,^ verb.communication:ladella,^ verb.communication:jaaritella3,^ verb.communication:papattaa1,^ noun.event:kolina2,+]  [ helistää, verb.communication:sanella,^ verb.communication:ladella,^ verb.communication:jaaritella3,^ verb.communication:papattaa1,^ noun.event:helinä2,+]  [ kalistella, verb.communication:sanella,^ verb.communication:ladella,^ verb.communication:jaaritella3,^ verb.communication:papattaa1,^]  päästää_ääni,@ frames: 1 (make short successive sounds) }
+{ kalistaa,  helisyttää,@ frames: 1 (make a hoarse, rattling sound) }
+{ [ ritistä, noun.event:ritinä,+]  ratista,  helisyttää,@ frames: 1 (make a crackling sound; "My Rice Krispies crackled in the bowl") }
+{ raksuttaa,  [ tikittää, noun.event:tikitys1,+]  [ lyödä1, noun.event:lyönti,+]  päästää_ääni,@ frames: 1 (make a sound like a clock or a timer; "the clocks were ticking"; "the grandfather clock beat midnight") }
+{ kajahtaa,  pitää_ääntä,@ frames: 1 (sound loudly; "a shot rang out") }
+{ [ resonoida, noun.artifact:resonaattori2,+ noun.artifact:resonaattori,+ noun.phenomenon:resonanssi,+]  kajahdella,  aiheuttaa_resonanssia,  päästää_ääni,@ frames: 1 (sound with resonance; "The sound resonates well in this theater") }
+{ päästää_ääni,  kuulua2,  äännähtää,  sanoa,  äännellä,  olla_havaittavissa<approximate/>,@ frames: 1 (make a certain noise or sound; "She went `Mmmmm'"; "The gun went `bang'") }
+{ ryskyä,  päästää_ääni,@ frames: 1 (make a sudden loud sound; "the waves crashed on the shore and kept us awake all night") }
+{ [ piipittää, noun.event:piipitys2,+]  päästää_ääni,@ frames: 1 (make a weak, chirping sound; "the small bird was tweeting in the tree") }
+{ soida_kimakasti,  päästää_ääni,@ frames: 1 (make a shrill, wailing sound; "skirling bagpipes") }
+{ jokeltaa,  päästää_ääni,@ sorista,$ frames: 1 (make sounds similar to gurgling water; "The baby gurgled with satisfaction when the mother tickled it") }
+{ pulputtaa,  päästää_ääni,@ frames: 1 (make a gurgling sound as of liquid issuing from a bottle; "the wine bottles glugged") }
+{ soida<note>pillistä\,_torvesta_ym.</note>1,  päästää_ääni,@ puhaltaa<note>torveen\,_pilliin_tms.</note>,$ frames: 1 (sound by having air expelled through a tube; "The trumpets blew") }
+{ hurista,  suhahtaa,  päästää_ääni,@ frames: 1 (make a sibilant sound) }
+{ pulputtaa1,  päästää_ääni,@ frames: 1 (make a sound like a liquid that is being poured from a bottle) }
+{ [ kilahtaa2, noun.event:kilahdus2,+]  päästää_ääni,@ frames: 1 (make a short high-pitched sound; "the bullet pinged when they struck the car") }
+{ nakuttaa,  päästää_ääni,@ frames: 1 (sound like a car engine that is firing too early; "the car pinged when I put in low-octane gasoline"; "The car pinked when the ignition was too far retarded") }
+{ puupittaa<unconfirmed/>,  toitottaa,  päästää_ääni,@ frames: 1 (produce a sound as if from a trumpet) }
+{ maiskauttaa,  päästää_ääni,@ frames: 1 (make a sucking sound) }
+{ [ sätkättää, noun.event:sätkätys,+]  puksuttaa,  [ tuksuttaa, noun.event:tuksutus,+]  päästää_ääni,@ frames: 1 (make a dull, explosive sound; "the engine chugged down the street") }
+{ [ soittaa1, verb.creation:virittää1,^]  päästää_ääni,> frames: 1 (cause to sound; "sound the bell"; "sound a certain note") }
+{ valmistella<unconfirmed/>,  soittaa1,@ noun.communication:musiikki,;c frames: 1 (lead up to and soften by sounding the dissonant note in it as a consonant note in the preceding chord; "prepare the discord in bar 139") }
+{ [ kumahtaa, noun.artifact:kumistin,+]  lyödä_kumistinta,  soittaa1,@ frames: 1 (sound a gong) }
+{ [ kilahtaa3, noun.event:kilahdus3,+]  soittaa1,@ frames: 1 (cause to make a ting) }
+{ [ rämpyttää, noun.event:rämpytys,+]  soittaa1,@ frames: 1 (sound the strings of (a string instrument); "strum a guitar") }
+{ soittaa2,  verb.communication:tiedottaa6,@ frames: 1 (announce by means of a sound; "sound the alarm") }
+{ saada_kantamaan,  olla_havaittavissa<approximate/>,@ frames: 1 (cause to be heard; "His voice projects well") }
+{ [ kilistä1, kajahtaa,^ noun.event:kilinä5,+]  helistä1,  päästää_ääni,@ frames: 1 (sound loudly and sonorously; "the bells rang") }
+{ soida<broader/>2,  kilistä1,@ frames: 1 (go `ding dong', like a bell) }
+{ [ kilistä2, noun.event:kilahtelu,+]  kilistä1,@ frames: 1 (ring or sound like a small bell) }
+{ soida3,  kilistä1,@ frames: 1 (ring recurrently; "bells were pealing") }
+{ soittaa3,  soittaa_kelloja,  kilistää,  kumistaa,  soittaa1,@ päästää_ääni,> frames: 1 (make (bells) ring, often for the purposes of musical edification; "Ring the bells"; "My uncle rings every Sunday at the local church") }
+{ soittaa_kuolinkelloja,  kilistä1,@ frames: 1 (ring as in announcing death) }
+{ kumista,  soida4,  soittaa3,@ frames: 1 (ring slowly; "For whom the bell tolls") }
+{ [ pöristä, noun.event:pörinä,+]  surista,  hyristä,  päästää_ääni,@ frames: 1 (make a buzzing sound; "bees were buzzing around the hive") }
+{ [ soida5, verb.communication:puuttua,^]  päästää_ääni,@ frames: 1 (emit a sound; "bells and gongs chimed") }
+{ pauhata,  raikua1,  toitottaa1,  ulvoa,  pitää_ääntä,@ frames: 1 (make a strident sound; "She tended to blast when speaking into a microphone") }
+{ [ kahista, noun.event:kahina,+]  päästää_ääni,@ frames: 1 (make a dry crackling sound; "rustling silk"; "the dry leaves were rustling in the breeze") }
+{ naksahtaa,  napsahtaa,  päästää_ääni,@ frames: 1 (make a sharp sound; "his fingers snapped") }
+{ pamahtaa,  päästää_ääni,@ frames: 1 (make a very sharp explosive sound; "His gun cracked") }
+{ törähtää,  pauhata1,  [ tuutata, noun.event:tuuttaus,+]  raikua2,  päästää_ääni,@ frames: 1 (make a loud noise; "The horns of the taxis blared") }
+{ tuutata1,  törähtää,@ frames: 1 (play (a musical instrument) casually; "the saxophone player was tootling a sad melody") }
+{ [ vihellellä, noun.event:vihellys1,+ noun.person:viheltäjä,+]  päästää_ääni,@ frames: 1 (make whistling sounds; "He lay there, snoring and whistling") }
+{ [ kajahdella1, noun.attribute:kajahtelu,+ noun.attribute:kajahtavuus<unconfirmed/>,+ adj.all:kajahteleva,+]  kaikua1,  [ soida6, noun.attribute:sointuvuus2,+]  päästää_ääni,@ frames: 1 (ring or echo with sound; "the hall resounded with laughter") }
+{ [ konsonoida, noun.attribute:konsonanssi,+]  kajahdella1,@ frames: 1 (sound in sympathy) }
+{ kaikua2,  kajahdella2,  kajahdella1,@ frames: 1 (repeat or return an echo again or repeatedly; send (an echo) back) }
+{ kajahdella3,  kajahdella1,@ frames: 1 (echo repeatedly, echo again and again) }
+{ kumista1,  kajahdella1,@ frames: 1 (ring loudly and deeply; "the big bell bonged") }
+{ [ tömähtää, noun.event:tömähdys,+ noun.event:tömäys,+]  [ kumista2, noun.event:kumina2,+]  [ jyskyä, noun.event:jysähdys1,+ noun.event:jyske2,+]  päästää_ääni,@ frames: 1 (make a dull sound; "the knocker thudded against the front door") }
+{ ratista1,  jyskyttää1,  narskua,  verb.communication:narskua,@ frames: 1 (make a noise typical of an engine lacking lubricants) }
+{ kopista,  tömistä,  päästää_ääni,@ frames: 1 (make or move along with a sound as of a horse's hooves striking the ground) }
+{ ropista,  [ tepsuttaa, noun.event:tepsutus,+]  päästää_ääni,@ frames: 1 (make light, rapid and repeated sounds; "gently pattering rain") }
+{ naputella,  näpytellä,  [ koputella, noun.event:koputus,+]  nakutella,  koputtaa,  päästää_ääni,@ frames: 1 (make light, repeated taps on a surface; "he was tapping his fingers on the table impatiently") }
+{ [ tikittää1, noun.event:tikitys,+]  päästää_ääni,@ frames: 1 (make a clicking or ticking sound; "The clock ticked away") }
+{ kalista2,  päästää_ääni,@ frames: 1 (click repeatedly or uncontrollably; "Chattering teeth") }
+{ poksahtaa,  päästää_ääni,@ poksauttaa,$ frames: 1 (make a sharp explosive noise; "The cork of the champagne bottle popped") }
+{ poksauttaa,  soittaa1,@ poksahtaa,$ frames: 1 (cause to make a sharp explosive sound; "He popped the champagne bottle") }
+{ [ paukahdella, noun.event:paukahtaminen,+]  pihistä,  [ rätistä, noun.event:rätinä4,+]  sihistä,  poksahtaa,@ frames: 1 (make an explosive sound; "sputtering engines") }
+{ [ kilistä3, noun.event:kilinä6,+]  [ kilisyttää, noun.event:kilinä1,+ noun.event:kilahdus,+]  helähdellä,  [ kilahdella, noun.event:kilinä1,+ noun.event:kilahdus,+]  helistä2,  [ kilahtaa4, noun.event:kilinä1,+ noun.event:kilahdus,+]  päästää_ääni,@ frames: 1 (make or emit a high sound; "tinkling bells") }
+{ kilistä4,  soittaa1,@ kilistä3,> frames: 1 (make a high sound typical of glass; "champagne glasses clinked to make a toast") }
+{ [ loiskahtaa, noun.event:loiske1,+ noun.event:loiskahdus,+ noun.event:loiskaus,+]  räiskähtää,  läiskähtää,  lätsähtää1,  roiskua,  päästää_ääni,@ frames: 1 (make a splashing sound; "water was splashing on the floor") }
+{ kohista,  humista,  päästää_ääni,@ frames: 1 (sound with a monotonous hum) }
+{ [ piipata, noun.event:piipitys,+ noun.event:piippaus,+]  [ piipittää1, noun.event:piipitys,+ noun.event:piippaus,+]  päästää_ääni,@ frames: 1 (emit a single short high-pitched signal; "The computer bleeped away") }
+{ [ jyristä, noun.event:jyrinä2,+ noun.event:jyry,+]  jylistä1,  [ rymistä, noun.event:ryminä,+]  [ rymytä, noun.event:ryminä,+]  [ jymistä, noun.event:jymy,+ noun.event:jyminä1,+]  päästää_ääni,@ frames: 1 (make a low noise; "rumbling thunder") }
+{ jyristä1,  jyskyttää2,  päästää_ääni,@ frames: 1 (make a resonant sound, like artillery; "His deep voice boomed through the hall") }
+{ iskeä,  jyskyttää3,  lyödä2,  paiskata,  takoa1,  paukuttaa1,  pamauttaa,  päästää_ääni,@ frames: 1 (to produce a sharp often metallic explosive or percussive sound; "One of them banged the sash of the window nearest my bed") }
+{ sorista,  porista,  helistä3,  pulista,  pulputtaa2,  lorista,  solista,  päästää_ääni,@ jokeltaa,$ frames: 1 (flow in an irregular current with a bubbling noise; "babbling brooks") }
+{ liplattaa,  [ suhahtaa1, noun.event:suhahdus,+]  sihistä1,  suhista,  päästää_ääni,@ frames: 1 (move with or cause to move with a whistling or hissing sound; "The bubbles swoshed around in the glass"; "The curtain swooshed open") }
+{ surista1,  päästää_ääni,@ frames: 1 (make a monotonous low dull sound; "The harmonium was droning on") }
+{ [ suhahtaa2, noun.event:suhahdus2,+]  [ surista2, noun.event:surina2,+]  hurista1,  kehrätä,  päästää_ääni,@ frames: 1 (make a soft swishing sound; "the motor whirred"; "the car engine purred") }
+{ [ salakuunnella, noun.act:salakuuntelu,+ noun.person:salakuuntelija1,+ noun.artifact:salakuuntelulaite,+]  asentaa_salakuuntelulaite,  kuunnella_salaa1,@ frames: 1 (tap a telephone or telegraph wire to get information; "The FBI was tapping the phone line of the suspected spy"; "Is this hotel room bugged?") }
+{ siepata,  kuunnella5,  sattua_kuulemaan,  kuulla_sattumalta,  kuulla_vahingossa,  kuulla1,@ kuunnella1,* kuulla2,$ frames: 1 (hear, usually without the knowledge of the speakers; "We overheard the conversation at the next table") }
+{ kuulla2,  kuulla1,@ siepata,$ frames: 1 (perceive by hearing; "I didn't catch your name"; "She didn't get his name when they met the first time") }
+{ kuulla3,  kuunnella_tarkkaavaisesti,  kuunnella1,@ frames: 1 (listen; used mostly in the imperative) }
+{ kuunnella_salaa1,  [ salakuunnella1, noun.person:salakuuntelija,+]  kuunnella1,@ frames: 1 (listen without the speaker's knowledge; "the jealous man was eavesdropping on his wife's conversations") }
+{ [ kuurouttaa, noun.group:kuuro,+]  tehdä_tunteettomaksi,@ frames: 1 (make or render deaf; "a deafening noise") }
+{ olla_sietämättömän_kovaääninen,  pitää_ääntä,* frames: 1 (be unbearably loud; "a deafening noise") }
+{ [ tyyntyä, voimistua,!]  laantua,  [ hiljentyä, noun.attribute:hiljaisuus1,+]  vaieta1,  rauhoittua,  muuttaa_tehoa<approximate/>,@ verb.change:hyssytellä1,$ frames: 1 (become quiet or quieter; "The audience fell silent when the speaker entered") }
+{ [ voimistua, tyyntyä,!]  muuttaa_tehoa<approximate/>,@ verb.change:nostaa_ääntä<broader/>,$ frames: 1 (become louder; "The room loudened considerably") }
+{ [ heikentää1, tarkentaa2,! teroittaa,!]  [ pehmentää, tarkentaa2,! teroittaa,!]  muuttaa_tehoa<approximate/>,@ frames: 1 (make (images or sounds) soft or softer) }
+{ [ tarkentaa2, heikentää1,! pehmentää,!]  [ teroittaa, heikentää1,! pehmentää,!]  muuttaa_tehoa<approximate/>,@ frames: 1 (make (images or sounds) sharp or sharper) }
+{ tukkia_suu,  vaientaa,  verb.change:hyssytellä1,@ frames: 1 (prevent from speaking out; "The press was gagged") }
+{ muuttaa_tehoa<approximate/>,  verb.change:muuttaa3,@ frames: 1 (increase or decrease in intensity) }
+{ [ vaimentaa, noun.artifact:vaimennin1,+ noun.artifact:vaimennin3,+]  heikentää<broader/>2,  hiljentää,  madaltaa,  mykistää,  [ vaientaa1, noun.artifact:vaimennin1,+ noun.artifact:vaimennin3,+]  heikentää1,@ frames: 1 (deaden (a sound or noise), especially by wrapping) }
+{ [ maistaa, noun.act:maistaminen,+]  havaita,@ frames: 1 (perceive by the sense of taste; "Can you taste the garlic?") }
+{ [ maustaa, noun.food:mauste1,+ noun.act:maustaminen,+ noun.person:maustaja,+]  antaa_makua,  höystää,  noun.act:ruuanlaitto,;c maistua,> frames: 1 (lend flavor to; "Season the chicken breast after roasting it") }
+{ maustaa_currylla,  maustaa,@ noun.act:ruuanlaitto,;c frames: 1 (season with a mixture of spices; typical of Indian cooking) }
+{ hartsata,  maustaa,@ noun.act:viininviljely,;c frames: 1 (impregnate with resin to give a special flavor to; "Greek wines are often resinated") }
+{ [ ryydittää, noun.attribute:ryydin_maku,+]  piristää,  höystää1,  maustaa1,  maustaa,@ noun.act:ruuanlaitto,;c frames: 1 (add herbs or spices to) }
+{ maustaa_inkiväärillä,  ryydittää,@ noun.act:ruuanlaitto,;c frames: 1 (add ginger to in order to add flavor; "ginger the soup") }
+{ [ maistaa1, noun.act:maistaminen,+ noun.person:maistaja,+]  [ maistella, noun.act:maistaminen,+ noun.person:maistaja,+]  verb.cognition:tunnistaa2,@ maistaa,* frames: 1 (distinguish flavors; "We tasted wines last night") }
+{ nähdä7,  huomata7,  erottaa1,  havaita9,  tajuta,  havaita,* frames: 1 (detect with the senses; "The fleeing convicts were picked out of the darkness by the watchful prison guards"; "I can't make out the faces in this photograph") }
+{ erottaa2,  nähdä7,@ noun.cognition:valo-oppi,;c frames: 1 (make clearly visible; "can this image be resolved?") }
+{ erottaa3,  huomata_ero,  nähdä7,@ frames: 1 (distinguish; "I could not discriminate the different tastes in this complicated dish") }
+{ [ maistaa2, noun.act:maisteleminen,+]  nautiskella,  nauttia,  maistaa,@ frames: 1 (taste appreciatively; "savor the soup") }
+{ maustaa2,  maustaa,@ noun.act:ruuanlaitto,;c frames: 1 (give taste to) }
+{ [ maistua, noun.act:maistaminen,+]  vivahtaa,   frames: 1 (have flavor; taste of something) }
+{ [ maistua1, noun.act:maistaminen,+]  maistua,@ frames: 1 (have a distinctive or characteristic taste; "This tastes of nutmeg") }
+{ maistua2,  haiskahtaa,  vaikuttaa4,  verb.communication:herättää1,@ frames: 1 (have an element suggestive (of something); "his speeches smacked of racism"; "this passage smells of plagiarism") }
+{ [ inhottaa, noun.feeling:inho2,+]  etoa,  iljettää,  herättää_vastenmielisyyttä,  kiihottaa,@ frames: 1 (fill with distaste; "This spoilt food disgusts me") }
+{ tympäistä,  iljettää1,  kääntää_vatsan_nurin,  inhottaa,@ frames: 1 (upset and make nauseated; "The smell of the food turned the pregnant woman's stomach"; "The mold on the food sickened the diners") }
+{ [ makeuttaa, hapattaa,! noun.act:makeutus,+ noun.food:makeutusaine,+ noun.food:makeute,+]  [ sokeroida, hapattaa,!]  muuttaa_makua,@ frames: 1 (make sweeter in taste) }
+{ [ kitkeröittää, noun.attribute:kitkeryys1,+]  muuttaa_makua,@ frames: 1 (make bitter) }
+{ makeuttaa_hunajalla,  makeuttaa,@ frames: 1 (sweeten with honey) }
+{ [ sokeroida1, noun.food:sokeri,+]  makeuttaa,@ frames: 1 (sweeten with sugar; "sugar your tea") }
+{ maustaa_pippurilla,  pippuroida,  ryydittää,@ noun.act:ruuanlaitto,;c frames: 1 (add pepper to; "pepper the soup") }
+{ maustaa_suolalla,  lisätä_suolaa,  maustaa,@ noun.act:ruuanlaitto,;c frames: 1 (add salt to) }
+{ kuorruttaa_sokerilla,  makeuttaa,@ frames: 1 (coat with something sweet, such as a hard sugar glaze) }
+{ maustaa_ja_kuumentaa,  makeuttaa,@ frames: 1 (heat with sugar and spices to make a hot drink; "mulled cider") }
+{ [ hapattaa, makeuttaa,! sokeroida,! noun.attribute:happamuus3,+ noun.cognition:happamuus,+]  [ hapottaa, noun.substance:happo,+]  muuttaa_makua,@ frames: 1 (make sour or more sour) }
+{ muuttaa_makua,  verb.change:muuttaa3,@ frames: 1 (alter the flavor of) }
+{ kadottaa,   frames: 1 (allow to go out of sight; "The detective lost the man he was shadowing after he had to stop at a red light") }
+{ kiihottua,  verb.emotion:tehdä_mielellään,@ frames: 1 (enjoy in a sexual way; "He gets off on shoes") }
+{ tulla,  saada_orgasmi,  kokea3,@ frames: 1 (experience orgasm; "she could not come because she was too upset") }
+{ kohdata1,  tulla_vastaan,   frames: 1 (be perceived by; "Loud music greeted him when he entered the apartment") }
+{ jäljittää1,  tarkkailla5,@ frames: 1 (observe or plot the moving path of something; "track a missile") }
+{ löytää3,  havaita,@ todistaa1,$ frames: 1 (perceive oneself to be in a certain condition or place; "I found myself in a difficult situation"; "When he woke up, he found himself in a hospital room") }
+{ [ jyristä2, noun.event:jyrinä1,+]  päästää_ääni,@ frames: 1 (emit, produce, or utter with a deep prolonged reverberating sound; "The thunder rolled"; "rolling drums") }
+{ vaikuttaa5,  vaikuttaa3,@ frames: 1 (appear to one's own mind or opinion; "I seem to be misunderstood by everyone"; "I can't seem to learn these Chinese characters") }
+{ [ salvata_hermon_toiminta<narrower/>, noun.artifact:salpaaja,+]  [ salvata_lihaksen_toiminta<narrower/>, noun.artifact:salpaaja,+]  [ salvata<broader/>, noun.artifact:salpaaja,+]  verb.body:nukuttaa1,@ frames: 1 (interrupt the normal function of by means of anesthesia; "block a nerve"; "block a muscle") }
+{ valvoa3,  seurata1,  tutkia8,  verb.motion:jahdata,$ frames: 1 (keep under surveillance; "The police had been following him for weeks but they could not prove his involvement in the bombing") }
+{ tappaa_kipuun,  koskea,@ frames: 1 (be the source of great pain for; "These new shoes are killing me!") }
+{ nähdä_läpi,  havaita,@ frames: 1 (perceive the true nature of; "We could see through her apparent calm") }
+{ piirtyä<approximate/>1,  osoittaa,@ frames: 1 (cause to stand out or be clearly defined or visible; "a face etched with pain"; "the leafless branches etched against the sky") }
+{ tähdätä,  verb.competition:tähdätä1,@ frames: 1 (take aim by looking through the sights of a gun (or other device)) }
+{ hehkua3,  hehkua,@ frames: 1 (glow or cause to glow with warm color or light; "the sky flushed with rosy splendor") }

@@ -1,0 +1,1196 @@
+{ [ omistus, noun.person:omistaja4,+ noun.person:omistaja3,+]  noun.Tops:suhde,@ (the relation of an owner to the thing possessed; possession with the right to transfer possession to others) }
+{ [ yhteisomistus, adj.all:yhteinen1^yhteinen2,+]  omistus,@ (common ownership; "they shared a community of possessions") }
+{ severalty,  omistus,@ (exclusive individual ownership) }
+{ omistusoikeus,  omistus,@ (the legal right of ownership) }
+{ etuosto-oikeus,  noun.attribute:etuosto-oikeus,@ (the right granting to shareholders the first opportunity to buy a new issue of stock; provides protection against dilution of the shareholder's ownership interest) }
+{ ennakkomerkintäoikeus,  noun.attribute:etuosto-oikeus,@ (the right of a shareholder in a company to subscribe to shares of a new issue of common stock before it is offered to the public) }
+{ optio,  noun.communication:johdannaisinstrumentti,@ (the right to buy or sell property at an agreed price; the right is purchased and if it is not exercised by a stated date the money is forfeited) }
+{ osaketuotto,  avustus5,@ (a benefit given by a company to an employee in the form of an option to buy stock in the company at a discount or at a fixed price; "stock options are not much use as an incentive if the price at which they can be exercised is out of reach") }
+{ optio<broader/>1,  optio,@ (the right to buy or sell a stock at a specified price within a stated period) }
+{ osto-optio,  optio<broader/>1,@ (an option to buy) }
+{ myyntioptio,  optio<broader/>1,@ (an option to sell) }
+{ lock-up-sopimus,  optio,@ (an option to buy the crown jewels offered to a white knight in order to forestall a hostile takeover) }
+{ hallintaoikeus,  noun.attribute:laillinen_oikeus,@ (the right to hold property; part of an ancient hierarchical system of holding lands) }
+{ asukasoikeus,  hallintaoikeus,@ (a medieval form of land tenure in England; a copyhold was a parcel of land granted to a peasant by the lord of the manor in return for agricultural services) }
+{ hallintaoikeus<unconfirmed/><note>oik</note>1,  täysi_omistusoikeus<note>br</note>,  hallintaoikeus,@ (tenure by which land is held in fee simple or for life) }
+{ [ maa\,_johon_on_hallintaoikeus<unconfirmed/><note>oik</note>, noun.person:maanomistaja<note>br</note>,+]  [ maa\,_johon_on_täysi_omistusoikeus<unconfirmed/><note>br</note>, noun.person:maanomistaja<note>br</note>,+]  tila,@ (an estate held in fee simple or for life) }
+{ hallussapito-oikeus,  hallintaoikeus,@ (tenure by which a villein held land) }
+{ kotiuttaminen<approximate/>,  ostos,@ (a corporation's purchase of its own outstanding stock; increases earnings/share so stock price rises (which can discourage a takeover attempt)) }
+{ valtion_maa,  yleisomistus,  omistusoikeus,@ (property rights that are held by the public at large) }
+{ toiminimi,  omistus,@ (an unincorporated business owned by a single person who is responsible for its liabilities and entitled to its profits) }
+{ työntekijöiden_omistajuus<unconfirmed/>,  omistus,@ (ownership of a business by the people who work for it) }
+{ omaisuus,  tavarat,  noun.Tops:omaisuus,@ (something owned; any tangible or intangible possession that is owned by someone; ; "that hat is my property"; "he is a man of property") }
+{ aineellinen_omaisuus,  materiaalinen_omaisuus,  omaisuus,@ (property or belongings that are tangible) }
+{ maallinen_omaisuus,  omaisuus,@ (all the property that someone possess; "he left all his worldly possessions to his daughter") }
+{ verotettava_omaisuus<unconfirmed/>,  omaisuus,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (property that provides tax income for local governments) }
+{ perintöomaisuus,  omaisuus,@ (any property (real or personal or mixed) that can be inherited) }
+{ tietopääoma,  immateriaalioikeudet,  omaisuus,@ (intangible property that is the result of creativity (such as patents or trademarks or copyrights)) }
+{ puolisoiden_yhteisomaisuus,  omaisuus,@ (property and income belonging jointly to a married couple) }
+{ irtain_omaisuus,  irtaimisto,  yksityisomaisuus,  omaisuus,@ (movable property (as distinguished from real estate)) }
+{ irtain,  henkilökohtainen_irtaimisto,  irtain_esine,  irtain_omaisuus,@ noun.artifact:huonekalut,;c noun.artifact:auto,;c (personal as opposed to real property; any tangible movable property (furniture or domestic animals or a car etc)) }
+{ omaisuus1,  henkilökohtaiset_tavarat,  irtain_omaisuus,@ (property of a personal character that is portable but not used in business; "she left some of her personal effects in the house"; "I watched over their effects until they returned") }
+{ tavarat1,  omaisuus,@ (any movable possession (especially articles of clothing); "she packed her things and left") }
+{ kiinteä_omaisuus,  kiinteistö,  omaisuus,@ (property consisting of houses and land) }
+{ tila,  maa,  maaomaisuus,  maat,  tilukset,  kruununmaa,  kartano,  kiinteä_omaisuus,@ (extensive landed property (especially in the country) retained by the owner for his own use; "the family owned a large estate on Long Island") }
+{ yhteismaa,  omaisuus,@ (property held in common) }
+{ kirkon_maa-alue<unconfirmed/>,  tila,@ (plot of land belonging to an English parish church or an ecclesiastical office) }
+{ maanomaisuus<approximate/>,  omaisuus,@ (a holding in the form of land) }
+{ maanomistus<approximate/>,  omistus,@ (ownership of land; the state or fact of owning land) }
+{ [ pelastettu_tavara, verb.social:pelastaa,+]  noun.artifact:hyödyke,@ omaisuus,@ (property or goods saved from damage or destruction) }
+{ osakkeenomistus,  omaisuus,@ (a holding in the form of shares of corporations) }
+{ kirkon_oikeudet,  kirkon_saatavat,  omaisuus,@ (property or income owned by a church) }
+{ maallinen_omaisuus1,  kirkon_oikeudet,@ (the worldly possessions of a church) }
+{ kirkkoherranvirka,  papinvirka,  pastoraatti,  kirkon_oikeudet,@ (an endowed church office giving income to its holder) }
+{ laiskanvirka,  sinekyyri,  kirkkoherranvirka,@ (a benefice to which no spiritual or pastoral duties are attached) }
+{ [ vuokrakohde, adj.pert:vuokra-1,+]  omaisuus,@ (property that is leased or rented out or let) }
+{ vuokra-auto,  vuokrakohde,@ (a rented car; "she picked up a hire car at the airport and drove to her hotel") }
+{ osamaksu<note>esine</note>,  omaisuus,@ (an item of property that is given in part payment for a new one) }
+{ [ edelleenvuokraus, verb.possession:edelleenvuokrata,+]  vuokrakohde,@ (a lease from one lessee to another) }
+{ yhteinen_omaisuus,  julkinen_omaisuus,  omaisuus,@ (property owned by a government) }
+{ vuokramaa,  tila,@ (land or property held under a lease) }
+{ pientila,  tila,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a piece of land under 50 acres that is sold or let to someone for cultivation) }
+{ uudistila,  tila,@ (land acquired from the United States public lands by filing a record and living on and cultivating it under the homestead law) }
+{ maatalo,  maa1,@ (the buildings and adjacent grounds of a farm) }
+{ maatalo1,  kotitalo,  maa1,@ (the home and adjacent grounds occupied by a family) }
+{ ei-kenenkään-maa,  ei_kenenkään_maa,  maa1,@ (land that is unowned and uninhabited (and usually undesirable)) }
+{ [ läänitys, noun.location:lääni,+]  tila,@ (a piece of land held under the feudal system) }
+{ maa1,  tilukset1,  kiinteä_omaisuus,@ (the land on which real estate is located; "he built the house on land leased from the city") }
+{ pysyvä_omistusoikeus,  kiinteä_omaisuus,@ noun.group:rekisteröity_yhtiö,;c (real property held inalienably (as by an ecclesiastical corporation)) }
+{ varallisuus,  omaisuus,@ (property that has economic utility: a monetary value or an exchange value) }
+{ raha,  varallisuus1,  varallisuus,@ (wealth reckoned in terms of money; "all his money is in real estate") }
+{ isot_rahat,  iso_summa,  kasoittain_rahaa,  paljon_rahaa,  raha,@ noun.communication:slangi,;u (a large sum of money (especially as pay or profit); "she made a bundle selling real estate"; "they sank megabucks into their new house") }
+{ omaisuus2,  omaisuus,@ (everything you own; all of your assets (whether real property or personal property) and liabilities) }
+{ kamat,  kamppeet,  irtain_omaisuus,@ (informal terms for personal possessions; "did you take all your clobber?") }
+{ kuolinpesän_brutto-omaisuus<unconfirmed/>,  omaisuus2,@ (the total valuation of the estate's assets at the time of the person's death) }
+{ netto-omaisuus,  omaisuus2,@ valtionvero,;c (the estate remaining after debts and funeral expenses and administrative expenses have been deducted from the gross estate; the estate then left to be distributed (and subject to federal and state inheritance taxes)) }
+{ kuolemaan_päättyvä_omistusoikeus,  omaisuus2,@ noun.group:laki,;c ((law) an estate whose duration is limited to the life of the person holding it) }
+{ paronin_arvo,  tila,@ (the estate of a baron) }
+{ suurtila,  tila,@ (an estate in the country) }
+{ kruununmaa1,  valtionmaa,  tila,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (land that belongs to the Crown) }
+{ [ kartano1, adj.pert:kartanon<gen/>,+]  tila,@ (the landed estate of a lord (including the house on it)) }
+{ tila1,  kartano2,  maa-alue,  tila,@ (the estate of a seigneur) }
+{ hacienda,  tila<unconfirmed/>2,  tila,@ (a large estate in Spanish-speaking countries) }
+{ plantaasi,  tila,@ (an estate where cash crops are grown on a large scale (especially in tropical areas)) }
+{ ansari,  noun.artifact:kasvihuone1,@ plantaasi,@ (a place where oranges are grown; a plantation of orange trees in warm climes or a greenhouse in cooler areas) }
+{ valtaus<approximate/>,  noun.Tops:omaisuus,@ (a valuable possession whose upkeep is excessively expensive) }
+{ omaisuus<broader/>3,  noun.Tops:omaisuus,@ (a possession whose ownership changes or lapses) }
+{ hankinta,  hankittu_omaisuus,  omaisuus<broader/>3,@ (something acquired; "a recent acquisition by the museum") }
+{ hankinta1,  kartunta,  uudishankinta,  lisä,  lisäys,  täydennys,  hankinta,@ (something added to what you already have; "the librarian shelved the new accessions"; "he was a new addition to the staff") }
+{ [ ostos, verb.possession:ostaa,+]  hankinta,@ (something acquired by purchase) }
+{ edullinen_ostos,  hyvä_kauppa,  löytö,  säästö-,  tarjous,  tarjous-,  kauppa,  [ ostos1, verb.possession:ostaa,+]  ostos,@ (an advantageous purchase; "she got a bargain at the auction"; "the stock was a real buy at that price") }
+{ pikkuraha,  pilkkahinta,  edullinen_ostos,@ (a very small sum; "he bought it for a song") }
+{ matka-alennus<approximate/>,  edullinen_ostos,@ (a bargain rate for travellers on commercial routes (usually air routes)) }
+{ lahjoitus<unconfirmed/>,  [ luovutus<unconfirmed/>, verb.possession:luovuttaa<unconfirmed/>8,+ verb.possession:luovuttaa4,+]  [ luovutustoimi<unconfirmed/>, verb.possession:luovuttaa4,+]  omaisuus<broader/>3,@ noun.group:laki,;c ((law) a transfer of property by deed of conveyance) }
+{ apanaasi,  lahjoitus<unconfirmed/>,@ (a grant (by a sovereign or a legislative body) of resources to maintain a dependent member of a ruling family; "bishoprics were received as appanages for the younger sons of great families") }
+{ kiinteän_omaisuuden_lahjoitus,  lahjoitus<unconfirmed/>,@ (a grant of public land (as to a railway or college)) }
+{ [ voitto, tappio,! tappio<unconfirmed/>1,!]  summa,@ (the amount by which the revenue of a business exceeds its cost of operating) }
+{ taloudellinen_hyöty,  voitto,@ (the amount of monetary gain) }
+{ [ tulot, menot,!]  [ ansio, menot,!]  taloudellinen_hyöty,@ (the financial gain (earned or unearned) accruing over a given period of time) }
+{ käytettävissä_oleva_tulo,  tulot,@ valtionvero,;c (income (after taxes) that is available to you for saving or spending) }
+{ tulojen_saaminen_kahtaalta,  tulot,@ (two incomes received from the same source (as by holding a government job and receiving a government pension)) }
+{ helppo_raha,  hyvä_rahanlähde,  helppo_ja_tuottoisa_homma,  tulot,@ (income obtained with a minimum of effort) }
+{ käyttökate,  tulot,@ (income before interest and taxes and depreciation and amortization have been subtracted; an indicator of a company's profitability that is watched by investors (especially in leveraged buyouts)) }
+{ [ halpa_raha, tiukat_rahamarkkinat,!]  noun.state:varallisuusasema,@ (the economic condition in which credit is easy to secure) }
+{ [ tiukat_rahamarkkinat, halpa_raha,!]  noun.state:varallisuusasema,@ (the economic condition in which credit is difficult to secure and interest rates are high) }
+{ omaisuuden_palautuminen_valtiolle,  omaisuus<broader/>3,@ (the property that reverts to the state) }
+{ [ brutto, adj.all:brutto-,+]  tulot1,  [ bruttotulo, adj.all:brutto-,+]  [ bruttoansio, adj.all:brutto-,+]  kokonaistulot,  summa,@ (the entire amount of income before any deductions are made) }
+{ kansantulo,  noun.attribute:arvo1,@ (the total value of all income in a nation (wages and profits and interest and rents and pension payments) during a given period (usually 1 yr)) }
+{ bruttokansantuote,  BKT,  noun.attribute:arvo1,@ (former measure of the United States economy; the total market value of goods and services produced by all citizens and capital during a given period (usually 1 yr)) }
+{ reaalibruttokansantuote,  reaali-BKT,  bruttokansantuote,@ (a version of the GNP that has been adjusted for the effects of inflation) }
+{ bruttokansantuote1,  BKT1,  noun.attribute:arvo1,@ (the measure of an economy adopted by the United States in 1991; the total market values of goods and services produced by workers and capital within a nation's borders during a given period (usually 1 year)) }
+{ deflaattori,  noun.quantity:kerroin2,@ (a statistical factor designed to remove the effect of inflation; inflation adjusted variables are in constant dollars) }
+{ rojalti,  tekijänpalkkio,  maksu,@ (payment to the holder of a patent or copyright or resource for the right to use their property; "he received royalties on his book") }
+{ lipunmyynti<approximate/>,  brutto,@ (total admission receipts for an entertainment) }
+{ pääsylipputulot,  yleisömäärä,  brutto,@ (total admission receipts at a sports event) }
+{ ansiotulot,  ansiot,  liikevoitto,  mammona,  tulos,  voitto1,  tuotto,  nettotulo,  nettotulos,  netto,  nettoansio,  nettovoitto,  tulot,@ (the excess of revenues over outlays in a given period of time (including depreciation and other non-cash expenses)) }
+{ [ realisoitumaton_voitto, realisoitumaton_tappio,!]  voitto,@ (an unrealized gain on an investment calculated by subtracting the investor's cost from the current market price) }
+{ [ realisoitumaton_tappio, realisoitumaton_voitto,!]  tappio,@ (an unrealized loss on an investment calculated by subtracting the current market price from the investor's cost) }
+{ kassavirta,  tulot,@ (the excess of cash revenues over cash outlays in a give period of time (not including non-cash expenses)) }
+{ henkilökohtainen_tulo,  tulot,@ (the income received by a single individual) }
+{ tulos/osake,  ansiotulot,@ (the portion of a company's profit allocated to each outstanding share of common stock) }
+{ ennakoimaton_voitto,  ansiotulot,@ (profit that occurs unexpectedly as a consequence of some event not controlled by those who profit from it) }
+{ äkkirikastuminen,  puhdistus,  ansiotulot,@ noun.communication:puhekielen_ilmaus,;u (a very large profit) }
+{ [ voitto2, häviöt,! verb.possession:voittaa,+ verb.competition:voittaa,+]  taloudellinen_hyöty,@ (something won (especially money)) }
+{ vuokratulot,  tulot,@ (income received from rental properties) }
+{ [ tuotto1, verb.creation:tuottaa6,+]  myyntitulot,  tulos1,  voitto3,  tulot,@ (the income or profit arising from such transactions as the sale of land or other property; "the average return was about 5%") }
+{ helppo_tulo,  ansiotulot,@ (quick or easy earnings, "they are traders out to make a fast buck") }
+{ kurja_mammona,  ansiotulot,@ (shameful profit; "he would sell his soul for filthy lucre") }
+{ bruttokate,  bruttotuotto,  bruttovoitto,  kokonaistuotto,  bruttokateprosentti,  bruttotuottoprosentti,  voittomarginaali<unconfirmed/>,  voittovara,  ansiotulot,@ noun.act:yrityksen_rahoitus,;c ((finance) the net sales minus the cost of goods and services sold) }
+{ bruttotulot_myynnistä,  kauppavaihto,  liikevaihto,  menekki,  myynti,  vaihto,  tulot,@ (income (at invoice values) received for goods and services over some given period of time) }
+{ nettomyynti,  tulot,@ (gross sales reduced by customer discounts, returns, freight out, and allowances) }
+{ voittomarginaali1,  käyttökate1,  tuottoprosentti,  noun.relation:suhde3,@ (the ratio gross profits divided by net sales) }
+{ ansaitsemattomat_tulot,  ansaitsematon_korvaus,  tulot,@ noun.cognition:kirjanpito,;c ((accounting) income received but not yet earned (usually considered a current liability on a company's balance sheet)) }
+{ ansaitsemattomat_tulot1,  ansaitsematon_korvaus1,  tulot,@ valtionvero,;c (personal income that you did not earn (e.g., dividends or interest or rent income)) }
+{ kunnan_tulot<narrower/>,  valtion_tulot<narrower/>,  tulot,@ (income available to the government) }
+{ [ verotulot, verb.possession:verottaa1,+]  [ verokertymä, verb.possession:verottaa1,+]  kunnan_tulot<narrower/>,@ (government income due to taxation) }
+{ sisäiset_verot,  verotulot,@ (government revenue from domestic sources (excluding customs)) }
+{ tulot_henkeä_kohti,  tulot,@ (the total national income divided by the number of people in the nation) }
+{ varastettu_omaisuus,  omaisuus<broader/>3,@ (property that has been stolen) }
+{ ryöstösaalis,  sotasaalis,  saalis,  varastettu_omaisuus,@ noun.communication:monikko,;u ((usually plural) valuables taken by violence (especially in war); "to the victor belong the spoils of the enemy") }
+{ [ ryöstösaalis1, verb.possession:ryövätä3,+]  saalis1,  kaapattu_vihollisalus,  likaiset_rahat<unconfirmed/>,  sotasaalis1,  varastettu_omaisuus,@ (goods or money obtained illegally) }
+{ perintö,  omaisuus<broader/>3,@ noun.group:laki,;c (that which is inherited; a title or property or estate that passes by law to the heir on the death of the owner) }
+{ esikoisoikeus,  perintö,@ (right of inheritance belongs exclusively to the eldest son) }
+{ borough_English<unconfirmed/>,  perintö,@ (a former English custom by which the youngest son inherited land to the exclusion of his older brothers) }
+{ akresenssi,  perintö,@ noun.group:laki,;c ((law) an increase in a beneficiary's share in an estate (as when a co-beneficiary dies or fails to meet some condition or rejects the inheritance)) }
+{ jäämistö,  perintö1,  legaatti,  testamentti,  lahja,@ perintö,@ noun.group:laki,;c ((law) a gift of personal property by will) }
+{ esikoisoikeus1,  syntymäoikeus,  isänperintö,  perintö2,  perintö,@ (an inheritance coming by right of birth (especially by primogeniture)) }
+{ testamenttaus,  lahja,@ perintö,@ noun.group:laki,;c ((law) a gift of real property by will) }
+{ lesken_osa,  lesken_osuus,  kuolemaan_päättyvä_omistusoikeus,@ (a life estate to which a wife is entitled on the death of her husband) }
+{ perintö<broader/>3,  omaisuus2,@ noun.group:laki,;c ((law) an estate secured to a prospective wife as a marriage settlement in lieu of a dower) }
+{ ilmainen_lounas<unconfirmed/>,  lahja,@ (something acquired without effort or payment or obligation; "there is no free lunch in politics or Hollywood") }
+{ perintökalleus,  perintö,@ (something that has been in a family for generations) }
+{ perintökalu<unconfirmed/>,  omaisuus,@ perintö,#p noun.group:laki,;c ((law) any property that is considered by law or custom as inseparable from an inheritance is inherited with that inheritance) }
+{ [ lahja, verb.possession:lahjoittaa,+]  hankinta,@ (something acquired without compensation) }
+{ myötäjäiset,  lahja,@ (money or property brought by a woman to her husband at marriage) }
+{ myötäjäiset<unconfirmed/><note>morsiamen_perheen_antama/tässä_sulhasen_morsiamen_perheelle\,_eli_eri_asia</note>1,  lahja,@ (money or property given (in some societies) by the bridegroom to the family of his bride) }
+{ lahjoitukset,  lahja,@ (a gift or money given (as for service or out of benevolence); usually given ostentatiously) }
+{ avustus,  taloudellinen_apu,  raha-avustus,  taloudellinen_tuki,  lahja,@ (money to support a worthy person or cause) }
+{ [ stipendi, noun.person:stipendiaatti,+]  apuraha,  avustus,@ palkinto,@ (financial aid provided to a student on the basis of academic merit) }
+{ stipendi1,  avustus,@ palkinto,@ (money granted (by a university or foundation or other agency) for advanced study or research) }
+{ ulkomaanapu,  avustus,@ noun.group:sotavoimat,;c (aid (such as economic or military assistance) provided to one nation by another) }
+{ Marshall-apu,  Marshall-suunnitelma,  Euroopan_palautumisohjelma,  ulkomaanapu,@i (a United States program of economic aid for the reconstruction of Europe (1948-1952); named after George Marshall) }
+{ apuraha1,  avustus1,  määräraha,  stipendi2,  avustus,@ (any monetary aid) }
+{ lahjoitus1,  [ tuki, verb.possession:tukea,+]  tukiainen,  valtionapu,  apuraha1,@ (a grant paid by a government to an enterprise that benefits the public; "a subsidy for research in artificial intelligence") }
+{ [ tuki1, verb.communication:tukea1,+]  valtiontuki,  lahjoitus1,@ (grant of financial aid as from a government to an educational institution) }
+{ hintatuki,  lahjoitus1,@ (a government subsidy used to maintain prices at a certain level) }
+{ koulutusavustus<unconfirmed/>,  opetustoimen_valtionapu<unconfirmed/>,  opintoavustus<unconfirmed/>,  apuraha1,@ avustus,@ (a grant to a person or school for some educational project) }
+{ post_doc_-apuraha,  koulutusavustus<unconfirmed/>,@ (a grant that funds postdoctoral study or research) }
+{ [ harjoittelustipendi, noun.person:harjoittelija2,+]  avustus,@ (financial aid that enables you to get trained for a specified job; "the bill provided traineeships in vocational rehabilitation") }
+{ juomaraha,  palveluraha,  palkinto,@ (an award (as for meritorious service) given without claim or obligation) }
+{ palkinto,  voitto4,  lahja,@ (something given for victory or superiority in a contest or competition or for winning a lottery; "the prize was a free trip to Europe") }
+{ arpalippu,  palkinto,@ (tickets are passed out at the entrance to a dance or party or other social function and a prize is awarded to the holder of the winning ticket) }
+{ jättipotti,  palkinto,@ (any outstanding award) }
+{ palkintoraha,  palkinto,@ (any money given as a prize) }
+{ lahja1,  lahja,@ (something presented as a gift; "his tie was a present from his wife") }
+{ synttärilahja,  syntymäpäivälahja,  lahja1,@ (a present given in celebration of a person's birthday) }
+{ joululahja,  lahja1,@ (a present given at Christmas time) }
+{ joululahja<broader/>1,  joululahja,@ (a small Christmas present included in the Christmas stocking) }
+{ häälahja,  lahja1,@ (a present given to someone getting married) }
+{ morsiuslahja,  häälahja,@ (a wedding present to the bride) }
+{ takaisinostoarvo,  summa,@ (the amount that the insurance company will pay on a given life insurance policy if the policy is cancelled prior to the death of the insured) }
+{ maksuosuus,  summa,@ (an amount of money contributed; "he expected his contribution to be repaid with interest") }
+{ avustus2,  [ lahjoitus2, verb.possession:lahjoittaa2,+]  [ lahja2, verb.possession:lahjoittaa2,+]  tuki2,  lahja,@ (a voluntary gift (as of money or service or ideas) made to some worthwhile cause) }
+{ lahjoitus3,  rahalahjoitus,  avustus2,@ (a contribution of money or assistance) }
+{ kolehti,  avustus2,@ (money contributed to a religious organization) }
+{ kymmenykset,  kolehti,@ (an offering of a tenth part of some personal income) }
+{ kolehti1,  kolehti,@ (the offerings of the congregation at a religious service) }
+{ savuvero,  pietarinpenninki,  kolehti,@ (an annual contribution made by Roman Catholics to support the papal see) }
+{ kampanjalahjoitus,  poliittinen_lahjoitus,  avustus2,@ (a contribution made to a politician or a political campaign or a political party) }
+{ vaalirahoitus,  kampanjalahjoitus,@ (political contributions made in such a way as to avoid the United States regulations for federal election campaigns (as by contributions to a political action committee)) }
+{ lahjoitus4,  lahjarahasto,  omaisuus5,@ (the capital that provides income for an institution) }
+{ arvokas_lahja<approximate/>,  lahja,@ (a gift that significantly increases the recipient's wealth) }
+{ kirkon_omaisuus,  perintö4,  lahjoitus4,@ (a church endowment) }
+{ rahasto<note>sielumessujen_laulamiseen</note>,  lahjoitus4,@ (an endowment for the singing of Masses) }
+{ lahja<broader/>3,  lahja,@ (a small gift (especially one given by a merchant to a customer who makes a purchase)) }
+{ [ lahja4, verb.possession:lahjoittaa4,+]  lahja,@ (a gift that is bestowed or conferred) }
+{ löytöpalkkio,  palkkio,  palkka2,@ noun.act:hallinto,;c (payment or reward (especially from a government) for acts such as catching criminals or killing predatory animals or enlisting in the military) }
+{ bonus,  palkkio1,  palkinto,@ bonus1,@ (a prize, bonus, or award given as an inducement to purchase products, enter competitions initiated by business interests, etc.; "they encouraged customers with a premium for loyal patronage") }
+{ ilmaislahja,  kylkiäinen,  lahja,@ (something that is free (usually provided as part of a promotional scheme); "the road map was a freebie") }
+{ lahja<broader/><unconfirmed/><note>yleisomaisuus\,_josta_hyötyy_pieni_ryhmä</note>5,  lahja,@ noun.communication:puhekielen_ilmaus,;u (a gift of public land or resources for the private gain of a limited group) }
+{ lahjahevonen,  lahja,@ (a gift (usually of inferior quality) that should be accepted uncritically; "it wasn't much, but don't look a gift horse in the mouth") }
+{ kiitoslahja,  kolehti,@ (an offering made as an expression of thanks) }
+{ bonus1,  kannustin,  kannuste,  kannustuspalkkio,  lisäetu,  palkkio2,  maksu,@ kannustinohjelma,#p (an additional payment (or other remuneration) to employees as a means of increasing output) }
+{ kannustinohjelma,  kannustejärjestelmä,  noun.cognition:suunnitelma3,@ (a formal scheme for inducing someone (as employees) to do something) }
+{ [ vähennyskelpoinen_summa, adj.all:vähennyskelpoinen,+]  summa,@ valtionvero,;c ((taxes) an amount that can be deducted (especially for the purposes of calculating income tax)) }
+{ kavallus,  summa,@ (the sum of money that is misappropriated) }
+{ osinko,  bonus1,@ (a bonus; something extra (especially a share of a surplus)) }
+{ provisio,  bonus1,@ (remuneration offered to a salesperson for exceeding some predetermined sales goal) }
+{ avustus3,  määräraha1,  vähennys,  oikaisu,  tarkistus,  hyvitys,@ (an amount added or deducted on the basis of qualifying circumstances; "an allowance for profit") }
+{ elinkustannuskorvaus,  avustus3,@ (an allowance for changes in the consumer price index) }
+{ hyvitys_arvonalennuksesta,  avustus3,@ (an allowance for loss due to depreciation) }
+{ vähennys1,  alennus,  avustus3,@ (an amount or percentage deducted) }
+{ alennus1,  vähennys1,@ (a discount from the list price of a commodity allowed by a manufacturer or wholesaler to a merchant) }
+{ kausittainen_tarkistus,  avustus3,@ (a statistical adjustment made to accommodate predictable fluctuations as a function of the season of the year; "seasonal adjustments for housing starts must be made in mid-winter") }
+{ taara,  tyhjäpaino,  avustus3,@ (an adjustment made for the weight of the packaging in order to determine the net weight of the goods) }
+{ [ menot, tulot,! ansio,!]  [ kulut, verb.possession:kuluttaa1,+]  kustannukset,  omaisuus<broader/>3,@ (money paid out; an amount spent) }
+{ kulut1,  maksut,  käytetyt_varat,  menot1,  kustannus,@ (amounts paid for goods and services that may be currently tax deductible (as opposed to capital expenditures)) }
+{ kustannus,  menot,@ (the total spent for goods or services including money and time and labor) }
+{ liikekulu,  liikemeno,  liikekustannus,  kulut1,@ (ordinary and necessary expenses incurred in a taxpayer's business or trade) }
+{ korkokustannus,  kulut1,@ (interest paid on loans) }
+{ lobbauskustannukset,  kulut1,@ (expenses incurred in promoting or evaluating legislation; "many lobbying expenses are deductible by a taxpayer") }
+{ lääkärikulut,  kulut1,@ (amount spent for diagnosis or treatment or prevention of medical problems) }
+{ apporttikustannukset,  kulut1,@ (an expense (such as depreciation) that is not paid for in cash) }
+{ muuttokulut,  kulut1,@ (the cost of moving your residence from one location to another) }
+{ käyttökustannukset,  käyttökulut,  yleiskulut,  talousarviokohdat,  kulut1,@ käyttöbudjetti,#p valtionvero,;c (the expense of maintaining property (e.g., paying property taxes and utilities and insurance); it does not include depreciation or the cost of financing or income taxes) }
+{ muodostamiskulut,  liikekulu,@ (the cost (over a period of five years) of organizing a new corporation or partnership) }
+{ henkilökohtainen_kulu,  kulut1,@ (the cost of personal or family living; "some personal expenses are tax deductible") }
+{ mainoskustannus,  myynninedistämiskustannus,  liikekulu,@ (the cost of promoting a product) }
+{ kulut2,  menot2,  menot,@ (money spent to perform work and usually reimbursed by an employer; "he kept a careful record of his expenses at the meeting") }
+{ tuki<broader/>3,  tulonsiirto,  menot,@ (a public expenditure (as for unemployment compensation or veteran's benefits) that is not for goods and services) }
+{ pääomamenot,  kustannus,@ (the cost of long-term improvements) }
+{ [ maksu, maksamatta_jättäminen,! verb.possession:maksaa1,+ verb.possession:maksaa2,+ verb.possession:maksaa3,+]  kustannus,@ (a sum of money paid or a claim discharged) }
+{ liikasuoritus,  maksu,@ (a payment larger than needed or expected) }
+{ alipalkkaaminen,  maksu,@ (a payment smaller than needed or expected) }
+{ palkka,  [ ansiotulot1, verb.possession:ansaita5,+]  korvaus,  [ ansio1, verb.possession:ansaita5,+]  liksa,  säännöllinen_palkka,@ palkkalista,#p (something that remunerates; "wages were paid by check"; "he wasted his pay on drink"; "they saved a quarter of all their earnings") }
+{ taistelupalkkio,  palkka,@ (extra pay for soldiers engaged in active combat) }
+{ kaksinkertainen_palkka,  ylityöpalkka,  palkka,@ (a doubled wage (for working overtime)) }
+{ ylläpito,  palkka,@ (food and lodging provided in addition to money; "they worked for $30 and found") }
+{ puoli_palkkaa,  palkka,@ (reduced wage paid to someone who is not working full time) }
+{ elämiseen_riittävä_palkka,  toimeentuloon_riittävä_palkka,  palkka,@ (a wage sufficient for a worker and family to subsist comfortably) }
+{ tulospalkkio,  palkka,@ (extra pay awarded to an employee on the basis of merit (especially to school teachers)) }
+{ vähimmäispalkka,  palkka,@ (the lowest wage that an employer is allowed to pay; determined by contract or by law) }
+{ tilipussi,  palkkapussi,  palkka,@ (wages enclosed in an envelope for distribution to the wage earner) }
+{ sairausajan_palkka,  palkka,@ (wages paid to an employee who is on sick leave) }
+{ lakkoavustus,  palkka,@ (money paid to strikers from union funds) }
+{ käteen_jäävä_palkka,  käytettävissä_oleva_palkka,  nettopalkka,  palkka,@ (what is left of your pay after deductions for taxes and dues and insurance etc) }
+{ tilausmaksu,  maksu,@ (a payment for consecutive issues of a newspaper or magazine for a given period of time) }
+{ säännöllinen_palkka,  maksu,@ (a payment made at regular times) }
+{ ansiotaso,  palkkataso,  hinta3,@ (amount of money received per unit time; "women's pay rate is lower than men's") }
+{ ylityökorvaus,  ansiotaso,@ (a rate of pay that is 1.5 times the regular rate; for overtime work) }
+{ maksuaikataulu,  hinta3,@ (the amount of money paid out per unit time) }
+{ palkkamurhaajan_palkkio,  maksu,@ (paid to a hired murderer) }
+{ [ hyvitys, verb.possession:hyvittää1,+]  maksu,@ (payment or reward (as for service rendered)) }
+{ palautus,  takaisinmaksu,  maksu,@ (money returned to a payer) }
+{ ostohyvitys,  alennus2,  hinnanalennus,  hyvitys1,  palautus1,  palautus,@ (a refund of some fraction of the amount paid) }
+{ vuokran_hyvitys,  ostohyvitys,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a rebate on rent given by a local government authority) }
+{ [ korvaus1, verb.possession:korvata1,+ verb.possession:korvata2,+]  vastike,  palkka1,  palkkio3,  hyvitys,@ (something (such as money) given or received as payment or reparation (as for a service or loss or injury)) }
+{ ylikompensaatio,  korvaus1,@ (excessive compensation) }
+{ työntekijän_korvaus,  korvaus1,@ (compensation for death or injury suffered by a worker in the course of his employment) }
+{ omantunnonsyistä_suoritetut_maksut,  maksu,@ (payment made voluntarily to reduce guilt over dishonest dealings) }
+{ kannatusmaksu,  maksu,@ (a payment made by one person for the support of another) }
+{ avopuolison_elatusapu,  kannatusmaksu,@ (support paid by one half of an unmarried partnership after the relationship ends) }
+{ elatusapu_entiselle_aviopuolisolle,  ylläpito1,  elatusapu,  kannatusmaksu,@ (court-ordered support paid by one spouse to another after they are separated) }
+{ palkka2,  maksu,@ (payment made in return for a service rendered) }
+{ palkkio4,  palkka2,@ (a fee paid for a nominally free service) }
+{ lunnaat,  lunnasrahat,  kustannus,@ (money demanded for the return of a captured person) }
+{ henkirahat,  verirahat,  palkka2,@ (a reward for information about a murderer) }
+{ palkkio5,  palkka2,@ (a reward or payment) }
+{ palkinto<approximate/>1,  palkka2,@ noun.communication:arkaismi,;u (a fitting reward) }
+{ vaitioloraha,  lahjus,@ (a bribe paid to someone to insure that something is kept secret) }
+{ [ lahjus, verb.possession:lahjoa,+]  maksu,@ (payment made to a person in a position of trust to corrupt his judgment) }
+{ [ lahjus1, verb.possession:lahjoa3,+]  lahjus,@ (a commercial bribe paid by a seller to a purchasing agent in order to induce the agent to enter into the transaction) }
+{ lahjus2,  lahjus,@ (a bribe given to a disc jockey to induce him to promote a particular record) }
+{ lahjukset,  lahjus,@ (money offered as a bribe) }
+{ osa,  osuus,  erä,  palkkio6,  prosenttiosuus,  omaisuus4,@ ansiotulot,#p (assets belonging to or due to or contributed by an individual person or group; "he wanted his share in cash") }
+{ osuus<broader/>1,  osa,@ (a portion of something (especially money)) }
+{ [ jakelu, verb.body:jakaa,+]  osa,@ (a share that has been dispensed or distributed) }
+{ almu,  avustus4,  osa,@ (a share of money or food or clothing that has been charitably given) }
+{ osa1,  osa,@ (a portion of something divided into shares; "they split the loot three ways") }
+{ osuus2,  osa,@ (a fixed portion that is allotted (especially in times of scarcity)) }
+{ määräraha2,  tuki4,  osa,@ (an amount allowed or granted (as during a given period); "travel allowance"; "my weekly allowance of two eggs"; "a child's allowance should not be too generous") }
+{ osuus3,  pala,  osa,@ (a share of something; "a slice of the company's revenue") }
+{ osuus4,  osa,@ (a promised or claimed share of loot or money; "he demanded his split before they disbanded") }
+{ osakkuus,  osuus5,  sijoitus,  osa,@ noun.group:laki,;c ((law) a right or legal share of something; a financial involvement with something; "they have interests all over the world"; "a stake in the company's future") }
+{ [ sijoitus<unconfirmed/>1, verb.possession:sijoittaa<unconfirmed/>,+]  osakkuus,@ (funds advanced to a prospector or to someone starting a business in return for a share of the profits) }
+{ määräysvallan_tuova_omistusosuus,  osakkuus,@ (ownership of more than 50% of a corporation's voting shares) }
+{ vakuutuskelpoinen_etu,  osakkuus,@ (an interest in a person or thing that will support the issuance of an insurance policy; an interest in the survival of the insured or in the preservation of the thing that is insured) }
+{ asianosainen,  osakkuus,@ noun.group:laki,;c ((law) an interest in which there is a fixed right to present or future enjoyment and that can be conveyed to another) }
+{ arvopaperiosakkuus,  osakkuus,@ (any interest in a property that secures the payment of an obligation) }
+{ määräaikainen_sijoitus,  osakkuus,@ (an interest in property that terminates under specific conditions) }
+{ yhteisvastuullinen_osakkuus<unconfirmed/>,  yhteisvastuu<unconfirmed/>,  osakkuus,@ (the interest in property owned by tenants whereby each tenant has an equal right to enjoy the entire property) }
+{ hallintaoikeus2,  osakkuus,@ (an interest in land capable of being inherited) }
+{ rajoittamaton_omistusoikeus,  hallintaoikeus2,@ (a fee without limitation to any class of heirs; they can sell it or give it away) }
+{ sääntöperintö,  hallintaoikeus2,@ (a fee limited to a particular line of heirs; they are not free to sell it or give it away) }
+{ sääntöperintötila,  tila,@ (land received by fee tail) }
+{ voiton_jakaminen,  tulospalkkaus,  osa,@ (a system in which employees receive a share of the net profits of the business) }
+{ osuus6,  osa,@ ryöstösaalis1,#p (a share of the profits; "everyone got a cut of the earnings") }
+{ välityspalkkio,  osuus6,@ (a percentage (of winnings or loot or profit) taken by an operator or gangster) }
+{ kiintiö,  osuus7,  [ varaus, verb.possession:varata1,+]  osa,@ (a share set aside for a specific purpose) }
+{ uudelleenjako,  kiintiö,@ (a share that has been allocated again) }
+{ määräosuus,  kiintiö,@ (a proportional share assigned to each participant) }
+{ menoerä,  määräraha3,  raha1,@ noun.group:lainsäädäntöelin,;c (money set aside (as by a legislature) for a specific purpose) }
+{ [ hyvitys2, verb.possession:hyvittää,+]  [ korvaus2, verb.possession:korvata,+]  takaisinmaksu1,  korvaus1,@ (compensation paid (to someone) for damages or losses or money already spent etc.; "he received reimbursement for his travel expenses") }
+{ palkkaedut,  korvaus1,@ (compensation received by virtue of holding an office or having employment (usually in the form of wages or fees); "a clause in the U.S. constitution prevents sitting legislators from receiving emoluments from their own votes") }
+{ henkirahat1,  verirahat1,  korvaus1,@ (compensation paid to the family of a murdered person) }
+{ [ hyvitys3, verb.possession:hyvittää2,+]  korvaus3,  vahingonkorvaus,  korvaus1,@ (a sum of money paid in compensation for loss or injury) }
+{ korvaus4,  hyvitys3,@ noun.group:laki,;c ((law) redress awarded by a court; "was the relief supposed to be protection from future harm or compensation for past injury?") }
+{ vastapaino,  korvaus1,@ (a compensating equivalent) }
+{ vahingonkorvaus1,  hyvityssakko,  lain_mukainen_vahingonkorvaus,  tavanomainen_vahingonkorvaus,  hyvitys3,@ noun.group:laki,;c ((law) compensation for losses that can readily be proven to have occurred and for which the injured party has the right to be compensated) }
+{ nimellinen_vahingonkorvaus,  hyvitys3,@ noun.group:laki,;c ((law) a trivial sum (usually $1.00) awarded as recognition that a legal injury was sustained (as for technical violations of a contract)) }
+{ vahingonkorvaus2,  korvaus5,  hyvitys3,@ noun.group:laki,;c ((law) compensation in excess of actual damages (a form of punishment awarded in cases of malicious or willful misconduct)) }
+{ kaksinkertainen_vahingonkorvaus,  vahingonkorvaus2,@ (twice the amount that a court would normally find the injured party entitled to) }
+{ vahingonkorvaus<broader/>3,  vahingonkorvaus2,@ (three times the amount that a court would normally find the injured party entitled to) }
+{ sotakorvaus,  korvaus1,@ noun.communication:monikko,;u ((usually plural) compensation exacted from a defeated nation by the victors; "Germany was unable to pay the reparations demanded after World War I") }
+{ hyvitys4,  korvaus1,@ (compensation (given or received) for an insult or injury; "an act for which there is no reparation") }
+{ hyvitys5,  sovitus,  hyvitys3,@ (compensation for a wrong; "we were unable to get satisfaction from the local store") }
+{ uusintapalkkio,  maksu,@ noun.communication:monikko,;u ((often plural) a payment that is made to a performer or writer or director of a television show or commercial that is paid for every repeat showing; "he could retire on his residuals") }
+{ köyhyysraja,  henkilökohtainen_tulo,@ (a level of personal income defining the state of poverty) }
+{ määräraha4,  tuki5,  hyvitys2,@ (a sum granted as reimbursement for expenses) }
+{ hyvitys<broader/>6,  hyvitys2,@ (reimbursement for goods damaged while in transit or in use) }
+{ korvaus_oikeudenkäyntikuluista,  hyvitys2,@ (pecuniary reimbursement to the winning party for the expenses of litigation) }
+{ päiväraha,  määräraha4,@ (a daily allowance for living expenses (especially while traveling in connection with your job)) }
+{ matkamääräraha,  määräraha4,@ (a sum allowed for travel) }
+{ mailikorvaus,  matkamääräraha,@ (a travel allowance at a given rate per mile traveled) }
+{ apuraha2,  [ stipendi3, adj.pert:stipendi-,+]  säännöllinen_palkka,@ (a sum of money allotted on a regular basis; usually for some specific purpose) }
+{ hallitsijan_palkkio<approximate/>,  määräraha2,@ (allowance for a monarch's personal expenses) }
+{ prebendi<unconfirmed/>,  apuraha2,@ (the stipend assigned by a cathedral to a canon) }
+{ vuosimaksu,  korko,  säännöllinen_palkka,@ (income from capital investment paid in a series of regular payments; "his retirement fund was set up to be paid as an annuity") }
+{ ennakkovuosimaksu,  vuosimaksu,@ (an annuity paid in a series of more or less equal payments at the beginning of equally spaced periods; "rent payable in advance constitutes an annuity in advance for the landlord") }
+{ tasaerä,  vuosimaksu,@ (an annuity paid in a series of more or less equal payments at the end of equally spaced periods) }
+{ toissijainen_annuiteetti,  vuosimaksu,@ (an annuity payable to one person in the event that someone else is unable to receive it) }
+{ tontiini,  vuosimaksu,@ (an annuity scheme wherein participants share certain benefits and on the death of any participant his benefits are redistributed among the remaining participants; can run for a fixed period of time or until the death of all but one participant) }
+{ [ vuokra, verb.possession:vuokrata,+ verb.social:vuokrata,+ adj.pert:vuokra-,+ verb.social:vuokrata2,+ verb.possession:vuokrata1,+]  ennakkovuosimaksu,@ (a payment or series of payments made by the lessee to an owner for use of some property, facility, equipment, or service) }
+{ maanvuokra,  vuokra,@ (payment for the right to occupy and improve a piece of land) }
+{ nimellinen_vuokra,  vuokra,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (very low or nominal rent) }
+{ nylkyvuokra,  vuokra,@ (an extortionate rent) }
+{ maankorko,  tuotto1,@ (the return derived from cultivated land in excess of that derived from the poorest land cultivated under similar conditions) }
+{ tuotto2,  tuotto1,@ (financial return or reward (especially returns equal to the initial investment)) }
+{ osamaksujärjestelmä,  vähittäismaksukauppa,  time_plan,  säännöllinen_palkka,@ (a system for paying for goods by installments) }
+{ osamaksu1,  osamaksukauppa,  osamaksujärjestelmä,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (installment plan; "we bought a car on the never-never") }
+{ avustus5,  korvaus6,  päiväraha1,  tuki6,  maksu,@ (financial assistance in time of need) }
+{ elinkustannusetuus,  avustus5,@ (a benefit that goes to anyone whose money receipts increase automatically as prices rise) }
+{ henkivakuutus,  avustus5,@ (insurance or pension money payable to a beneficiary of a deceased) }
+{ ennakkokuolinkorvaus<unconfirmed/>,  henkivakuutus,@ (a percentage of death benefits paid directly to policy holders having a short life expectancy (usually 6 months)) }
+{ kuolemansairaan_ihmisen_henkivakuutuksen_realisointi,  ennakkokuolinkorvaus<unconfirmed/>,@ (cash derived from sale of an insurance policy by a terminally ill policy holder) }
+{ työkyvyttömyysetuus,  avustus5,@ (insurance benefits paid in case of disability) }
+{ sairauspäiväraha,  avustus5,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (money paid (by the government) to someone who is too ill to work) }
+{ luontoisetu,  työsuhde-etu,  etu,  etuus,  avustus5,@ (an incidental benefit awarded for certain types of employment (especially if it is regarded as a right); "a limousine is one of the fringe benefits of the job") }
+{ luontaisetu,  luontoisetu1,  luontoisetu,@ (any customary and rightful perquisite appropriate to your station in life; "for thousands of years the chair was an appanage of state and dignity rather than an article of ordinary use") }
+{ verohelpotus,  verovähennys,@ (a tax deduction that is granted in order to encourage a particular type of commercial activity) }
+{ juomaraha1,  tippi,  luontoisetu,@ (a relatively small amount of money given for services rendered (as by a waiter)) }
+{ jouluraha,  juomaraha1,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a present given at Christmas for services during the year) }
+{ elatusapu1,  kannatusmaksu,@ (court-ordered support paid by one spouse to the other who has custody of the children after the parents are separated) }
+{ kertasumma,  könttäsumma,  kertakorvaus,  kertamaksu,  maksu,@ (a complete payment consisting of a single sum of money) }
+{ maksu1,  viimeinen_suoritus,  maksu,@ (the final payment of a debt) }
+{ rahalähetys,  [ maksuosoitus, verb.possession:maksaa6,+]  suoritus,  maksu,@ (a payment of money sent to a person in another place) }
+{ takaisinmaksu2,  hyvitys7,  maksu,@ (payment of a debt or obligation) }
+{ takaisinosto,  takaisinmaksu2,@ noun.group:rekisteröity_yhtiö,;c (repayment of the principal amount of a debt or security at or before maturity (as when a corporation repurchases its own stock)) }
+{ vertauskuvallinen_maksu,  maksu,@ (a small payment made in acknowledgement of an obligation) }
+{ [ maksamatta_jättäminen, maksu,!]  maksun_laiminlyönti,  taloudellinen_tappio,@ (loss resulting from failure of a debt to be paid) }
+{ maksun_laiminlyönti1,  maksamatta_jättäminen,@ (nonpayment of a debt when due) }
+{ [ laiminlyönti, verb.possession:laiminlyödä_maksu,+]  maksamatta_jättäminen1,  noun.act:epäonnistuminen,@ (act of failing to meet a financial obligation) }
+{ sakko,  sopimuskorvaus,  sopimussakko,  maksu,@ (a payment required for not fulfilling a contract) }
+{ nälkäpalkka,  mitätön_summa,  maksu,@ (an inadequate payment; "they work all day for a mere pittance") }
+{ rangaistus,  sakko,@ (a justly deserved penalty) }
+{ [ menetys, verb.possession:menettää2,+]  sakko,@ (a penalty for a fault or mistake that involves losing or giving up something; "the contract specified forfeits if the work was not completed on time") }
+{ [ menetys1, verb.possession:menettää2,+]  menetys2,@ (something that is lost or surrendered as a penalty; ) }
+{ [ sakko1, verb.social:sakottaa,+ verb.possession:sakottaa,+]  [ sakkorangaistus, verb.social:sakottaa1,+]  sakko,@ (money extracted as a penalty) }
+{ kirjastosakko,  sakko1,@ (fine imposed by a library on books that overdue when returned) }
+{ vakuutusmaksu,  maksu,@ (payment for insurance) }
+{ lyhennyserä,  osamaksuerä,  maksu,@ (a payment of part of a debt; usually paid at regular intervals) }
+{ määrärahojen_ylittäminen,  kustannus,@ (excess of cost over budget; "the cost overrun necessitated an additional allocation of funds in the budget") }
+{ elinkustannukset,  kustannus,@ (average cost of basic necessities of life (as food and shelter and clothing); "a rise in the cost of living reflects the rate of inflation") }
+{ lainakulut,  kustannus,@ (the cost of borrowing something) }
+{ jakelukustannukset,  kustannus,@ (any cost incurred by a producer or wholesaler or retailer or distributor (as for advertising and shipping etc)) }
+{ toimituskustannus,  käsittelymaksu,  kustannus,@ (the cost of handling (especially the cost of packaging and mailing an order)) }
+{ myyntikulut,  kustannus,@ (the cost of marketing (e.g., the cost of transferring title and moving goods to the customer)) }
+{ tuotantokustannus,  kustannus,@ (combined costs of raw material and labor incurred in producing goods) }
+{ vaihtokustannukset<unconfirmed/>,  kustannus,@ (current cost of replacing a fixed asset with a new one of equal effectiveness) }
+{ lisääntymisen_kustannukset,  fyysinen_arvo<unconfirmed/>,  kustannus,@ (cost of reproducing physical property minus various allowances (especially depreciation)) }
+{ yksikköhinta,  kustannus,@ (calculated cost for a given unit of a product) }
+{ [ hinta, adj.all:kallis^hintava1,+ verb.possession:hinnoitella,+]  korvaus7,  kustannus,@ (the amount of money needed to purchase something; "the price of gasoline"; "he got his new car on excellent terms"; "how much is the damage?") }
+{ hinta1,  kustannus,@ (cost of bribing someone; "they say that every politician has a price") }
+{ kate,  ansiotulot,@ (the amount added to the cost to determine the asking price) }
+{ pyyntihinta,  myyntihinta,  hinta,@ (the price at which something is offered for sale) }
+{ ostokurssi,  hinta,@ noun.artifact:osakemarkkinat,;c ((stock market) the price at which a broker is willing to buy a certain security) }
+{ päivän_loppukurssi,  hinta,@ noun.artifact:osakemarkkinat,;c ((stock market) the price of the last transaction completed during a day's trading session) }
+{ myyntihinta1,  pyyntihinta,@ noun.artifact:osakemarkkinat,;c ((stock market) the price at which a broker is willing to sell a certain security) }
+{ lähtöhinta,  pohjahinta,  pyyntihinta,@ noun.act:huutokauppa,;c ((auction) the minimum price at which a seller of property will entertain bids) }
+{ tehdashinta,  hinta,@ (price charged for goods picked up at the factory) }
+{ rosvous,  ylihinta,  hinta,@ (an exorbitant price; "what they are asking for gas these days is highway robbery") }
+{ listahinta,  ohjevähittäishinta,  pyyntihinta,@ (the selling price of something as stated in a catalogue or price list; often subject to discounts; "I got it at 30% off the list price") }
+{ ostohinta,  hinta,@ (the price at which something is actually purchased) }
+{ avistahinta,  päivän_hinta,  käteishinta,  spot-hinta,  hinta,@ (the current delivery price of a commodity traded in the spot market) }
+{ tukitaso,  hinta,@ noun.artifact:osakemarkkinat,;c ((stock market) the price at which a certain security becomes attractive to investors) }
+{ arvioitu_hinta,  hinta,@ (assessed price; "the valuation of this property is much too high") }
+{ vaihtoehtoiskustannus,  kustannus,@ (cost in terms of foregoing alternatives) }
+{ pääomakustannus,  vaihtoehtoiskustannus,@ (the opportunity cost of the funds employed as the result of an investment decision; the rate of return that a business could earn if it chose another investment with equivalent risk) }
+{ pääomakustannus1,  varastokustannus,  vaihtoehtoiskustannus,@ (the opportunity cost of unproductive assets; the expense incurred by ownership) }
+{ kuljetusmaksu,  kustannus,@ (the cost of carrying or transporting) }
+{ satunnainen_kulu,  satunnainen_kustannus,  vähäinen_kustannus,  oheiskulu,  kulut2,@ noun.communication:monikko,;u ((frequently plural) an expense not budgeted or not specified; "he requested reimbursement of $7 for incidental expenses") }
+{ matkakulut,  kulut2,@ noun.communication:monikko,;u ((frequently plural) expenses incurred by an employee in the performance of the job and usually reimbursed by the employer) }
+{ maksu2,  hinta2,  taksa,  kustannus,@ (the price charged for some article or service; "the admission charge") }
+{ siirtokustannus<unconfirmed/>,  maksu2,@ (charge made for carrying an account or for merchandise sold on an installment plan) }
+{ poisto,  maksu2,@ (an amount periodically charged to expense or against revenue in compensation for depreciation of property) }
+{ [ aliveloitus, verb.possession:aliveloittaa,+]  maksu2,@ (a price that is too low) }
+{ [ ylihinta1, verb.possession:ylihinnoitella,+]  maksu2,@ (a price that is too high) }
+{ kiskonta,  ylihinta1,@ (an exorbitant charge) }
+{ korkkiraha,  palvelulisä,@ (a charge added at a restaurant for every bottle of wine served that was not bought on the premises) }
+{ taksa1,  matkalipun_hinta,  tariffi,  maksu2,@ (the sum charged for riding in a public conveyance) }
+{ lennon_hinta,  lentolipun_hinta,  taksa1,@ (the fare charged for traveling by airplane) }
+{ bussimaksu,  taksa1,@ (the fare charged for riding a bus or streetcar) }
+{ taksimaksu,  taksa1,@ (the fare charged for riding in a taxicab) }
+{ metrolippu,  junalippu,@ (the fare charged for riding a subway train) }
+{ junalippu,  taksa1,@ (the fare charged for traveling by train) }
+{ vero,  maksu7,@ (a charge imposed and collected) }
+{ valtionvero,  [ verotus, verb.possession:verottaa1,+]  vero1,  vero,@ (charge against a citizen's person or property or activity for the support of government) }
+{ verokanta,  omaisuus4,@ (collective value of taxable assets) }
+{ veroprosentti,  veroaste,  hinta3,@ (rate used to calculate tax liability) }
+{ verovelvollisuus,  vastattavat,@ (the amount of tax owed; calculated by applying the tax rate to the tax base) }
+{ maavero,  yksinkertainen_verotus,  valtionvero,@ (a system of taxation in which a tax is levied on a single commodity (usually land)) }
+{ tulovero,  valtionvero,@ (a personal tax levied on annual income) }
+{ siirtyminen<broader/><note>siirtyminen_korkeampaan_veroluokkaan</note>,  tulovero,@ (a movement into a higher tax bracket as taxable income increases) }
+{ arvioverotus,  tulovero,@ (income tax paid periodically on income that is not subject to withholding taxes; based on the taxpayer's predicted tax liability) }
+{ FICA,  tulovero,@ (a tax on employees and employers that is used to fund the Social Security system) }
+{ liiketoimintavähennys<unconfirmed/>,  verovähennys,@ (tax write-off for expenses of doing business) }
+{ verovapaus,  verovähennys,@ (a deduction allowed to a taxpayer because of his status (having certain dependents or being blind or being over 65 etc.); "additional exemptions are allowed for each dependent") }
+{ edustusmääräraha<approximate/>,  liiketoimintavähennys<unconfirmed/>,@ (deduction allowed for some (limited) kinds of entertainment for business purposes) }
+{ ennakonpidätys,  tulovero,@ (income tax withheld from employees' wages and paid directly to the government by the employer) }
+{ ennakonpidätys1,  ennakonpidätys,@ (the British system of withholding tax) }
+{ ansaitsemattomat_tulot2,  ansioton_arvonnousu,  taloudellinen_hyöty,@ (an unearned rise in the market value of property resulting from general market factors) }
+{ pääomatulo,  pääomavoitto,  taloudellinen_hyöty,@ (the amount by which the selling price of an asset exceeds the purchase price; the gain is realized when the asset is sold) }
+{ myyntitappio,  pääomatappio,  taloudellinen_tappio,@ (the amount by which the purchase price of an asset exceeds the selling price; the loss is realized when the asset is sold) }
+{ pääomatulovero,  valtionvero,@ (a tax on capital gains; "he avoided the capital gains tax by short selling") }
+{ pääomavero,  valtionvero,@ (a tax on capital or property) }
+{ lähtövero,  valtionvero,@ (a tax that is levied when you are departing a country by land or sea or air) }
+{ omaisuusvero,  varallisuusvero,  pääomavero,@ (a capital tax on property imposed by municipalities; based on the estimated value of the property) }
+{ kiinteistövero<approximate/>,  omaisuusvero,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a tax levied on households by local authorities; based on the estimated value of the property and the number of people living in it) }
+{ toimilupavero,  valtionvero,@ (a tax that is imposed by states on corporations; it depends both on the net worth of the corporation and on its net income attributable to activities within the state) }
+{ lahjavero,  valtionvero,@ (a tax imposed on transfers of property by gift during the lifetime of the giver) }
+{ perintövero,  omaisuudensiirtovero,@ (a tax on the estate of the deceased person) }
+{ välitön_vero,  valtionvero,@ (a tax paid directly by the person or organization on whom it is levied) }
+{ veroetu,  noun.attribute:etu4,@ (an advantage bestowed by legislation that reduces a tax on some preferred activity) }
+{ verosuoja,  noun.act:pienentäminen,@ (a way of organizing business to reduce the taxes it must pay on current earnings) }
+{ välillinen_vero,  valtionvero,@ (a tax levied on goods or services rather than on persons or organizations) }
+{ piilovero,  välillinen_vero,@ valtionvero,;c (a tax paid unwittingly by the consumer (such as ad valorem taxes)) }
+{ henkivero,  valtionvero,@ (a tax levied on the basis of a fixed amount per person) }
+{ henkilökohtainen_kunnallisvero,  henkivero,@ (a tax of a fixed amount per person and payable as a requirement for the right to vote) }
+{ progressiivinen_vero,  porrastettu_vero,  valtionvero,@ (any tax in which the rate increases as the amount subject to taxation increases) }
+{ suhteellinen_vero,  valtionvero,@ (any tax in which the rate is constant as the amount subject to taxation increases) }
+{ aleneva_verokanta,  valtionvero,@ (any tax in which the rate decreases as the amount subject to taxation increases) }
+{ kunnallinen_kiinteistövero,  valtionvero,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a local tax on property (usually used in the plural)) }
+{ köyhäinhoitovero,  kunnallinen_kiinteistövero,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a local tax for the relief of the poor) }
+{ leimavero,  valtionvero,@ (a tax collected by requiring a stamp to be purchased and attached (usually on documents or publications)) }
+{ lisävero,  tulovero,@ (an additional tax on certain kinds of income that has already been taxed) }
+{ vero<broader/>2,  valtionvero,@ (a tax toward paving streets) }
+{ omaisuudensiirtovero,  varainsiirtovero,  valtionvero,@ (any tax levied on the passing of title to property) }
+{ kymmenykset1,  vero,@ (a levy of one tenth of something) }
+{ special_assessment,  valtionvero,@ (an additional tax levied on private property for public improvements that enhance the value of the property) }
+{ tulli,  maksu3,  tariffi1,  tullimaksu,  välillinen_vero,@ (a government tax on imports or exports; "they signed a treaty to lower duties on trade between their countries") }
+{ valmistevero,  välillinen_vero,@ (a tax that is measured by the amount of business done (not on property or income from real estate)) }
+{ myyntivero,  valmistevero,@ (a tax based on the cost of the item purchased and collected directly from the buyer) }
+{ ALV,  arvonlisävero,  ad_valorem_tax,  valmistevero,@ (a tax levied on the difference between a commodity's price before taxes and its cost of production) }
+{ bensiinivero,  valmistevero,@ (a tax on every gallon of gasoline sold) }
+{ tulli1,  tuontitulli,  tulli,@ (money collected under a tariff) }
+{ laivaraha,  tulli1,@ (an impost levied in England to provide money for ships for national defense) }
+{ vero<broader/>3,  tulli,@ (a tax imposed on ships that enter the US; based on the tonnage of the ship) }
+{ tulli2,  tulli,@ (a tax on various goods brought into a town) }
+{ finanssitulli,  tulli,@ (a tariff imposed to raise revenue) }
+{ suojatulli,  tulli,@ (a tariff imposed to protect domestic firms from import competition) }
+{ polkumyyntitulli,  suojatulli,@ (a tariff imposed to prevent dumping) }
+{ tuontimaksu,  tulli,@ (a duty imposed on imports) }
+{ vientitulli,  tulli,@ (a duty imposed on exports) }
+{ tasoitustulli,  tulli,@ (a duty imposed to offset subsidies by foreign governments) }
+{ kiinteä_maksu,  kiinteä_kustannus,  kiinteät_kulut,  maksu2,@ (a periodic charge that does not vary with business volume (as insurance or rent or mortgage payments etc.)) }
+{ sisäänpääsymaksu,  kuverttimaksu,  kiinteä_maksu,@ (a fixed charge by a restaurant or nightclub over and above the charge for food and drink) }
+{ korko1,  kiinteä_maksu,@ (a fixed charge for borrowing money; usually a percentage of the amount borrowed; "how much interest do you pay on your mortgage?") }
+{ koronkorko,  korko1,@ (interest calculated on both the principal and the accrued interest) }
+{ yksinkertainen_korko,  korko1,@ (interest paid on the principal alone) }
+{ korko2,  hinta3,@ (the percentage of a sum of money charged for its use) }
+{ diskonttokorko,  korko2,@ (interest on an annual basis deducted in advance on a loan) }
+{ diskonttokorko1,  korkokanta,  pankkikorko,  diskonttokorko,@ (the discount rate fixed by a central bank) }
+{ diskonttokorko2,  korko2,@ noun.location:Yhdysvallat,;r (the rate of interest set by the Federal Reserve that member banks are charged when they borrow money through the Federal Reserve System) }
+{ peruskorko,  korko2,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (the interest rate set by the Bank of England for lending to other banks) }
+{ primekorko,  korko2,@ (the interest rate on short-term loans that banks charge their commercial customers with high credit ratings) }
+{ [ kiskurikorko, adj.all:kohtuuton1^kiskuri-,+]  kohtuuton_korko,  korko2,@ (an exorbitant or unlawful rate of interest) }
+{ maksu4,  palkkio7,  kiinteä_maksu,@ (a fixed charge for a privilege or for professional services) }
+{ ankkurimaksu,  ankkurointimaksu,  maksu4,@ (a fee for anchoring) }
+{ säilytysmaksu<broader/>,  maksu4,@ (a charge for storing goods in a cellar) }
+{ komissio,  maksu4,@ (a fee for services rendered based on a percentage of an amount received or collected or agreed to be paid (as distinguished from a salary); "he works on commission") }
+{ oikeudenkäynnin_tulokseen_perustuva_ehdollinen_palkkio,  maksu4,@ (a fee that is payable only if the outcome is successful (as for an attorney's services)) }
+{ telakkamaksut,  telakkamaksu,  maksu4,@ (a fee charged for a vessel to use a dock) }
+{ palautusmaksu,  maksu4,@ (a fee added for returning a rented car to a location different from the one where it was rented) }
+{ pääsymaksu,  sisäänpääsymaksu1,  maksu4,@ (the fee charged for admission) }
+{ löytöpalkkio1,  maksu4,@ (a fee that is paid to someone who finds a source of financial backing or to someone who brings people together for business purposes; "the agency got a finder's fee when their candidate was hired as the new CEO") }
+{ oikeudenkäyntikulut<unconfirmed/>,  maksu4,@ noun.group:laki,;c (a fee paid for legal service) }
+{ lisenssimaksu,  maksu4,@ noun.cognition:lääketiede,;c (a fee paid to the government for the privilege of being licensed to do something (as selling liquor or practicing medicine)) }
+{ lisäpalkkio,  oikeudenkäyntikulut<unconfirmed/>,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a fee (in addition to that marked on the brief) paid to counsel in a case that lasts more than one day) }
+{ lotjamaksu,  proomumaksu,  maksu4,@ (the fee charged for carrying goods in lighters) }
+{ sulkumaksu,  maksu4,@ (a fee charged for passage through a lock in a canal or waterway) }
+{ leimauspalkkio,  maksu4,@ (fee paid to a mint by the government for minting a coin) }
+{ ankkurimaksu1,  maksu4,@ (a fee for mooring) }
+{ luotonavausmaksu,  maksu4,@ (a fee charged to a borrower (especially for a mortgage loan) to cover the costs of initiating the loan) }
+{ putkien_käyttömaksu<unconfirmed/>,  maksu4,@ (a fee charged for the use of pipes) }
+{ luovutusmaksu,  maksu4,@ (a fee charged for the recovery of impounded animals) }
+{ ennakkopalkkio,  korvaus8,  ennakkomaksu,  maksu5,  maksu4,@ (a fee charged in advance to retain the services of someone) }
+{ korvaus9,  hyvitys8,  vastasuoritus,  vaihtokauppa,  ennakkopalkkio,@ (something for something; that which a party receives (or is promised) in return for something he does or gives or promises) }
+{ maksu<approximate/>6,  maksu4,@ (charged by a government for coining bullion) }
+{ tullimaksu1,  tulli3,  maksu4,@ (a fee levied for the use of roads or bridges (used for maintenance)) }
+{ kuljetusmaksu1,  maksu4,@ (a fee charged for transporting goods by truckage) }
+{ lukukausimaksu,  koulumaksu,  maksu4,@ noun.act:opetus1,;c (a fee paid for instruction (especially for higher education); "tuition and room and board were more than $25,000") }
+{ laiturimaksu,  maksu4,@ (a fee charged for the use of a wharf or quay) }
+{ välityspalkkio1,  myyntipalkkio,  preemio,  agio,  maksu2,@ (a fee charged for exchanging currencies) }
+{ makausmaksu,  maksu2,@ (a charge required as compensation for the delay of a ship or freight car or other cargo beyond its scheduled time of departure) }
+{ asennusmaksu,  maksu2,@ (the charge for installing something) }
+{ [ kantopalkkio, verb.contact:kantaa4,+]  maksu2,@ (the charge for carrying burdens by porters) }
+{ postimaksu,  maksu2,@ (the charge for mailing something) }
+{ naulahinta<unconfirmed/>,  maksu2,@ (a charge based on weight measured in pounds) }
+{ hinta3,  taksa2,  maksu2,@ (amount of a charge or payment relative to some basis; "a 10-minute phone call at that rate would cost $5") }
+{ vesimaksu,  maksu2,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (rate per quarter for water from a public supply) }
+{ lisämaksu,  lisäveloitus,  maksu2,@ (an additional charge (as for items previously omitted or as a penalty for failure to exercise common caution or common skill)) }
+{ yhden_hengen_huoneen_lisäkustannus,  lisämaksu,@ (a surcharge added to the cost per person when traveling alone) }
+{ palvelulisä,  palvelumaksu,  maksu2,@ (a percentage of a bill (as at a hotel or restaurant) added in payment for service) }
+{ varastointimaksu,  maksu2,@ (the charge for stowing goods) }
+{ säiliöintimaksu,  maksu2,@ (the charge for storing something in tanks) }
+{ [ rahti, verb.motion:rahdata,+]  [ rahtaus, verb.motion:rahdata,+ verb.contact:rahdata2,+]  rahtimaksu,  kuljetusmaksu2,  hinta3,@ (the charge for transporting something by common carrier; "we pay the freight"; "the freight rate is usually cheaper") }
+{ poistokerroin,  poistotaso,  hinta3,@ (the rate at which the value of property is reduced; used to calculate tax deduction) }
+{ vaihtokurssi,  valuuttakurssi,  hinta3,@ (the charge for exchanging currency of one country for currency of another) }
+{ meno-paluuhinta<approximate/>,  hinta3,@ (a reduced rate for a round-trip ticket) }
+{ palkka_jalan_mittaa_kohti,  hinta3,@ (a rate of charging by the linear foot of work done) }
+{ linage<approximate/>,  lineage<approximate/>,  hinta3,@ (a rate of payment for written material that is measured according to the number of lines submitted) }
+{ taksa3,  hinta3,@ (the rate charged daily for a hotel room) }
+{ [ tappio, voitto,!]  [ tappio<unconfirmed/>1, voitto,!]  alijäämä,  summa,@ (the amount by which the cost of a business exceeds its revenue; "the company operated at a loss last year"; "the company operated in the red last year") }
+{ tappio2,  tappio,@ (a situation in which increased costs cannot be passed on to the customer; "increased expenses put a squeeze on profits") }
+{ menetys2,  omaisuus<broader/>3,@ (something that is lost; "the car was a total loss"; "loss of livestock left the rancher bankrupt") }
+{ taloudellinen_tappio,  menetys2,@ (loss of money or decrease in financial value) }
+{ tappio3,  menetys2,@ (a loss entailed by giving up or selling something at less than its value; "he had to sell his car at a considerable sacrifice") }
+{ hävikki,  menetys2,@ (anything lost by wear or waste) }
+{ arvon_aleneminen,  kulumisesta_johtuva_arvonalennus,  arvon_lasku,  arvon_väheneminen,  arvonalennus,  taloudellinen_tappio,@ apporttikustannukset,@ (decrease in value of an asset due to obsolescence or use) }
+{ tasapoistomenetelmä,  arvon_aleneminen,@ noun.cognition:kirjanpito,;c ((accounting) a method of calculating depreciation by taking an equal amount of the asset's cost as an expense for each year of the asset's useful life) }
+{ alennus3,  arvon_aleneminen,@ noun.cognition:kirjanpito,;c ((accounting) reduction in the book value of an asset) }
+{ verovähennys,  alennus3,@ (a reduction in the gross amount on which a tax is calculated; reduces taxes by the percentage fixed for the taxpayer's income bracket) }
+{ [ häviöt, voitto2,!]  tappiot,  taloudellinen_tappio,@ (something lost (especially money lost at gambling)) }
+{ taloudellinen_asema,  noun.Tops:omaisuus,@ (a person's financial situation (good or bad); "he found himself in straitened circumstances") }
+{ omaisuus4,  varallisuus2,  varat,  noun.Tops:omaisuus,@ noun.communication:monikko,;u (anything of material value or usefulness that is owned by a person or company) }
+{ maksettavat,  vastattavat,@ (money that you currently expect to pay on notes and accounts) }
+{ saatavat,  omaisuus4,@ noun.communication:monikko,;u (money that you currently expect to receive from notes or accounts) }
+{ kruununjalokivi,  omaisuus4,@ (the most desirable assets of a corporation; "their crown jewels figured prominently in the takeover attempt") }
+{ hyvissä_varoissa,  omaisuus4,@ noun.communication:monikko,;u (a source of substantial wealth (usually plural); "a patron of the arts should have deep pockets") }
+{ varapääoma,  omaisuus4,@ noun.communication:monikko,;u (capital held back from investment in order to meet probable or possible demands) }
+{ erityisnosto-oikeus,  varapääoma,@ (reserve assets in the International Monetary Fund; designed to supplement reserves of gold and convertible currencies used to maintain stability in the foreign exchange market) }
+{ summa,  rahamäärä,  rahasumma,  määrä,  rahaerä,  omaisuus4,@ (a quantity of money; "he borrowed a large sum"; "the amount he had in cash was insufficient") }
+{ hinta4,  summa,@ (an amount of money expressed numerically; "a figure of $17 was suggested") }
+{ resurssit,  omaisuus4,@ (available source of wealth; a new or reserve supply that can be drawn upon when needed) }
+{ luonnonvara,  luonnonvarat,  luonnonrikkaus,  resurssit,@ (resources (actual and potential) supplied by nature) }
+{ työvoimaresurssit,  resurssit,@ (resources of available manpower) }
+{ maavarat,  luonnonvara,@ (natural resources in the form of arable land) }
+{ mineraalivarat,  luonnonvara,@ (natural resources in the form of minerals) }
+{ uusiutuva_luonnonvara,  luonnonvara,@ (any natural resource (as wood or solar energy) that can be replenished naturally with the passage of time) }
+{ aineeton_etu,  aineeton_hyödyke,  omaisuus4,@ (assets that are saleable though not material or physical) }
+{ goodwill-arvo,  liikearvo,  mainearvo,  aineeton_etu,@ noun.cognition:kirjanpito,;c ((accounting) an intangible asset valued according to the advantage or reputation a business has acquired (over and above its tangible assets)) }
+{ käteisvarat,  vaihto-omaisuus,  käyttövarat,  omaisuus4,@ pääoma1,#m noun.communication:monikko,;u (assets in the form of cash (or easily convertible into cash)) }
+{ [ sijoitus2, verb.possession:sijoittaa4,+]  sijoitusrahastot,  omaisuus4,@ (money that is invested with an expectation of profit) }
+{ osake,  osakkuus,@ (the ownership interest of shareholders in a corporation) }
+{ osaamispääomasijoitus,  osake,@ (interest in a building that a tenant earns by contributing to its renovation or maintenance) }
+{ oma_pääoma,  omaisuus4,@ (the difference between the market value of a property and the claims held against it) }
+{ osakepääoma,  pääoma1,@ (the capital raised by a corporation through the issue of shares entitling holders to an ownership interest (equity); "he owns a controlling share of the company's stock") }
+{ osakkeenomistus1,  omistus,@ (ownership of stocks; the state or fact of holding stock; "prohibition of unrestricted intercorporate stockholding"- W.Z.Ripley") }
+{ osakkeenomistus2,  omaisuus,@ (a specific number of stocks or shares owned; "sell holdings he has in corporations") }
+{ osakepääoma1,  kirjanpitoarvo,@ (the book value of the outstanding shares of a corporation) }
+{ kannattava_osake,  vakavarainen_osake,  blue-chip_stock<unconfirmed/>,  kantaosakkeet,@ (a common stock of a nationally known company whose value and dividends are reliable; typically have high price and low yield; "blue chips are usually safe investments") }
+{ luokiteltu_osake,  kantaosakkeet,@ (common stock classified as A or B where A has certain advantages (e.g., voting power) that B does not) }
+{ kantaosakkeet,  osakepääoma,@ (stock other than preferred stock; entitles the owner to a share of the corporation's profits and a share of the voting power in shareholder elections; "over 40 million Americans invest in common stocks") }
+{ osakerekisteriin_merkitty_omistus,  kantaosakkeet,@ (stock held by stockholders of record on a given date) }
+{ nimellisarvo,  noun.attribute:arvo1,@ (the value of a security that is set by the company issuing it; unrelated to market value) }
+{ nimellishinnaton_osake,  nimellishinnattomat_osakkeet,  osakepääoma,@ (stock with no par value specified in the corporate charter or on the stock certificate) }
+{ etuoikeusosake,  etuoikeutettu_osake,  osakepääoma,@ (stock whose holders are guaranteed priority in the payment of dividends but whose holders have no voting rights) }
+{ kumulatiivinen_etuoikeutettu_osake,  etuoikeusosake,@ (preferred stock whose dividends if omitted accumulate until paid out) }
+{ osakeannin_merkitsemätön_osa,  osakepääoma,@ (the number of shares outstanding and available for trading by the public) }
+{ kantaosakevastike,  osakepääoma,@ (preferred stock or convertible bonds or warrants that can be converted into common stock) }
+{ määrävähemmistö,  osakepääoma,@ (shares owned by shareholders who have a controlling interest) }
+{ kasvupaperi,  osakepääoma,@ (stock of a corporation that has had faster than average gains in earnings and is expected to continue to) }
+{ kuuma_tuote,  osakepääoma,@ (newly issued stock that is in great public demand) }
+{ pennin_osake,  noteeraamaton_osake,@ (a stock selling for less that $1/share) }
+{ kirjanpitoarvo,  noun.attribute:arvo1,@ (the value at which an asset is carried on a balance sheet; equals cost minus accumulated depreciation) }
+{ markkina-arvo,  markkinahinta,  noun.attribute:arvo1,@ (the price at which buyers and sellers trade the item in an open marketplace) }
+{ obligaatioemissio,  obligaatiolaina,  joukkovelkakirja,@ (bonds sold by a corporation or government agency at a particular time and identifiable by date of maturity) }
+{ vaihtovelkakirja,  joukkovelkakirja,@ (a bond that can be converted to other securities under certain conditions) }
+{ yrityksen_liikkeeseen_laskema_joukkovelkakirja,  joukkovelkakirja,@ (a bond issued by a corporation; carries no claim to ownership and pays no dividends but payments to bondholders have priority over payments to stockholders; "a corporate bond is a safer investment than common stock in the same company") }
+{ kuponkiobligaatio,  haltijaobligaatio,  joukkovelkakirja,@ (a bond issued with detachable coupons that must be presented to the issuer for interest payments) }
+{ valtionobligaatio,  joukkovelkakirja,@ (a bond that is an IOU of the United States Treasury; considered the safest security in the investment world) }
+{ roskalaina,  vakuudeton_joukkovelkakirjalaina,  joukkovelkakirja,@ (a (speculative) bond with a credit rating of BB or lower; issued for leveraged buyouts and other takeovers by companies with questionable credit) }
+{ kuntatodistus,  joukkovelkakirja,@ (a bond issued by a state or local government) }
+{ lunastamattomissa_oleva_obligaatio,  joukkovelkakirja,@ (a bond containing a provision that the holder cannot redeem the security before a specific date (usually at maturity)) }
+{ suoritustakaus,  suoritustakuu,  toimitustakaus,  joukkovelkakirja,@ (a bond given to protect the recipient against loss in case the terms of a contract are not filled; a surety company assumes liability for nonperformance) }
+{ odotettua_perintöä_vastaan_tehty_velkakirja,  joukkovelkakirja,@ (a bond made by a reversioner to secure a loan; payable out of his reversion) }
+{ kirjattu_obligaatio<unconfirmed/>,  kirjatut_arvopaperit<unconfirmed/>,@ joukkovelkakirja,@ (a bond whose owner is recorded on the books of the issuer; can be transferred to another owner only when endorsed by the registered owner) }
+{ tuottotodistus<unconfirmed/>,  joukkovelkakirja,@ (a bond issued by an agency that is commissioned to finance public works; revenue from the public property is used to pay off the bond) }
+{ [ kiinnitetty_velkakirja, velkasitoumus,!]  joukkovelkakirja,@ (a bond that is back by collateral) }
+{ [ velkasitoumus, kiinnitetty_velkakirja,!]  obligaatio,  joukkovelkakirja,@ (the ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future) }
+{ valtion_velkakirjat<unconfirmed/>,  arvopaperi,@ (a security issued by United States government agencies or the Farm Credit System) }
+{ kiinnitysvakuus,  arvopaperi,@ (a security created when a group of mortgages are gathered together and bonds are sold to other institutions or the public; investors receive a portion of the interest payments on the mortgages as well as the principal payments; usually guaranteed by the government) }
+{ kirjatut_arvopaperit<unconfirmed/>,  arvopaperi,@ (a security whose owner's name is recorded on the books of the issuer (or issuer's agent)) }
+{ säästöobligaatio,  valtionobligaatio,@ (non-negotiable government bond; cannot be bought and sold once the original purchase is made) }
+{ käyttötuloja_myöntävä_liitto<unconfirmed/>,  kuntatodistus,@ (a bond issued to finance the construction of public utility services) }
+{ nollakuponkilaina,  nollakuponkitakaus<approximate/>,@ joukkovelkakirja,@ noun.group:rekisteröity_yhtiö,;c noun.act:hallinto,;c (a bond that is issued at a deep discount from its value at maturity and pays no interest during the life of the bond; the commonest form of zero-coupon security) }
+{ odotusoikeus,  osakkuus,@ noun.group:laki,;c ((law) an interest in an estate that reverts to the grantor (or his heirs) at the end of some period (e.g., the death of the grantee)) }
+{ omaisuuden_palautuminen_valtiolle1,  odotusoikeus,@ noun.group:laki,;c (a reversion to the state (as the ultimate owner of property) in the absence of legal heirs) }
+{ [ oikeus, verb.social:oikaista,+]  osakkuus,@ noun.communication:monikko,;u ((frequently plural) the interest possessed by law or custom in some intangible thing; "mineral rights"; "film rights") }
+{ omistusoikeus1,  omistusoikeus,@ noun.group:siviilioikeus,;c ((civil law) the right to all of that which your property produces whether by growth or improvement) }
+{ osake1,  osakekirja,@ osakepääoma,#p (any of the equal portions into which the capital stock of a corporation is divided and ownership of which is evidenced by a stock certificate; "he bought 100 shares of IBM at the market price") }
+{ osakekanta,  pääomakanta,  osakepääoma,@ (the maximum number of shares authorized under the terms of a corporation's articles of incorporation) }
+{ osake<broader/>2,  osakepääoma,@ (stock with a par value of $25/share) }
+{ riskisijoitus,  keinottelu,  sijoitus2,@ (an investment that is very risky but could yield great profits; "he knew the stock was a speculation when he bought it") }
+{ panos,  riskisijoitus,@ (money that is risked for possible monetary gain) }
+{ asiantuntijoiden_veikkaamat_rahat,  riskisijoitus,@ (money bet or invested by experienced gamblers or investors (especially if they have inside information)) }
+{ pyramidi,  riskisijoitus,@ noun.artifact:osakemarkkinat,;c ((stock market) a series of transactions in which the speculator increases his holdings by using the rising market value of those holdings as margin for further purchases) }
+{ [ panos1, verb.competition:panna_likoon,+ verb.competition:panna_peliin,+ verb.competition:panna_vaakalaudalle,+]  vedonlyönti,  veto,  panos,@ kimppa,#p (the money risked on a gamble) }
+{ potti,  panos1,@ noun.act:pokeri,;c (the cumulative amount involved in a game (such as poker)) }
+{ avauspanos,  alkupanos,  aloituspanos,  panos1,@ noun.act:pokeri,;c ((poker) the initial contribution that each player makes to the pot) }
+{ arvopaperit,  omaisuus4,@ (defense against financial failure; financial independence; "his pension gave him security in his old age"; "insurance provided protection against loss of wages due to illness") }
+{ hyvät_olot,  arvopaperit,@ (financial security) }
+{ suojaaminen,  riskin_pienentäminen,  arvopaperit,@ (any technique designed to reduce or eliminate financial risk; for example, taking two positions that will offset each other if prices change) }
+{ vakuutussuoja,  summa,@ (the total amount and type of insurance carried) }
+{ [ vakuutus, verb.communication:vakuuttaa7,+]  arvopaperit,@ (promise of reimbursement in the case of loss; paid to people or companies so concerned about hazards that they have made prepayments to an insurance company) }
+{ vakuutus1,  vakuutus,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a British term for some kinds of insurance) }
+{ autovakuutus,  vakuutus,@ (insurance against loss due to theft or traffic accidents) }
+{ no_fault_insurance<note>amerikkalainen_vakuutustermi</note>,  no_fault_automobile_insurance<note>amerikkalainen_vakuutustermi</note>,  autovakuutus,@ (a system of automobile insurance where a party who is injured in an automobile accident recovers damages up to a specific amount against his own insurance company regardless of who was responsible for the accident; "the amount of litigation resulting from minor accidents is reduced by no fault insurance") }
+{ keskeytysvakuutus,  vakuutus,@ (insurance that provides protection for the loss of profits and continuing fixed expenses resulting from a break in commercial activities due to the occurrence of a peril) }
+{ rinnakkaisvakuutus,  vakuutus,@ (insurance issued jointly by two or more underwriters) }
+{ palovakuutus,  vakuutus,@ (insurance against loss due to fire) }
+{ joukkovakuutus,  ryhmävakuutus,  vakuutus,@ (insurance that is purchased by a group (such as the employees of a company) usually at a reduced rate to individual members of the group) }
+{ vahinkovakuutus<broader/>,  vakuutus,@ (insurance that provides protection against certain risks such as storms or fires) }
+{ sairausvakuutus,  vakuutus,@ (insurance against loss due to ill health) }
+{ sairaalavakuutus,  sairausvakuutus,@ (insurance that pays all or part of a patient's hospital expense) }
+{ vastuuvakuutus,  vakuutus,@ (insurance that provides protection from claims arising from injuries or damage to other people or property) }
+{ henkivakuutus1,  kuolemanvaravakuutus,  vakuutus,@ (insurance paid to named beneficiaries when the insured person dies; "in England they call life insurance life assurance") }
+{ elämisenvaravakuutus,  henkivakuutus1,@ (life insurance for a specified amount which is payable to the insured person at the expiration of a certain period of time or to a designated beneficiary immediately upon the death of the insured) }
+{ tontiini1,  tontiinivakuutus,  henkivakuutus1,@ (a form of life insurance whereby on the death or default of a participant his share is distributed to the remaining members) }
+{ koko_elämän_vakuutus,  tavallinen_henkivakuutus,  yhtäjaksoinen_henkivakuutus,  henkivakuutus1,@ (insurance on the life of the insured for a fixed amount at a definite premium that is paid each year in the same amount during the entire lifetime of the insured) }
+{ potilasvakuutus,  vakuutus,@ (insurance purchased by physicians and hospitals to cover the cost of being sued for malpractice; "obstetricians have to pay high rates for malpractice insurance") }
+{ [ jälleenvakuutus, verb.communication:jälleenvakuuttaa1,+]  [ jälleenvakuuttaminen, verb.communication:jälleenvakuuttaa1,+]  vakuutus,@ (sharing the risk by insurance companies; part or all of the insurer's risk is assumed by other companies in return for part of the premium paid by the insured; "reinsurance enables a client to get coverage that would be too great for any one company to assume") }
+{ omatoiminen_vakuutus,  vakuutus,@ (insuring yourself by setting aside money to cover possible losses rather than by purchasing an insurance policy) }
+{ kuolemanvaaravakuutus,  vakuutus,@ (low-cost insurance that is valid only for a stated period of time and has no cash surrender value or loan value; "term insurance is most often associated with life insurance policies") }
+{ sairausvakuutusjärjestelmä<broader/>,  HMO-järjestelmä,  sairausvakuutus,@ (group insurance that entitles members to services of participating hospitals and clinics and physicians) }
+{ takaus,  vakuus,  omaisuus<broader/>3,@ (property that your creditor can claim in case you default on your obligation; "bankers are reluctant to lend without good security") }
+{ vakuus1,  takaus,@ (money given as security for an article acquired for temporary use; "his deposit was refunded when he returned the car") }
+{ käteismaksu,  käsiraha,  maksu,@ (a partial payment made at the time of purchase; the balance to be paid later) }
+{ hyvitys9,  maksu,@ noun.group:laki,;c ((law) the payment of a debt or fulfillment of an obligation; "the full and final satisfaction of the claim") }
+{ vakuus2,  takaus,@ (something of value given by one person to another to bind a contract) }
+{ käsiraha1,  vakuus2,@ (money given by a buyer to a seller to bind a contract) }
+{ vakuuden_asettaminen,  takauksen_asettaminen,  takaus,@ noun.group:laki,;c ((law) a security entered into before a court with a condition to perform some act required by law; on failure to perform that act a sum is forfeited) }
+{ pantti,  arvopaperiosakkuus,@ (a deposit of personal property as security for a debt; "his saxophone was in pledge") }
+{ [ pantti1, verb.possession:pantata,+]  pantti,@ (an article deposited as security) }
+{ takuumaksu,  takuu,  vakuuden_asettaminen,@ noun.communication:rikosoikeus,;c ((criminal law) money that must be forfeited by the bondsman if an accused person fails to appear in court for trial; "the judge set bail at $10,000"; "a $10,000 bond was furnished by an alderman") }
+{ marginaali,  vakuustalletus,  käteismaksu,@ (the amount of collateral a customer deposits with a broker when borrowing from the broker to buy securities) }
+{ investointitili,  sijoitustili,  noun.state:tili,@ (a fund that a customer has entrusted to a securities brokerage; "you can't get a brokerage account unless you have $20,000") }
+{ [ käyttötili<unconfirmed/>, välitystili<unconfirmed/>,!]  investointitili,@ (an account with a securities brokerage whose transactions are settled on a cash basis) }
+{ custodial_account,  käyttötili<unconfirmed/>,@ (a brokerage firm account that parents have created for a minor) }
+{ [ välitystili<unconfirmed/>, käyttötili<unconfirmed/>,!]  investointitili,@ (an account with a securities brokerage in which the broker extends credit) }
+{ [ kiinnitys, verb.possession:kiinnittää,+]  arvopaperiosakkuus,@ (a conditional conveyance of property as security for the repayment of a loan) }
+{ koronpidätysoikeus,  arvopaperiosakkuus,@ (a security interest taken by the seller in return for credit) }
+{ ensimmäinen_kiinnitys<unconfirmed/>,  kiinnitys,@ (a mortgage that has priority over all mortgages and liens except those imposed by law) }
+{ jälkipanttaus,  kiinnitys,@ (a mortgage that is subordinate to a first mortgage) }
+{ irtaimistokiinnitys,  kiinnitys,@ (a loan to buy some personal item; the item (or chattel) is security for the loan) }
+{ pantti2,  vakuus3,  arvopaperiosakkuus,@ (a security pledged for the repayment of a loan) }
+{ takaus1,  takuu<unconfirmed/><note>am</note>1,  pantti2,@ (a collateral agreement to answer for the debt of another in case that person defaults) }
+{ aineellinen_resurssi,  omaisuus4,@ (assets in the form of material possessions) }
+{ [ varakkuus, adj.all:rikas^varakas,+]  rikkaus,  aineellinen_resurssi,@ (an abundance of material possessions and resources) }
+{ kulta<unconfirmed/>,  varakkuus,@ (great wealth; "Whilst that for which all virtue now is sold, and almost every vice--almighty gold"--Ben Jonson") }
+{ omaisuus5,  pääoma,  varallisuus3,  omaisuus4,@ (wealth in the form of money or property owned by a person or business and human resources of economic value) }
+{ varat1,  resurssit1,  omaisuus5,@ (considerable capital (wealth or income); "he is a man of means") }
+{ lompakko,  varat1,@ (your personal financial means; "that car is too expensive for my pocketbook") }
+{ varat2,  varat1,@ (the necessary means (especially financial means)) }
+{ [ riskipääoma, noun.person:riskipääomasijoittaja,+]  pääoma1,@ (wealth available for investment in new or speculative enterprises) }
+{ [ pääoma1, verb.change:pääomittaa,+ verb.possession:pääomittaa,+]  käyttöpääoma,  omaisuus4,@ (assets available for use in the production of further assets) }
+{ liikepääoma,  pääoma1,@ (capital available for the operations of a firm (e.g. manufacturing or transportation) as distinct from financial transactions and long-term improvements) }
+{ selonteko,  selvitys,  tilinteko,  tilitys,  tiliote,  noun.communication:tilikertomus,@ (a statement of recent transactions and the resulting balance; "they send me an accounting every month") }
+{ tuloilmoitus,  tuloslaskelma,  tulostase,  noun.communication:tilikertomus,@ (a financial statement that gives operating results for a specific period) }
+{ pääomatase,  selonteko,@ noun.cognition:rahoitus,;c ((finance) an account of the net value of a business at a specified date) }
+{ pääomatase1,  selonteko,@ maksutase,#p noun.cognition:taloustiede,;c ((economics) that part of the balance of payments recording a nation's outflow and inflow of financial securities) }
+{ pääoma2,  omaisuus5,@ (capital as contrasted with the income derived from it) }
+{ alkupääoma,  pääoma1,@ (capital needed to set up a new business or enterprise) }
+{ varat3,  rahavarat,  käteinen<unconfirmed/>,  omaisuus4,@ (assets in the form of money) }
+{ pankki,  varat3,@ (the funds held by a gambling house or the dealer in some gambling games; "he tried to break the bank at Monte Carlo") }
+{ rahat,  rahavarat1,  varat4,  rahatukku,  setelinippu,  varat3,@ noun.act:liikeyritys,;c (a roll of currency notes (often taken as the resources of a person or business etc.); "he shot his roll on a bob-tailed nag") }
+{ kukkaro,  tasku,  varat3,@ (a supply of money; "they dipped into the taxpayers' pockets") }
+{ Medicaid-varat,  varat3,@ (public funds used to pay for Medicaid) }
+{ varallisuus4,  varat5,  varat3,@ (the funds of a government or institution or individual) }
+{ rahavaranto,  varat3,@ (the total stock of money in the economy; currency held by the public plus money in accounts in banks) }
+{ M1",  rahavaranto,@ (a measure of the money supply; includes currency in circulation plus demand deposits or checking account balances) }
+{ M2",  rahavaranto,@ (a measure of the money supply; M1 plus net time deposits (other than large certificates of deposit)) }
+{ M3",  rahavaranto,@ (a measure of the money supply; M2 plus deposits at institutions that are not banks (such as savings and loan associations)) }
+{ valtion_kassa,  kassa,  varallisuus4,@ (a treasury for government funds) }
+{ tukiainen1,  menoerä,@ (a legislative appropriation designed to ingratiate legislators with their constituents) }
+{ rahasto<approximate/>1,  varallisuus4,@ (the treasury of a public institution or religious order) }
+{ vararahasto,  varallisuus4,@ (a subordinate treasury or place of deposit) }
+{ valtiovarainministeriö,  varallisuus4,@ (a state treasury or exchequer or a royal treasury; originally the public treasury of Rome or the emperor's private purse) }
+{ varat6,  rahavarat2,  raha1,@ (a reserve of money set aside for some purpose) }
+{ sijoitusrahasto,  varat6,@ (the pooled money that is invested in assets) }
+{ indeksiosuusrahasto,  ETF,  sijoitusrahasto,@ (a mutual fund that is traded on a stock exchange) }
+{ indeksirahasto,  sijoitusrahasto,@ (a mutual fund whose assets are stocks on a given list) }
+{ revolving_fund,  varat6,@ (a fund which, if borrowed or used, is intended to be replenished so it may be loaned or spent repeatedly) }
+{ kuoletusrahasto,  varat6,@ (a fund accumulated regularly in a separate account and used to redeem debt securities) }
+{ [ säästöt, verb.possession:säästää1,+]  pesämuna,  varat6,@ (a fund of money put by as a reserve) }
+{ pankkitili,  noun.state:tili,@ (a fund that a customer has entrusted to a bank and from which the customer can make withdrawals; "he moved his bank account to a new bank") }
+{ siirtotili,  pankkitili,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (an account at a post office that can be used in similar ways to an account at a bank) }
+{ eläkerahasto,  eläkesäätiö,  varat6,@ (a fund reserved to pay workers' pensions when they retire from service) }
+{ kampanjarahasto,  sotakassa,  varat6,@ noun.cognition:valtiotiede,;c (a fund accumulated to finance a war (or a political campaign)) }
+{ lahjusrahasto,  varat6,@ (a fund for buying votes or bribing public officials) }
+{ omaisuus<broader/>6,  omaisuus,@ (something (as property) held by one party (the trustee) for the benefit of another (the beneficiary); "he is the beneficiary of a generous trust set up by his father") }
+{ [ aktiivinen_säätiö<unconfirmed/>, passiivinen_omaisuuden_hoitovelvollisuus,!]  omaisuus<broader/>6,@ (a trust in which the trustee must perform certain duties) }
+{ sokea_usko,  varaukseton_luottamus,  omaisuus<broader/>6,@ (a trust that enables a person to avoid possible conflict of interest by transferring assets to a fiduciary; the person establishing the trust gives up the right to information about the assets) }
+{ [ passiivinen_omaisuuden_hoitovelvollisuus, aktiivinen_säätiö<unconfirmed/>,!]  omaisuus<broader/>6,@ (a trust in which the trustee performs no active duties) }
+{ hyväntekeväisyysrahasto<approximate/>,  yleishyödyllinen_säätiö<approximate/>,  omaisuus<broader/>6,@ (a trust created for charitable or religious or educational or scientific purposes) }
+{ Clifford-trusti,  luovuttajan_trusti,  omaisuus<broader/>6,@ (a trust established to shift the income to someone who is taxed at a lower rate than the grantor for a period of 10 years or more) }
+{ trusti<unconfirmed/>,  omaisuus<broader/>6,@ (a trust inferred by operation of law) }
+{ constructive_trust,  involuntary_trust,  trusti<unconfirmed/>,@ (a trust created by a court (regardless of the intent of the parties) to benefit a party that has been wrongfully deprived of its rights) }
+{ resulting_trust,  trusti<unconfirmed/>,@ (a trust created by a court when it is judged that it was the intention of the parties to create a trust) }
+{ luottamus<broader/>,  omaisuus<broader/>6,@ (a trust created by the free and deliberate act of the parties involved (usually on the basis of written documentation)) }
+{ harkinnanvaraisesti_edunsaajalle_maksava_säätiö<unconfirmed/>,  omaisuus<broader/>6,@ (a trust that gives the trustee discretion to pay the beneficiary as much of the trust income as the trustee believes appropriate) }
+{ indispositiivinen_trusti,  noun.group:sijoitusyhtiö,@ (an investment trust that can buy only those securities listed when the trust was organized) }
+{ living_trust,  inter_vivos_trust,  omaisuus<broader/>6,@ (a trust created and operating during the grantor's lifetime) }
+{ spendthrift_trust,  omaisuus<broader/>6,@ (a trust created to maintain a beneficiary but to be secure against the beneficiary's improvidence) }
+{ perintösäätiö,  omaisuus<broader/>6,@ (a trust that is created under a will and that becomes active after the grantor dies) }
+{ rahastotili,  omaisuus<broader/>6,@ (a savings account deposited by someone who makes themselves the trustee for a beneficiary and who controls it during their lifetime; afterward the balance is payable to the previously named beneficiary) }
+{ trusti_äänioikeuden_luovuttamisesta<approximate/>,  omaisuus<broader/>6,@ (an agreement whereby persons owning stock with voting powers retain ownership while transferring the voting rights to the trustees) }
+{ rahasto<broader/>2,  varat6,@ (a fund held in trust) }
+{ sekkitili,  käyttötili1,  käyttelytili,  shekkitili,  pankkitili,@ (a bank account against which the depositor can draw checks that are payable on demand) }
+{ säästötili,  pankkitili,@ (a bank account that accumulates interest) }
+{ pitkäaikaistili,  säästötili,@ (a savings account in which the deposit is held for a fixed term or in which withdrawals can be made only after giving notice or with loss of interest) }
+{ käyttämätön_tili<unconfirmed/>,  säästötili,@ (a savings account showing no activity (other than posting interest) for some specified period; "the dormant account reverted to the state under escheat laws") }
+{ talletustili,  säästötili,@ (a savings account in which deposits and withdrawals are recorded in the depositor's passbook) }
+{ rahavara,  velkainstrumentti,@ (a highly liquid debt instrument with maturities of less than three months) }
+{ talletustodistus,  sijoitustodistus,  velkainstrumentti,@ (a debt instrument issued by a bank; usually pays interest) }
+{ tuki7,  elatus,  toimeentulo,  elanto,  jokapäiväinen_leipä,  ylläpito2,  resurssit,@ (the financial means whereby one lives; "each child was expected to pay for their keep"; "he applied to the state for support"; "he could no longer earn his own livelihood") }
+{ avustus6,  taloudellinen_avustus,  [ rahoitus, verb.possession:rahoittaa,+]  [ tuki8, verb.possession:tukea2,+]  taloudellinen_tuki1,  resurssit,@ (financial resources provided to make some project possible; "the foundation provided support for the experiment") }
+{ keinot,  resurssit,@ (resources available to meet expenses (especially legislation for raising revenue for a government)) }
+{ mukavuudet,  elämän_mukavuudet,  tuki7,@ (things that make you comfortable and at ease; "all the comforts of home") }
+{ elatus1,  tuki7,@ (means of maintenance of a family or group) }
+{ leiväntuoja,  tuki7,@ noun.communication:puhekielen_ilmaus,;u (a source of income or livelihood) }
+{ hengissä_pysyminen,  olemassaolo,  tuki7,@ (minimal (or marginal) resources for subsisting; "social security provided only a bare subsistence") }
+{ kertymä,  kumulaatio,  ansiotulot,@ noun.cognition:rahoitus,;c ((finance) profits that are not paid out as dividends but are added to the capital base of the corporation) }
+{ kätkö,  kätköpaikka,  jemma,  varasto,@ (a secret store of valuables or money) }
+{ [ varasto, verb.possession:varastoida,+ verb.possession:varustaa,+]  kertymä,@ (a supply of something available for future use; "he brought back a large store of Cuban cigars") }
+{ varasto1,  varasto,@ (a store or supply of something (especially of food or clothing or arms)) }
+{ tarvikkeet,  tarvikkeet<broader/>1,  varasto,@ noun.group:sotavoimat,;c (supplies (as food or clothing or ammunition) issued by the government) }
+{ siemenvarasto<approximate/>,  varasto,@ (a supply of seeds (or tubers) reserved for planting) }
+{ siemenvilja,  siemenvarasto<approximate/>,@ (good quality seeds (as kernels of corn) that are reserved for planting) }
+{ reservi,  varastot,  varanto,  varmuusvarasto,  kertymä,@ (something kept back or saved for future use or a special purpose) }
+{ pankki1,  varasto2,  reservi,@ (a supply or stock held in reserve for future use (especially in emergencies)) }
+{ veripankki,  pankki1,@ (a place for storing whole blood or blood plasma; "the Red Cross created a blood bank for emergencies") }
+{ silmäpankki,  pankki1,@ (a place for storing and preserving corneas that are obtained from human corpses immediately after death; used for corneal transplantation to patients with corneal defects) }
+{ ruokapankki,  pankki1,@ (a place where food is contributed and made available to those in need; "they set up a food bank for the flood victims") }
+{ polttoaineen_pinnankorkeus,  polttoaineen_taso,  reservi,@ (the amount of fuel remaining) }
+{ salainen_omaisuus,  omaisuus4,@ (any assets that are concealed until they can be used advantageously) }
+{ soil_bank,  pankki1,@ (land retired from crop cultivation and planted with soil-building crops; government subsidies are paid to farmers for their retired land) }
+{ potti1,  yhteispanos,  panos1,@ (the combined stakes of the betters) }
+{ piilovaraus,  varatili,@ (reserves that do not show up on the balance sheet (as by understating values)) }
+{ salainen_vararahasto<unconfirmed/>,  piilovaraus,@ (a hidden reserve that can be used to adjust quarterly earning reports) }
+{ kimppa,  rahasto3,  varatili,@ (any communal combination of funds; "everyone contributed to the pool") }
+{ varatili,  vararahasto1,  reservi,@ (funds taken out of earnings to provide for anticipated future payments) }
+{ arvostustili,  varatili,@ (a reserve fund created by a charge against profits in order to provide for changes in the value of a company's assets) }
+{ aarre,  noun.Tops:omaisuus,@ (any possession that is highly valued by its owner; "the children returned from the seashore with their shells and other treasures") }
+{ aarre1,  omaisuus7,  varakkuus,@ (accumulated wealth in the form of money or jewels etc.; "the pirates hid their treasure on a small island in the West Indies") }
+{ rikkaus1,  omaisuus8,  aarre1,@ (a large amount of wealth or prosperity) }
+{ [ arvoesine, adj.all:arvokas6,+]  aarre1,@ (something of value; "all our valuables were stolen") }
+{ saalis2,  arvoesine,@ noun.communication:puhekielen_ilmaus,;u (valuable goods) }
+{ omaisuus9,  aarre1,@ (a very large treasure) }
+{ aarrelöytö,  aarre<broader/>2,  aarre1,@ (treasure of unknown ownership found hidden (usually in the earth)) }
+{ jalometalli,  arvometalli,  arvoesine,@ (any of the less common and valuable metals often used to make coins or jewelry) }
+{ hopeakimpale,  kultakimpale,  jalometalli,@ (a mass of precious metal) }
+{ [ kulta1, adj.all:metallinen^kullattu1,+ adj.all:metallinen^kulta-1,+ adj.all:metallinen^kultainen2,+]  jalometalli,@ (coins made of gold) }
+{ hopea,  jalometalli,@ (coins made of silver) }
+{ timantti,  noun.artifact:jalokivi,@ (a transparent piece of diamond that has been cut and polished and is valued as a precious gem) }
+{ timantti1,  hely,  timantti,@ noun.communication:puhekielen_ilmaus,;u (diamonds; "look at the ice on that dame!") }
+{ rubiini,  noun.artifact:jalokivi,@ (a transparent piece of ruby that has been cut and polished and is valued as a precious gem) }
+{ helmi,  noun.artifact:jalokivi,@ (a smooth lustrous round structure inside the shell of a clam or oyster; much valued as a jewel) }
+{ pieni_helmi,  helmi,@ (a small imperfect pearl) }
+{ smaragdi,  noun.artifact:jalokivi,@ (a transparent piece of emerald that has been cut and polished and is valued as a precious gem) }
+{ safiiri,  noun.artifact:jalokivi,@ (a transparent piece of sapphire that has been cut and polished and is valued as a precious gem) }
+{ vaihtoväline,  valuuttajärjestelmä,  rahajärjestelmä,  noun.communication:mittapuu,@ (anything that is generally accepted as a standard of value and a measure of wealth in a particular country or region) }
+{ rahakanta,  noun.attribute:arvo1,@ (the value behind the money in a monetary system) }
+{ kultakanta,  rahakanta,@ (a monetary standard under which the basic unit of currency is defined by a stated quantity of gold) }
+{ hopeakanta,  rahakanta,@ (a monetary standard under which the basic unit of currency is defined by a stated quantity of silver) }
+{ [ bimetallismi, adj.pert:bimetallistinen,+ noun.person:bimetallisti,+]  [ kaksimetallikanta, adj.pert:kaksimetallikantainen,+ noun.person:kaksimetallikannan_puolestapuhuja,+]  rahakanta,@ (a monetary standard under which the basic unit of currency is defined by stated amounts of two metals (usually gold and silver) with values set at a predetermined ratio) }
+{ maksuväline,  laillinen_maksuväline,  leimamerkki,  vaihtoväline,@ (something that can be used as an official medium of payment) }
+{ ruokalipuke,  maksuväline,@ (a government-issued stamp that can be used in exchange for food) }
+{ [ maksuaika, käteismaksu1,!]  maksu,@ (arrangement for deferred payment for goods and services) }
+{ kulutusluotto,  luottoraja,@ (a line of credit extended for personal or household use) }
+{ pankkilaina,  laina,@ (a loan made by a bank; to be repaid with interest on or before a fixed date) }
+{ yrityslaina,  pankkilaina,@ (a bank loan granted for the use of a business) }
+{ pankkienvälinen_laina,  pankkilaina,@ (a loan from one bank to another) }
+{ asuntolaina,  asuntovakuuslaina,  kulutusluotto,@ laina,@ (a loan secured by equity value in the borrower's home) }
+{ osamaksuluotto,  osamaksulaina,  kulutusluotto,@ laina,@ (a loan repaid with interest in equal periodic payments) }
+{ jatkuva_luotto,  uusiutuva_luotto,  veloitustililuotto,  kulutusluotto,@ (a consumer credit line that can be used up to a certain limit or paid down at any time) }
+{ asiakastili,  jatkuva_luotto,@ (credit extended by a business to a customer) }
+{ joustava_luottotili<unconfirmed/>,  asiakastili,@ (a charge account that does not have to be paid to zero balance) }
+{ ennakko,  ennakkomaksu1,  etumaksu,  käteisenä_suoritettu_etumaksu,  summa,@ (an amount paid before it is earned) }
+{ luottokortti,  maksuaikakortti,  muoviraha,  maksukortti,  jatkuva_luotto,@ noun.communication:positiivinen_identifikaatio,@ (a card (usually plastic) that assures a seller that the person using it has a satisfactory credit rating and that the issuer will see to it that the seller receives payment for the merchandise delivered; "do you take plastic?") }
+{ pankkikortti,  luottokortti,@ (a credit card issued by a bank) }
+{ puhelukortti,  luottokortti,@ (a card that is used instead of cash to make telephone calls) }
+{ pankkikortti1,  luottokortti,@ (a credit card that entitles the holder to receive cash) }
+{ maksukortti1,  käteiskortti,  pankkikortti2,  jatkuva_luotto,@ noun.communication:positiivinen_identifikaatio,@ (a card (usually plastic) that enables the holder to withdraw money or to have the cost of purchases charged directly to the holder's bank account) }
+{ toimikortti,  älykortti,  sirukortti,  jatkuva_luotto,@ noun.communication:positiivinen_identifikaatio,@ (a plastic card containing a microprocessor that enables the holder to perform operations requiring data that is stored in the microprocessor; typically used to perform financial transactions) }
+{ asete,  tratta,  vekseli,  maksumääräys,  noun.communication:kauppapaperi,@ (a document ordering the payment of money; drawn by one person or bank on another) }
+{ tilinylitys,  asete,@ (a draft in excess of the credit balance) }
+{ ulkomaanvekseli,  asete,@ (a bill of exchange that is drawn in one country and made payable in another) }
+{ kotimainen_vekseli,  asete,@ (a bill of exchange that is both drawn and made payable in the same country) }
+{ takautumisvekseli,  asete,@ (a draft for the amount of a dishonored draft plus the costs and charges of drafting again) }
+{ kauppasopimus,  asete,@ (a bill of exchange for a specific purchase; drawn on the buyer by the seller and bearing the buyer's acceptance) }
+{ valuutta,  valuuttakauppa,  noun.act:rahanvaihto,@ (the system by which one currency is exchanged for another; enables international transactions to take place) }
+{ luotto,  omaisuus4,@ (money available for a client to borrow) }
+{ halpakorkoinen_laina,  luotto,@ (credit available at low rates of interest) }
+{ ylijäämä,  omaisuus4,@ (a surplus or excess of money or merchandise that is actually on hand and that exceeds expectations) }
+{ verohyvitys,  noun.act:pienentäminen,@ (a direct reduction in tax liability (not dependent on the taxpayer's tax bracket)) }
+{ vientiluotto,  luotto,@ (a credit opened by an importer with a bank in an exporter's country to finance an export operation) }
+{ tuontiluotto,  luotto,@ (credit opened by an importer at a bank in his own country upon which an exporter may draw) }
+{ luottoraja,  henkilökohtainen_luottoraja,  luotto,@ (the maximum credit that a customer is allowed) }
+{ kauppaluotto,  luotto,@ (credit granted by a bank to a business concern for commercial purposes) }
+{ kreditiivi,  luottokirje,  remburssi,  asiakirja,@ luotto,@ (a document issued by a bank that guarantees the payment of a customer's draft; substitutes the bank's credit for the customer's credit) }
+{ kaupallinen_remburssi,  kreditiivi,@ (a letter of credit given to a business concern for commercial purposes) }
+{ matkakreditiivi,  kreditiivi,@ (a letter of credit given to a traveler) }
+{ matkasekki,  matkakreditiivi,@ (a letter of credit issued by a bank or express company that is payable on presentation to any correspondent of the issuer) }
+{ pankkisekki,  pankkivekseli,  asete,@ (a draft drawn by a bank against funds deposited in another bank) }
+{ osinkolippu,  asete,@ (an order of payment (such as a check payable to a shareholder) in which a dividend is paid) }
+{ maksumääräys1,  postiosoitus,  asete,@ (a written order for the payment of a sum to a named individual; obtainable and payable at a post office) }
+{ tilinylitysvara,  käyttötilin_ylitysvara,  jatkuva_luotto,@ (credit provided by a bank in honoring a customer's overdrafts) }
+{ [ talletus, verb.possession:tallettaa2,+]  pankkitalletus,  pano,  varat6,@ (money deposited in a bank or some similar institution) }
+{ avistatalletus,  käteistalletus,  talletus,@ (a bank deposit from which withdrawals can be made without notice) }
+{ pitkäaikaistilikirja<approximate/>,  talletustodistus,@ (a certificate of deposit from which withdrawals can be made only after advance notice or at a specified future date) }
+{ aksepti,  tunnuste,  pankkitunnuste,  pankkivekseli1,  asete,@ (banking: a time draft drawn on and accepted by a bank) }
+{ sekki,  šekki,  asete,@ (a written order directing a bank to pay money; "he paid all his bills by check") }
+{ katteeton_sekki,  katteeton_šekki,  sekki,@ (a check that is dishonored on presentation because of insufficient funds; "issuing a bad check is a form of larceny") }
+{ katteeton_sekki1,  sekki,@ (a bank check drawn on insufficient funds at another bank in order to take advantage of the float) }
+{ katteeton_sekki2,  sekki,@ (a bank check that has been fraudulently altered to increase its face value) }
+{ avoin_sekki,  sekki,@ (a blank check provided by a bank for the convenience of customers who are making withdrawals) }
+{ avustussekki,  sekki,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a check given by the British government to someone who is unemployed; it can be cashed either at a bank or at the post office) }
+{ palkkasekki,  sekki,@ (a check issued in payment of wages or salary) }
+{ varmennettu_sekki,  sekki,@ (a check containing certification that the person who issued the check has sufficient funds on deposit to cover payment) }
+{ henkilökohtainen_šekki,  henkilökohtainen_sekki,  sekki,@ (a check drawn against funds deposited in your personal checking account) }
+{ pankkivekseli2,  sekki,@ (a check issued by the officer of a bank on the banks own account (not that of a private person); "cashier's checks are as good as cash") }
+{ avoin_shekki,  blankoshekki,  sekki,@ sekkivihko,#m (a check that has been signed but with the amount payable left blank) }
+{ työkyvyttömyyskorvaus,  työkyvyttömyyseläke,  säännöllinen_palkka,@ (a monthly payment made to someone who has become disabled and is unable to work) }
+{ sairausvakuutustuki<unconfirmed/>,  sairausvakuutuskorvaus<unconfirmed/>,  sekki,@ (a check reimbursing an aged person for the expenses of health care) }
+{ eläke,  säännöllinen_palkka,@ (a regular payment to a person that is intended to allow them to subsist without working) }
+{ vanhuuseläke,  eläkemaksu,  eläke-etu,  eläkerahasto1,  eläke1,  eläke,@ (a monthly payment made to someone who is retired from work) }
+{ [ raha1, noun.person:rahanlyöjä,+ adj.pert:rahallinen,+]  vaihtoväline,@ rahavaranto,#p (the most common medium of exchange; functions as legal tender; "we tried to collect the money he owed us") }
+{ [ raha2, noun.person:rahanlyöjä,+ adj.pert:rahallinen,+]  valuutta1,  valuutta3,@ (the official currency issued by a government or national bank; "he changed his money into francs") }
+{ Englannin_punta,  punta,  raha2,@ (British money; especially the pound sterling as the basic monetary unit of the UK) }
+{ fyrkka,  massi,  rahna,  tuohi,  nappula,  hynä,  pätäkkä,  fyffe,  hinta5,  saldo,  taksa4,  hillo,  mani,  fyrkendaali,  mammona1,  kahiseva,  kilisevä,  liksa1,  valuutta2,  raha3,  raha1,@ (informal terms for money) }
+{ arvoton_paperiraha,  raha1,@ (paper money of little value issued on insufficient security) }
+{ [ avustukset, verb.possession:avustaa,+ verb.possession:avustaa1,+]  tuet,  raha1,@ (money (or other benefits) obtained as a subsidy) }
+{ raha<broader/>4,  raha1,@ (coins of regular issue whose face value is greater than their intrinsic value) }
+{ valuutta3,  rahayksikkö,  vaihtoväline,@ (the metal or paper medium of exchange that is presently used) }
+{ eurovaluutta,  valuutta3,@ (currency of the major financial and industrial countries held in those countries for the purpose of lending and borrowing) }
+{ rahayksikköä_pienempi_yksikkö,  paperiraha,@ (paper currency in denominations less than the basic monetary unit) }
+{ [ käteismaksu1, maksuaika,!]  välitön_maksu,  maksu,@ (prompt payment for goods or services in currency or by check) }
+{ käteinen1,  kova_raha,  valuutta3,@ (money in the form of bills or coins; "there is a desperate shortage of hard cash") }
+{ kova_valuutta,  valuutta3,@ (a currency that is not likely to depreciate suddenly in value; "the countries agreed to conduct their bilateral trade in hard currency, replacing previous barter arrangements"; "Germany once had a solid economy, good fiscal and monetary policies, and a hard currency") }
+{ paperiraha,  seteliraha,  valuutta3,@ (currency issued by a government or central bank and consisting of printed paper that can circulate as a substitute for specie) }
+{ vaihtorahat,  käteinen1,@ (money received in return for its equivalent in a larger denomination or a different currency; "he got change for a twenty and used it to pay the taxi driver") }
+{ vaihtorahat1,  käteinen1,@ (the balance of money received when the amount you tender is greater than the amount due; "I paid with a twenty and pocketed the change") }
+{ kolikot,  kolikkokanta,  metalliraha,  kova_raha1,  valuutta3,@ (coins collectively) }
+{ kolikot1,  pikkurahat,  mitätön_korvaus,  pikkusumma,  pikkuraha1,  käteinen1,@ (a trifling sum of money) }
+{ pikkurahat1,  kolikko,@ (coins of small denomination regarded collectively; "he had a pocketful of change") }
+{ kolikko,  lantti,  kolikot,@ (a flat metal piece (usually a disc) used as money) }
+{ puolen_pennyn_kolikko,  kolikko,@ (an old Scottish coin of little value) }
+{ solidus,  kolikko,@ (a gold coin of the Byzantine Empire; widely circulated in Europe in the Middle Ages) }
+{ vanha_kolikko<approximate/>,  kolikko,@ (any of various former European coins of different denominations) }
+{ dukaatti,  kolikko,@ (formerly a gold coin of various European countries) }
+{ real,  kolikko,@ (an old small silver Spanish coin) }
+{ peso,  kolikko,@ (an old silver Spanish coin; worth 8 reales) }
+{ šillinki,  kolikko,@ (an English coin worth one twentieth of a pound) }
+{ 5"_šillinkiä,  kolikko,@ (an English coin worth 5 shillings) }
+{ puolen_kruunun_kolikko<note>br</note>,  kolikko,@ (an English coin worth half a crown) }
+{ 10"_sentin_kolikko,  kymmensenttinen,  kolikko,@ (a United States coin worth one tenth of a dollar) }
+{ viisisenttinen,  kolikko,@ (a United States coin worth one twentieth of a dollar) }
+{ neljännesdollari,  kolikko,@ (a United States or Canadian coin worth one fourth of a dollar; "he fed four quarters into the slot machine") }
+{ viidenkymmenen_sentin_kolikko,  kolikko,@ (a United States coin worth half of a dollar) }
+{ puolen_pennyn_kolikko1,  kolikko,@ (an English coin worth half a penny) }
+{ penni,  sentti,  sentiimi,  kolikko,@ (a coin worth one-hundredth of the value of the basic unit) }
+{ pelimarkka,  kolikko,@ (a counterfeit coin) }
+{ kymmenpenninen,  kolikko,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a decimal coin worth ten pennies) }
+{ kaksipenninen,  twopence,  tuppence,  kolikko,@ (a former United Kingdom silver coin; United Kingdom bronze decimal coin worth two pennies) }
+{ kolmipenninen,  kolikko,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (former cupronickel coin of the United Kingdom equal to three pennies) }
+{ neljän_pennyn_raha,  kolikko,@ (a former English silver coin worth four pennies) }
+{ viisisenttinen1,  kolikko,@ (a coin worth five cents) }
+{ kuuden_pennyn_kolikko,  sixpence,  kuuden_pennyn_lantti,  kolikko,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a small coin of the United Kingdom worth six pennies; not minted since 1970) }
+{ kahdeksanpenninen,  kolikko,@ (a coin worth eight pennies) }
+{ yhdeksän_pennyn_raha,  kolikko,@ (a coin worth nine pennies) }
+{ kupariraha,  lantti1,  penni,@ (a copper penny) }
+{ uusi_penny,  penni,@ (a coin used in Great Britain since 1971 worth one hundredth of a pound) }
+{ dollari,  kolikko,@ (a United States coin worth one dollar; "the dollar coin has never been popular in the United States") }
+{ Susan_B_Anthony_-dollari,  dollari,@ (a United States coin worth one dollar) }
+{ hopeadollari,  kärrynpyörä,  dollari,@ (a dollar made of silver) }
+{ 20"_dollarin_kultaraha,  kolikko,@ (a former gold coin in the United States worth 20 dollars) }
+{ 10"_dollarin_kultaraha,  kolikko,@ (a former gold coin in the United States worth 10 dollars) }
+{ half_eagle_-kolikko<note>puolikas_kotka</note>,  kolikko,@ (a former gold coin in United States worth 5 dollars) }
+{ guinea,  kolikko,@ (a former British gold coin worth 21 shillings) }
+{ 1"/4"_pennyn_kupariraha,  kolikko,@ (a former British bronze coin worth a quarter of a penny) }
+{ dubloni,  kolikko,@ (a former Spanish gold coin) }
+{ kultaraha,  kolikko,@ (a former French gold coin) }
+{ medaljonki<unconfirmed/>,  kolikko,@ (any of various large ancient Greek coins) }
+{ stater,  kolikko,@ (any of the various silver or gold coins of ancient Greece) }
+{ ei_penniäkään,  kolikko,@ (a former French coin of low denomination; often used of any small amount of money; "he hasn't a sou to his name") }
+{ kiirastorstaina_jaettava_hopearaha,  kolikko,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (specially minted silver coins that are distributed by the British sovereign on Maundy Thursday) }
+{ paperiraha1,  paperiraha,@ (money that the government declares to be legal tender although it cannot be converted into standard specie) }
+{ seteli,  paperiraha2,  seteliraha1,  keskuspankin_liikkeeseen_laskema_seteli,  dollari1,  dollarin_seteli,  paperiraha,@ (a piece of paper money (especially one issued by a central bank); "he peeled off five one-thousand-zloty notes") }
+{ silver_certificate,  seteli,@ (formerly a bank note issued by the United States Treasury and redeemable in silver) }
+{ valtionobligaatio1,  valtionobligaatiot,  valtionobligaatio,@ (negotiable debt obligations of the United States government which guarantees that interest and principal payments will be paid on time) }
+{ valtionvekseli,  valtionobligaatio1,@ (a short-term obligation that is not interest-bearing (it is purchased at a discount); can be traded on a discount basis for 91 days) }
+{ määräaikaisobligaatio,  valtionobligaatio1,@ (a debt instrument with maturities of 10 years or longer) }
+{ obligaatio<broader/>1,  valtionobligaatio1,@ (securities with maturities of 1 to 10 years; sold for cash or in exchange for maturing issues or at auction) }
+{ sadan_dollarin_seteli,  sadan_taalan_seteli,  seteli,@ (a United States bill worth 100 dollars) }
+{ viidenkymmenen_dollarin_seteli,  viisikymppinen,  seteli,@ (a United States bill worth 50 dollars) }
+{ kahdenkymmenen_dollarin_seteli,  kaksikymppinen,  seteli,@ (a United States bill worth 20 dollars) }
+{ kybä,  kymppi,  kypä,  kymmenen_dollarin_seteli,  kymmenen_taalan_seteli,  seteli,@ (a United States bill worth 10 dollars) }
+{ viitonen,  vitonen,  viiden_dollarin_seteli,  femma,  seteli,@ (a United States bill worth 5 dollars) }
+{ nickel,  vitonen1,  viitonen,@ (five dollars worth of a drug; "a nickel bag of drugs"; "a nickel deck of heroin") }
+{ kahden_dollarin_seteli,  seteli,@ (a United States bill worth 2 dollars) }
+{ dollarin_seteli1,  yhden_dollarin_seteli,  taala,  dollari2,  seteli,@ noun.location:Yhdysvallat,;r (a piece of paper money worth one dollar) }
+{ vastattavat,  velka,  noun.Tops:omaisuus,@ noun.communication:monikko,;u (anything that is owed to someone else) }
+{ alijäämä1,  vastattavat,@ (an excess of liabilities over assets (usually over a certain period); "last year there was a serious budgetary deficit") }
+{ budjettialijäämä,  budjettivaje,  alijäämä1,@ (an excess of expenditures over revenues) }
+{ budjetin_alijäämä,  budjettialijäämä,@ (an excess of the federal government's spending over its revenue; "federal deficits can cause inflation") }
+{ ylijäämä1,  kauppavaje,  alijäämä1,@ (an excess of imports over exports) }
+{ erääntynyt,  kiinteä_maksu,@ (a payment that is due (e.g., as the price of membership); "the society dropped him for non-payment of dues") }
+{ rajoitettu_vastuu,  noun.state:velkaantuneisuus,@ (the liability of a firm's owners for no more than the capital they have invested in the firm) }
+{ velka1,  vastattavat,@ (money or goods or services owed by one person to another) }
+{ rästit,  maksamattomat_velat,  velka1,@ (an unpaid overdue debt) }
+{ valtionvelka,  velka1,@ (the debt of the national government (as distinguished from the debts of individuals and businesses and political subdivisions)) }
+{ valtionvelka1,  velka1,@ (the total of the nation's debts: debts of local and state and national governments; an indicator of how much public spending is financed by borrowing instead of taxation) }
+{ velkaantumisraja,  velkakatto,  velka1,@ (the maximum borrowing power of a governmental entity) }
+{ valtionvelan_katto,  velkaantumisraja,@ (a limit set by Congress beyond which the national debt cannot rise; periodically raised by Congress) }
+{ velkainstrumentti,  velkasitoumus1,  velkatodistus,  asiakirja,@ (a written promise to repay a debt) }
+{ velkakirja,  oma_vekseli,  vekseli1,  velkainstrumentti,@ (a promise to pay a specified amount on demand or at a certain time; "I had to co-sign his note at the bank") }
+{ epävarma_saatava,  luottotappio,  velka1,@ (a debt that is unlikely to be repaid) }
+{ osamaksuvelka,  velka1,@ (debt to be paid by installments) }
+{ [ laina, verb.possession:lainata2,+]  velka1,@ (the temporary provision of money (usually at interest)) }
+{ laina<broader/>1,  laina,@ (a loan that is repayable on demand) }
+{ suora_laina,  laina,@ (a loan by a lender to a customer without the use of a third party; direct lending gives the lender greater discretion in making loans) }
+{ osuuslaina,  laina,@ (a loan that is shared by a group of banks that join to make a loan too big for any one of them alone) }
+{ henkilökohtainen_laina,  kuluttajalaina,  laina,@ (a loan that establishes consumer credit that is granted for personal use; usually unsecured and based on the borrower's integrity and ability to pay) }
+{ autolaina,  henkilökohtainen_laina,@ (a personal loan to purchase an automobile) }
+{ prosentti<unconfirmed/>,  laina,@ (one percent of the total principal of a loan; it is paid at the time the loan is made and is independent of the interest on the loan) }
+{ asuntolaina1,  kiinnelaina,  laina,@ (a loan on real estate that is usually secured by a mortgage) }
+{ määräaikaislaina,  laina,@ (a loan that is payable on or before a specified date) }
+{ näyttövekseli,  velkakirja,@ (a note payable on demand) }
+{ velkapääoma,  velka1,@ laina,#p (the original amount of a debt on which interest is calculated) }
+{ maksu7,  rasitus,  vastattavat,@ valtionvero,;c (financial liabilities (such as a tax); "the charges against the estate") }
+{ panttioikeus,  pidätysoikeus,  arvopaperiosakkuus,@ (the right to take another's property if an obligation is not discharged) }
+{ taiteilijan_pidätysoikeus,  taiteilijan_retentio-oikeus,  panttioikeus,@ (lien permitting an artisan to retain possession of a piece of work until has been paid for) }
+{ hallinnan_pidätysoikeus<approximate/>,  pantti-_ja_pidätysoikeus,@ (lien of the United States on all property of a taxpayer who fails to pay the federal government the taxes for which he or she is liable) }
+{ yleinen_panttioikeus,  panttioikeus,@ (a lien on all the property owned by a debtor and not just a specific property) }
+{ panttioikeus1,  panttioikeus,@ (lien on a debtor's property that is granted to a creditor by court judgment; lien may be enforced by having the sheriff seize the property and hold a sheriff's sale) }
+{ pidätysoikeus1,  panttioikeus,@ (lien on a tenant's property for the satisfaction of unpaid rent or property damage; the landlord is given the status of a preferred creditor with regard to the tenant's property) }
+{ pidätysoikeus<broader/>2,  panttioikeus,@ (lien to secure payment for work and materials in erecting or repairing a building or other structure) }
+{ panttioikeus<unconfirmed/>2,  pidätysoikeus<broader/>2,@ (the extension of a mechanic's lien to include payment for work on automobiles) }
+{ veronpidätysoikeus<broader/>,  pantti-_ja_pidätysoikeus,@ (a lien on the property of a taxpayer that the tax collector can use upon default of payment of taxes) }
+{ pantti-_ja_pidätysoikeus,  panttioikeus,@ (lien of which a tax collector may avail himself in default of taxes (analogous to a judgment lien)) }
+{ pidätysoikeus3,  panttioikeus,@ (right of a warehouseman to retain goods until all storage charges have been paid) }
+{ rasitus1,  kiinnitys1,  maksu7,@ (a charge against property (as a lien or mortgage)) }
+{ [ arvio, verb.possession:arvioida_veron_suuruus,+]  maksu7,@ (an amount determined as payable; "the assessment for repairs outraged the club's membership") }
+{ asiakirja,  noun.Tops:tiedonanto,@ (a written account of ownership or obligation) }
+{ vapautus,  asiakirja,@ (a document or receipt certifying release from an obligation or debt) }
+{ asiakirja-aineisto,  asiakirja,@ noun.group:laki,;c (a document that can serve as legal evidence of a transaction; "they could find no record of the purchase") }
+{ tase,  asiakirja-aineisto,@ (a record of the financial situation of an institution on a particular date by listing its assets and the claims against those assets) }
+{ menotili,  asiakirja-aineisto,@ (a written record of money spent) }
+{ pääkirja,  asiakirja-aineisto,@ (a record in which commercial accounts are recorded; "they got a subpoena to examine our books") }
+{ kustannuserittelyt,  pääkirja,@ (ledger showing the accumulated costs classified in various ways) }
+{ pääkirja1,  pääkirja,@ (the ledger that contains all of the financial accounts of a business; contains offsetting debit and credit accounts (including control accounts)) }
+{ tilikirja<broader/>,  pääkirja,@ (details of an account supporting the amount stated in the general ledger) }
+{ koontitili,  kirjanpito,@ pääkirja1,#p (an account that shows totals of amounts entered in a subsidiary ledger) }
+{ päiväkirja,  pääkirja,@ (a ledger in which transactions have been recorded as they occurred) }
+{ merkintä,  tilitapahtuma,  kirjaus,  kirjanpito,@ (a written record of a commercial transaction) }
+{ korjausvienti,  oikaisuerä,  oikaisuvienti,  merkintä,@ (an accounting entry made at the end of an accounting period to allocate items between accounting periods) }
+{ [ krediitti, debet,!]  [ kredit, debet,!]  credit-merkintä,  merkintä,@ (an accounting entry acknowledging income or capital items) }
+{ [ debet, krediitti,! kredit,!]  debet-kirjaus,  merkintä,@ (an accounting entry acknowledging sums that are owing) }
+{ kirjanpito,  [ tilinpito, verb.possession:tilittää,+]  kirjanpitojärjestelmä,  tilinpitojärjestelmä,  kirjanpitomenetelmä,  tilinpitomenetelmä,  luettelo,@ pääkirja,#m (a bookkeeper's chronological list of related debits and credits of a business; forms part of a ledger of accounts) }
+{ credit-puoli,  kirjanpito,@ (account of payments received; usually the right side of a financial statement) }
+{ debetpuoli,  kirjanpito,@ (account of payments owed; usually the left side of a financial statement) }
+{ [ maksuperuste, kassaperuste,!]  [ suoriteperuste, kassaperuste,!]  kirjanpito,@ (a method of accounting in which each item is entered as it is earned or incurred regardless of when actual payments are received or made) }
+{ [ kassaperuste, maksuperuste,! suoriteperuste,!]  kirjanpito,@ (a method of accounting in which each item is entered as payments are received or made) }
+{ yhdistämismenetelmä,  kirjanpito,@ (an accounting method used in the merging of companies; the balance sheets are added together item by item; this method is tax-free) }
+{ myyntireskontra,  myyntisaamiset,  saatavat1,  tilisaatavat,  omaisuus4,@ noun.communication:monikko,;u (a creditor's accounts of money owed to him; normally arise from the sale of products or services) }
+{ saamavekseli,  velkakirja,@ (your right in a promissory note in which the maker promises to pay a certain amount of money at a certain time) }
+{ ostoreskontra,  ostovelat,  tilitysvelat,  tilivelat,  vastattavat,@ (a debtor's accounts of money he owes; normally arise from the purchase of products or services) }
+{ velkavekseli,  velkakirja,@ (a note promising to pay a certain amount of money at a certain time) }
+{ tuloslaskelma1,  voitto-_ja_tappiotili,  selonteko,@ (an account compiled at the end of an accounting period to show gross and net profit or loss) }
+{ osinko1,  ansiotulot,@ (that part of the earnings of a corporation that is distributed to its shareholders; usually paid quarterly) }
+{ osakeosinko<approximate/>,  osinko1,@ (a dividend paid in stock rather than in cash) }
+{ lisäosinko,  osinko1,@ (a dividend paid in addition to the regular dividend) }
+{ tasaava_osinko<unconfirmed/>,  osinko1,@ (a dividend paid to compensate shareholders for losses resulting from a change in the dividend schedule) }
+{ osinko2,  osuus8,  osinko1,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (short for dividend; especially one paid by a cooperative society) }
+{ väliaikaistili,  selonteko,@ (an account used temporarily to carry doubtful receipts and disbursements or discrepancies pending their analysis and permanent classification) }
+{ [ tasaaminen, verb.possession:tasata,+]  [ täsmääminen, verb.possession:täsmätä,+]  noun.attribute:tasa-arvoisuus,@ selonteko,#p (equality between the totals of the credit and debit sides of an account) }
+{ saldo1,  noun.quantity:jäännös,@ (the difference between the totals of the credit and debit sides of an account) }
+{ kauppatase,  kauppataseen_alijäämä,  kauppataseen_vaje,  saldo1,@ (the difference in value over a period of time of a country's imports and exports of merchandise; "a nation's balance of trade is favorable when its exports exceed its imports") }
+{ siirtosumma,  saldo1,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (the accumulated and undivided profits of a corporation after provision has been made for dividends and reserves) }
+{ vähimmäistase<unconfirmed/>,  saldo1,@ (a minimum credit balance that a bank may require a borrower to keep on deposit as a condition for granting a loan; a common requirement for establishing a line of credit at a bank; "the compensating balance increases the effective interest rate to the bank since the net amount loaned is reduced but the interest paid is unchanged") }
+{ palvelutase,  saldo1,@ (the difference in value over a period of time of a country's imports and exports of services and payments of property incomes) }
+{ maksutase,  kansainvälinen_maksutase,  noun.cognition:kirjanpito,@ (a system of recording all of a country's economic transactions with the rest of the world over a period of one year; "a favorable balance of payments exists when more payments are coming in than going out") }
+{ vaihtotase,  noun.cognition:kirjanpito,@ maksutase,#p (that part of the balance of payments recording a nation's exports and imports of goods and services and transfer payments) }
+{ tase1,  tasaaminen,@ (a balance of debits and credits in double-entry bookkeeping; drawn up to test their equality) }
+{ tarkastettu_tili,  tilintarkastajan_tarkastama_tili,  tilintarkastus,  kirjanpito,@ (an inspection of the accounting procedures and records by a trained accountant or CPA) }
+{ rajoitettu_tilintarkastus,  tarkastettu_tili,@ (an audit of limited scope (limited in time span or confined to particular accounts etc.)) }
+{ tarkistus1,  selonteko<approximate/>1,  kirjanpito,@ noun.cognition:kirjanpito,;c ((accounting) a service (less exhaustive than an audit) that provides some assurance to interested parties as to the reliability of financial data) }
+{ analyyttinen_katsaus,  tarkistus1,@ (an auditing procedure based on ratios among accounts and tries to identify significant changes) }
+{ edustustili,  edustuskulutili,  selonteko,@ (an account to which salespersons or executives can charge travel and entertainment expenses) }
+{ palkkalaskelma,  tilinauha,  asiakirja-aineisto,@ (a slip of paper included with your pay that records how much money you have earned and how much tax or insurance etc. has been taken out) }
+{ luettelo,  [ rekisteri, verb.social:rekisteröidä1,+]  asiakirja-aineisto,@ (a book in which names and transactions are listed) }
+{ omaisuusluettelo,  luettelo,@ noun.cognition:kirjanpito,;c ((accounting) the value of a firm's current assets including raw materials and work in progress and finished goods) }
+{ palkkalista,  luettelo,@ (a list of employees and their salaries; "the company had a long payroll") }
+{ palkkarahat,  summa,@ (the total amount of money paid in wages; "the company had a large payroll") }
+{ yhtä_tyhjän_kanssa<idiomatic_pos/>,  summa,@ (an insignificant sum of money; a trifling amount; "her salary is peanuts compared to his") }
+{ palkintorahat,  summa,@ (a sum of money offered as a prize; "the purse barely covered the winner's expenses") }
+{ rahavarat3,  summa,@ (a sum of money spoken of as the contents of a money purse; "he made the contribution out of his own purse"; "he and his wife shared a common purse") }
+{ rahallinen_arvo,  taloudellinen_arvo,  noun.Tops:mitta,@ (the amount (of money or goods or services) that is considered to be a fair equivalent for something else; "he tried to estimate the value of the produce at normal prices") }
+{ arvoton_roina<unconfirmed/>,  rahallinen_arvo,@ (anything of trivial value; "Esau sold his birthright to Jacob for a mess of pottage") }
+{ lisähinta,  rahallinen_arvo,@ (the amount that something in scarce supply is valued above its nominal value; "they paid a premium for access to water") }
+{ pankkikirja,  säästökirja,  asiakirja-aineisto,@ (a record of deposits and withdrawals and interest held by depositors at certain banks) }
+{ sekkivihko,  asiakirja-aineisto,@ (a book issued to holders of checking accounts) }
+{ panttikuitti,  noun.communication:kuitti,@ (a pawnbroker's receipt for articles taken as security) }
+{ kolmannen_haltuun_uskottu_asiakirja,  kolmannen_osapuolen_haltuun_uskottu_asiakirja,  noun.communication:kirjallinen_suostumus,@ (a written agreement (or property or money) delivered to a third party or put in trust by one party to a contract to be returned after fulfillment of some condition) }
+{ kolmannen_haltuun_uskotut_varat<unconfirmed/>,  varat3,@ (funds held in escrow) }
+{ yritystodistus,  rahavara,@ (an unsecured and unregistered short-term obligation issued by an institutional borrower to investors who have temporarily idle cash) }
+{ kunnallinen_joukkovelkakirja<unconfirmed/>,  velkakirja,@ (a municipal debt instrument with a maturity of less than 2 years) }
+{ IOU,  velkakirja,@ (an informal debt instrument; representing `I owe you') }
+{ maksukehotus,  velkakirja,@ (a note that specifies the time (or times) of repayment) }
+{ vaihtuvakorkoinen_joukkovelkakirjalaina,  velkainstrumentti,@ (a debt instrument with a variable interest rate tied to some other interest rate (e.g. the rate paid by T-bills)) }
+{ majoitussuunnitelma<unconfirmed/>,  ruokailusuunnitelma<unconfirmed/>,  noun.cognition:suunnitelma,@ (a plan and a room rate for providing a room and meals to guests at a hotel) }
+{ täysihoitomajoitus,  majoitussuunnitelma<unconfirmed/>,@ (a hotel plan that includes three meals daily) }
+{ hintatyyppi<approximate/>,  täysihoitomajoitus,@ (a hotel plan that includes breakfast and dinner (but not lunch)) }
+{ puolihoito<approximate/>,  majoitussuunnitelma<unconfirmed/>,@ (a hotel plan that provides a full breakfast daily) }
+{ kahviaamiainen<unconfirmed/>,  majoitussuunnitelma<unconfirmed/>,@ (a hotel plan that provides a continental breakfast daily) }
+{ [ testamentti1, verb.possession:testamentata1,+]  noun.communication:testamentti2,@ (a will disposing of real property) }
+{ arvopaperi,  noun.communication:virallinen_asiakirja,@ (a formal declaration that documents a fact of relevance to finance and investment; the holder has a right to receive interest or dividends; "he held several valuable securities") }
+{ väliaikainen_osakekirja,  arvopaperi,@ (a certificate whose value is recognized by the payer and payee; scrip is not currency but may be convertible into currency) }
+{ osakekirja,  osake3,  arvopaperi,@ (a certificate documenting the shareholder's ownership in the corporation; "the value of his stocks doubled during the past year") }
+{ verottomuus,  arvopaperi,@ (a security that is not subject to taxation) }
+{ joukkovelkakirja,  arvopaperi,@ velkainstrumentti,@ (a certificate of debt (usually interest-bearing or discounted) that is issued by a government or corporation in order to raise money; the issuer is required to pay a fixed sum annually until maturity and then a fixed sum to repay the principal) }
+{ Premium_Bond,  joukkovelkakirja,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a government bond that bears no interest or capital gains but enters the holder into lotteries) }
+{ optiotodistus,  merkintäoptiotodistus,  takaus,@ (a type of security issued by a corporation (usually together with a bond or preferred stock) that gives the holder the right to purchase a certain amount of common stock at a stated price; "as a sweetener they offered warrants along with the fixed-income securities") }
+{ jatkuva_määräys<unconfirmed/>,  optiotodistus,@ (a warrant with no expiration date) }
+{ määräaikainen_valtakirja<unconfirmed/>,  optiotodistus,@ (a warrant that expires on a stipulated date) }
+{ nollakuponkitakaus<approximate/>,  arvopaperi,@ (a security that makes no interest payments but instead is sold at a deep discount from its face value) }
+{ yhtiösopimus<approximate/>,  arvopaperi,@ (a certificate showing the interests of all parties in a business partnership) }
+{ toiminimitodistus<unconfirmed/>,  arvopaperi,@ (a certificate showing who is responsible in an individually owned business) }
+{ vaihdettava_arvopaperi,  arvopaperi,@ (a corporate security (usually bonds or preferred stock) that can be exchanged for another form of security (usually common stock)) }
+{ kirjesalaisuus<unconfirmed/>,  arvopaperi,@ (a stock or bond that is not registered with the Securities and Exchange Commission and cannot be sold in the public market) }
+{ sijoitussopimus<unconfirmed/>,  noun.communication:aiesopimus,@ (a letter of intent saying that a letter security is being bought for investment and not for resale; avoids need for SEC registration) }
+{ osake<broader/>4,  osingot,  osakepääoma,@ (stock that has been bought back by the issuing corporation and is available for retirement or resale; it is issued but not outstanding; it cannot vote and pays no dividends) }
+{ äänestysosuus,  osakepääoma,@ (shares in a corporation that entitle the shareholder to voting and proxy rights) }
+{ vesitetyt_osakkeet,  osakepääoma,@ (stock representing ownership of overvalued assets; stock of a corporation whose total worth is less than its invested capital) }
+{ kirjesalaisuus<unconfirmed/>1,  kirjesalaisuus<unconfirmed/>,@ (stock that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public) }
+{ kirjesalaisuus<unconfirmed/>2,  kirjesalaisuus<unconfirmed/>,@ (a bond that has not been registered with the Securities and Exchange Commission and cannot be sold to the general public) }
+{ [ pörssissä_noteerattu_arvopaperi, noteeraamaton_vakuus,!]  arvopaperi,@ (a security that has been accepted for trading by one of the organized and registered securities exchanges in the US) }
+{ [ noteeraamaton_vakuus, pörssissä_noteerattu_arvopaperi,!]  arvopaperi,@ (a security traded in the over-the-counter market) }
+{ noteeraamaton_osake,  OTC-osake,  noteeraamaton_vakuus,@ (stock that is not listed and traded on an organized exchange) }
+{ [ budjetti, adj.pert:budjetti-,+ verb.cognition:budjetoida1,+]  talousarvio,  kustannusarvio,  noun.cognition:suunnitelma1,@ (a summary of intended expenditures along with proposals for how to meet them; "the president submitted the annual budget to Congress") }
+{ tasapainotettu_budjetti,  budjetti,@ (a budget is balanced when current expenditures are equal to receipts) }
+{ [ budjetti1, adj.pert:budjetti-,+ verb.cognition:budjetoida1,+]  rahavarat4,  varat6,@ (a sum of money allocated for a particular purpose; "the laboratory runs on a budget of a million a year") }
+{ Civil_List,  budjetti1,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a sum of money voted by British Parliament each year for the expenses of the British royal family) }
+{ käyttöbudjetti,  budjetti1,@ (a budget for current expenses as distinct from financial transactions or permanent improvements) }
+{ käteiskassa,  varat6,@ (a small fund of cash that a firm keeps for the payment of incidental expenses) }
+{ käyttöraha,  käyttörahat,  taskuraha,  käteinen1,@ (cash for day-to-day spending on incidental expenses) }
+{ käteinen2,  käteinen_raha,  käteinen1,@ (money in the form of cash that is readily available; "his wife was always a good source of ready cash"; "he paid cold cash for the TV set") }
+{ avistavekseli,  asete,@ (a draft payable on presentation) }
+{ asete1,  asete,@ (a draft payable at a specified future date) }
+{ vastaava_tuki<unconfirmed/>,  varat3,@ (funds that will be supplied in an amount matching the funds available from other sources) }
+{ tulos2,  noun.communication:rivi,@ tarkastettu_tili,#p (the last line in an audit; the line that shows profit or loss) }
+{ aluetuki,  avustus6,@ ([empty]) }
+{ aravalaina,  laina,@ ([empty]) }
+{ asumiskustannus,  kustannus,@ ([empty]) }
+{ asumistuki,  avustus5,@ ([empty]) }
+{ asuntoluotto,  luotto,@ ([empty]) }
+{ autovero,  vero,@ ([empty]) }
+{ energiavero,  vero,@ ([empty]) }
+{ erityistuki,  avustus5,@ ([empty]) }
+{ eurokorko,  korko2,@ ([empty]) }
+{ euroraha,  raha2,@ ([empty]) }
+{ haittavero,  vero,@ ([empty]) }
+{ helibor-korko,  korko2,@ ([empty]) }
+{ helikopterihankinta,  hankinta,@ ([empty]) }
+{ hoitomaksu,  maksu2,@ ([empty]) }
+{ investointituki,  avustus6,@ ([empty]) }
+{ jäsenmaksu,  maksu4,@ ([empty]) }
+{ juhlaraha,  raha1,@ ([empty]) }
+{ kansalaispalkka,  palkka,@ ([empty]) }
+{ kansaneläke,  eläke,@ ([empty]) }
+{ kauppasumma,  summa,@ ([empty]) }
+{ käyttökustannus,  kustannus,@ ([empty]) }
+{ käyttömaksu,  maksu2,@ ([empty]) }
+{ käyttömaksu1,  maksu4,@ ([empty]) }
+{ käyttöomaisuus,  omaisuus,@ ([empty]) }
+{ kehittämisraha,  raha,@ ([empty]) }
+{ keskipalkka,  palkka,@ ([empty]) }
+{ kiinteistöveroprosentti,  veroprosentti,@ ([empty]) }
+{ kirjallisuuspalkinto,  palkinto,@ ([empty]) }
+{ koiravero,  vero,@ ([empty]) }
+{ kokonaiskustannus,  kustannus,@ ([empty]) }
+{ korkotukilaina,  laina,@ ([empty]) }
+{ korkotuki,  avustus5,@ ([empty]) }
+{ korkovähennys,  vähennys1,@ ([empty]) }
+{ korvaussumma,  summa,@ ([empty]) }
+{ kotihoidontuki,  avustus5,@ ([empty]) }
+{ koulutusvakuutus,  vakuutus,@ ([empty]) }
+{ kuljetuskustannus,  kustannus,@ ([empty]) }
+{ kuljetustuki,  avustus5,@ ([empty]) }
+{ kulukorvaus,  palkka,@ ([empty]) }
+{ kunnallisvero,  vero,@ ([empty]) }
+{ kurssimaksu,  maksu2,@ ([empty]) }
+{ kuukausimaksu,  maksu2,@ ([empty]) }
+{ kuukausimaksu1,  maksu4,@ ([empty]) }
+{ lähdevero,  vero,@ ([empty]) }
+{ lainaraha,  raha,@ ([empty]) }
+{ laitehankinta,  hankinta,@ ([empty]) }
+{ liikennevakuutus,  vakuutus,@ ([empty]) }
+{ liiketulos,  tuotto1,@ ([empty]) }
+{ liikevaihtovero,  vero,@ ([empty]) }
+{ lisäbudjetti,  budjetti1,@ ([empty]) }
+{ lisäbudjetti1,  budjetti,@ ([empty]) }
+{ lisäkustannus,  kustannus,@ ([empty]) }
+{ lisämääräraha,  määräraha2,@ ([empty]) }
+{ lisäraha,  raha,@ ([empty]) }
+{ lisärahoitus,  avustus6,@ ([empty]) }
+{ lisätalousarvio,  budjetti,@ ([empty]) }
+{ lisätuki,  avustus5,@ ([empty]) }
+{ lomaraha,  raha,@ ([empty]) }
+{ lupamaksu,  maksu2,@ ([empty]) }
+{ maailmanmarkkinahinta,  markkina-arvo,@ ([empty]) }
+{ maataloustuki,  avustus6,@ ([empty]) }
+{ markkinakorko,  korko2,@ ([empty]) }
+{ myyntivoitto,  voitto2,@ ([empty]) }
+{ nettotulos1,  tuotto1,@ ([empty]) }
+{ opintolaina,  laina,@ ([empty]) }
+{ opintoraha,  raha,@ ([empty]) }
+{ opintotuki,  avustus5,@ ([empty]) }
+{ osa-aikaeläke,  eläke,@ ([empty]) }
+{ osallistumismaksu,  maksu2,@ ([empty]) }
+{ pääomasijoitus,  sijoitus2,@ ([empty]) }
+{ pääpalkinto,  palkinto,@ ([empty]) }
+{ päivähoitomaksu,  maksu2,@ ([empty]) }
+{ päiväsakko,  sakko1,@ ([empty]) }
+{ palkintosumma,  summa,@ ([empty]) }
+{ palkkakustannus,  kustannus,@ ([empty]) }
+{ palkkasumma,  summa,@ ([empty]) }
+{ pankkituki,  tuki1,@ ([empty]) }
+{ perusmaksu,  maksu2,@ ([empty]) }
+{ perusmaksu1,  maksu4,@ ([empty]) }
+{ peruspäiväraha,  päiväraha,@ ([empty]) }
+{ peruspalkka,  palkka,@ ([empty]) }
+{ pörssiosake,  osakekirja,@ ([empty]) }
+{ puoluetuki,  tuki1,@ ([empty]) }
+{ rahapalkinto,  palkinto,@ ([empty]) }
+{ rahoituskate,  kate,@ ([empty]) }
+{ rakennuskustannus,  kustannus,@ ([empty]) }
+{ rakentamiskustannus,  kustannus,@ ([empty]) }
+{ rauhanpalkinto,  palkinto,@ ([empty]) }
+{ rikesakko,  sakko1,@ ([empty]) }
+{ sairausvakuutusmaksu,  vakuutusmaksu,@ ([empty]) }
+{ sosiaaliturvamaksu,  maksu4,@ ([empty]) }
+{ sponsoriraha,  raha,@ ([empty]) }
+{ starttiraha,  raha,@ ([empty]) }
+{ telakkatuki,  tuki1,@ ([empty]) }
+{ terveyskeskusmaksu,  maksu2,@ ([empty]) }
+{ tietopankki,  pankki1,@ ([empty]) }
+{ tilivaluutta,  valuutta3,@ ([empty]) }
+{ tukiraha,  raha,@ ([empty]) }
+{ tuloveroprosentti,  veroprosentti,@ ([empty]) }
+{ työeläke,  eläke,@ ([empty]) }
+{ työllistämistuki,  määräraha2,@ ([empty]) }
+{ työmarkkinatuki,  avustus5,@ ([empty]) }
+{ työnantajamaksu,  maksu4,@ ([empty]) }
+{ työttömyyseläke,  eläke,@ ([empty]) }
+{ työttömyyskassa,  valtion_kassa,@ ([empty]) }
+{ työttömyysvakuutusmaksu,  vakuutusmaksu,@ ([empty]) }
+{ työvoimakustannus,  kustannus,@ ([empty]) }
+{ uhkasakko,  sakko1,@ ([empty]) }
+{ vaalibudjetti,  budjetti1,@ ([empty]) }
+{ valtionavustus,  apuraha1,@ ([empty]) }
+{ valtionpalkinto,  palkinto,@ ([empty]) }
+{ valvontakomissio,  komissio,@ ([empty]) }
+{ varhaiseläke,  eläke,@ ([empty]) }
+{ veronalennus,  vähennys1,@ ([empty]) }
+{ veronpalautus,  palautus,@ ([empty]) }
+{ veroraha,  raha,@ ([empty]) }
+{ verorasitus,  maksu7,@ ([empty]) }
+{ vientituki,  tuki1,@ ([empty]) }
+{ viivästyskorko,  korko1,@ ([empty]) }
+{ voittajaveto,  panos1,@ ([empty]) }
+{ vuosibudjetti,  budjetti1,@ ([empty]) }
+{ vuosibudjetti1,  budjetti,@ ([empty]) }
+{ vuosikate,  kate,@ ([empty]) }
+{ yhteisövero,  vero,@ ([empty]) }
+{ yhteissumma,  summa,@ ([empty]) }
+{ yhteisvaluutta,  valuutta3,@ ([empty]) }
+{ ykköspalkinto,  palkinto,@ ([empty]) }
+{ ympäristövero,  vero,@ ([empty]) }
+{ yritystuki,  lahjoitus1,@ ([empty]) }
+{ asumislisä,  avustus5,@ ([empty]) }
+{ lapsilisä,  avustus5,@ ([empty]) }
+{ rakennerahasto,  varat6,@ ([empty]) }
+{ sosiaalirahasto,  varat6,@ ([empty]) }
+{ vakuusrahasto,  varat6,@ ([empty]) }
+{ valuuttarahasto,  varat6,@ ([empty]) }

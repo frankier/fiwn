@@ -1,0 +1,1164 @@
+{ olisi_saattanut_olla<idiomatic_pos/>,  noun.Tops:tapahtuma,@ (an event that could have occurred but never did) }
+{ pannukakku,  noun.Tops:tapahtuma,@ (an anticipated event that turns out to be far less significant than was expected) }
+{ [ tapahtuma, verb.change:tapahtua,+]  sattuma,  tapaus,  luonnontapahtuma,  noun.Tops:tapahtuma,@ (an event that happens) }
+{ säestävä_tapahtuma,  seuralaisilmiö,  oheinen_ilmiö,  oheistapahtuma,  [ samanaikaisuus, adj.all:samanaikainen1^samanhetkinen,+]  sattuma1,  tapahtuma,@ (an event or situation that happens at the same time as or in connection with another) }
+{ kumppani,  kumppani<note>tapahtuma</note>1,  oheistapahtuma<unconfirmed/>1,  säestävä_tapahtuma,@ (any event that usually accompanies or is closely connected with another; "first was the lightning and then its thunderous associate") }
+{ ryöppy,  vyöry,  tapahtuma,@ (a sudden appearance of an overwhelming number of things; "the program brought an avalanche of mail") }
+{ taka-ala,  tausta,  säestävä_tapahtuma,@ (relatively unimportant or inconspicuous accompanying situation; "when the rain came he could hear the sound of thunder in the background") }
+{ [ kokemus, verb.emotion:kokea,+ verb.perception:kokea,+ verb.perception:kokea3,+ verb.change:kokea,+]  tapahtuma,@ (an event as apprehended; "a surprising experience"; "that painful experience certainly got our attention") }
+{ kauhistava<idiomatic_pos/>,  kauhistuttava<idiomatic_pos/>,  kokemus,@ (an experience that appalls; "is it better to view the appalling or merely hear of it?") }
+{ ennusmerkki,  merkki,  enne,  ennakkoilmoitus,  kokemus,@ (an event that is experienced as indicating important things to come; "he hoped it was an augury"; "it was a sign from God") }
+{ sodan_merkki,  ennusmerkki,@ (an ominous sign that war threatens) }
+{ enne1,  merkki1,  varoitus,  ennustus,  [ ennakkovaroitus, verb.communication:ennakoida,+]  ennusmerkki1,  ennusmerkki,@ (a sign of something about to happen; "he looked for an omen before going into battle") }
+{ enne2,  ennusmerkki2,  enne1,@ (a favorable omen) }
+{ paha_enne,  enne1,@ (an unfavorable omen) }
+{ kuoleman_enne,  enne1,@ (an omen of death or destruction) }
+{ purkaus,  leimahdus,  kokemus,@ (a short vivid experience; "a flash of emotion swept over him"; "the flashings of pain were a warning") }
+{ hupi<unconfirmed/>,  huvi<unconfirmed/>,  lysti<unconfirmed/>,  kunnon_pirskeet,  mahtava_elämys,  kokemus,@ (a highly pleasurable or exciting experience; "we had a good time at the party"; "celebrating after the game was a blast") }
+{ menetys,  kokemus,@ (the experience of losing a loved one; "he sympathized on the loss of their grandfather") }
+{ rajakokemus,  kokemus,@ (the experience of being close to death but surviving) }
+{ tulikoe,  koettelemus,  kokemus,@ (a severe or trying experience) }
+{ ruumiistapoistumiskokemus,  kehostapoistumiskokemus,  ruumiista_irtautumisen_kokemus,  kokemus,@ (the dissociative experience of observing yourself from an external perspective as though your mind or soul had left and was observing your body) }
+{ esimaku,  kokemus,@ (a brief experience of something; "he got a taste of life on the wild side"; "she enjoyed her brief taste of independence") }
+{ kokemus1,  kokemus,@ (a person's experience on a particular occasion; "he had a time holding back the tears"; "they had a good time together") }
+{ elämys,  kokemus,@ (an exciting or stimulating experience) }
+{ ilmestys,  näky,  kokemus,@ (a religious or mystical experience of a supernatural appearance; "he had a vision of the Virgin Mary") }
+{ seuratilaisuus,  sosiaalinen_tapahtuma,  noun.Tops:tapahtuma,@ (an event characteristic of persons forming groups) }
+{ ihme,  noun.Tops:tapahtuma,@ (a marvellous event manifesting a supernatural act of a divine agent) }
+{ [ vaiva, adj.all:levoton13^vaikea18,+]  ongelma,  tapahtuma,@ (an event causing distress or pain; "what is the trouble?"; "heart trouble") }
+{ ilo,  nautinto,  tapahtuma,@ (an occurrence that causes special pleasure or delight) }
+{ [ ihme1, adj.all:yliluonnollinen1^ihmeellinen2,+ adj.all:yliluonnollinen1^ihmeenomainen,+]  tapahtuma,@ (any amazing or wonderful occurrence) }
+{ [ ihme2, verb.communication:ihmetellä1,+ verb.communication:ihmetellä,+]  tapahtuma,@ (something that causes feelings of wonder; "the wonders of modern science") }
+{ tapaus1,  tapahtuma,@ (an event; "a funny thing happened on the way to the...") }
+{ episodi,  tapahtuma1,  tapaus2,  tapahtuma,@ (a happening that is distinctive in a series of related events) }
+{ [ nautinto1, verb.consumption:nauttia_jstk,+]  tapaus1,@ (something experienced with great delight; "a feast for the eyes") }
+{ [ draama, adj.all:dramaattinen,+ verb.communication:dramatisoida,+ adj.all:vaikuttava4^dramaattinen1,+]  dramaattinen_tapahtuma,  episodi,@ (an episode that is turbulent or highly emotional) }
+{ yöllinen_kauhukohtaus,  draama,@ (an emotional episode (usually in young children) in which the person awakens in terror with feelings of anxiety and fear but is unable to remember any incident that might have provoked those feelings) }
+{ mahdollisuus,  [ mahdollinen_tapahtuma, adj.all:mahdollinen3^mahdollinen5,+]  mahdollinen_sattuma,  tapahtuma,@ (a possible event or occurrence or result) }
+{ [ alku, loppu,! loppuminen,!]  tapahtuma,@ (the event consisting of the start of something; "the beginning of the war") }
+{ casus_belli,  sodan_oikeutus,  alku,@ (an event used to justify starting a war) }
+{ [ loppu, alku,!]  lopettaminen,  [ päättäminen, verb.change:päättää4,+]  [ loppuminen, alku,!]  tapahtuma,@ (event whose occurrence ends something; "his death marked the ending of an era"; "when these final episodes are broadcast it will be the finish of the show") }
+{ [ loppu1, verb.change:lopettaa3,+]  loppuosa,  päätös,  loppu,@ (the concluding parts of an event or occurrence; "the end was exciting"; "I had to miss the last of the movie") }
+{ loppupeli,  pelin_loppu,  loppu1,@ (the final stages of a chess game after most of the pieces have been removed from the board) }
+{ loppupeli1,  pelin_loppu1,  loppu1,@ (the final stages of an extended process of negotiation; "the diplomatic endgame") }
+{ loppusuora,  loppu1,@ noun.communication:puhekielen_ilmaus,;u (the end of an enterprise; "they were on the homestretch when the computer crashed") }
+{ päättyminen,  loppu2,  loppu1,@ (the end of something; "the passing of winter") }
+{ tulos,  seuraus,  lopputulos,  lopputulos<unconfirmed/>1,  loppu,@ (something that results; "he listened for the results on the radio") }
+{ loppuratkaisu,  tulos,@ (the outcome of a complex sequence of events) }
+{ kohtelu,  tulos,@ (the type of treatment received (especially as the result of an agreement); "he got a good deal on his car") }
+{ oikeudenmukainen_sopimus,  reilu_sopimus,  kohtelu,@ (fair treatment) }
+{ epäreilu_kohtelu,  kohtelu,@ (unfair treatment) }
+{ ratkaisu,  tulos,@ (the outcome of a game or contest; "the team dropped three decisions in a row") }
+{ pistevoitto,  tulos,@ noun.act:nyrkkeily,;c ((boxing) a victory won on points when no knockout has occurred; "had little trouble in taking a unanimous decision over his opponent") }
+{ hajaääni,  pistevoitto,@ (a boxing decision in which the judges are not unanimous) }
+{ seuraus1,  jälkivaikutus,  tulos,@ (the outcome of an event especially as relative to an individual) }
+{ luonnollinen_seuraus,  seuraus1,@ (a practical consequence that follows naturally; "blind jealousy is a frequent corollary of passionate love") }
+{ ansaittu_seuraus,  seuraus1,@ (an outcome (good or bad) that is well deserved) }
+{ hedelmä<narrower/>,  tulos<narrower/>1,  seuraus1,@ (the consequence of some effort or action; "he lived long enough to see the fruit of his policies") }
+{ seuraus2,  seuraus1,@ (a secondary consequence) }
+{ seuraukset,  seuraus1,@ (a series of consequences wrought by an event; "it led to a train of disasters") }
+{ oikeus_ja_kohtuus,  tulos,@ (an outcome in which virtue triumphs over vice (often ironically)) }
+{ tulos2,  [ toteutuminen, verb.change:toteutua,+]  aineistuma,  noun.phenomenon:seuraus,@ (something that comes into existence as a result; "industrialism prepared the way for acceptance of the French Revolution's various socialistic offspring"; "this skyscraper is the solid materialization of his efforts") }
+{ eroaminen,  erottaminen,  tulos,@ (the termination of employment (by resignation or dismissal)) }
+{ seuraus3,  jälkiseuraamus,  tulos,@ (something that follows something else) }
+{ palkkio,  [ palkka, verb.possession:palkita1,+ verb.social:palkita,+]  palkinto,  seuraus1,@ (a recompense for worthy acts or retribution for wrongdoing; "the wages of sin is death"; "virtue is its own reward") }
+{ itsestään_selvä_lopputulos,  selviö,  loppu,@ (an inevitable ending) }
+{ [ pahin_mahdollinen<idiomatic_pos/>, adj.all:pahin,+]  tulos,@ (the least favorable outcome; "the worst that could happen") }
+{ ainut_esiintyminen,  tapahtuma,@ (a happening that occurs only once and is not repeated) }
+{ jaksoittainen_tapahtuma,  toistuva_tapahtuma,  tapahtuma,@ (an event that recurs at intervals) }
+{ [ muutos, verb.change:muuttua,+ verb.change:muuttaa3,+ verb.change:muuttaa4,+]  tapahtuma,@ (an event that occurs when something passes from one state or phase to another; "the change was intended to increase sales"; "this storm is certainly a change for the worse"; "the neighborhood had undergone few modifications since his last visit years ago") }
+{ avulsio,  muutos,@ (an abrupt change in the course of a stream that forms the boundary between two parcels of land resulting in the loss of part of the land of one landowner and a consequent increase in the land of another) }
+{ murros,  äänenmurros,  muutos,@ (an abrupt change in the tone or register of the voice (as at puberty or due to emotion); "then there was a break in her voice") }
+{ muutos1,  muutos,@ (a change or alteration in form or qualities) }
+{ [ sublimaatio, verb.motion:sublimoida,+]  muutos,@ noun.cognition:psykologia,;c ((psychology) modifying the natural expression of an impulse or instinct (especially a sexual one) to one that is socially acceptable) }
+{ yllätys,  muutos,@ (a sudden unexpected event) }
+{ pommi,  salamanisku,  jymypaukku,  yllätys,@ (a shocking surprise; "news of the attack came like a bombshell") }
+{ yllättävä_käänne_näytelmässä<approximate/>,  yllätys,@ (a dramatic surprise) }
+{ paljastava_asia,  yllätys,@ (something surprising and revealing) }
+{ peripetia,  yllättävä_käänne,  yllätys,@ (a sudden and unexpected change of fortune or reverse of circumstances (especially in a literary work); "a peripeteia swiftly turns a routine sequence of events into a story worth telling") }
+{ [ järkytys, verb.emotion:järkyttää3,+ verb.emotion:järkyttyä1,+ verb.body:järkyttää,+]  isku,  sokki,  shokki,  yllätys,@ (an unpleasant or disappointing surprise; "it came as a shock to learn that he was injured") }
+{ hetkellinen_muutos,  pieni_poikkeama,  järkytys,@ (a sudden minor shock or meaningless interruption; "the market had one bad blip today"; "you can't react to the day-to-day blips"; "renewed jitters in the wake of a blip in retail sales") }
+{ yllätys1,  yllätys,@ (an unexpected and amazing event; "the stunner was what happened on Saturday") }
+{ virhe,  tietokoneen_virhe,  vika,  tapahtuma,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the occurrence of an incorrect result produced by a computer) }
+{ laitteistovika,  virhe,@ noun.cognition:tietojenkäsittelyoppi,;c (error resulting from a malfunction of some physical component of the computer) }
+{ levyvirhe,  laitteistovika,@ noun.cognition:tietojenkäsittelyoppi,;c (error resulting from malfunction of a magnetic disk) }
+{ ohjelmistovirhe,  ohjelmointivirhe,  virhe,@ noun.cognition:tietojenkäsittelyoppi,;c (error resulting from bad code in some program involved in producing the erroneous result) }
+{ ajonaikainen_virhe,  ohjelmistovirhe,@ noun.cognition:tietojenkäsittelyoppi,;c (an error in logic or arithmetic that must be detected at run time) }
+{ syntaksivirhe,  ohjelmistovirhe,@ noun.cognition:tietojenkäsittelyoppi,;c (an error of language resulting from code that does not conform to the syntax of the programming language; "syntax errors can be recognized at compilation time"; "a common syntax error is to omit a parenthesis") }
+{ algoritminen_virhe,  virhe,@ noun.cognition:tietojenkäsittelyoppi,;c (error resulting from the choice of the wrong algorithm or method for achieving the intended result) }
+{ onnettomuus,  [ tapaturma, adj.all:tahaton1^tapaturmainen,+]  vahinko,  odottamaton_tapaus,  sattuma2,  tapahtuma,@ (anything that happens suddenly or by chance without an apparent cause; "winning the lottery was a happy accident"; "the pregnancy was a stroke of bad luck"; "it was due to an accident or fortuity") }
+{ onnettomuus1,  tapaturma1,  vahinko1,  haveri,  kommellus,@ (an unfortunate mishap; especially one causing damage or injury) }
+{ yhteentörmäys,  kolari,  onnettomuus1,@ (an accident resulting from violent impact of a moving object; "three passengers were killed in the collision"; "the collision of the two ships resulted in a serious oil spill") }
+{ täpärä_tilanne,  kommellus,@ (an accidental collision that is narrowly avoided) }
+{ paha_liikenneonnettomuus,  tuho,  onnettomuus2,  onnettomuus1,@ (a serious accident (usually involving one or more vehicles); "they are still investigating the crash of the TWA plane") }
+{ kolari1,  maahansyöksy,  paha_liikenneonnettomuus,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a crash involving a car or plane) }
+{ raiteilta_suistuminen,  kommellus,@ (an accident in which a train runs off its track) }
+{ käännös_maanpinnalla,  pyörähdys,  kommellus,@ (a sharp uncontrollable turn made by an airplane while moving along the ground) }
+{ törmäys,  [ osuma, verb.contact:osua1,+]  osuma1,@ noun.cognition:fysiikka,;c ((physics) a brief event in which two or more bodies come together; "the collision of the particles resulted in an exchange of energy and a change of direction") }
+{ tulipalo,  tapahtuma,@ (the event of something burning (often destructive); "they lost everything in the fire") }
+{ vastatuli,  tulipalo,@ (a fire that is set intentionally in order to slow an approaching forest fire or grassfire by clearing a burned area in its path) }
+{ kokko,  juhannuskokko<narrower/>,  tulipalo,@ (a large outdoor fire that is lighted as a signal or in celebration) }
+{ pensaspalo,  tulipalo,@ (an uncontrolled fire that consumes brush and shrubs and bushes) }
+{ leirinuotio,  nuotio,  leirituli,  tulipalo,@ (a small outdoor fire for warmth or cooking (as at a camp)) }
+{ suurpalo,  räjähdysmäinen_tulipalo,  liekkimeri,  pätsi,  tulipalo1,  tulipalo,@ (a very intense and uncontrolled fire) }
+{ metsäpalo,  tulipalo,@ (an uncontrolled fire in a wooded area) }
+{ ruohikkopalo,  preeriapalo,  tulipalo,@ (an uncontrolled fire in a grassy area) }
+{ hiillos,  [ kytevä_tuli, verb.change:kyteä,+]  tulipalo,@ (a fire that burns with thick smoke but no flame; "the smoulder suddenly became a blaze") }
+{ kytövalkea,  lehmisavu,  savuava_nuotio,  tulipalo,@ (a smoky fire to drive away insects) }
+{ latvatuli,  metsäpalo,@ (a forest fire that advances with great speed jumping from crown to crown ahead of the ground fire) }
+{ kulo,  metsäpalo,@ (a forest fire that burns the humus; may not appear on the surface) }
+{ pintapalo,  metsäpalo,@ (a forest fire that burns only the surface litter and undergrowth) }
+{ metsäpalo1,  maastopalo,  suurpalo,@ (a raging and rapidly spreading conflagration) }
+{ onnettomuus3,  epäonni,  vaiva,@ (unnecessary and unforeseen trouble resulting from an unfortunate event) }
+{ sääli,  harmi,  ikävä,  onnettomuus3,@ (an unfortunate development; "it's a pity he couldn't do it") }
+{ koettelemus1,  vaiva,@ (a cause of great suffering and distress) }
+{ mullistus,  vaiva,@ (a physical disturbance such as an earthquake or upheaval) }
+{ [ nolo_tilanne, helpottaa_hämmennystä<unconfirmed/>,! verb.emotion:nolata,+ verb.emotion:nolostuttaa,+]  vaiva,@ (some event that causes someone to be embarrassed; "the outcome of the vote was an embarrassment for the liberals") }
+{ [ helpottaa_hämmennystä<unconfirmed/>, nolo_tilanne,!]  parannus,@ (something that extricates you from embarrassment) }
+{ helvetti,  horna,  roihu,  tuli,  vaiva,@ (a cause of difficulty and suffering; "war is hell"; "go to blazes") }
+{ [ marttyyrius, noun.person:marttyyri,+]  koettelemus1,@ (any experience that causes intense suffering) }
+{ ankara_hyökkäys,  vaiva,@ (a sudden and severe onset of trouble) }
+{ skandaali,  häväistys,  vaiva,@ (a disgraceful event) }
+{ perhesalaisuus,  luuranko_kaapissa,  luuranko_komerossa,  skandaali,@ (a scandal that is kept secret; "there must be a skeleton somewhere in that family's closet") }
+{ Teapot_Dome,  Teapot_Dome_-skandaali,  skandaali,@i (a government scandal involving a former United States Navy oil reserve in Wyoming that was secretly leased to a private oil company in 1921; became symbolic of the scandals of the Harding administration) }
+{ Watergate,  Watergate-skandaali,  skandaali,@i (a political scandal involving abuse of power and bribery and obstruction of justice; led to the resignation of Richard Nixon in 1974) }
+{ sarja,  episodi,@ (a series of related events forming an episode; "a chapter of disasters") }
+{ [ idylli, adj.all:täydellinen18^idyllinen,+ adj.all:miellyttävä13^idyllinen1,+]  episodi,@ (an episode of such pastoral or romantic charm as to qualify as the subject of a poetic idyll) }
+{ tapaus3,  tapahtuma2,  tapahtuma,@ episodi,#p (a single distinct event) }
+{ cause_celebre<note>puheenaihe</note>,  tapaus3,@ (an incident that attracts great public attention) }
+{ purkaus1,  tapahtuma,@ (the sudden giving off of energy) }
+{ sähköpurkaus,  purkaus1,@ (a discharge of electricity) }
+{ hermoimpulssi,  hermoärsyke,  impulssi,  sähköpurkaus,@ (the electrical discharge that travels along a nerve fiber; "they demonstrated the transmission of impulses from the cortex to the hypothalamus") }
+{ aktiopotentiaali,  toimintapotentiaali,  hermoimpulssi,@ (the local voltage change across the cell wall as a nerve impulse is transmitted) }
+{ piikki,  sähköpurkaus,@ (a transient variation in voltage or current) }
+{ [ räjähdys, verb.change:räjäyttää,+ verb.change:räjähtää2,+]  purkaus1,@ (a violent release of energy caused by a chemical or nuclear reaction) }
+{ tapaus4,  tapahtuma,@ (an occurrence of something; "it was a case of bad judgment"; "another instance occurred yesterday"; "but there is always the famous example of the Smiths") }
+{ nöyryytys,  häpeä,  tapaus4,@ (an instance in which you are caused to lose your prestige or self-respect; "he had to undergo one humiliation after another") }
+{ esimerkki<approximate/>,  hitunen,  tapaus4,@ (an instance of some kind; "it was a nice piece of work"; "he had a bit of good luck") }
+{ kerta,  tapaus4,@ (an instance or single occasion for some event; "this time he succeeded"; "he called four times"; "he could do ten at a clip") }
+{ [ liikehdintä, verb.motion:liikkua,+]  liike,  tapahtuma,@ (a natural event that involves a change in the position or location of something) }
+{ maankuoren_liike,  tektoninen_liike,  liikehdintä,@ noun.cognition:geologia,;c (movement resulting from or causing deformation of the earth's crust) }
+{ [ läheneminen, verb.motion:lähestyä5,+]  [ lähestyminen, verb.motion:lähestyä5,+]  tulo,  liikehdintä,@ (the event of one object coming closer to another) }
+{ [ ohitus, verb.motion:ohittaa1,+]  sivuutus,  liikehdintä,@ (the motion of one object relative to another; "stellar passings can perturb the orbits of comets") }
+{ poikkeama,  liikehdintä,@ (the movement of the pointer or pen of a measuring instrument from its zero position) }
+{ koukistus,  taipuminen,  taittaminen,  taivuttaminen,  taitto,  liikehdintä,@ (movement that causes the formation of a curve) }
+{ [ matkustaminen, verb.motion:matkustaa1,+]  liikehdintä,@ (a movement through space that changes the location of something) }
+{ peltikolari,  yhteentörmäys,@ (a collision between motor vehicles that produces minor damage) }
+{ [ nousukohta, adj.pert:nousu-,+]  matkustaminen,@ noun.cognition:astronomia,;c ((astronomy) the rising of a star above the horizon) }
+{ Kristuksen_taivaaseenastuminen,  ihme,@i noun.communication:Uusi_Testamentti,;c ((New Testament) the rising of the body of Jesus into heaven on the 40th day after his Resurrection) }
+{ ylösnousemus,  Kristuksen_ylösnousemus,  ihme,@i noun.communication:Uusi_Testamentti,;c ((New Testament) the rising of Christ on the third day after the Crucifixion) }
+{ [ kiertokulku, verb.motion:kierrättää,+ verb.change:kierrättää,+]  matkustaminen,@ noun.Tops:kasvi,;c (free movement or passage (as of cytoplasm within a cell or sap through a plant); "ocean circulation is an important part of global climate"; "a fan aids air circulation") }
+{ hidas_pitkittäinen_liike,  rapautuminen,  matkustaminen,@ (a slow longitudinal movement or deformation) }
+{ vaellus,  jaksoittainen_tapahtuma,@ (the periodic passage of groups of animals (especially birds or fishes) from one region to another for feeding or breeding) }
+{ kulkeutuminen,  noun.Tops:tapahtuma,@ noun.cognition:kemia,;c ((chemistry) the nonrandom movement of an atom or radical from one place to another within a molecule) }
+{ [ kutistuminen, verb.change:kutistaa,+]  [ kutistuma, verb.change:kutistaa,+ verb.change:kutistua1,+]  väheneminen,@ (process or result of becoming less or smaller; "the material lost 2 inches per yard in shrinkage") }
+{ kokoon_puristuminen,  [ tiivistyminen, verb.change:tiivistää4,+]  supistuminen,  kutistuminen,@ (the process or result of becoming smaller or pressed together; "the contraction of a gas on cooling") }
+{ kuristuma,  ahtauma,  kokoon_puristuminen,@ (tight or narrow compression) }
+{ vahinko2,  tapaturmavahinko,  onnettomuus1,@ (an accident that results in physical damage or hurt) }
+{ repeämä,  rikkoutuminen,  välirikko,  [ katkaiseminen, verb.contact:katkaista5,+]  särö,  erimielisyys,  erottaminen1,@ (a personal or social separation (as between opposing factions); "they hoped to avoid a break in relations") }
+{ jakaantuminen,  repeämä,@ (the formal separation of a church into two churches or the withdrawal of one group over doctrinal differences) }
+{ epäonninen_tapahtuma,  onnettomuus,@ (an accidental happening; "he recorded all the little haps and mishaps of his life") }
+{ kommellus,  epäonni1,  onnettomuus4,  onnettomuus3,@ (an instance of misfortune) }
+{ rengasrikko,  kommellus,@ (loss of air pressure in a tire when a hole is made by some sharp object) }
+{ [ tuho1, adj.all:epäonninen^tuhoisa4,+]  katastrofi,  [ murhenäytelmä, adj.all:surullinen3^murheellinen3,+]  [ tragedia, adj.all:surullinen3^traaginen,+]  suuronnettomuus,  suurtuho,  onnettomuus3,@ (an event resulting in great loss and misfortune; "the whole city was affected by the irremediable calamity"; "the earthquake was a disaster") }
+{ luonnoneste,  ylivoimainen_este,  ylivoimainen_tapahtuma,  väistämätön_onnettomuus,  pakottava_este,  tuho1,@ (a natural and unavoidable catastrophe that interrupts the expected course of events; "he discovered that his house was not insured against acts of God") }
+{ [ apokalypsi, adj.pert:apokalyptinen,+ adj.all:profeetallinen^apokalyptinen,+]  [ ilmestys1, adj.pert:ilmestys-,+ adj.all:profeetallinen^ilmestys-,+]  tuho1,@ (a cosmic cataclysm in which God destroys the ruling powers of evil) }
+{ nälänhätä,  tuho1,@ (a severe shortage of food (as through crop failure) resulting in violent hunger and starvation and death) }
+{ Irlannin_nälänhätä,  nälänhätä,@ (a famine in Ireland resulting from a potato blight; between 1846 and 1851 a million people starved to death and 1.6 million emigrated (most to America)) }
+{ kuoleman_suudelma,  tuho1,@ (something that is ruinous; "if this were known it would be the kiss of death for my political career") }
+{ romahdus,  tuho1,@ (a disaster comparable to a nuclear meltdown; "there is little likelihood of a meltdown comparable to the American banking collapse in March 1933") }
+{ vitsaus,  tuho1,@ (any large scale calamity (especially when thought to be sent by God)) }
+{ vitsaus1,  tuho1,@ (any disaster or catastrophe; "a visitation of the plague") }
+{ käänne,  tilaisuus,  mahdollisuus1,  onnettomuus,@ (an unexpected piece of good luck; "he finally got his big break") }
+{ yhteensattuma,  sattuma3,  onnettomuus,@ (an event that might have been arranged although it was really accidental) }
+{ arpapeli,  onnettomuus,@ (something that is regarded as a chance event; "the election was just a lottery to them") }
+{ ketjukolari,  yhteentörmäys,@ (multiple collisions of vehicles) }
+{ kolari2,  yhteentörmäys1,  yhteentörmäys,@ noun.artifact:moottoriajoneuvo1,;c (a serious collision (especially of motor vehicles)) }
+{ harha-askel,  [ kompastus, verb.motion:kompastua,+]  kommellus,@ (an accidental misstep threatening (or causing) a fall; "he blamed his slip on the ice"; "the jolt caused many slips and a few spills") }
+{ [ epäonnistunut_yritys, onnistuminen,! verb.social:epäonnistua1,+]  tapahtuma,@ (an event that does not accomplish its intended purpose; "the surprise party was a complete failure") }
+{ kaatuminen,  kukistuminen,  romahdus1,  epäonnistunut_yritys,@ (failure that results in a loss of position or reputation) }
+{ romahdus2,  epäonnistunut_yritys,@ (a complete or conspicuous failure; "the spectacular flame-out of the company's stock cost many people their life savings") }
+{ [ toimintahäiriö, verb.contact:toimia_huonosti,+]  virhetoiminta,  epäonnistunut_yritys,@ (a failure to function normally) }
+{ rengasrikko1,  sulakkeen_palaminen<approximate/>,  toimintahäiriö,@ (a sudden malfunction of a part or apparatus; "the right front tire had a blowout"; "as a result of the blowout we lost all the lights") }
+{ kuolio,  toimintahäiriö,@ (a malfunction in the flight of an aircraft in which there is a sudden loss of lift that results in a downward plunge; "the plane went into a stall and I couldn't control it") }
+{ [ onnistuminen, epäonnistunut_yritys,!]  tapahtuma,@ (an event that accomplishes its intended purpose; "let's call heads a success and tails a failure"; "the election was a remarkable success for the Whigs") }
+{ jymymenestys<approximate/>,  onnistuminen,@ noun.communication:puhekielen_ilmaus,;u (an impressively successful event; "the rock concert was a real barnburner") }
+{ Herran_siunausta,  onnistuminen,@ (a successful journey; "they wished him Godspeed") }
+{ [ epäonnistunut_yritys1, verb.social:epäonnistua1,+]  epäonnistunut_yritys,@ (failure of a plan) }
+{ epäonnistuminen,  ohiheitto,  ohilaukaus,  epäonnistunut_yritys,@ (a failure to hit (or meet or find etc)) }
+{ esiintulo,  ulosmeno,  alku,@ (the becoming visible; "not a day's difference between the emergence of the andrenas and the opening of the willow catkins") }
+{ [ puhkeaminen, verb.change:puhjeta11,+]  esiintulo,@ (the emergence of a tooth as it breaks through the gum) }
+{ [ synnytys, kuolema,! verb.change:syntyä3,+ verb.body:synnyttää2,+]  [ syntymä, kuolema,! verb.change:syntyä3,+ verb.body:synnyttää2,+]  muutos,@ (the event of being born; "they celebrated the birth of their first child") }
+{ synnytys1,  synnytys,@ (the event of giving birth; "she had a difficult delivery") }
+{ [ syntymä1, noun.act:kohtukuolema,!]  synnytys,@ (the birth of a living fetus (regardless of the length of gestation)) }
+{ siunattu_tapahtuma,  iloinen_perhetapahtuma,  syntymä1,@ noun.communication:puhekielen_ilmaus,;u (the live birth of a child) }
+{ kuoleman_jälkeinen_synnytys,  synnytys,@ (birth of a child by Caesarean section after the death of the mother) }
+{ isän_kuoleman_jälkeen_syntynyt_lapsi,  synnytys,@ (birth of a child after the father has died) }
+{ jälleensyntyminen,  uudelleensyntyminen,  renessanssi,  synnytys,@ (a second or new birth) }
+{ jälleensyntymä,  jälleensyntyminen,@ (the passing of a soul into another body after death) }
+{ uudelleensyntymä,  jälleensyntyminen,@ noun.cognition:hindulaisuus,;c ((Hinduism) repeated rebirth in new forms) }
+{ mokša,  uudelleensyntymä,@ noun.cognition:hindulaisuus,;c ((Hinduism) release from the cycle of rebirth) }
+{ [ ilmaantuminen, häviäminen1,! verb.change:ilmaantua3,+ verb.change:ilmestyä,+]  [ ilmestyminen, häviäminen1,! verb.change:ilmaantua3,+ verb.change:ilmestyä,+]  tapahtuma,@ (the event of coming into sight) }
+{ [ ilmestyminen1, verb.change:ilmaantua_uudelleen,+]  ilmaantuminen,@ (the event of something appearing again; "the reappearance of Halley's comet") }
+{ [ ulostulo, immersio,!]  [ esiin_tuleminen, immersio,!]  ilmestyminen1,@ pimennys,#p noun.cognition:astronomia,;c ((astronomy) the reappearance of a celestial body after an eclipse) }
+{ [ immersio, ulostulo,! esiin_tuleminen,!]  häviäminen1,@ pimennys,#p noun.cognition:astronomia,;c ((astronomy) the disappearance of a celestial body prior to an eclipse) }
+{ toinen_tuleminen,  Kristuksen_toinen_tuleminen,  toinen_adventti,  adventti,  Jeesuksen_toinen_tuleminen,  ilmenemismuoto,@i noun.cognition:kristillinen_teologia,;c ((Christian theology) the reappearance of Jesus as judge for the Last Judgment) }
+{ uusinta,  noun.Tops:tapahtuma,@ (an event that is substituted for a previously cancelled event; "he missed the test and had to take a makeup"; "the two teams played a makeup one week later") }
+{ materialisaatio,  aineistuma1,  ilmaantuminen,@ (an appearance in bodily form (as of a disembodied spirit)) }
+{ ilmenemismuoto,  ilmaantuminen,@ (a clear appearance; "a manifestation of great emotion") }
+{ ilmestys2,  ilmaantuminen,@ (the appearance of a ghostlike figure; "I was recalled to the present by the apparition of a frightening specter") }
+{ ilmestys3,  ilmenemismuoto,@ (a divine manifestation) }
+{ ilmestys4,  ilmenemismuoto,@ (a visible (but not necessarily material) manifestation of a deity to a human person) }
+{ Jumalan_sana,  ilmenemismuoto,@ (a manifestation of the mind and will of God) }
+{ alkuperä,  [ synty, verb.stative:syntyä,+]  alku1,  alku,@ (an event that is a beginning; a first part or stage of subsequent events) }
+{ itäminen,  alkuperä,@ (the origin of some development; "the germination of their discontent") }
+{ synty1,  [ syntyminen, verb.body:synnyttää,+]  alku,@ (a coming into being) }
+{ etulyöntiasema<unconfirmed/>,  alku,@ (becoming part of a venture at the beginning (regarded as position of advantage); "he got in on the ground floor") }
+{ esiintyminen<approximate/>,  ilmestyminen2,  [ kehitys, verb.change:kehittyä<unconfirmed/>,+]  alku,@ (the gradual beginning or coming forth; "figurines presage the emergence of sculpture in Greece") }
+{ [ nousu, tuho6,! verb.change:nousta9,+]  esiintyminen<approximate/>,@ (a growth in strength or number or importance) }
+{ rikosaalto,  nousu,@ (a sudden rise in the crime rate) }
+{ [ alku2, verb.stative:alkaa1,+ verb.change:alkaa,+ verb.stative:alkaa,+ verb.social:alkaa3,+ verb.creation:alkaa,+]  lähtö,  alku,@ (the beginning of anything; "it was off to a good start") }
+{ adrenarke,  alku2,@ (the increase in activity of the adrenal glands just before puberty) }
+{ menarke,  alku2,@ (the first occurrence of menstruation in a woman) }
+{ rintojen_puhkeaminen<unconfirmed/>,  alku2,@ (the start of breast development in a woman at the beginning of puberty) }
+{ puhkeaminen1,  tulo1,  alku2,@ (the beginning or early stages; "the onset of pneumonia") }
+{ [ sarastus, verb.stative:sarastaa,+]  aamunkoitto,  alku2,@ (the earliest period; "the dawn of civilization"; "the morning of the world") }
+{ lentävä_lähtö,  alku2,@ (a quick and auspicious beginning) }
+{ avausjakso,  avausnumero,  avaus,  alku2,@ (the first event in a series; "she played Chopin for her opener"; "the season's opener was a game against the Yankees") }
+{ [ aiheuttaja, verb.communication:aiheuttaa,+ verb.creation:aiheuttaa7,+]  [ syy, adj.all:aiheuttava^syysuhteinen,+]  lähde,  alkuperä,@ (events that provide the generative force that is the origin of something; "they are trying to determine the cause of the crash") }
+{ [ edellä_käyvä_seikka, verb.stative:edeltää1,+ adj.all:edellä_käyvä,+ adj.all:edeltävä,+]  [ edeltävä_tapahtuma, verb.stative:edeltää1,+ adj.all:edellä_käyvä,+ adj.all:edeltävä,+]  aiheuttaja,@ (a preceding occurrence or cause or event) }
+{ ennakkotoimi,  johdanto,  alkuperä,@ (something that serves as a preceding event or introduces what follows; "training is a necessary preliminary to employment"; "drinks were the overture to dinner") }
+{ virtaaminen,  [ nouseminen, verb.body:nousta_kuolleista,+]  lähteminen,  alkuperä,@ noun.cognition:teologia1,;c ((theology) the origination of the Holy Spirit at Pentecost; "the emanation of the Holy Spirit"; "the rising of the Holy Ghost"; "the doctrine of the procession of the Holy Spirit from the Father and the Son") }
+{ [ etiologia, adj.pert:etiologinen,+ noun.person:etiologi,+]  taudinsyy,  aiheuttaja,@ (the cause of a disease) }
+{ tekijä,  aiheuttaja,@ (anything that contributes causally to a result; "a number of factors determined the outcome") }
+{ liiketoiminnan_perustekijät<unconfirmed/>,  tekijä,@ (any factor that could be considered important to the understanding of a particular business; "fundamentals include a company's growth, revenues, earnings, management, and capital structure") }
+{ raja,  rajoitus,  tekijä,@ (any factor that defines a system and determines (or limits) its performance) }
+{ tuntematon_tekijä,  tekijä,@ (a factor in a given situation whose bearing and importance is not apparent; he's still an unknown quantity"; "I don't know what the new man will do") }
+{ villi_kortti,  tekijä,@ (an unpredictable factor; "the weather was a wild card") }
+{ [ tuottaja, verb.creation:tuottaa13,+]  valmistaja,  aiheuttaja,@ (something that produces; "Maine is a leading producer of potatoes"; "this microorganism is a producer of disease") }
+{ [ luominen, verb.creation:luoda3,+]  syntyhetki,  alku,@ (the event that occurred at the beginning of something; "from its creation the plan was doomed to failure") }
+{ alku3,  alku2,@ (the beginning of a series or sequence; "the Alpha and Omega, the first and the last, the beginning and the end"--Revelations") }
+{ ensiesitys,  ensi-ilta,  esinäytelmä,  alku2,@ (the first performance (as of a theatrical production); "the opening received good critical reviews") }
+{ aloitus,  alku2,@ (a start given to contestants; "I was there with my parents at the kickoff") }
+{ kilpailun_aloitus,  alku2,@ (the start of a race) }
+{ lentävä_lähtö1,  kilpailun_aloitus,@ (a racing start in which the contestants are already in full motion when they pass the starting line) }
+{ kohtalo,  tapahtuma,@ (an event (or a course of events) that will inevitably happen in the future) }
+{ väistämätön_asia,  kohtalo,@ (an unavoidable event; "don't argue with the inevitable") }
+{ karma,  kohtalo,@ noun.cognition:buddhalaisuus,;c noun.cognition:hindulaisuus,;c ((Hinduism and Buddhism) the effects of a person's actions that determine his destiny in his next incarnation) }
+{ kismet,  kohtalo,@ noun.cognition:islam,;c ((Islam) the will of Allah) }
+{ ennaltamääräys,  [ predestinaatio, verb.cognition:predestinoida,+ verb.communication:predestinoida,+ noun.person:predestinaatio-opin_kannattaja,+]  kohtalo,@ (previous determination as if by destiny or fate) }
+{ annihilaatio,  hävittäminen,  [ tuhoaminen, verb.change:tuhota7,+]  disintegraatio,  hajoaminen,  hävitys1,@ (total destruction; "bomb tests resulted in the annihilation of the atoll") }
+{ [ hävittäminen1, verb.creation:hävittää2,+]  [ hävitys, verb.change:hävittää7,+ verb.change:hävittää1,+]  hävitys1,@ (the complete destruction of every trace of something) }
+{ [ heikentyminen, verb.change:heikentää9,+]  hervottomuus,  [ heikkeneminen, verb.change:heikentää9,+]  uupumus,  nääntymys,  väsymys,  heikentyminen1,@ (serious weakening and loss of energy) }
+{ erottaminen1,  [ hajoaminen1, verb.motion:hajota1,+]  irrottaminen,  muutos,@ (coming apart) }
+{ leviäminen,  leviäminen1,@ noun.group:mytologia,;c (the spread of social institutions (and myths and skills) from one society to another) }
+{ [ hajauttaminen, verb.motion:hajaantua,+]  [ hajautus, verb.motion:hajaannuttaa,+]  leviäminen1,@ (spreading widely or driving off) }
+{ diaspora,  hajauttaminen,@ (the dispersion of the Jews outside Israel; from the destruction of the temple in Jerusalem in 587-86 BC when they were exiled to Babylonia up to the present time) }
+{ [ hajoaminen2, verb.motion:hajota,+]  hajauttaminen,@ (breaking up and scattering by dispersion; "the dissipation of the mist") }
+{ invaasio,  leviäminen1,@ noun.cognition:lääketiede,;c ((pathology) the spread of pathogenic microorganisms or malignant cells to new sites in the body; "the tumor's invasion of surrounding structures") }
+{ irradiaatio,  leviäminen1,@ noun.cognition:fysiologia,;c ((physiology) the spread of sensory neural impulses in the cortex) }
+{ sukupuuttoon_kuoleminen,  häviäminen,  sukupuutto,  annihilaatio,@ (complete annihilation; "they think a meteor cause the extinction of the dinosaurs") }
+{ ristiinnaulitseminen,  kuolema,@i (the death of Jesus by crucifixion) }
+{ kuolemantapaus,  kuolonuhri,  kuolema,@ (a death resulting from an accident or a disaster; "a decrease in the number of automobile fatalities") }
+{ loppu3,  kaatuminen,@ (the downfall of someone (as of persons on one side of a conflict); "booze will be the finish of him"; "it was a fight to the finish") }
+{ [ marttyyrikuolema, noun.person:marttyyri1,+]  kuolema,@ (death that is imposed because of the person's adherence of a religious faith or cause) }
+{ miljoona_kuollutta<approximate/>,  kuolema,@ (the death of a million people; "they calibrate the effects of atom bombs in megadeaths") }
+{ [ poismeno, verb.motion:poistua1,+ verb.change:poistua_keskuudesta,+]  menetys1,  lähtö1,  viimeinen_hengenveto,  viimeinen_henkäys,  loppu4,  kuolema,@ noun.communication:eufemismi,;u (euphemistic expressions for death; "thousands mourned his passing") }
+{ laiton_kuolema<unconfirmed/>,  kuolema,@ (a death that results from a wrongful act or from negligence; a death that can serve as the basis for a civil action for damages on behalf of the dead person's family or heirs) }
+{ [ tuomio, verb.communication:tuomita7,+]  tuho2,  turmio,  tuomiopäivä,  kohtalo1,  loppu5,  kohtalo,@ (an unpleasant or disastrous destiny; "everyone was aware of the approaching doom but was helpless to avoid it"; "that's unfortunate but it isn't the end of the world") }
+{ hävitys1,  hajotus,  täystuho,  poispyyhkäisy,  pyyhintä,  loppu,@ (an event (or the result of an event) that completely destroys something) }
+{ [ hävitys2, verb.change:hävittää3,+ verb.change:hävittää4,+]  tuhotyöt,  tuho3,  hävitys1,@ noun.communication:monikko,;u ((usually plural) a destructive action; "the ravages of time"; "the depredations of age and disease") }
+{ purkaminen,  hajottaminen,  hävitys1,@ (the event of a structure being completely demolished and leveled) }
+{ [ tuho4, adj.all:vahingollinen2^tuhoisa5,+]  hävitys1,@ (an event that results in destruction) }
+{ tuhoaminen1,  [ hävitys3, verb.change:hävittää_asukkaat,+]  tuho4,@ (an event that results in total destruction) }
+{ [ tuho5, verb.contact:tuhota10,+]  hävitys1,@ (the destruction or collapse of something; "wrack and ruin") }
+{ [ häviäminen1, ilmaantuminen,! ilmestyminen,! verb.perception:hävitä,+]  tapahtuma,@ (the event of passing out of sight) }
+{ häviäminen2,  [ katoaminen, adj.all:kestämätön^katoava2,+]  häviäminen1,@ (the event of fading and gradually vanishing from sight; "the evanescence of the morning mist") }
+{ häipyminen,  häviäminen1,@ (a sudden or mysterious disappearance) }
+{ hälveneminen,  himmennys,  häviäminen1,@ (a slow or gradual disappearance) }
+{ häviäminen3,  tapahtuma,@ (ceasing to exist; "he regretted the disappearance of Greek from school curricula"; "what was responsible for the disappearance of the rainforest?"; "the disappearance of resistance at very low temperatures") }
+{ onnettomuudet,  onnettomuus5,  onnettomuus3,@ (a stroke of ill fortune; a calamitous event; "a period marked by adversities") }
+{ koettelemus2,  vastoinkäyminen,  onnettomuus3,@ (something that causes or entails suffering; "I cannot think it a hardship that more indulgence is allowed to men than to women"- James Boswell"; "the many hardships of frontier life") }
+{ kolaus,  kolhu,  onnettomuus3,@ (a bad experience; "the school of hard knocks") }
+{ oikku,  päähänpisto,  muutos,@ (an unexpected and inexplicable change in something (in a situation or a person's behavior, etc.); "the vagaries of the weather"; "his wealth fluctuates with the vagaries of the stock market"; "he has dealt with human vagaries for many years") }
+{ [ vaihtelu, verb.stative:vaihdella,+]  muutos,@ (an instance of change; the rate or magnitude of change) }
+{ muutos2,  käänne1,  vaihtelu,@ (a variation in circumstances or fortune at different times in your life or in the development of something; "the project was subject to the usual vicissitudes of exploratory research") }
+{ [ allomerismi, adj.pert:allomerinen,+]  vaihtelu,@ noun.cognition:kemia,;c ((chemistry) variability in chemical composition without variation in crystalline form) }
+{ [ kytkentä, verb.contact:kytkeä10,+ verb.change:kytkeä1,+]  hammastus,  kytkeminen,  osuma1,@ (contact by fitting together; "the engagement of the clutch"; "the meshing of gears") }
+{ näpäytys,  näpäys,  osuma1,@ (a light sharp contact (usually with something flexible); "he gave it a flick with his finger"; "he felt the flick of a whip") }
+{ törmäys1,  osuma1,@ (the striking of one body against another) }
+{ isku1,  jysähdys,  jysäys,  kolaus1,  [ törmäys2, verb.contact:törmätä2,+]  törmäys1,@ (an impact (as from a collision); "the bump threw him off the bicycle") }
+{ [ läjähdys, verb.contact:läjäyttää,+]  pamahdus,  törmäys1,@ (a forceful impact that makes a loud noise) }
+{ [ sysäys, verb.motion:sysätä,+]  kolhaisu,  läimäytys,  tärähdys,  isku1,@ (a sudden jarring impact; "the door closed with a jolt"; "all the jars and jolts were smoothed out by the shock absorbers") }
+{ osuma1,  iskeytyminen,  törmäys3,  tapahtuma,@ (the physical coming together of two or more things; "contact with the pier scraped paint from the hull") }
+{ vauriot,  varusteiden_menettäminen,  menetys2,@ noun.group:sotavoimat,;c (loss of military equipment) }
+{ tappiot,  vauriot,@ noun.group:sotavoimat,;c (loss of military equipment in battle) }
+{ taisteluvahingot,  taistelussa_kaatuneet,  vauriot,@ noun.group:sotavoimat,;c (loss of military equipment in field operations) }
+{ menetys2,  tappio,  väheneminen,@ noun.group:sotavoimat,;c (a decrease of military personnel or equipment) }
+{ haavoittuminen,  vamma,  taisteluvamma,  loukkaantuminen,  miehistötappio,@ noun.group:sotavoimat,;c (a casualty to military personnel resulting from combat) }
+{ haava\,_joka_aiheuttaa_kotiutuksen<head>haava</head><approximate/>,  haavoittuminen,@ (a wound that would cause an English soldier to be sent home from service abroad) }
+{ lihashaava,  haavoittuminen,@ (a wound that does not damage important internal organs or shatter any bones) }
+{ miehistötappio,  tappio1,  menetys2,@ noun.group:sotavoimat,;c (military personnel lost by death or capture) }
+{ uhri,  miehistötappio,@ (personnel that are sacrificed (e.g., surrendered or lost in order to gain an objective)) }
+{ jakso,  kierto,  jaksoittainen_tapahtuma,@ (a single complete execution of a periodically repeated phenomenon; "a year constitutes a cycle of the seasons") }
+{ sydämen_toimintakierto,  jakso,@ (the complete cycle of events in the heart from the beginning of one heart beat to the beginning of the next; an electrical impulse conducted through the heart muscle that constricts the atria which is followed by constriction of the ventricles; "the cardiac cycle can be shown on an electrocardiogram") }
+{ Carnot'n_kierto,  jakso,@ (a cycle (of expansion and compression) of an idealized reversible heat engine that does work without loss of heat) }
+{ jakso1,  jakso,@ noun.artifact:tietokone,;c (one complete cycle of operations (as by a computer); "it was not possible to complete the computation in a single pass") }
+{ uusinta1,  [ toisinto, adj.all:toistuva5,+ verb.change:toistua,+]  jaksoittainen_tapahtuma,@ (an event that repeats; "the events today were a repeat of yesterday's") }
+{ sekvenssi,  uusinta1,@ (several repetitions of a melodic phrase in different keys) }
+{ [ sykli, adj.all:jaksoittainen2^syklinen1,+ adj.all:syklinen,+]  uusinta1,@ (a periodically repeated sequence of events; "a cycle of reprisal and retaliation") }
+{ karuselli,  sykli,@ (a never-ending cycle of activities and events (especially when they seem to have little purpose); "if we lose the election the whole legislative merry-go-round will have to start over") }
+{ samsara,  sykli,@ noun.cognition:buddhalaisuus,;c noun.cognition:hindulaisuus,;c ((Hinduism and Buddhism) the endless cycle of birth and suffering and death and rebirth) }
+{ uusinta2,  uusintaottelu,  uusinta1,@ noun.act:peli1,;c (something (especially a game) that is played again) }
+{ toistuminen,  uusiutuminen,  uusinta1,@ (happening again (especially at regular intervals); "the return of spring") }
+{ [ atavismi, noun.person:atavisti<unconfirmed/>,+ noun.person:atavistinen<idiomatic_pos/>,+]  etäisperinnöllisyys,  palautuminen,  paluu,  muisto,  takauma,  toistuminen,@ (a reappearance of an earlier characteristic) }
+{ takauma1,  muistikuva,  toistuminen,@ (an unexpected but vivid recurrence of a past experience (especially a recurrence of the effects of an hallucinogenic drug taken much earlier)) }
+{ auringonnousu,  päivänkoi,  päivännousu,  jaksoittainen_tapahtuma,@ (the daily event of the sun rising above the horizon) }
+{ auringonlasku,  jaksoittainen_tapahtuma,@ (the daily event of the sun sinking below the horizon) }
+{ pohjamaininki,  aaltoilu2,@ (a broad and deep undulation of the ocean) }
+{ tyrsky,  hyökyaalto,  hyökyaallot,  aallokko,  aalto5,@ (waves breaking on the shore) }
+{ vanavesi,  takavirta,  peräaalto,  aalto5,@ (the wave that spreads behind a boat as it moves forward; "the motorboat's wake capsized the canoe") }
+{ kohina,  [ loiske, verb.contact:loiskuttaa,+]  aalto5,@ (the movement or sound of water; "the swash of waves on the beach") }
+{ väre,  kare,  pieni_laine,  pieni_aalto,  aalloke,  aalto5,@ (a small wave on the surface of a liquid) }
+{ gravitaatioaalto,  painovoima-aalto,  aalto,@ noun.cognition:fysiikka,;c ((physics) a wave that is hypothesized to propagate gravity and to travel at the speed of light) }
+{ siniaalto,  aalto,@ (a wave whose waveform resembles a sine curve) }
+{ [ heilahtelu, verb.motion:heilahdella2,+]  heiluminen,  aalto,@ noun.cognition:fysiikka,;c ((physics) a regular periodic variation in value about a mean) }
+{ sykintä,  heilahtelu,@ noun.cognition:elektroniikka,;c ((electronics) an oscillation of small amplitude imposed on top of a steady value) }
+{ aalto,  [ aaltoilu, verb.motion:aaltoilla1,+]  liikehdintä,@ noun.cognition:fysiikka,;c ((physics) a movement up and down or back and forth) }
+{ huojunta,  liikehdintä,@ (a small irregular movement) }
+{ [ aaltoilu1, verb.motion:aaltoilla,+]  aalto,@ (a wave motion; "the fluctuations of the sea") }
+{ aalto1,  seiche-ilmiö,  aalto,@ (a wave on the surface of a lake or landlocked bay; caused by atmospheric or seismic disturbances) }
+{ solitoni,  solitoniaalto,  kulkuaalto,@ noun.cognition:fysiikka,;c ((physics) a quantum of energy or quasiparticle that can be propagated as a traveling wave in nonlinear systems and is neither preceded nor followed by another such disturbance; does not obey the superposition principle and does not dissipate; "soliton waves can travel long distances with little loss of energy or structure") }
+{ seisova_aalto,  aalto,@ (a wave (as a sound wave in a chamber or an electromagnetic wave in a transmission line) in which the ratio of its instantaneous amplitude at one point to that at any other point does not vary with time) }
+{ kulkuaalto,  aalto,@ (a wave in which the medium moves in the direction of propagation of the wave) }
+{ ääniaalto,  akustinen_aalto,  aalto,@ noun.cognition:akustiikka,;c ((acoustics) a wave that transmits sound) }
+{ ilma-aalto,  ääniaalto,@ (a sound wave that is transmitted via air) }
+{ värähtely,  heilahtelu,@ noun.cognition:fysiikka,;c ((physics) a short-lived oscillation in a system caused by a sudden change of voltage or current or load) }
+{ aallon_muoto,  aaltomuoto,  aalto,@ (the shape of a wave illustrated graphically by plotting the values of the period quantity against time) }
+{ sokkiaalto,  paineaalto,  iskuaalto,  aalto,@ (a region of high pressure travelling through a gas at a high velocity; "the explosion created a shock wave") }
+{ äänivallin_murtuminen,  yliäänipamaus,  sokkiaalto,@ (an explosive sound caused by the shock wave of an airplane traveling faster than the speed of sound; "a sonic boom follows an aircraft as a wake follows a ship") }
+{ aaltoilu2,  mainingit,  maininki,  aalto5,@ (the undulating movement of the surface of the open sea) }
+{ kohoama,  kohoaminen,  aalto5,@ (a wave that lifts the surface of the water or ground) }
+{ [ aalto2, verb.motion:aaltoilla2,+ adj.all:myrskyisä^aaltoileva,+]  hyökyaalto1,  maininki1,  suuri_aalto,  aalto5,@ (a large sea wave) }
+{ vuorovesiaalto,  aalto5,@ (a wave resulting from the periodic flow of the tides that is caused by the gravitational attraction of the moon and sun) }
+{ hyökyaalto2,  tsunami,  aalto5,@ tuho1,@ (an unusual (and often destructive) rise of water along the seashore caused by a storm or a combination of wind and high tide) }
+{ hyökyaalto3,  aalto3,  hyöky,  tulva,  ilmenemismuoto,@ (an overwhelming manifestation of some emotion or phenomenon; "a tidal wave of nausea"; "the flood of letters hit him with the force of a tidal wave"; "a tidal wave of crime") }
+{ tsunami1,  hyökyaalto4,  tuho1,@ aalto5,@ (a cataclysm resulting from a destructive sea wave caused by an earthquake or volcanic eruption; "a colossal tsunami destroyed the Minoan civilization in minutes") }
+{ hyöky1,  aalto4,  hyökyaalto5,  aalto5,@ (a long heavy sea wave as it advances towards the shore) }
+{ jaksoittainen_liike,  liikehdintä,@ (motion that recurs over and over and the period of time required for each recurrence remains the same) }
+{ harmoninen_liike<unconfirmed/>,  jaksoittainen_liike,@ (a periodic motion in which the displacement is either symmetrical about a point or is the sum of such motions) }
+{ vaakasuora_siirros,  liikehdintä,@ noun.cognition:geologia,;c ((geology) a horizontal dislocation) }
+{ rekyyli,  potkaisu,  takaisku,  liikehdintä,@ (a movement back from an impact) }
+{ [ pomppu, verb.motion:pomppia2,+]  ponnahdus,  kimpoaminen,  rekyyli,@ (rebounding from an impact (or series of impacts)) }
+{ [ kimpoaminen1, adj.all:elastinen^kimmoisa1,+ verb.motion:kimmota,+]  rekyyli,@ (an occurrence of rebounding or springing back) }
+{ rekyyli1,  [ potkaisu1, verb.contact:potkaista,+]  liikehdintä,@ (the backward jerk of a gun when it is fired) }
+{ hakeminen,  liikehdintä,@ noun.cognition:tietojenkäsittelyoppi,;c (the movement of a read/write head to a specific data track on a disk) }
+{ [ puristus, verb.contact:puristaa11,+ verb.contact:puristaa9,+]  [ vääntö, verb.contact:vääntää_kuivaksi,+]  liikehdintä,@ (a twisting squeeze; "gave the wet cloth a wring") }
+{ isku2,  isku<broader/>3,  liikehdintä,@ (the maximum movement available to a pivoted or reciprocating piece by a cam) }
+{ männän_liike_sylinterin_pohjaa_kohti,  isku2,@ (the stroke of an engine piston moving away from the crankshaft) }
+{ pakoisku,  isku2,@ (the stroke of an engine piston moving toward the crankshaft) }
+{ [ käännös, verb.motion:kääntyä2,+ verb.motion:kääntää3,+]  [ kääntyminen, verb.motion:kääntyä2,+ verb.motion:kääntää3,+]  liikehdintä,@ (a movement in a new direction; "the turning of the wind") }
+{ [ kierto1, verb.contact:kiertää4,+ verb.motion:kiemurrella,+]  [ vääntö1, verb.motion:vääntää,+]  liikehdintä,@ (a jerky pulling movement) }
+{ [ aaltoilu3, verb.motion:aaltoilla1,+]  liikehdintä,@ (wavelike motion; a gentle rising and falling in the manner of waves) }
+{ aalto5,  liikehdintä,@ (one of a series of ridges that moves across the surface of a liquid (especially across a large body of water)) }
+{ vaahtopäinen_aalto,  aalto5,@ (a long curling sea wave) }
+{ vaahtopää,  aalto5,@ (a wave that is blown by the wind so its crest is broken and appears white) }
+{ aalto6,  nousu,@ (something that rises rapidly; "a wave of emotion swept over him"; "there was a sudden wave of buying before the market closed"; "a wave of conservatism in the country led by the hard right") }
+{ haaksirikko,  onnettomuus1,@ (an accident that destroys a ship at sea) }
+{ kaatuminen<note>veneestä</note>1,  haaksirikko,@ noun.act:merenkulkuala,;c ((nautical) the event of a boat accidentally turning over in the water) }
+{ loppu6,  maali,  tapahtuma,@ (designated event that concludes a contest (especially a race); "excitement grew as the finish neared"; "my horse was several lengths behind at the finish"; "the winner is the team with the most points at the finish") }
+{ tasapeli,  tasatulos,  loppu6,@ (the finish of a contest in which the score is tied and the winner is undecided; "the game ended in a draw"; "their record was 3 wins, 6 losses and a tie") }
+{ ratkaisematon_kilpailu,  tasapeli1,  tasapeli,@ (a tie in a race) }
+{ patti,  tasapeli,@ (drawing position in chess: any of a player's possible moves would place his king in check) }
+{ maalikameraratkaisu,  loppu6,@ (in general, any very close finish; in particular, a finish of a race in which the contestants are so close together that the winner must be determined from a photograph taken at the instant of finishing) }
+{ toiseksi_sijoittuminen<note>kilpailussa</note>,  toinen_sija,  loppu6,@ (a finish in second place (as in a race)) }
+{ kolmossija,  loppu6,@ (a finish in third place (as in a race)) }
+{ [ voitto, verb.competition:voittaa,+]  voitto1,@ (a victory (as in a race or other competition); "he was happy to get the win") }
+{ ensimmäinen_sija,  voitto,@ (a finish in first place (as in a race)) }
+{ omega,  Ö,  loppu,@ (the ending of a series or sequence; "the Alpha and the Omega, the first and the last, the beginning and the end"--Revelation") }
+{ [ kääntyminen1, verb.change:kääntyä3,+]  muutos,@ (a change of religion; "his conversion to the Catholic faith") }
+{ [ kristillistäminen, verb.change:kristillistää,+]  kääntyminen1,@ (conversion to Christianity) }
+{ [ kuolema, synnytys,! syntymä,! verb.change:kuolla3,+]  poismeno1,  viimeinen_hengenveto1,  muutos,@ (the event of dying or departure from life; "her death came as a terrible shock"; "upon your decease the capital will pass to your grandchildren") }
+{ [ väheneminen, kasvu,! verb.change:vähentää12,+ verb.change:vähentyä,+]  [ pudotus, verb.change:pudota3,+]  [ lasku, kasvu,! verb.change:laskea,+]  muutos,@ (a change downward; "there was a decrease in his temperature as the fever subsided"; "there was a sharp drop-off in sales") }
+{ heikkeneminen1,  laskeutuminen,  väheneminen,@ (a slow fall or decline (as for lack of strength); "after several hours of sinking an unexpected rally rescued the market"; "he could not control the sinking of his legs") }
+{ [ horjuttaminen, verb.change:horjuttaa1,+]  muutos,@ noun.artifact:ilma-alus,;c noun.artifact:alus2,;c (an event that causes a loss of equilibrium (as of a ship or aircraft)) }
+{ [ kasvu, väheneminen,! verb.change:kasvattaa,+ verb.change:kasvaa2,+ lasku,!]  muutos,@ (a change resulting in an increase; "the increase is scheduled for next month") }
+{ painostaminen,  tuhoutuminen,  väsyttäminen,  väheneminen,@ (a wearing down to weaken or destroy; "a war of attrition") }
+{ parannus,  huojennus,  helpotus,  muutos,@ (a change for the better) }
+{ raikas_tuulahdus,  parannus,@ (a welcome relief; "the new management was like a breath of fresh air") }
+{ kehitys1,  parannus1,  [ edistysaskel, verb.social:edistää4,+]  edistys,  muodonmuutos,@ (a change for the better; progress in development) }
+{ [ parannus2, verb.change:parannella3,+]  parantaminen,  kehitys1,@ (the result of improving something; "he described a refinement of this technique") }
+{ Neitsyt_Marian_taivaaseenastuminen,  ihme,@ noun.cognition:kristinusko,;c ((Christianity) the taking up of the body and soul of the Virgin Mary when her earthly life had ended) }
+{ [ vääristely, adj.pert:vääristys-,+ adj.pert:vääristävä,+]  muutos,@ (alteration in the shape or dimensions of an object as a result of the application of stress to it) }
+{ [ kirkastus, verb.change:kirkastaa4,+]  Kristuksen_kirkastus,  ihme,@ noun.communication:Uusi_Testamentti,;c ((New Testament) the sudden emanation of radiance from the person of Jesus) }
+{ [ muutos3, verb.change:muuttua14,+]  [ muuttuminen, verb.change:muuttua14,+]  [ siirtymä, verb.change:siirtyä6,+ verb.change:siirtyä5,+]  muutos,@ (a change from one place or state or subject or stage to another) }
+{ vyöry1,  muutos3,@ (an obvious change of public opinion or political sentiment that occurs without leadership or overt expression; "there was a ground swell of antiwar sentiment") }
+{ harppaus,  [ hyppy, verb.change:hypätä1,+]  hyppäys,  muutos3,@ (an abrupt transition; "a successful leap from college to the major leagues") }
+{ läpimurto,  edistysaskel1,  nousu4,@ (a sudden large increase or advance; "this may not insure success but it will represent a quantum leap from last summer") }
+{ kvanttihyppy,  harppaus,@ noun.cognition:fysiikka,;c ((physics) an abrupt transition of an electron or atom or molecule from one quantum state to another with the emission or absorption of a quantum) }
+{ muodonmuutos,  muutos4,  [ muuttuminen1, verb.change:muuttua16,+]  muutos,@ (a qualitative change) }
+{ väestönmuutos,  muodonmuutos,@ (a change in the relative numbers of the different groups of individuals making up a population) }
+{ [ pyrolyysi, adj.pert:pyrolyyttinen,+]  muodonmuutos,@ (transformation of a substance produced by the action of heat) }
+{ muodonmuutos1,  muodonmuutos,@ (a profound transformation) }
+{ [ sublimoituminen, verb.change:sublimoida,+]  muodonmuutos,@ noun.cognition:kemia,;c ((chemistry) a change directly from the solid to the gaseous state without becoming liquid) }
+{ tinarutto,  muodonmuutos,@ (the transformation of ordinary white tin into powdery grey tin at very cold temperatures) }
+{ infektio,  [ tartunta, adj.all:tarttuva5^tarttuva6,+ verb.possession:tartuttaa,+ adj.all:tarttuva5^tartuntavaarallinen,+]  [ tartuttaminen, adj.all:tarttuva5^tarttuva6,+ verb.possession:tartuttaa,+ adj.all:tarttuva5^tartuntavaarallinen,+]  välittyminen,  tarttuminen,  tapaus3,@ (an incident in which an infectious disease is transmitted) }
+{ kohtaus,  tapaus3,@ (an incident (real or imaginary); "their parting was a sad scene") }
+{ sivunäytös,  tapaus3,@ (a subordinate incident of little importance relative to the main event; "instruction is not an educational sideshow") }
+{ [ romahtaminen, verb.motion:romahtaa2,+]  sortuminen,  tapahtuma,@ (a natural event caused by something suddenly falling down or caving in; "the roof is in danger of collapse"; "the collapse of the old star under its own gravity") }
+{ [ sortuminen1, verb.motion:sortua,+]  romahtaminen1,  romahtaminen,@ (the sudden collapse of something into a hollow beneath it) }
+{ kuolema1,  väkivaltainen_kuolema,  kuolemantapaus,@ (an event that causes someone to die) }
+{ kuolemaan_johtanut_onnettomuus,  onnettomuus6,  kuolemantapaus,@ onnettomuus1,@ (an accident that causes someone to die) }
+{ oheisvauriot,  kuolemaan_johtanut_onnettomuus,@ noun.group:sotavoimat,;c noun.communication:eufemismi,;u ((euphemism) inadvertent casualties and destruction inflicted on civilians in the course of military operations) }
+{ [ lakkaaminen, verb.stative:lakata,+]  loppuminen1,  [ lopettaminen1, verb.stative:lopettaa1,+]  päättyminen1,@ (a stopping; "a cessation of the thunder") }
+{ [ laskeutuminen1, verb.motion:laskeutua12,+]  vajoaminen,  uppoaminen,@ (a gradual sinking to a lower level) }
+{ [ pudotus1, verb.motion:pudottaa,+ verb.motion:pudota1,+ verb.motion:pudota,+]  painovoima,@ alastulo,@ (a free and rapid descent by the force of gravity; "it was a miracle that he survived the drop from that height") }
+{ vapaa_pudotus,  putoamisliike,  pudotus1,@ (the ideal falling motion of something subject only to a gravitational field) }
+{ [ painovoima, ilmassa_leijuminen,! adj.pert:painovoima-,+ adj.pert:painovoimainen,+]  matkustaminen,@ (movement downward resulting from gravitational attraction; "irrigation by gravitation rather than by pumps") }
+{ [ ilmassa_leijuminen, painovoima,!]  matkustaminen,@ (movement upward in virtue of lightness) }
+{ kohdun_laskeutuminen,  alastulo,@ (descent of the uterus into the pelvic cavity that occurs late in pregnancy; the fetus is said to have dropped) }
+{ alastulo,  lasku1,  matkustaminen,@ (a movement downward) }
+{ lasku2,  alastulo,@ (the descent of a heavenly body below the horizon; "before the set of sun") }
+{ ryöppy1,  pilvi,  alastulo,@ (a sudden downpour (as of tears or sparks etc) likened to a rain shower; "a little shower of rose petals"; "a sudden cascade of sparks") }
+{ uppoaminen,  alastulo,@ (a descent as through liquid (especially through water); "they still talk about the sinking of the Titanic") }
+{ uppoaminen1,  uppoaminen,@ (sinking until covered completely with water) }
+{ [ upotus, verb.contact:upottaa6,+]  uppoaminen1,@ (a brief immersion) }
+{ uppoaminen2,  uppoaminen,@ noun.artifact:alus2,;c ((of a ship) sinking) }
+{ horjuminen,  horjunta,  vaappuminen,  huojunta1,  liikehdintä,@ (an unsteady rocking motion) }
+{ tärinä,  värinä,  horjuminen,@ (an abnormal wobble in a motor vehicle (especially in the front wheels); "he could feel the shimmy in the steering wheel") }
+{ floppi,  epäonnistuminen1,  epäonnistunut_yritys,@ (a complete failure; "the play was a dismal flop") }
+{ fiasko,  floppi1,  pannukakku1,  floppi,@ (an event that fails badly or is totally ineffectual; "the first experiment was a real turkey"; "the meeting was a dud as far as new business was concerned") }
+{ romahdus3,  mullistus1,  fiasko1,  romahtaminen,@ (a sudden and violent collapse) }
+{ kokoon_luhistuminen,  romahtaminen,@ (a sudden inward collapse; "the implosion of a light bulb") }
+{ gravitaatioluhistuminen,  painovoimaluhistuminen,  kokoon_luhistuminen,@ (the implosion of a star resulting from its own gravity; the result is a smaller and denser celestial object) }
+{ päättyminen1,  loppu,@ (the event of something ending; "it came to a stop at the bottom of the hill") }
+{ katko,  pysähdys,  päättyminen1,@ (an interruption of normal activity) }
+{ erilaisuus,  [ ero, verb.stative:erota,+]  [ poikkeavuus, verb.stative:poiketa,+]  [ eroavuus, verb.cognition:erottaa2,+]  vaihtelu,@ (a variation that deviates from the standard or norm; "the deviation from the mean") }
+{ ristiriita,  poikkeama1,  [ poikkeus, verb.stative:poiketa,+]  erilaisuus,@ (an event that departs from expectations) }
+{ sorto,  erilaisuus,@ noun.artifact:ilma-alus,;c (the deviation (by a vessel or aircraft) from its intended course due to drifting) }
+{ taipuminen1,  koukistus1,  erilaisuus,@ (deviation from a straight or normal course) }
+{ epämuodostuma,  epämuotoisuus,  epäonnistunut_yritys,@ (something abnormal or anomalous) }
+{ [ hirveys, adj.all:paha8^hirveä5,+]  epämuodostuma,@ (something hideous or frightful; "they regarded the atom bomb as a monstrosity") }
+{ [ siirros, verb.change:siirtää2,+]  hajaannus,  keskeytys,@ (an event that results in a displacement or discontinuity) }
+{ murtuma,  erottaminen1,@ (the occurrence of breaking; "the break in the dam threatened the valley") }
+{ [ napsahdus, verb.contact:napsahtaa_poikki,+]  raksahdus,  murtuma,@ (a sudden breaking) }
+{ keskeytys,  katkos,  tapahtuma,@ (some abrupt occurrence that interrupts an ongoing activity; "the telephone is an annoying interruption"; "there was a break in the action when a player was hurt") }
+{ keskeytys1,  keskeytys,@ (something that makes repeated and regular interruptions or divisions) }
+{ [ keskeytys2, verb.change:keskeyttää5,+]  [ keskeytys<unconfirmed/>3, verb.change:keskeyttää5,+]  tauko,  lykkäys,  keskeytys,@ (an interruption in the intensity or amount of something) }
+{ [ kuumeen_laskeminen, adj.pert:kuumeen_lasku-,+ adj.pert:kuumeen_laskun<gen/>,+]  keskeytys2,@ (abatement of a fever as indicated by a reduction in body temperature) }
+{ [ pimennys, verb.perception:pimentää1,+]  okkultaatio,  tähdenpeitto,  keskeytys,@ (one celestial body obscures another) }
+{ auringonpimennys,  pimennys,@ (the moon interrupts light from the sun) }
+{ kuunpimennys,  pimennys,@ (the earth interrupts light shining on the moon) }
+{ rengasmainen_pimennys,  rengasmainen_auringonpimennys,  auringonpimennys,@ (only a thin outer disk of the sun can be seen) }
+{ pimennys1,  pimennys,@ (an eclipse as seen from a place where the eclipsed body is completely obscured) }
+{ osittainen_pimennys,  pimennys,@ (an eclipse in which the eclipsed body is only partially obscured) }
+{ [ kasvaminen, verb.change:kasvaa4,+ verb.change:kasvattaa1,+]  [ suurentuminen, verb.change:suurentua1,+ verb.change:suurentaa1,+]  kasvu,@ (the amount by which something increases) }
+{ [ sopeuttaminen, verb.change:sopeutua,+]  [ sopeutuminen, verb.change:sopeutua,+ verb.stative:sopia6,+]  akkommodaatio,  [ mukautuminen, verb.change:mukauttaa2,+ verb.change:mukauttaa3,+]  [ sovittaminen, verb.change:sovittaa4,+]  soveltuminen,  kehitys1,@ (making or becoming suitable; adjusting to circumstances) }
+{ koekäyttö,  sopeuttaminen,@ (initial adjustments to improve the functioning or the efficiency and to bring to a more satisfactory state; "the new industry's economic shakedown") }
+{ sisääntulo,  sisäänastuminen,  matkustaminen,@ (a movement into or inward) }
+{ [ lasku3, nousu7,! verb.motion:laskea6,+]  matkustaminen,@ (a movement downward; "the rise and fall of the tides") }
+{ nousu1,  [ kiipeäminen, verb.change:kiivetä,+]  [ nouseminen1, verb.motion:nousta,+]  nousu7,@ (an event that involves rising to a higher point (as in altitude or temperature or intensity etc.)) }
+{ nousu2,  kohoaminen1,  nousu7,@ (the event of something being raised upward; "an elevation of the temperature in the afternoon"; "a raising of the land resulting from volcanic activity") }
+{ [ kohoilu, verb.motion:kohoilla1,+]  aaltoilu4,  nousu7,@ (an upward movement (especially a rhythmical rising and falling); "the heaving of waves on a rough sea") }
+{ laukaisu,  lähtö2,  nousu7,@ (the initial ascent of a rocket from its launching pad) }
+{ ääni,  tapahtuma,@ (the sudden occurrence of an audible event; "the sound awakened them") }
+{ harmi1,  sotku,  hämminki,@ (an angry disturbance; "he didn't want to make a fuss"; "they had labor trouble"; "a spot of bother") }
+{ eteneminen,  eteenpäin_meneminen,  edistyminen,@ (forward movement; "the ship made little headway against the gale") }
+{ [ koettelemus3, verb.emotion:koetella2,+]  koettelemus1,@ (an annoying or frustrating or catastrophic event; "his mother-in-law's visits were a great trial for him"; "life is full of tribulations"; "a visitation of the plague") }
+{ yhdistyminen,  tapahtuma,@ (the occurrence of a uniting of separate parts; "lightning produced an unusual union of the metals") }
+{ amfimiksis<unconfirmed/>,  yhdistyminen,@ noun.process:sukupuolinen_lisääntyminen,#m (union of sperm and egg in sexual reproduction) }
+{ fuusio,  yhteensulautuminen,  [ yhdentyminen, verb.change:yhdistää3,+]  [ yhdistäminen, verb.change:yhdistää3,+]  yhdistyminen,@ (an occurrence that involves the production of a union) }
+{ [ yhdistelmä, verb.contact:yhdistää12,+ verb.stative:yhdistyä1,+]  yhtymä,  yhdistyminen,@ (an occurrence that results in things being united) }
+{ rekombinaatio,  yhdistelmä,@ noun.cognition:genetiikka,;c ((genetics) a combining of genes or characters different from what they were in the parents) }
+{ rekombinaatio1,  yhdistelmä,@ noun.cognition:fysiikka,;c ((physics) a combining of charges or transfer of electrons in a gas that results in the neutralization of ions; important for ions arising from the passage of high-energy particles) }
+{ lujittuminen,  yhdistelmä,@ (combining into a solid mass) }
+{ [ sekoitus, verb.change:sekoittaa8,+ verb.contact:sekoittaa2,+ verb.change:sekoittaa17,+ verb.contact:sekoittaa9,+ verb.change:sekoittaa1,+]  yhdistelmä,@ (an event that combines things in a mixture; "a gradual mixture of cultures") }
+{ [ sekoitus1, verb.contact:sekoittaa6,+]  sekoitus,@ (an occurrence of an unusual mixture; "it suddenly spewed out a thick green concoction") }
+{ sulautuminen,  [ kasaantuminen, verb.change:kasautua_keräksi,+]  yhdistelmä,@ (an occurrence combining miscellaneous things into a (more or less) rounded mass) }
+{ [ sekoitus2, verb.contact:sekoittaa10,+ verb.contact:sekoittaa_seokseksi,+ verb.contact:sekoittua,+ verb.change:sekoittaa8,+]  yhdistelmä1,  sekoitus,@ (an occurrence of thorough mixing) }
+{ nopea_nousu,  nopea_kasvu,  jyrkkä_kasvu,  nousu7,@ (a rapid rise) }
+{ ilmaannousu,  nousu3,  nousu7,@ (the initial ascent of an airplane as it becomes airborne) }
+{ maanpinnan_kohoaminen,  [ kohoaminen2, verb.motion:kohota3,+]  pystysiirros,  kohosiirros,  maankohoaminen,  maannousu,  nousu7,@ noun.cognition:geologia,;c ((geology) a rise of land to a higher elevation (as in the process of mountain building)) }
+{ [ kohoaminen3, verb.motion:kohottaa,+]  nousu7,@ (the rise of something; "the uplifting of the clouds revealed the blue of a summer sky") }
+{ [ mää, verb.communication:määkiä,+]  huuto,@ (the cry made by sheep) }
+{ [ läimähdys, verb.motion:läimähtää,+]  [ pamaus, verb.motion:pamahtaa,+]  [ paukahdus, verb.motion:paukkua,+]  jyrähdys,  pauke,  räsähdys,  purkaus2,  räjähdys1,  törähdys,  pam,  paukaus,  töräys,  ääni1,@ (a sudden very loud noise) }
+{ kumahdus,  ääni,@ (a dull resonant sound as of a bell) }
+{ hakkaaminen,  jyskyttäminen,  paukuttaminen,  takominen,  ääni1,@ (a continuing very loud noise) }
+{ [ haukku, verb.communication:haukkua10,+ verb.communication:haukahtaa,+]  [ haukunta, verb.communication:haukkua10,+ verb.communication:haukahtaa,+]  [ haukahdus, verb.communication:haukkua10,+ verb.communication:haukahtaa,+]  huuto,@ (the sound made by a dog) }
+{ haukku1,  haukunta1,  pyrskähdys,  tyrskähdys,  ääni1,@ (a noise resembling the bark of a dog) }
+{ haukunta2,  [ ulvonta, verb.communication:ulvoa6,+]  huuto,@ (the sound of a hound on the scent) }
+{ [ jyske, verb.contact:jyskyttää,+]  [ lyönti, verb.perception:lyödä1,+]  pärinä,  ääni,@ (the sound of stroke or blow; "he heard the beat of a drum") }
+{ [ piippaus, verb.communication:piipata,+ verb.perception:piipata,+ verb.perception:piipittää1,+]  [ tuuttaus, verb.communication:tuutata,+ verb.perception:tuutata,+]  äänimerkki,  [ piipitys, verb.perception:piipata,+ verb.perception:piipittää1,+]  ääni,@ (a short high tone produced as a signal or warning) }
+{ kellon_soitto,  soitto,  ääni,@ (the sound of a bell being struck; "saved by the bell"; "she heard the distant toll of church bells") }
+{ häly,  metakka,  [ kakofonia, adj.all:kakofoninen,+]  pauhu,  melu,  ääni1,@ (a loud harsh or strident noise) }
+{ pauhu1,  [ karjunta, verb.communication:karjua2,+]  räyhäys,  [ jyrinä, verb.communication:jyristä,+ verb.motion:jyristää,+ verb.communication:jyrähtää,+]  jylinä,  ääni1,@ (a deep prolonged loud noise) }
+{ [ määkinä, verb.communication:määkiä,+]  [ määkäisy, verb.communication:määkiä,+]  [ määintä, verb.communication:määkiä,+]  [ määkiminen, verb.communication:määkiä,+]  huuto,@ (the sound of sheep or goats (or any sound resembling this)) }
+{ [ kiljaisu<note>aasista</note>, verb.body:kiljua,+]  huuto,@ (the cry of an ass) }
+{ hau_hau,  haukunta3,  haukku,@ (the bark of a dog) }
+{ [ pörinä, verb.perception:pöristä,+]  surina,  hurina,  ääni,@ (sound of rapid vibration; "the buzz of a bumble bee") }
+{ [ kaakatus, adj.all:kakofoninen^kaakatusmainen,+ verb.communication:kaakattaa3,+]  huuto,@ (the sound made by a hen after laying an egg) }
+{ kissannauku,  mouku,  huuto,@ (the yowling sound made by a cat in heat) }
+{ [ raakkuminen, verb.communication:raakkua,+]  [ vaakkuminen, verb.communication:vaakkua1,+]  huuto,@ (the sound made by corvine birds) }
+{ tirskutus,  kirskuna,  ääni1,@ (the high-pitched continuing noise made by animals (birds or monkeys)) }
+{ kilinä,  kalina,  ääni1,@ (the rapid series of noises made by the parts of a machine) }
+{ piipitys1,  [ piiskutus, verb.communication:piiskuttaa,+]  huuto,@ (the short weak cry of a young bird) }
+{ [ kilinä1, verb.perception:kilisyttää,+ verb.perception:kilahdella,+ verb.perception:kilahtaa4,+]  naksahdus,  helähdys,  [ kilahdus, verb.perception:kilisyttää,+ verb.perception:kilahdella,+ verb.perception:kilahtaa4,+]  ääni,@ (a short light metallic sound) }
+{ [ sirkutus, verb.communication:sirkuttaa,+ verb.communication:sirittää,+]  viserrys,  [ siritys, verb.communication:sirkuttaa,+ verb.communication:sirittää,+]  ääni,@ (a sharp sound made by small birds or insects) }
+{ [ liverrys, verb.communication:livertää1,+]  [ tirskutus1, verb.communication:tirskuttaa,+]  laulu,  [ sirkutus1, verb.communication:sirkuttaa1,+]  ääni,@ (a series of chirps) }
+{ [ kuoro, adj.pert:kuoro-,+ adj.pert:kuorolaulu-,+]  ääni,@ (any utterance produced simultaneously by a group; "a chorus of boos") }
+{ [ sätkätys, verb.perception:sätkättää,+]  [ tuksutus, verb.perception:tuksuttaa,+]  ääni1,@ (the dull explosive noise made by an engine) }
+{ pauke1,  kalke,  ääni1,@ (a sharp abrupt noise as if two objects hit together; may be repeated) }
+{ [ kalske, verb.perception:kalskahtaa,+]  räminä,  [ kolina, verb.perception:kolistella,+]  helinä,  kalina1,  kalskahdus,  ääni1,@ (a loud resonant repeating noise; "he could hear the clang of distant bells") }
+{ [ kalina2, verb.perception:kalista,+]  ääni1,@ (a rattling noise (often produced by rapid movement); "the shutters clattered against the house"; "the clatter of iron wheels on cobblestones") }
+{ kilinä2,  ääni,@ (a succession of clicks) }
+{ kilinä3,  kalina3,  kilinä2,@ (a fast and rhythmic click-clack; "the clickety-clack of the typewriters") }
+{ kavioiden_kopina,  kopotikop,  kopina,  jyske1,  töminä,  ääni,@ (the sound of a horse's hoofs hitting on a hard surface) }
+{ [ kotkotus, verb.communication:kotkottaa,+]  kaakatus1,  huuto,@ (the sound made by a hen (as in calling her chicks)) }
+{ kukkokiekuu,  kiekuminen,@ (an imitation of the crow of a cock) }
+{ [ kujerrus, verb.communication:kujertaa,+]  huuto,@ (the sound made by a pigeon) }
+{ napsahdus1,  [ napsaus, verb.change:napsahtaa,+ verb.motion:napsahdella,+ verb.motion:napsauttaa,+]  rasahdus,  risahdus,  rusahdus,  ääni1,@ (a sudden sharp noise; "the crack of a whip"; "he heard the cracking of the ice"; "he can hear the snap of a twig") }
+{ napsahdus2,  rätinä,  [ ritinä, verb.perception:ritistä,+]  rasahdus1,  risahdus1,  ääni1,@ (the sharp sound of snapping noises) }
+{ [ vinkuna, verb.perception:vinkua,+]  narina,  [ natina, verb.perception:natista,+]  kitinä,  ääni1,@ (a squeaking sound; "the creak of the floorboards gave him away") }
+{ ritinä1,  noun.state:oire,@ kalina5,@ (the crackling sound heard on auscultation when patients with respiratory diseases inhale; associated with tuberculosis and pneumonia and congestive heart failure) }
+{ [ kiekuminen, verb.communication:kiekua,+]  [ kieunta, verb.communication:kiekua,+]  huuto,@ (the cry of a cock (or an imitation of it)) }
+{ [ narske, verb.communication:narskua,+]  ratina,  rouske,  ääni1,@ (the sound of something crunching; "he heard the crunch of footsteps on the gravel path") }
+{ huuto,  ääni,@ (the characteristic utterance of an animal; "animal cries filled the night") }
+{ [ hienoneminen, verb.change:hienontaa_kuumentamalla,+]  [ rätinä1, verb.change:rätistä,+]  napsahdus2,@ (the crackling or breaking up of certain crystals when they are heated) }
+{ kilahdus1,  ääni,@ (a ringing sound) }
+{ tippuminen,  tiputtelu,  ääni,@ (the sound of a liquid falling drop by drop; "the constant sound of dripping irritated him") }
+{ [ rummutus, verb.creation:rummuttaa,+]  ääni,@ (the sound of a drum; "he could hear the drums before he heard the fifes") }
+{ kellonsoitto,  ääni1,@ (the noise made by a bell) }
+{ räjähdys2,  ääni1,@ (the noise caused by an explosion; "the explosion was heard a mile away") }
+{ askelten_ääni,  askel,  ääni,@ (the sound of a step of someone walking; "he heard footsteps on the porch") }
+{ kurlaus,  ääni,@ (the sound produced while gargling) }
+{ [ kaakatus2, verb.communication:kaakattaa4,+]  huuto,@ (the characteristic sound made by a turkey cock) }
+{ hankaaminen,  kirskuminen,  narskuminen,  raastaminen,  ääni1,@ (a harsh rasping sound made by scraping something) }
+{ [ kirskunta, verb.contact:kirskua,+]  ääni1,@ (a harsh and strident sound (as of the grinding of gears)) }
+{ [ murina, verb.communication:murahtaa2,+ verb.communication:murista2,+]  huuto,@ (the sound of growling (as made by animals)) }
+{ röhkäisy,  ääni1,@ (the short low gruff noise of the kind made by hogs) }
+{ pulputus,  ääni,@ (the bubbling sound of water flowing from a bottle with a narrow neck) }
+{ sähinä,  [ sihinä, verb.communication:sihistä1,+]  pihahdus,  sihahdus,  vihellys,  ääni1,@ (a fricative sound (especially as an expression of disapproval); "the performers could not be heard over the hissing of the audience") }
+{ [ kaakatus3, verb.communication:kaakattaa1,+]  huuto,@ (the cry of a goose (or any sound resembling this)) }
+{ [ ulvonta1, verb.communication:ulvoa3,+]  ääni1,@ (a loud sustained noise resembling the cry of a hound; "the howl of the wind made him restless") }
+{ [ ulvonta2, verb.communication:ulvoa5,+]  huuto,@ (the long plaintive cry of a hound or a wolf) }
+{ hälinä,  meteli,  melu1,  melske,  mekkala,  ääni1,@ (loud confused noise from many sources) }
+{ [ surina1, verb.communication:surista1,+]  humina,  hurina1,  ääni1,@ (a humming noise; "the hum of distant traffic") }
+{ [ helinä1, verb.perception:helistä,+]  [ kilinä4, adj.all:kajahteleva^kiliseminen,+ adj.all:kajahteleva^kilisevä1,+ verb.perception:kilistä,+]  [ kalina4, verb.perception:kalista1,+]  kolina1,  ääni,@ (a metallic sound; "the jingle of coins"; "the jangle of spurs") }
+{ kuolinkellot,  kellon_soitto,@ (the sound of a bell rung slowly to announce a death or a funeral or the end of something) }
+{ [ koputus, verb.perception:koputella,+ verb.contact:koputtaa1,+]  nakutus,  ääni,@ (the sound of knocking (as on a door or in an engine or bearing); "the knocking grew louder") }
+{ miau,  naukuminen,  [ maukuminen, verb.communication:maukua,+]  [ nau'unta, verb.communication:naukua,+]  [ naukuna, verb.communication:naukua,+]  huuto,@ (the sound made by a cat (or any sound resembling this)) }
+{ [ ammuminen, verb.communication:ammua1,+]  [ ammunta, verb.communication:ammua1,+]  huuto,@ (the sound made by a cow or bull) }
+{ [ mutina, noun.person:mutisija,+ verb.communication:mutista1,+]  [ mumina, verb.communication:mumista,+]  ääni,@ (a low continuous indistinct sound; often accompanied by movement of the lips without the production of articulate speech) }
+{ [ hirnunta, verb.communication:hirnua,+]  [ hirnahdus, verb.communication:hirnua,+]  yninä,  huuto,@ (the characteristic sounds made by a horse) }
+{ ääni1,  ääni,@ (sound of any kind (especially unintelligible or dissonant sound); "he enjoyed the street noises"; "they heard indistinct noises of people talking"; "during the firework display that ended the gala the noise reached 98 decibels") }
+{ puuskutus,  ääni1,@ (the noise made by a short puff of steam (as from an engine)) }
+{ rummunpärinä,  pärinä1,  ääni,@ (the sound of a drum (especially a snare drum) beaten rapidly and continuously) }
+{ naputus,  näpäys1,  [ koputus1, verb.contact:koputtaa,+]  kopaus,  ääni,@ (the sound made by a gentle blow) }
+{ kipitys,  rapina,  ääni,@ (a quick succession of light rapid sounds; "the patter of mice"; "the patter of tiny feet") }
+{ pauhu2,  jylinä1,  [ jyrinä1, verb.perception:jyristä2,+]  kohina1,  jyminä,  kumu,  kumina,  ääni,@ (a deep prolonged sound (as of thunder or large bells)) }
+{ [ kilahdus2, verb.perception:kilahtaa2,+ verb.contact:kilauttaa,+]  ääni,@ (a sharp high-pitched resonant sound (as of a sonar echo or a bullet striking metal)) }
+{ [ tepsutus, verb.perception:tepsuttaa,+]  naputus,@ (a series of rapid tapping sounds; "she missed the pitter-patter of little feet around the house") }
+{ läiskähdys,  ääni1,@ (the noise of something dropping (as into liquid)) }
+{ [ molskaus, verb.motion:molskauttaa,+]  ääni1,@ (the noise of a rounded object dropping into a liquid without a splash) }
+{ mätkähdys,  ääni1,@ (the sound of a sudden heavy fall) }
+{ näppäys,  ääni,@ (a hollow twanging sound) }
+{ pamaus1,  poksahdus,  ääni,@ (a sharp explosive sound as from a gunshot or drawing a cork) }
+{ [ kehräys, verb.communication:kehrätä,+]  ääni,@ (a low vibrating sound typical of a contented cat) }
+{ [ kaakatus4, verb.communication:kaakattaa,+]  ääni,@ (the harsh sound of a duck) }
+{ tremolo,  ääni,@ (a tremulous sound) }
+{ [ meteli1, verb.perception:metelöidä,+]  ääni1,@ (a loud and disturbing noise) }
+{ koputus2,  rätinä2,  nakutus1,  koputus3,@ (a series of short sharp taps (as made by strokes on a drum or knocks on a door)) }
+{ kalina5,  [ kolina2, verb.perception:kolistella1,+]  [ helinä2, verb.motion:helisyttää,+ verb.perception:helisyttää,+ verb.motion:helistää,+ verb.perception:helistää,+]  rätinä3,  ääni1,@ (a rapid series of short loud sounds (as might be heard with a stethoscope in some types of respiratory disorders); "the death rattle") }
+{ pamaus2,  ääni1,@ (a sharp explosive sound (especially the sound of a gun firing); "they heard a violent report followed by silence") }
+{ vinkuna<unconfirmed/>1,  rahina,  rohina,  ääni1,@ (a sound like whistling or snoring that is heard with a stethoscope during expiration as air passes through obstructed channels) }
+{ helinä3,  [ kilinä5, verb.perception:kilistä1,+]  [ kilahtelu, verb.perception:kilistä2,+]  ääni,@ (the sound of a bell ringing; "the distinctive ring of the church bell"; "the ringing of the telephone"; "the tintinnabulation that so voluminously swells from the ringing and the dinging of the bells"--E. A. Poe") }
+{ [ karjaisu, verb.communication:karjua6,+]  huuto,@ (the sound made by a lion) }
+{ pärinä2,  rummunlyönti,  ääni,@ (the sound made by beating a drum) }
+{ [ jyrinä2, verb.perception:jyristä,+ verb.communication:jyrähtää1,+]  murina1,  [ jymy, verb.communication:jymistä,+ verb.perception:jymistä,+]  [ ryminä, verb.perception:rymistä,+ verb.perception:rymytä,+]  [ jyminä1, verb.communication:jymistä,+ verb.perception:jymistä,+]  [ jyry, verb.perception:jyristä,+ verb.communication:jyrähtää1,+]  jytinä,  ärjyntä,  jylinä2,  kumina1,  mylvintä,  ääni1,@ (a loud low dull continuous noise; "they heard the rumbling of thunder") }
+{ [ kahina, verb.perception:kahista,+]  supina,  kuiskutus,  ääni1,@ (a light noise, like the noise of silk clothing or leaves blowing in the wind) }
+{ rapina1,  raapimisen_ääni,  [ raapaisu, adj.all:kakofoninen^raapiva,+]  raapiminen,  ääni1,@ (a harsh noise made by scraping; "the scrape of violin bows distracted her") }
+{ [ kiljahdus, adj.all:korkea5^kiljuva,+]  [ kiljunta, verb.perception:kiljua,+]  [ kirskunta1, verb.communication:kirkaista,+ verb.communication:kirkua2,+]  rääkäisy,  huuto1,  kirskahdus,  ääni1,@ (a high-pitched noise resembling a human cry; "he ducked at the screechings of shells"; "he heard the scream of the brakes") }
+{ rapina2,  ääni1,@ (a crunching noise) }
+{ pärinä3,  ääni1,@ (a continuing shrill noise; "the clash of swords and the shrilling of trumpets"--P. J. Searles") }
+{ [ huokailu, verb.body:huokailla,+ verb.communication:huoahtaa,+ verb.body:huoata,+ verb.communication:huoata,+]  ääni,@ (a sound like a person sighing; "she heard the sigh of the wind in the trees") }
+{ kihinä,  pihinä,  ääni1,@ (a sizzling noise) }
+{ säkkipillin_ääni,  ääni,@ (the sound of (the chanter of) a bagpipe) }
+{ läjähdys1,  pamahdus1,  ääni1,@ (the noise made by the forceful impact of two objects) }
+{ [ napsahdus3, verb.contact:napsauttaa,+]  ääni1,@ (the noise produced by the rapid movement of a finger from the tip to the base of the thumb on the same hand; "servants appeared at the snap of his fingers") }
+{ [ kuorsaus, verb.body:kuorsata,+]  ääni1,@ (the rattling noise produced when snoring) }
+{ laulu1,  ulvonta3,  vinkuna2,  ääni,@ (a distinctive or characteristic sound; "the song of bullets was in the air"; "the song of the wind"; "the wheels sang their song as the train rocketed ahead") }
+{ räiskytys,  räiskyttäminen,  läiskytys,  läiskiminen,  [ rätinä4, verb.perception:rätistä,+]  paukahdus1,  [ paukahtaminen, verb.perception:paukahdella,+]  ääni1,@ (the noise of something spattering or sputtering explosively; "he heard a spatter of gunfire") }
+{ [ loiske1, verb.perception:loiskahtaa,+]  läiske,  [ loiskahdus, verb.perception:loiskahtaa,+]  [ loiskaus, verb.perception:loiskahtaa,+]  ääni1,@ (the sound like water splashing) }
+{ läiskäys,  loiske1,@ (a single splash; "he heard a splat as it hit the floor") }
+{ [ kaakatus5, adj.all:kakofoninen^kaakatusmainen,+]  kiljaisu1,  [ rääkäisy1, verb.communication:rääkäistä2,+]  toitotus,  ääni1,@ (the noise of squawking; "she awoke to the squawk of chickens"; "the squawk of car horns") }
+{ narske1,  nitinä,  ääni1,@ (a short high-pitched noise; "the squeak of shoes on powdery snow") }
+{ kirkuminen,  [ vinkuminen, verb.communication:vinkua,+]  ulvonta1,@ (a high-pitched howl) }
+{ litinä,  lotina,  ääni1,@ (the noise of soft mud being walked on) }
+{ [ siritys1, verb.perception:sirittää,+]  ääni1,@ (a shrill grating or chirping noise made by some insects by rubbing body parts together) }
+{ [ rämpytys, verb.perception:rämpyttää,+]  ääni,@ (sound of strumming; "the strum of a guitar") }
+{ [ kuiskailu, verb.communication:kuiskailla,+]  sipinä,  ääni,@ (the indistinct sound of people whispering; "a soft susurrus of conversation") }
+{ [ suhahdus, verb.perception:suhahtaa1,+ adj.all:meluisa^suhiseva3,+]  ääni,@ (a brushing or rustling sound) }
+{ suhina,  suhahdus1,  ääni1,@ (the noise produced by the sudden rush of a fluid (a gas or liquid)) }
+{ koputus3,  ääni,@ (the sound of light blow or knock; "he heard the tapping of the man's cane") }
+{ jyskytys,  ääni,@ (a sound with a strong rhythmic beat; "the throbbing of the engines") }
+{ [ kumina2, verb.perception:kumista2,+]  [ tömähdys, verb.perception:tömähtää,+ verb.contact:tömähtää,+]  jymy1,  [ tömäys, verb.perception:tömähtää,+ verb.contact:tömähtää,+]  [ jysähdys1, verb.perception:jyskyä,+]  [ jyske2, verb.perception:jyskyä,+]  [ mätkähdys1, verb.contact:mätkähtää,+]  ääni,@ (a heavy dull sound (as made by impact of heavy objects)) }
+{ kumina3,  ääni,@ (a thrumming sound; "he could hear the thrum of a banjo") }
+{ ukkonen,  ääni1,@ (a booming or crashing noise caused by air expanding along the path of a bolt of lightning) }
+{ jyrähdys1,  ukkonen,@ (a single sharp crash of thunder) }
+{ tömähdys1,  ääni,@ (a dull hollow sound; "the basketball made a thunk as it hit the rim") }
+{ [ tikitys, verb.perception:tikittää1,+]  raksutus,  ääni,@ (a metallic tapping sound; "he counted the ticks of the clock") }
+{ [ tikitys1, verb.perception:tikittää,+]  tikitys,@ (steady recurrent ticking sound as made by a clock) }
+{ [ kilahdus3, verb.perception:kilahtaa3,+ verb.perception:kilahtaa,+]  [ kilinä6, adj.all:kajahteleva^kilisevä2,+ verb.perception:kilistä3,+]  [ helähdys1, verb.perception:helähtää,+]  ääni,@ (a light clear metallic sound as of a small bell) }
+{ puupitus<unconfirmed/>,  töräys1,  ääni,@ (a blast of a horn) }
+{ toitotus1,  ääni,@ (the sound of casual playing on a musical instrument; "he enjoyed hearing the tootles of their horns as the musicians warmed up") }
+{ töminä1,  askelten_ääni,@ (a heavy footfall; "the tramp of military boots") }
+{ töminä2,  ääni,@ (the sound of heavy treading or stomping; "he heard the trample of many feet") }
+{ [ helähdys2, verb.perception:helähtää1,+ verb.perception:heläyttää,+]  ääni,@ (a sharp vibrating sound (as of a plucked string)) }
+{ [ piipitys2, verb.perception:piipittää,+]  sirkutus,@ (a weak chirping sound as of a small bird) }
+{ vibraatto,  ääni,@ noun.communication:musiikki,;c ((music) a pulsating effect in an instrumental or vocal tone produced by slight and rapid variations in pitch) }
+{ tremolo1,  vibraatto,@ (vocal vibrato especially an excessive or poorly controlled one) }
+{ ääni2,  ääni,@ (a sound suggestive of a vocal utterance; "the noisy voice of the waterfall"; "the incessant voices of the artillery") }
+{ vroom<approximate/>,  ääni,@ (the roaring sound made by a motor that is running at high speed) }
+{ paineisku,  läimähdys,@ (the banging sound of steam in pipes) }
+{ mäiskähdys,  mäiskäys,  mäjähdys,  mäjäys,  ääni,@ (the sound made by a sharp swift blow) }
+{ hurina2,  [ surina2, verb.perception:surista2,+]  humina1,  ääni,@ (sound of something in rapid motion; "whir of a bird's wings"; "the whir of the propellers") }
+{ [ vihellys1, verb.communication:viheltää3,+ verb.perception:vihellellä,+]  ääni,@ (the sound made by something moving rapidly or by steam coming out of a small aperture) }
+{ [ suhahdus2, verb.perception:suhahtaa2,+]  sähähdys,  ääni,@ (a buzzing or hissing sound as of something traveling rapidly through the air; "he heard the whiz of bullets near his head") }
+{ ulvonta4,  [ ulvahdus, verb.communication:ulvahdella,+ verb.communication:ulvahtaa,+ verb.communication:ulvaista,+]  [ ulvominen, verb.communication:ulvahdella,+ verb.communication:ulvahtaa,+ verb.communication:ulvaista,+]  huuto,@ (a sharp high-pitched cry (especially by a dog)) }
+{ ujellus,  ääni,@ (a brief high-pitched buzzing or humming sound; "the zing of the passing bullet") }
+{ uutistapahtuma,  tapahtuma,@ (a newsworthy event) }
+{ pulssi,  pulsaatio,  sydämensyke,  [ syke, verb.motion:sykkiä2,+]  sydämenlyönti,  jaksoittainen_tapahtuma,@ (the rhythmic contraction and expansion of the arteries with each beat of the heart; "he could feel the beat of her heart") }
+{ lepovaihe,  pulssi,@ (the widening of the chambers of the heart between two contractions when the chambers fill with blood) }
+{ systole,  pulssi,@ (the contraction of the chambers of the heart (especially the ventricles) to drive blood into the aorta and pulmonary artery) }
+{ sydämen_lisäsykäys,  systole,@ (a premature systole resulting in a momentary cardiac arrhythmia) }
+{ [ jyskytys1, verb.motion:jyskyttää,+ verb.perception:jyskyttää,+ verb.motion:jyskyttää1,+]  [ sykintä1, verb.motion:sykkiä,+ verb.perception:sykkiä,+]  pulssi,@ (an instance of rapid strong pulsation (of the heart); "he felt a throbbing in his head") }
+{ [ nousuvesi, laskuvesi1,!]  vuoksi,  vuorovesi,@ (the tide when the water is highest) }
+{ luode,  pakovesi,  laskuvesi,  virtaaminen1,@ luode1,#p (the outward flow of the tide) }
+{ [ laskuvesi1, nousuvesi,!]  matalavesi,  vuorovesi,@ (the lowest (farthest) ebb of the tide) }
+{ [ luode1, vuoksi1,!]  [ pakovesi1, vuoksi1,!]  vuorovesi,@ (the tide while water is flowing out) }
+{ [ vuorovesi, adj.pert:vuorovesi-1,+]  jaksoittainen_tapahtuma,@ (the periodic rise and fall of the sea level under the gravitational pull of the moon) }
+{ yhtäaikainen_vuorovesi,  nousuvesi,@ (the occurrence of high tide on one side of the earth coinciding with high tide on the opposite side) }
+{ [ vuoksi1, luode1,! pakovesi1,!]  nousuvesi1,  vuorovesi,@ (the occurrence of incoming water (between a low tide and the following high tide); "a tide in the affairs of men which, taken at the flood, leads on to fortune" -Shakespeare") }
+{ [ matalin_nousuvesi, korkea_vuoksi,! tulvavuoksi,!]  nousuvesi,@ (a less than average tide occurring at the first and third quarters of the moon) }
+{ [ korkea_vuoksi, matalin_nousuvesi,!]  [ tulvavuoksi, matalin_nousuvesi,!]  nousuvesi,@ (a greater than average tide occurring during the new and full moons) }
+{ tuulen_suuntainen_vuorovesi,  vuorovesi,@ (a tide that runs in the same direction as the wind is blowing; "a leeward tide is dangerous for small boats") }
+{ tyven,  seisova_vesi,  vuorovesi,@ (the occurrence of relatively still water at the turn of the (low) tide) }
+{ vuorovesiaalto1,  vuorovesiporras,  vuorovesiaalto2,@ (a high wave (often dangerous) caused by tidal flow (as by colliding tidal currents or in a narrow estuary)) }
+{ vuorovesiaalto2,  virta,@ vuorovesi,#p (the water current caused by the tides) }
+{ maininki2,  pohjavirtaus,@ (the seaward undercurrent created after waves have broken on the shore) }
+{ ristiaallokko,  ristivirtaus,  virta,@ vuorovesi,#p (a strong surface current flowing outwards from a shore) }
+{ ristiaallokko1,  noun.phenomenon:pyörteily,@ (a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current) }
+{ pohjavirtaus,  pohjavirta,  virta,@ vuorovesi,#p (a current below the surface of a fluid) }
+{ liukurata,  alastulo,@ noun.cognition:geologia,;c ((geology) the descent of a large mass of earth or rocks or snow etc.) }
+{ [ -vyöry, verb.motion:vyöryä<note>lumesta</note>1,+]  lumivyöry,  maanvyöry,  liukurata,@ (a slide of large masses of snow and ice and mud down a mountain) }
+{ lahar-vyöry,  lahari,  vulkaaninen_mutavyöry,  -vyöry,@ (an avalanche of volcanic water and mud down the slopes of a volcano) }
+{ maanvieremä,  maanvyöry1,  maanvyörymä,  liukurata,@ (a slide of a large mass of dirt and rock down a mountain or cliff) }
+{ mutavyöry,  maanvieremä,@ (a landslide of mud) }
+{ pliniaaninen_purkaus,  tulivuorenpurkaus,@ (a volcanic eruption in which a stream of gas and ash is violently ejected to a height of several miles) }
+{ kivivyöry,  maanvieremä,@ (a landslide of rocks) }
+{ [ virtaaminen1, verb.stative:virrata,+ verb.motion:virrata3,+]  matkustaminen,@ (the motion characteristic of fluids (liquids or gases)) }
+{ paluuvirtaus,  takaisinvirtaus,  virtaaminen1,@ (a flow that returns toward its source) }
+{ takaisin_virtaaminen,  paluuvirtaus,@ (backflow of blood through a defective heart valve) }
+{ ilman_virtaus,  ilmavirtaus,  ilmavirta,  virtaaminen1,@ (the flow of air; "she adjusted the fan so that the airflow was directed right at her") }
+{ virta,  virtaaminen1,@ (a steady flow of a fluid (usually from natural causes); "the raft floated downstream on the current"; "he felt a stream of air"; "the hose ejected a stream of water") }
+{ tulva<note>sade_ja_sulava_lumi</note>1,  ryöppy2,  kevättulva,  virtaaminen1,@ (the occurrence of a water flow resulting from sudden rain or melting snow) }
+{ [ tulviminen, verb.motion:tulvia1,+]  vuoto,  ylijuoksu,  ylivuoto,  virtaaminen1,@ (the occurrence of surplus liquid (as water) exceeding the limit or capacity) }
+{ valuminen,  tiputtelu1,  virtaaminen1,@ (a liquid (as water) that flows in drops (as from the eaves of house)) }
+{ [ tulva2, adj.pert:tulvanaiheuttama,+]  tulva-aalto,  virta,@ (a violently fast stream of water (or other liquid); "the houses were swept away in the torrent") }
+{ vuoto1,  virtaus,  valuminen1,  virtaaminen1,@ (the pouring forth of a fluid) }
+{ virtaus1,  virtaaminen1,@ (a flow or discharge) }
+{ ilmaräjähdys,  räjähdys,@ (an explosion in the atmosphere) }
+{ räjähdys3,  räjähdys,@ (an explosion (as of dynamite)) }
+{ pomminräjähdys,  räjähdys3,@ (the explosion of a bomb) }
+{ ydinräjähdys,  atomiräjähdys,  pomminräjähdys,@ (the explosion of an atomic bomb) }
+{ vastavoima<approximate/>,  kiväärin_potku,@ (backfire from a recoilless weapon) }
+{ ennakkosytytys,  pamaus<broader/>3,  [ räjähdys<note>polttomoottorin_pako-_tai_poistoputkessa</note>4, verb.perception:räjähtää<note>auton_ym._pako-_t._poistoputkessa</note>,+]  takaisku<note>polttomoottorin</note>1,  räjähdys,@ (a loud noise made by the explosion of fuel in the manifold or exhaust of an internal combustion engine) }
+{ alkuräjähdys,  räjähdys,@ noun.cognition:kosmologia,;c ((cosmology) the cosmic explosion that is hypothesized to have marked the origin of the universe) }
+{ kiväärin_potku,  potku,  räjähdys,@ (the backward escape of gases and unburned gunpowder after a gun is fired) }
+{ sirpaloituminen,  räjähdys,@ (the scattering of bomb fragments after the bomb explodes) }
+{ inflaatio,  räjähdys,@ noun.cognition:kosmologia,;c ((cosmology) a brief exponential expansion of the universe (faster than the speed of light) postulated to have occurred shortly after the big bang) }
+{ kimmahdus,  [ kimmoke, verb.motion:kimmota2,+]  rekyyli,@ (a glancing rebound) }
+{ [ kosketus, verb.perception:koskettaa,+ verb.stative:koskettaa1,+ verb.contact:koskettaa1,+ verb.contact:koskettaa,+ verb.contact:koskettaa2,+]  osuma1,@ (the event of something coming in contact with the body; "he longed for the touch of her hand"; "the cooling touch of the night air") }
+{ kova_isku,  isku4,  isku1,@ (any violent blow) }
+{ koputus4,  napautus,  näpäys2,  kopaus1,  isku1,@ (a gentle blow) }
+{ [ isku5, verb.contact:iskeä8,+ verb.contact:iskeä3,+ verb.contact:iskeä14,+]  kolhaisu1,  [ lyönti1, verb.contact:lyödä1,+ verb.contact:lyödä_iskulyönti,+ verb.contact:lyödä17,+]  tälli,  täräys,  kumautus,  isku1,@ (a vigorous blow; "the sudden knock floored him"; "he took a bash right in his face"; "he got a bang on the head") }
+{ jytke,  jyskytys2,  isku1,@ (repeated heavy blows) }
+{ tönäisy,  isku1,@ (a glancing blow from or on the side of something (especially motor vehicles)) }
+{ [ läimäys, verb.contact:läimäistä,+ verb.contact:läimäyttää7,+]  [ läpsäys, verb.contact:läpsäyttää1,+]  [ läpsy, verb.contact:läpsäistä,+ verb.contact:läpäyttää,+ verb.contact:läpsäyttää2,+]  [ läpsähdys, verb.contact:läpsäistä,+ verb.contact:läpäyttää,+ verb.contact:läpsäyttää2,+]  [ läpsäytys, verb.contact:läpsäistä,+ verb.contact:läpäyttää,+ verb.contact:läpsäyttää2,+]  isku1,@ (a blow from a flat object (as an open hand)) }
+{ taipuma,  koukistus,@ (the amount by which a propagating wave is bent) }
+{ yksinkertainen_harmoninen_liike,  harmoninen_liike<unconfirmed/>,@ (periodic motion in which the restoring force is proportional to the displacement) }
+{ [ kääntyminen_päälaelleen, verb.change:kääntää_nurin_päin,+ verb.motion:käännähtää1,+ verb.motion:kääntyä1,+]  käännös,@ (turning in an opposite direction or position; "the reversal of the image in the lens") }
+{ suunnanmuutos,  äkkikäännös,  käännös,@ (an erratic deflection from an intended course) }
+{ aivotärähdys,  vahinko2,@ (injury to the brain caused by a blow; usually resulting in loss of consciousness) }
+{ [ välke, verb.weather:välkkyä,+]  [ välkkyminen, verb.weather:välkkyä,+]  [ tuike, verb.weather:tuikkia,+]  muutos,@ (a rapid change in brightness; a brief spark or flash) }
+{ [ hohto, verb.stative:hohtaa1,+ verb.weather:hohtaa,+ adj.all:kirkas2^hohtava5,+]  kajo,  [ kimmellys, verb.stative:kimmeltää,+ verb.weather:kimmeltää,+ adj.all:kirkas2^kimmeltävä2,+]  leikittely,  muutos,@ (a weak and tremulous light; "the shimmer of colors on iridescent feathers"; "the play of light on the water") }
+{ leimahdus1,  tapahtuma,@ (a sudden intense burst of radiant energy) }
+{ häilähdys,  pilkahdus,  [ kipinä, verb.weather:kipinöidä,+]  välähdys,  välkähdys,  leimahdus1,@ (a momentary flash of light) }
+{ välähdys1,  välke<unconfirmed/>1,  pilkahdus1,  valonpilkahdus,  säde,  leimahdus1,@ (a flash of light (especially reflected light)) }
+{ kimallus,  [ säihke, verb.weather:säihkyä,+ adj.all:kirkas2^säihkyvä,+ verb.weather:säihkyä1,+]  leimahdus1,@ (the occurrence of a small flash or spark) }
+{ lämpösyöksy,  leimahdus1,@ (a flash of intense heat (as released by an atomic explosion)) }
+{ salama,  leimahdus1,@ (the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more) }
+{ elosalama,  kalevantulet,  salama,@ (bright flashes of light near the horizon without thunder (especially on hot evenings); usually attributed to distant lightning that is reflected by clouds) }
+{ elosalama1,  pintasalama,  salama,@ (lightning that appears as a broad sheet; due to reflections of more distant lightning and to diffusion by the clouds) }
+{ välähdys2,  leimahdus1,@ (a sudden flash (as of lightning)) }
+{ hipaisu,  kevyt_kosketus,  kosketus1,  kosketus,@ (momentary contact) }
+{ hipaisu1,  kosketus,@ (a light touch) }
+{ [ tiivistyminen1, verb.change:tiivistää,+ verb.change:tiivistyä1,+]  kasvu,@ (increase in density) }
+{ [ räjähdysmäinen_kasvu, verb.change:räjähtää,+]  kasvu,@ (a sudden great increase; "the population explosion"; "the information explosion") }
+{ [ nousu4, verb.change:nousta_nopeasti,+]  harppaus1,  kasvu,@ (a sudden and decisive increase; "a jump in attendance") }
+{ nousu5,  kasvu,@ (a substantial increase over a relatively short period of time; "a runup in interest rates"; "market runups are followed by corrections") }
+{ [ kasvaminen1, väheneminen1,! verb.change:kasvaa19,+ verb.change:kasvaa18,+]  kasvu,@ (a gradual increase in magnitude or extent; "the waxing of the moon") }
+{ [ läheneminen1, adj.all:lähenevä,+ verb.motion:lähestyä4,+]  tapahtuma,@ (the occurrence of two or more things coming together) }
+{ tapaaminen,  [ kohtaaminen, verb.possession:kohdata,+]  läheneminen1,@ (a casual or unexpected convergence; "he still remembers their meeting in Paris"; "there was a brief encounter in the hallway") }
+{ konjunktio,  tapaaminen,@ noun.cognition:astronomia,;c ((astronomy) apparent meeting or passing of two or more celestial bodies in the same degree of the zodiac) }
+{ alakonjunktio,  konjunktio,@ noun.cognition:astronomia,;c ((astronomy) the alignment of the Earth and a planet on the same side of the sun) }
+{ yläkonjunktio,  konjunktio,@ noun.cognition:astronomia,;c ((astronomy) the alignment of the Earth and a planet on the opposite side of the sun) }
+{ muuntaminen,  muutos5,  muuttaminen,  muodonmuutos,@ (an event that results in a transformation) }
+{ glykogeneesi,  muuntaminen,@ (the conversion of glucose to glycogen when the glucose in the blood exceeds the demand) }
+{ [ isomerointi, verb.change:isomeroitua,+ verb.change:isomeroida,+]  [ isomeroituminen, verb.change:isomeroitua,+ verb.change:isomeroida,+]  muuntaminen,@ (the conversion of a compound into an isomer of itself) }
+{ [ tasasuuntaisuus, verb.change:tasasuunnata,+]  muuntaminen,@ (the conversion of alternating current to direct current) }
+{ [ muuntuminen, verb.change:muuntaa5,+]  transmutaatio,  muutos,@ noun.cognition:fysiikka,;c ((physics) the change of one chemical element into another (as by nuclear decay or radioactive bombardment); "the transmutation of base metals into gold proved to be impossible") }
+{ käännekohta,  tapaus5,  tapahtuma,@ (an event that occurs at a critical time; "at such junctures he always had an impulse to leave"; "it was needed only on special occasions") }
+{ [ huippukohta, adj.all:huipussaan_oleva,+]  huippu,  [ huipentuma, adj.all:huipussaan_oleva,+]  kohokohta,  käännekohta,@ (the highest point of anything conceived of as growing or developing or unfolding; "the climax of the artist's career"; "in the flood tide of his success") }
+{ käännekohta1,  käännekohta,@ (a critical combination of events or circumstances) }
+{ hätätilanne,  pakkotilanne,  ahdinko,  käännekohta2,@ (a sudden unforeseen crisis (usually involving danger) that requires immediate action; "he never knew what to do in an emergency") }
+{ käännekohta2,  käännekohta,@ (a crucial stage or turning point in the course of something; "after the crisis the patient either dies or gets better") }
+{ virstanpylväs,  käännekohta3,  käännekohta,@ (an event marking a unique or important historical change of course or one on which important developments depend; "the agreement was a watershed in the history of both nations") }
+{ syntiinlankeemus,  virstanpylväs,@ noun.communication:Vanha_testamentti,;c ((Judeo-Christian mythology) when Adam and Eve ate of the fruit of the tree of knowledge of good and evil in the Garden of Eden, God punished them by driving them out of the Garden of Eden and into the world where they would be subject to sickness and pain and eventual death) }
+{ käännekohta4,  virstanpylväs,@ (a sudden turning point in a person's life (similar to the sudden conversion of the Apostle Paul on the road from Jerusalem to Damascus of arrest Christians)) }
+{ merkkipaalu,  virstanpylväs1,  käännekohta,@ (a significant event in your life (or in a project)) }
+{ jama,  hankala_tilanne<approximate/>,  ahdinko1,  käännekohta,@ (a difficult juncture; "a pretty pass"; "matters came to a head yesterday") }
+{ todellisuustarkastus,  käännekohta,@ (an occasion on which one is reminded of the nature of things in the real world; "this program is intended as a reality check for CEOs"; "after all those elaborate productions, I felt in need of a reality check") }
+{ [ tiivistäminen, verb.contact:tiivistyä,+]  kokoon_puristuminen1,  kiinteytyminen,  paksuntaminen,  tiivistyminen1,@ (an increase in the density of something) }
+{ [ ohentuminen, verb.change:ohentua1,+ verb.change:ohentaa1,+]  tiivistyminen1,@ (a decrease in the density of something; "a sound wave causes periodic rarefactions in its medium") }
+{ säilyttäminen,  säilöntä,  säilytys,  kehitys1,@ (an occurrence of improvement by virtue of preventing loss or injury or other change) }
+{ toipuminen,  paraneminen,  elpyminen,  palautuminen1,  kehitys1,@ (return to an original state; "the recovery of the forest after the fire was surprisingly rapid") }
+{ remissio,  [ lieveneminen, verb.change:lieventyä1,+]  elpymävaihe,  keskeytys2,@ (an abatement in intensity or degree (as in the manifestations of a disease); "his cancer is in remission") }
+{ lieventyminen,  remissio,@ (the subsidence of swelling or other signs of inflammation (especially in a lung)) }
+{ kirous,  piina,  koettelemus1,@ (a severe affliction) }
+{ tuli1,  koettelemus3,@ (a severe trial; "he went through fire and damnation") }
+{ vahinko3,  haitta,  vaurio,@ (a damage or loss) }
+{ hinta,  kustannus,  vahinko3,@ (a detriment or sacrifice; "at the expense of") }
+{ vaurio,  haitta1,  huononnus,  muutos,@ (the occurrence of a change for the worse) }
+{ [ värinä1, verb.creation:värähdellä,+]  [ sykäys, verb.creation:sykkiä,+]  [ värähtely1, verb.creation:värähdellä,+]  impulssi1,  aalto,@ noun.cognition:elektroniikka,;c ((electronics) a sharp transient wave in the normal electrical state (or a series of such transients); "the pulsations seemed to be coming from a star") }
+{ käyttöhäiriö,  konerikko,  epäonnistunut_yritys,@ (a cessation of normal operation; "there was a power breakdown") }
+{ jarruvika,  käyttöhäiriö,@ (brakes fail to stop a vehicle) }
+{ konerikko1,  moottoririkko,  käyttöhäiriö,@ (engine does not run) }
+{ laukeamaton_räjähde,  suutari,  käyttöhäiriö,@ (an explosion that fails to occur) }
+{ katkos1,  käyttöhäiriö,@ noun.artifact:tietokone,;c (a temporary suspension of operation (as of computers); "there will be a network outage from 8 to 10 a.m.") }
+{ sähkökatko,  sähkökatkos,  käyttöhäiriö,@ (equipment failure resulting when the supply of power fails; "the ice storm caused a power outage") }
+{ vika1,  käyttöhäiriö,@ noun.cognition:elektroniikka,;c ((electronics) equipment failure attributable to some defect in a circuit (loose connection or insulation failure or short circuit etc.); "it took much longer to find the fault than to fix it") }
+{ sähkökatko1,  sähkökatkos1,  sähkökatko,@ (the failure of electric power for a general region) }
+{ sammuminen,  sähkökatko,@ noun.artifact:suihkumoottori,;c (the failure of a jet engine caused by an interruption of the fuel supply or by faulty combustion) }
+{ hupeneminen,  pieneneminen,  väheneminen,@ (a becoming gradually less; "there is no greater sadness that the dwindling away of a family") }
+{ [ väheneminen1, kasvaminen1,! verb.change:vähetä4,+]  väheneminen,@ (a gradual decrease in magnitude or extent; "the waning of his enthusiasm was obvious"; "the waxing and waning of the moon") }
+{ häviäminen4,  vaimeneminen,  hupeneminen,@ (gradually diminishing in brightness or loudness or strength) }
+{ [ käänne2, verb.change:kääntyä1,+]  tapahtuma3,@ (an unforeseen development; "events suddenly took an awkward turn") }
+{ tapahtuma3,  muutos,@ (a recent event that has some relevance for the present situation; "recent developments in Iraq"; "what a revolting development!") }
+{ ilmiö,  tapahtuma3,@ (a remarkable development) }
+{ hankaluus,  seuraamus,  tapahtuma3,@ (a development that complicates a situation; "the court's decision had many unforeseen ramifications") }
+{ [ vallankumous, noun.person:vallankumouksellinen,+ adj.all:uusi5^vallankumouksellinen,+]  muutos,@ (a drastic and far-reaching change in ways of thinking and behaving; "the industrial revolution was also a cultural revolution") }
+{ kulttuurivallankumous,  suuri_proletaarinen_kulttuurivallankumous,  vallankumous,@ noun.location:Kiina,;r (a radical reform in China initiated by Mao Zedong in 1965 and carried out largely by the Red Guard; intended to eliminate counterrevolutionary elements in the government it resulted in purges of the intellectuals and socioeconomic chaos) }
+{ vihreä_vallankumous,  vallankumous,@ (the introduction of pesticides and high-yield grains and better management during the 1960s and 1970s which greatly increased agricultural productivity) }
+{ [ mutaatio, adj.pert:mutaatio-,+]  geneettinen_mutaatio,  kromosomimutaatio,  geenimutaatio,  muutos,@ noun.cognition:genetiikka,;c ((genetics) any event that changes genetic structure; any alteration in the inherited nucleic acid sequence of the genotype of an organism) }
+{ sukupuolenvaihdos,  muutos,@ (a change in a person's physical sexual characteristics (as by surgery and hormone treatments)) }
+{ kromosomikato,  mutaatio,@ noun.cognition:genetiikka,;c ((genetics) the loss or absence of one or more nucleotides from a chromosome) }
+{ inversio,  mutaatio,@ noun.cognition:genetiikka,;c ((genetics) a kind of mutation in which the order of the genes in a section of a chromosome is reversed) }
+{ mutaatio1,  muunnos,  mutaatio,@ noun.cognition:genetiikka,;c ((genetics) a kind of mutation in which a chromosomal segment is transfered to a new position on the same or another chromosome) }
+{ mutageneesi,  aiheuttaja,@ mutaatio,#p (an event capable of causing a mutation) }
+{ insertionaalinen_mutageneesi,  mutageneesi,@ noun.cognition:genetiikka,;c ((genetics) a mutation caused by the insertion of exogenous DNA into a genome) }
+{ pistemutaatio,  geenimutaatio1,  mutaatio,@ noun.cognition:genetiikka,;c ((genetics) a mutation due to an intramolecular reorganization of a gene) }
+{ reversio,  mutaatio,@ noun.cognition:genetiikka,;c ((genetics) a return to a normal phenotype (usually resulting from a second mutation)) }
+{ saltaatio,  mutaatio,@ noun.cognition:genetiikka,;c ((genetics) a mutation that drastically changes the phenotype of an organism or species) }
+{ taantuminen,  regressio,  muodonmuutos,@ (passing from a more complex to a simpler biological form) }
+{ atrofia,  surkastuminen,  heikentyminen1,@ (any weakening or degeneration (especially through lack of use)) }
+{ [ vahvistuminen, heikentyminen1,!]  [ voimistuminen, heikentyminen1,!]  muodonmuutos,@ (becoming stronger) }
+{ [ heikentyminen1, vahvistuminen,! voimistuminen,! verb.change:heikentyä1,+ verb.change:heiketä4,+]  muodonmuutos,@ (becoming weaker) }
+{ [ heikentyminen2, verb.change:heikentyä,+]  [ laimentuminen, verb.change:laimentua,+]  ohentuminen1,  [ vaimentuminen, verb.change:vaimentua1,+]  haalistuminen,  häipyminen1,  heikentyminen1,@ (weakening in force or intensity; "attenuation in the volume of the sound") }
+{ [ tuho6, nousu,!]  romahdus4,  heikentyminen1,@ (a sudden decline in strength or number or importance; "the fall of the House of Hapsburg") }
+{ putoaminen_ylevästä_arkipäiväiseen,  tuho6,@ (a disappointing decline after a previous rise; "the anticlimax of a brilliant career") }
+{ abiotrofia,  taantuminen,@ (a loss of vitality and a degeneration of cells and tissues not due to any apparent injury) }
+{ [ rappeutuminen<approximate/>, adj.pert:rappeutuva,+]  taantuminen,@ noun.cognition:biologia,;c ((biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form) }
+{ hämminki,  levottomuus,  häiriö,  noun.act:aktiviteetti,@ (activity that is a malfunction, intrusion, or interruption; "the term `distress' connotes some degree of perturbation and emotional upset"; "he looked around for the source of the disturbance"; "there was a disturbance of neural function") }
+{ magneettinen_myrsky,  hämminki,@ (a sudden disturbance of the earth's magnetic field; caused by emission of particles from the sun) }
+{ maanjäristys,  noun.phenomenon:geologinen_ilmiö,@ (shaking and vibration at the surface of the earth resulting from underground movement along a fault plane of from volcanic activity) }
+{ tärähdys1,  maanjäristys1,  maanjäristys,@ (an instance of agitation of the earth's crust; "the first shock of the earthquake came shortly after noon while workers were at lunch") }
+{ maanjäristys<broader/>2,  mikromaanjäristys,  maan_vavahtelu,  maanjäristys,@ (a small earthquake) }
+{ jälkijäristys,  maanjäristys<broader/>2,@ (a tremor (or one of a series of tremors) occurring after the main shock of an earthquake) }
+{ esijäristys,  maanjäristys<broader/>2,@ (a tremor preceding an earthquake) }
+{ merenalainen_maanjäristys,  maanjäristys,@ (an earthquake at the sea bed) }
+{ invaasio1,  tulva3,  [ tunkeutuminen, verb.motion:tunkeutua4,+]  tungettelu,  sisääntulo,@ (any entry into an area not previously occupied; "an invasion of tourists"; "an invasion of locusts") }
+{ hälyääni,  suhina1,  häiriö1,  interferenssi,  kohina2,  vaiva,@ (electrical or acoustic activity that can disturb communication) }
+{ häly1,  taustahäly,  taustamelu,  taustakohina,  hälyääni,@ (extraneous signals that can be confused with the phenomenon to be observed or measured; "they got a bad connection and could hardly hear one another over the background signals") }
+{ pohjakohina,  pohjaääni,  taustakohina1,  taustamelu1,  häly1,@ (extraneous noise contaminating sound measurements that cannot be separated from the desired signal) }
+{ levysoittimen_rahina,  pohjakohina,@ (noise produced by the friction of the stylus of a record player moving over the rotating record) }
+{ taustasäteily,  häly1,@ (radiation coming from sources other than those being observed) }
+{ ylikuuluminen,  keskinäishäiriö,  hälyääni,@ (the presence of an unwanted signal via an accidental coupling) }
+{ vaimeneminen1,  hälyääni,@ (a gradual temporary loss of a transmitted signal due to electrical disturbances) }
+{ värinä2,  hälyääni,@ (small rapid variations in a waveform resulting from fluctuations in the voltage supply or mechanical vibrations or other sources) }
+{ kohina3,  hälyääni,@ (a crackling or hissing noise caused by electrical interference) }
+{ kohina4,  valkoinen_kohina,  hälyääni,@ (a noise produced by a stimulus containing all of the audible frequencies of vibration; "white noise is a good masking agent") }
+{ radiokohina,  kohina3,@ (static at radio wavelengths) }
+{ [ tihkuminen, verb.motion:tihkua3,+]  [ vuoto2, adj.all:vuotava1^vuotava2,+ verb.motion:vuotaa3,+]  [ vuotaminen, verb.motion:vuotaa3,+]  virtaaminen1,@ (the process of seeping) }
+{ [ tihkuminen1, verb.body:tihkua,+]  tihkuminen,@ (the process of exuding; the slow escape of liquids from blood vessels through pores or breaks in the cell membranes) }
+{ vuoto3,  virtaaminen1,@ (flowing in drops; the formation and falling of drops of liquid; "there's a drip through the roof") }
+{ suonensisäinen_tiputus,  vuoto3,@ (slow continuous drip introducing solutions intravenously (a drop at a time)) }
+{ pieni_vesipyörre,  akanvirta,  virta,@ (a miniature whirlpool or whirlwind resulting when the current of a fluid doubles back on itself) }
+{ kierrevirta,  pyörrevirta,  kurimus,  syöveri,  akanvirta1,  vesipyörre,  pyörre,  virta,@ (a powerful circular current of water (usually the result of conflicting tides)) }
+{ Kharybdis,  kierrevirta,@ noun.group:kreikkalainen_mytologia,;c ((Greek mythology) a ship-devouring whirlpool lying on the other side of a narrow strait from Scylla) }
+{ [ paloittelu, verb.contact:paloitella5,+]  silpominen,  silpominen1,@ noun.act:kidutus,@ (the removal of limbs; being cut to pieces) }
+{ [ silpominen1, verb.body:silpoa,+]  vahinko2,@ (an injury that causes disfigurement or that deprives you of a limb or other important body part) }
+{ päästö,  virtaaminen1,@ (the occurrence of a flow of water (as from a pipe)) }
+{ vääntyminen,  vääristyminen,  vaurio,@ (a change for the worse) }
+{ kieroutuma,  vääntyminen,@ (a moral or mental distortion) }
+{ [ syöksyminen, verb.motion:syöksyä4,+ verb.motion:syöksyä7,+]  pudotus1,@ (a steep and rapid fall) }
+{ [ suistuminen, verb.motion:suistua,+ verb.contact:suistaa,+]  pudotus1,@ (the act of casting down or falling headlong from a height) }
+{ [ lannoitus, verb.change:lannoittaa1,+]  noun.act:rikastuttaminen,@ (making fertile as by applying fertilizer or manure) }
+{ lannoitus1,  lannoitus,@ (a layer of fertilizer or manure not plowed in) }
+{ siementen_esiintulo<unconfirmed/>,  esiintulo,@ noun.cognition:botaniikka,;c (the emergence of seeds as seed pods burst open when they are ripe) }
+{ puuska,  purkaus3,  [ leimahdus2, verb.change:leimahtaa,+]  tapahtuma,@ (a sudden intense happening; "an outburst of heavy rain"; "a burst of lightning") }
+{ purkaus4,  puuska,@ (an outburst resembling the discharge of firearms or the release of bombs) }
+{ puhkeaminen2,  purkautuminen,  valloilleen_pääsy,  purkaus5,  tapahtuma,@ (a sudden violent spontaneous occurrence (usually of some undesirable condition); "the outbreak of hostilities") }
+{ [ epidemia, adj.all:epideeminen,+]  [ kulkutauti, adj.all:kulkutaudinomainen,+]  puhkeaminen2,@ (a widespread outbreak of an infectious disease; many people are infected at the same time) }
+{ [ pandemia, adj.all:epideeminen^pandeeminen1,+]  epidemia,@ (an epidemic that is geographically widespread; occurring throughout a region or even throughout the world) }
+{ [ uudelleen_puhkeaminen, adj.all:herätetty1^uudelleen_puhkeava,+]  puhkeaminen2,@ (a return of something after a period of abatement; "a recrudescence of racism"; "a recrudescence of the symptoms") }
+{ [ suihku, verb.contact:suihkuta1,+]  [ ruisku, verb.contact:ruiskuttaa4,+ verb.contact:ruiskuttaa,+]  [ purskahdus, verb.motion:purskahtaa,+ verb.motion:purskua,+]  ruiskaus,  [ purskaus, verb.motion:purskahtaa,+ verb.motion:purskua,+]  vuoto1,@ (the occurrence of a sudden discharge (as of liquid)) }
+{ ruuhka,  puuska,@ (a sudden burst of activity; "come back after the rush") }
+{ tulivuorenpurkaus,  [ purkaus6, verb.change:purkautua1,+]  purkaus1,@ (the sudden occurrence of a violent discharge of steam and volcanic material) }
+{ [ vuoto4, verb.change:vuotaa4,+ verb.change:vuotaa3,+ adj.all:vuotava1,+ verb.change:vuotaa1,+]  ulosvirtaus,  vuoto1,@ (the discharge of a fluid from some container; "they tried to stop the escape of gas from the damaged pipe"; "he had to clean up the leak") }
+{ [ hedelmöitys, verb.body:hedelmöittää,+ verb.body:hedelmöittää1,+ verb.body:hedelmöittää2,+]  [ hedelmöittäminen, verb.body:hedelmöittää,+ verb.body:hedelmöittää1,+ verb.body:hedelmöittää2,+]  luominen,@ (creation by the physical union of male and female gametes; of sperm and ova in an animal or pollen and ovule in a plant) }
+{ [ pölytys, verb.body:pölyttää,+]  hedelmöitys,@ (transfer of pollen from the anther to the stigma of a plant) }
+{ [ ristipölytys, itsehedelmöitys,! verb.body:ristipölyttää,+ verb.body:ristipölyttyä,+]  hedelmöitys,@ (fertilization by the union of male and female gametes from different individual of the same species) }
+{ [ ristipölytys1, autogamia,! adj.pert:ristipölytteinen,+]  ristipölytys,@ (cross-fertilization in plants) }
+{ [ itsehedelmöitys, ristipölytys,!]  hedelmöitys,@ (fertilization by the union of male and female gametes from the same individual) }
+{ ylihedelmöitys,  hedelmöitys,@ (fertilization of two or more ova released during the same menstrual cycle by sperm from separate acts of coitus (especially by different males)) }
+{ lisähedelmöitys,  hedelmöitys,@ (fertilization of a second ovum after a pregnancy has begun; results in two fetuses of different ages in the uterus at the same time; "superfetation is normal in some animal species") }
+{ [ autogamia, ristipölytys1,! adj.all:autogaaminen,+]  itsehedelmöitys,@ (self-fertilization in plants) }
+{ [ ristipölytys2, itsepölytys,!]  pölytys,@ (fertilization by transfer of pollen from the anthers of one flower to the stigma of another) }
+{ [ itsepölytys, ristipölytys2,!]  pölytys,@ (fertilization by transfer of pollen from the anthers to the stigma of the same flower) }
+{ kleistogamia,  itsepölytys,@ (the production of small nonopening self-pollinating flowers) }
+{ [ lepatus, verb.motion:lepattaa5,+ verb.motion:lepattaa2,+ verb.motion:lepattaa4,+]  [ räpyttely, verb.motion:räpytellä2,+ verb.motion:räpyttää1,+ verb.motion:räpytellä1,+ verb.motion:räpyttää,+]  läpyttely,  läpytys,  aalto,@ (the motion made by flapping up and down) }
+{ [ huuhdonta, verb.change:huuhtoutua1,+ verb.change:huuhdella1,+ verb.change:huuhdella2,+ verb.change:huuhtoa3,+ verb.change:huuhtoutua2,+]  purskahdus1,  tulva4,  virtaaminen1,@ (a sudden rapid flow (as of water); "he heard the flush of a toilet"; "there was a little gush of blood"; "she attacked him with an outpouring of words") }
+{ säteily,  noun.process:luonnollinen_prosessi,@ leviäminen1,@ (the spread of a group of organisms into new habitats) }
+{ sopeutumislevittäytyminen,  säteily,@ (the development of many different forms from an originally homogeneous group of organisms as they fill different ecological niches) }
+{ ryöppy3,  tulva5,  nousu6,  virtaaminen1,@ (a sudden forceful flow) }
+{ jäteläjä<approximate/>,  ryöppy3,@ (the sudden spread of dust and debris from a collapsing building; "the destruction of the building produced an enormous debris surge") }
+{ syöksähdys,  ryöppy3,@ (a forceful forward rush or flow; "from the bow she stared at the mesmerising onrush of the sea where it split and foamed"; "the explosion interrupted the wild onrush of her thoughts") }
+{ keväthuuma<approximate/>,  huuhdonta,@ (a swelling rush of anything; "he rose on the springtide of prosperity") }
+{ kierto2,  kierros,  pyörähdys1,  käännös,@ (a single complete turn (axial or orbital); "the plane made three rotations before it crashed"; "the revolution of the earth about the sun takes one year") }
+{ [ oikealle_kiertäminen, vastapäivään_kierto,!]  myötäpäivään_kiertäminen,  kierto2,@ (rotation to the right) }
+{ [ vastapäivään_kierto, oikealle_kiertäminen,!]  kierto2,@ (rotation to the left) }
+{ akselin_ympäri_pyöriminen,  pyöriminen,  kierto2,@ (rotary motion of an object around its own axis; "wheels in axial rotation") }
+{ rataliike,  kierto2,@ (motion of an object in an orbit around a fixed point; "satellites in orbital rotation") }
+{ humu,  hälinä1,  liikehdintä,@ (confused movement; "he was caught up in a whirl of work"; "a commotion of people fought for the exits") }
+{ pyörähdys2,  pyörintä,  kierto2,@ (a swift whirling motion (usually of a missile)) }
+{ takakierre,  pyörähdys2,@ (spin (usually of a moving ball) that retards or reverses the forward motion) }
+{ sivukierre,  pyörähdys2,@ noun.act:urheilu,;c ((sports) the spin given to a ball by striking it on one side or releasing it with a sharp twist) }
+{ yläkierre,  pyörähdys2,@ (forward spin (usually of a moving ball) that is imparted by an upward stroke) }
+{ kieriminen,  akselin_ympäri_pyöriminen,@ (an indolent or clumsy rolling about; "a good wallow in the water") }
+{ repeämä1,  [ purkauma, verb.contact:purkaa8,+]  vaurio,@ (a row of unravelled stitches; "she got a run in her stocking") }
+{ höltyminen,  [ höllentyminen, verb.change:höllentää2,+]  herpaantuminen,  heikentyminen1,@ (an occurrence of control or strength weakening; "the relaxation of requirements"; "the loosening of his grip"; "the slackening of the wind") }
+{ suojasää,  höltyminen,@ (a relaxation or slackening of tensions or reserve; becoming less hostile; "the thaw between the United States and Russia has led to increased cooperation in world affairs") }
+{ [ vaihto, verb.possession:vaihtaa1,+]  muutos6,  [ vaihtaminen, verb.change:vaihtaa5,+]  [ vaihdos, verb.change:vaihtaa2,+ verb.change:vaihtaa,+ verb.change:vaihtaa<broader/>1,+ verb.possession:vaihtaa2,+]  korvaaminen,  vaihtelu,@ (an event in which one thing is substituted for another; "the replacement of lost blood by a transfusion of donor blood") }
+{ suhdannejakso,  suhdannevaihtelu,  vaihtelu,@ (recurring fluctuations in economic activity consisting of recession and recovery and growth and decline) }
+{ päivittäinen_vaihtelu,  vaihtelu,@ (fluctuations that occur between one day and the next) }
+{ päivittäinen_vaihtelu1,  vaihtelu,@ (fluctuations that occur during each day) }
+{ vaihtelu1,  vaihtelu,@ (something that may increase or decrease (like the tides of the sea); "a rising tide of popular interest") }
+{ muuttuminen2,  korvaaminen1,  syrjäytys,  käännös1,@ (an event in which something is displaced without rotation) }
+{ heilahdusväli,  heilahteluväli,  värähdyslaajuus,  muuttuminen2,@ noun.cognition:fysiikka,;c ((physics) the maximum displacement of a periodic wave) }
+{ dislokaatio,  sijoiltaanmeno,  muuttuminen2,@ (displacement or misalignment of a joint or organ) }
+{ sijoiltaanmeno1,  dislokaatio,@ (partial displacement of a joint or organ) }
+{ edistyminen,  eteneminen1,  kulku,  matkustaminen,@ (a movement forward; "he listened for the progress of the troops") }
+{ [ nousu7, lasku3,! verb.motion:nousta9,+ verb.motion:nousta6,+ verb.motion:nousta7,+ adj.pert:nousu-,+]  [ nouseminen2, verb.motion:nousta6,+]  matkustaminen,@ (a movement upward; "they cheered the rise of the hot-air balloon") }
+{ [ leviäminen1, verb.motion:levittää5,+ verb.stative:levitä,+ verb.communication:levittää,+ verb.contact:levittää3,+ verb.motion:levittäytyä1,+ verb.communication:levitä,+ verb.contact:levitä1,+]  [ levittäytyminen, verb.stative:levitä,+]  matkustaminen,@ (process or result of distributing or extending over a wide expanse of space) }
+{ vauhkopako,  matkustaminen,@ (a wild headlong rush of frightened animals (horses or cattle)) }
+{ käännös1,  matkustaminen,@ (a uniform movement without rotation) }
+{ suihku1,  suihku,@ (a jet of vapor) }
+{ ruiskaus1,  [ suihkaus, verb.contact:suihkauttaa1,+ verb.contact:suihkauttaa,+]  suihku,@ (a quick squirt of some liquid (usually carbonated water)) }
+{ angelussoitto,  angelus,  kellon_soitto,@ (the sound of a bell rung in Roman Catholic churches to announce the time when the Angelus should be recited) }
+{ kellonsoitto1,  helinä3,@ (the sound of someone playing a set of bells) }
+{ [ paluu1, verb.change:palata1,+]  käännös,@ (the occurrence of a change in direction back in the opposite direction) }
+{ kierre<approximate/>,  käännös,@ (a rolling or revolving motion) }
+{ juttu,  tilaisuus1,  sosiaalinen_tapahtuma1,  juhla,  sosiaalinen_tilaisuus,  tapahtuma4,  seuratilaisuus,@ (a vaguely specified social event; "the party was quite an affair"; "an occasion arranged to honor the president"; "a seemingly endless round of social functions") }
+{ [ juhlat, verb.social:juhlia3,+]  [ bailut, verb.social:bailata1,+]  bileet,  kemut,  juttu,@ (an occasion on which people can assemble for social interaction and entertainment; "he planned a party to celebrate Bastille Day") }
+{ bileet1,  kemut1,  juhlat1,  pirskeet,  juhlat,@ (an uproarious party) }
+{ synttäribileet,  syntymäpäiväjuhla,  juhlat,@ (a party held on the anniversary of someone's birth) }
+{ kutsut,  teekutsut,  juhlat,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r noun.communication:slangi,;u ((Briticism) a grand formal party on an important occasion) }
+{ tanssiaiset<broader/>,  juhlat,@ noun.location:Irlanti,;r noun.location:Skotlanti,;r (an informal social gathering at which there is Scottish or Irish folk music and singing and folk dancing and story telling) }
+{ cocktailkutsut,  juhlat,@ (an afternoon party at which cocktails are served) }
+{ [ tanssiaiset1, verb.creation:tanssia,+]  juhlat,@ (a party for social dancing) }
+{ tanssiaiset2,  tanssiaiset1,@ (a lavish dance requiring formal attire) }
+{ tanssiaiset<broader/>3,  tanssiaiset2,@ (a ball at which young ladies are presented to society) }
+{ naamiaiset,  tanssiaiset2,@ noun.group:naamiaiset,@ (a ball at which guests wear costumes and masks) }
+{ tanssiaiset4,  prom-tanssiaiset,  tanssiaiset2,@ (a formal ball held for a school class toward the end of the academic year) }
+{ latotanssit,  tanssiaiset1,@ (a dance party featuring country dancing) }
+{ tanssit,  tanssiaiset<approximate/>5,  tanssiaiset1,@ (an informal dance where popular music is played) }
+{ [ reivit, verb.social:reivata,+]  teknobileet,  tanssiaiset1,@ (a dance party that lasts all night and electronically synthesized music is played; "raves are very popular in Berlin") }
+{ [ juhla1, verb.social:juhlistaa1,+]  pidot,  juhlat,@ (an elaborate party (often outdoors)) }
+{ luau-juhla<unconfirmed/>,  juhla1,@ noun.location:Havaiji,;r (an elaborate Hawaiian feast or party (especially one accompanied by traditional foods and entertainment)) }
+{ viikonloppujuhlat,  juhlat,@ (a party lasting over one or more nights at a large house) }
+{ hilpeä_juhla,  juhlat,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a happy party) }
+{ teekutsut1,  juhlat,@ (a party at which tea is served) }
+{ vistitempaus<unconfirmed/>,  juhlat,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a progressive whist party) }
+{ [ juhla2, verb.social:juhlia,+]  [ juhlinta, verb.social:juhlia1,+]  juttu,@ (a joyful occasion for special festivities to mark some happy event) }
+{ [ seremonia, adj.all:muodollinen2^seremoniaalinen,+]  juhlamenot,  juhlatilaisuus,  riitti,  juttu,@ (a formal event performed on a special occasion; "a ceremony commemorating Pearl Harbor") }
+{ muodollisuus,  seremonia,@ (formal ceremony about important occasions; "pomp and circumstance") }
+{ [ hautajaiset, adj.all:iloton2^hautajaismainen,+ adj.pert:hauta-1,+ adj.pert:hautajais-,+ adj.pert:hautaus-1,+]  seremonia,@ (a ceremony at which a dead person is buried or cremated; "hundreds of people attended his funeral") }
+{ [ hautaus, verb.social:haudata,+]  [ hautajaiset1, verb.social:haudata,+]  [ hautaaminen, verb.social:haudata,+]  hautajaiset,@ (the ritual placing of a corpse in a grave) }
+{ ilmahautajaiset,  hautajaiset,@ (a traditional Tibetan funeral ritual in which the corpse is exposed to the open air to be eaten by sacred vultures) }
+{ häät,  vihkiäistilaisuus,  vihkiminen,  seremonia,@ (the social event at which the ceremony of marriage is performed) }
+{ kuvaelma,  show,  loistava_näytelmä,  seremonia,@ (a rich and spectacular ceremony) }
+{ [ vihkimisjuhla, verb.social:vihkiä1,+]  [ vihkiminen1, verb.social:vihkiä1,+]  seremonia,@ (a ceremony in which something (as a building) is dedicated to some goal or purpose) }
+{ uudelleen_vihkiminen,  vihkimisjuhla,@ (a new dedication; "the rededication of the Temple of Jerusalem") }
+{ avajaiset,  seremonia,@ (a ceremony accompanying the start of some enterprise) }
+{ muistojuhla,  seremonia,@ (a ceremony to honor the memory of someone or something) }
+{ sotilasseremonia<unconfirmed/>,  seremonia,@ noun.group:sotavoimat,;c (a formal ceremony performed by military personnel) }
+{ jäseneksi_ottaminen,  [ kutsuminen, verb.social:kutsua3,+]  virkaanasettaminen,  jäseneksi_vihkiminen,  seremonia,@ (a formal entry into an organization or position or office; "his initiation into the club"; "he was ordered to report for induction into the army"; "he gave a speech as part of his installation into the hall of fame") }
+{ [ kruunajaiset, verb.social:kruunata,+]  valtaistuimelle_asettaminen,  virkaan_asettaminen,  investituura,  jäseneksi_ottaminen,@ (the ceremony of installing a new monarch) }
+{ bar_mitsva,  jäseneksi_ottaminen,@ noun.cognition:juutalaisuus,;c ((Judaism) an initiation ceremony marking the 13th birthday of a Jewish boy and signifying the beginning of religious responsibility; "a bar mitzvah is an important social event") }
+{ bat_mitsva,  jäseneksi_ottaminen,@ noun.cognition:juutalaisuus,;c ((Judaism) an initiation ceremony marking the 12th birthday of a Jewish girl and signifying the beginning of religious responsibility) }
+{ juhlallisuudet,  juhlamenot1,  seremonia,@ noun.communication:monikko,;u ((usually plural) a ceremony that involves processions and speeches; "academic exercises") }
+{ tulikävely,  seremonia,@ (the ceremony of walking barefoot over hot stones or a bed of embers) }
+{ promootio,  todistustenjakopäivä,  todistustenjakoseremonia,  [ valmistumisjuhla, verb.possession:valmistua1,+ verb.possession:valmistua_korkeakoulusta<unconfirmed/>1,+ verb.possession:valmistua,+ verb.possession:valmistua_korkeakoulusta<unconfirmed/>,+]  koulun_päättäjäiset,  [ valmistujaiset, verb.possession:valmistua1,+ verb.possession:valmistua_korkeakoulusta<unconfirmed/>1,+ verb.possession:valmistua,+ verb.possession:valmistua_korkeakoulusta<unconfirmed/>,+]  juhlallisuudet,@ (an academic exercise in which diplomas are conferred) }
+{ muodollisuus1,  muodollisuudet,  seremonia,@ (a requirement of etiquette or custom; "a mere formality") }
+{ almu<approximate/>,  seremonia,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a public ceremony on Maundy Thursday when the monarch distributes Maundy money) }
+{ lahjojenvaihtoseremonia,  juhla1,@ seremonia,@ (a ceremonial feast held by some Indians of the northwestern coast of North America (as in celebrating a marriage or a new accession) in which the host gives gifts to tribesmen and others to display his superior wealth (sometimes, formerly, to his own impoverishment)) }
+{ varainhankintatilaisuus,  juttu,@ (a social function that is held for the purpose of raising money) }
+{ valokuvaustuokio,  juttu,@ (an occasion that lends itself to (or is deliberately arranged for) taking photographs that provide favorable publicity for those who are photographed) }
+{ yökyläily,  juttu,@ (an occasion of spending a night away from home or having a guest spend the night in your home (especially as a party for children)) }
+{ kilpailu,  kisa,  seuratilaisuus,@ (an occasion on which a winner is selected from among two or more contestants) }
+{ urheilukilpailu,  urheilukisa,  urheilu,  yleisurheilu,  kilpailu,@ (a contest between athletes) }
+{ ottelu,  kilpailu,@ (a contest or fight (especially between boxers or wrestlers)) }
+{ kymmenottelu,  urheilukilpailu,@ (an athletic contest consisting of ten different events) }
+{ Olympiakisat,  Olympialaiset,  urheilukilpailu,@ (the modern revival of the ancient games held once every 4 years in a selected country) }
+{ Special_Olympics,  urheilukilpailu,@ (an athletic contest modeled after the Olympic Games but intended for mentally or physically handicapped persons) }
+{ Talviolympiakisat,  Talviolympialaiset,  Olympiakisat,@ (an Olympics for winter sports) }
+{ alkukilpailu,  esikisat,  urheilukilpailu,@ (a minor match preceding the main event) }
+{ viisiottelu,  nykyaikainen_viisiottelu,  urheilukilpailu,@ (an athletic contest consisting of five different events) }
+{ mestaruuskilpailu,  mestaruusottelu,  loppuottelu,  kilpailu,@ (a competition at which a champion is chosen) }
+{ tyhmänrohkeutta_mittaava_kilpailu,  kilpailu,@ (a foolhardy competition; a dangerous activity that is continued until one competitor becomes afraid and stops) }
+{ loppuun_asti_jännittävä_kilpailu,  kilpailu,@ (a contest whose outcome is uncertain up to the very end) }
+{ taistelu,  kilpailu,@ (a fiercely disputed contest; "their rancor dated from a political dogfight between them"; "a real dogfight for third place"; "a prolonged dogfight over their rival bids for the contract") }
+{ [ kilpailu1, verb.competition:kilpailla1,+ adj.all:liikkuva4^kilpakelpoinen<approximate/>,+]  [ kilpa, verb.competition:kilpailla1,+ adj.all:liikkuva4^kilpakelpoinen<approximate/>,+]  kilpailu,@ (a contest of speed; "the race is to the swift") }
+{ autokilpailu,  autokisa,  kilpailu1,@ (a race between (usually high-performance) automobiles) }
+{ Grand_Prix,  autokilpailu,@ (one of several international races) }
+{ ralli,  autokilpailu,@ (an automobile race run over public roads) }
+{ polkupyöräkilpailu,  pyöräkilpailu,  kilpailu1,@ (a race between people riding bicycles) }
+{ Tour_de_France,  Ranskan_ympäriajo,  polkupyöräkilpailu,@ (a French bicycle race for professional cyclists that lasts three weeks and covers about 3,000 miles) }
+{ venekilpailu,  kilpailu1,@ (a race between people rowing or driving boats) }
+{ kisa<broader/>1,  kilpailu1,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r noun.communication:slangi,;u (a high-speed motorcycle race on a public road) }
+{ vaunukilpailut,  kilpailu1,@ (a race between ancient chariots) }
+{ koirakilpailu,  kilpailu1,@ (a race between dogs; usually an occasion for betting on the outcome) }
+{ purjehduskisa,  venekilpailu,@ (a race between crews of people in yachts) }
+{ [ juoksukisa, verb.motion:juosta1,+ verb.competition:juosta,+ verb.motion:juoksuttaa2,+ verb.motion:juosta,+]  kilpailu1,@ (a race run on foot; "she broke the record for the half-mile run") }
+{ hyväntekeväisyysjuoksu,  juoksukisa,@ (a footrace run for fun (often including runners who are sponsored for a charity)) }
+{ [ maraton, noun.person:maratoonari,+]  juoksukisa,@ (a footrace of 26 miles 385 yards) }
+{ vapaauinti,  vapaapaini,  kilpailu1,@ (a race (as in swimming) in which each contestant has a free choice of the style to use) }
+{ maastojuoksu,  kilpailu1,@ (a long race run over open country) }
+{ Iditarod,  Iditarod_Trail_Dog_Sled_Race,  Iditarod_Trailin_koiravaljakkoajokilpailu,  maastojuoksu,@ (an important dogsled race run annually on the Iditarod Trail) }
+{ kenttäratsastus,  noun.act:ratsastus2,@ (an equestrian competition; the first day is dressage; the second is cross-country jumping; the third is stadium jumping) }
+{ alkuerä<narrower/>,  karsintaerä,  kilpailu1,@ (a preliminary race in which the winner advances to a more important race) }
+{ hevoskilpailu,  kilpailu1,@ (a contest of speed between horses; usually held for the purpose of betting) }
+{ hevoskilpailu\,_jossa_omistajat_sitoutuvat_myymään_hevosensa_etukäteen_sovitusta_hinnasta_kilpailun_jälkeen,  hevoskilpailu,@ (a horse race in which each owner declares before the race at what price his horse will be offered for sale after the race) }
+{ hevoskilpailu1,  hevoskilpailu,@ (a horse race in which the winning horse must be put up for auction) }
+{ ravikilpailu,  raviurheilu,  hevoskilpailu,@ (a horse race between people riding in sulkies behind horses that are trotting or pacing) }
+{ Kentucky_Derby,  laukkaurheilu,@ (an annual race for three-year-old horses; held at Churchill Downs in Louisville, Kentucky) }
+{ Preakness,  laukkaurheilu,@ (an annual race for three-year-old horses; held at Pimlico in Baltimore, Maryland) }
+{ Belmont_Stakes,  laukkaurheilu,@ (an annual race for three-year-old horses; held on Long Island at Elmont, New York) }
+{ hevoskilpailu<broader/>2,  hevoskilpailu,@ (a horse race in which part of the prize is put up by the owners of the horses in the race) }
+{ esteratsastus,  hevoskilpailu,@ (a horse race over an obstructed course) }
+{ Grand_National,  esteratsastus,@ (an annual steeplechase run in Liverpool, England) }
+{ esteratajuoksu,  juoksukisa,@ (a race in which competitors must negotiate obstacles) }
+{ estejuoksu,  juoksukisa,@ (a footrace of usually 3000 meters over a closed track with hurdles and a water jump) }
+{ laukkaurheilu,  hevoskilpailu,@ (a race between thoroughbred horses) }
+{ perunakisa<approximate/>,  kilpailu1,@ (a novelty race in which competitors move potatoes from one place to another one at a time) }
+{ pussijuoksu,  kilpailu1,@ (a novelty race in which competitors jump ahead with their feet confined in a sack) }
+{ alusta_alkava_kisa,  kilpailu1,@ (a race in which all contestants start from scratch (on equal terms)) }
+{ hiihtokilpailu,  kilpailu1,@ (a race between people wearing skis) }
+{ laskettelu,  slalom,  syöksylasku,  hiihtokilpailu,@ (a ski race down a trail) }
+{ [ slalom1, verb.motion:slalom-pujotella,+]  hiihtokilpailu,@ (a downhill race over a winding course defined by upright poles) }
+{ viesti,  viestikilpailu,  viestijuoksu,  kilpailu1,@ (a race between teams; each member runs or swims part of the distance) }
+{ repechage-erä,  kilpailu1,@ (a race (especially in rowing) in which runners-up in the eliminating heats compete for a place in the final race) }
+{ soihdunkuljetus,  viesti,@ noun.time:antiikin_aika,;c noun.location:Kreikka,;r ((ancient Greece) in which a torch is passed from one runner to the next) }
+{ World_Cup,  turnaus,@ (a soccer tournament held every four years between national soccer teams to determine a world champion) }
+{ [ turnaus, verb.competition:turnata1,+]  kilpailu,@ (a sporting competition in which contestants play a series of games to decide the winner) }
+{ eliminointiturnaus,  turnaus,@ (a tournament in which losers are eliminated in successive rounds) }
+{ [ avoin_kilpailu, adj.all:määrittelemätön7^avoin24,+]  [ avoimet, adj.all:määrittelemätön7^avoin24,+]  turnaus,@ (a tournament in which both professionals and amateurs may play) }
+{ loppuottelu1,  kilpailu,@ (any final competition to determine a championship) }
+{ sarjakilpailu,  kilpailu,@ noun.act:urheilu,;c ((sports) several contests played successively by the same teams; "the visiting team swept the series") }
+{ peräkkäiset_kotipelit,  sarjakilpailu,@ (a series of successive games played at a team's home field or court) }
+{ World_Series,  sarjakilpailu,@ loppuottelu1,@ (series that constitutes the playoff for the baseball championship; "we watched the World Series on TV") }
+{ nyrkkeilyottelu,  ottelu1,@ (a match between boxers; usually held in a boxing ring) }
+{ šakkiottelu,  ottelu1,@ (a match between chess players) }
+{ kukkotappelu,  ottelu1,@ (a match in a cockpit between two fighting cocks heeled with metal gaffs) }
+{ krikettiottelu,  ottelu1,@ (a match between two cricket teams) }
+{ sukellus,  uimahypyt,  ottelu1,@ uintikisa,#p (an athletic competition that involves diving into water) }
+{ kenttälaji,  ottelu1,@ maastourheiluottelu,#p (a competition that takes place on a field rather than on a running track) }
+{ finaali,  loppuottelu2,  ottelu1,@ eliminointiturnaus,#p (the final match between the winners of all previous matches in an elimination tournament) }
+{ cup-finaali,  finaali,@ noun.act:jalkapallo1,;c (the final match of any cup competition (such as the annual final of the English soccer competition at Wembley)) }
+{ puolivälierä,  neljännesfinaali,  ottelu1,@ eliminointiturnaus,#p (one of the four competitions in an elimination tournament whose winners go on to play in the semifinals) }
+{ semifinaali,  välierä,  ottelu1,@ eliminointiturnaus,#p (one of the two competitions in the next to the last round of an elimination tournament) }
+{ ristiinpeluuturnaus<unconfirmed/>,  turnaus,@ (a tournament in which every contestant plays every other contestant) }
+{ kenttäkoe,  kilpailu,@ (a contest between gun dogs to determine their proficiency in pointing and retrieving) }
+{ kisa2,  urheilukisa1,  urheilukilpailu,@ (a meeting at which a number of athletic contests are held) }
+{ ratsastuskilpailu,  kisa2,@ (a meet at which riders and horses display a range of skills and aptitudes) }
+{ laukkakilpailut,  kisa2,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a regular occasion on which a number of horse races are held on the same track; "the Epsom race meeting was an important social event") }
+{ purjehduskilpailut,  regatta,  kisa2,@ (a meeting for boat races) }
+{ uintikisa,  kisa2,@ (a swimming competition between two or more teams) }
+{ maastourheiluottelu,  kisa2,@ (a track and field competition between two or more teams) }
+{ juoksukilpailu,  juoksukisa,@ maastourheiluottelu,#p (a footrace performed on a track (indoor or outdoor)) }
+{ pikajuoksu,  juoksukilpailu,@ (a footrace run at top speed; "he is preparing for the 100-yard dash") }
+{ aitajuoksu,  aidat,  aitajuoksukilpailu,  juoksukilpailu,@ (a footrace in which contestants must negotiate a series of hurdles) }
+{ [ maili, noun.quantity:-mailinen,+ noun.person:maileri,+]  juoksukilpailu,@ (a footrace extending one mile; "he holds the record in the mile") }
+{ korkeushyppy,  kenttälaji,@ (a competition that involves jumping as high as possible over a horizontal bar) }
+{ pituushyppy,  kenttälaji,@ (a competition that involves jumping as far as possible from a running start) }
+{ seiväshyppy,  kenttälaji,@ (a competition that involves jumping over a high crossbar with the aid of a long pole) }
+{ kuulantyöntö,  kenttälaji,@ (an athletic competition in which a heavy metal ball is hurled as far as possible) }
+{ moukarinheitto,  kenttälaji,@ (an athletic competition in which a heavy metal ball that is attached to a flexible wire is hurled as far as possible) }
+{ kiekko,  kiekonheitto,  kenttälaji,@ (an athletic competition in which a disk-shaped object is thrown as far as possible) }
+{ keihäänheitto,  kenttälaji,@ (an athletic competition in which a javelin is thrown as far as possible) }
+{ uintikilpailu,  ottelu1,@ uintikisa,#p (an athletic competition that involves swimming) }
+{ [ ottelu1, verb.competition:otteluttaa,+]  matsi,  kilpailu,@ (a formal contest in which two or more persons or teams compete) }
+{ tennisottelu,  ottelu1,@ (a match between tennis players) }
+{ loppuottelu3,  ottelu1,@ (an international championship match) }
+{ vapaapainiottelu,  ottelu1,@ (a match between wrestlers) }
+{ kaato,  voitto1,@ vapaapainiottelu,#p (when a wrestler's shoulders are forced to the mat) }
+{ kaato1,  kaato,@ vapaapainiottelu,#p noun.act:vapaapaini,;c ((amateur wrestling) being brought to the mat from a standing position; "a takedown counts two points") }
+{ harjoitusnyrkkeily,  nyrkkeilyottelu,@ (a practice or exhibition boxing match) }
+{ ammattilaisottelu,  nyrkkeilyottelu,@ (a boxing match between professional boxers for a cash prize) }
+{ kolmiloikka,  urheilukilpailu,@ (an athletic contest in which a competitor must perform successively a hop and a step and a jump in continuous movement) }
+{ köydenveto,  urheilukilpailu,@ (a contest in which teams pull of opposite ends of a rope; the team dragged across a central line loses) }
+{ turnajaiset,  kilpailu,@ (a series of jousts between knights contesting for a prize) }
+{ [ turnajaiset1, verb.competition:turnailla,+ verb.competition:turnata,+]  noun.act:ponnistelu1,@ turnajaiset,#p (a combat between two mounted knights tilting against each other with blunted lances) }
+{ [ kilpailu2, verb.competition:kilpailla1,+]  [ kilpa1, verb.competition:kilpailla1,+]  kilpailu,@ (any competition; "the race for the presidency") }
+{ kilpavarustelu<broader/>,  kilpailu2,@ (a competition between nations to have the most powerful armaments) }
+{ poliittinen_kampanja,  [ kampanja, verb.competition:kampanjoida,+]  vaalikampanja,  kilpailu2,@ (a race between candidates for elective office; "I managed his campaign for governor"; "he is raising money for a Senate run") }
+{ kuvernöörin_vaalikampanja,  poliittinen_kampanja,@ (a race for election to the governorship) }
+{ senaatin_vaalikampanja,  poliittinen_kampanja,@ (a race for election to the senate) }
+{ [ voitto1, tappio2,! adj.all:voittamaton2^voittoisa,+ adj.all:menestyksekäs1^voittoisa2,+ verb.competition:voittaa4,+]  menestys,  loppu,@ onnistuminen,@ (a successful ending of a struggle or contest; "a narrow victory"; "the general always gets credit for his army's victory"; "clinched a victory"; "convincing victory"; "the agreement was a triumph for common sense") }
+{ Yhdysvaltain_itsenäisyys,  voitto1,@ (the successful ending of the American Revolution; "they maintained close relations with England even after independence") }
+{ murskavoitto,  ylivoimainen_voitto,  voitto1,@ (an overwhelming electoral victory; "Roosevelt defeated Hoover in a landslide") }
+{ viimeinen_nauru,  voitto2,  voitto1,@ (ultimate success achieved after a near failure (inspired by the saying `he laughs best who laughs last'); "we had the last laugh after the votes were counted") }
+{ Pyrrhoksen_voitto,  voitto1,@ (a victory that is won by incurring terrible losses) }
+{ slammi,  murskavoitto1,  voitto1,@ noun.act:bridge,#p (winning all or all but one of the tricks in bridge) }
+{ grand_slam,  slammi,@ (winning all of the tricks in a hand of bridge) }
+{ little_slam<approximate/>,  small_slam<approximate/>,  slammi,@ (winning all but one of the tricks in a hand of bridge) }
+{ täydellinen_voitto<approximate/>,  voitto1,@ (complete victory) }
+{ murskavoitto2,  turpasauna,  helppo_voitto,  voitto1,@ (an easy victory) }
+{ syötönmurto,  voitto1,@ noun.act:tennis,#p (a tennis game won on the opponent's service) }
+{ [ tappio2, voitto1,!]  häviö,  epäonnistunut_yritys,@ loppu,@ (an unsuccessful ending to a struggle or contest; "it was a narrow defeat"; "the army's only defeat"; "they suffered a convincing licking") }
+{ varma_voitto,  helppo_saavutus,  voitto1,@ (an assured victory (especially in an election)) }
+{ takaisku2,  vastoinkäyminen1,  isku6,  sokki1,  musta_silmä,  tapahtuma,@ (an unfortunate happening that hinders or impedes; something that is thwarting or frustrating) }
+{ takaisku3,  takaisku2,@ (a serious or devastating setback) }
+{ tappio<broader/>3,  tappio2,@ (a narrow defeat or a defeat at the last minute) }
+{ selkäsauna,  tappio2,@ (a decisive defeat in a game (especially in cribbage)) }
+{ rökäletappio,  tappio2,@ (an overwhelming defeat) }
+{ tappio4,  höyhennys,  [ rökitys, verb.competition:rökittää,+]  tappio2,@ (a defeat in a game where one side fails to score) }
+{ selkäsauna1,  löylytys,  fiasko2,  rökitys1,  murskatappio,  [ päihitys, verb.competition:päihittää,+]  rökäletappio1,  tappio2,@ (a sound defeat) }
+{ tappio5,  tappio2,@ (a final crushing defeat; "he met his waterloo") }
+{ murskatappio1,  tappio2,@ (a defeat in which the losing person or team fails to score) }
+{ oikeinkirjoituskilpailu,  tavauskilpailu,  kilpailu,@ (a contest in which you are eliminated if you fail to spell a word correctly) }
+{ esikarsinta,  kilpailu,@ noun.act:urheilu,;c ((sports) a preliminary competition to determine qualifications; "the trials for the semifinals began yesterday") }
+{ nappaaminen,  nykäisy,  syöminen,  tarttuminen_syöttiin,  onnistuminen,@ noun.act:kalastus,;c ((angling) an instance of a fish taking the bait; "after fishing for an hour he still had not had a bite") }
+{ lottovoitto,  onnenpotku,  kultakaivos,  helppo_raha,  taivaan_lahja,  luojan_lykky,  säkä,  jättipotti,  tapahtuma,@ (a sudden happening that brings good fortune (as a sudden opportunity to make money); "the demand for testing has created a boom for those unregulated laboratories where boxes of specimen jars are processed like an assembly line") }
+{ [ romahdus5, verb.change:romahtaa5,+]  [ romahtaminen2, verb.motion:romahtaa2,+]  tapahtuma,@ (a sudden large decline of business or the prices of stocks (especially one that causes additional failures)) }
+{ tajunnanmenetys,  muutos,@ (the occurrence of a loss of the ability to perceive and respond) }
+{ [ pyörtyminen, verb.body:pyörtyä,+]  tajunnan_menetys,  tajunnanmenetys,@ (a spontaneous loss of consciousness caused by insufficient blood to the brain) }
+{ [ lankeemus, verb.social:langeta,+]  noun.Tops:tapahtuma,@i (the lapse of mankind into sinfulness because of the sin of Adam and Eve; "women have been blamed ever since the Fall") }
+{ [ haaksirikko1, verb.social:haaksirikkoutua,+]  [ tuho7, verb.social:tuhota,+]  tuho4,@ (an irretrievable loss; "that was the shipwreck of their romance") }
+{ [ kaatuminen2, verb.change:kaatua,+]  kommellus,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) an event that causes a computer system to become inoperative; "the crash occurred during a thunderstorm and the system has been down ever since") }
+{ levyrikko,  kaatuminen2,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a crash of a read/write head in a hard disk drive (usually caused by contact of the head with the surface of the magnetic disk)) }
+{ piikki1,  nousu,@ (a sharp rise followed by a sharp decline; "the seismograph showed a sharp spike in response to the temblor") }
+{ [ sattuma4, verb.change:sattua1,+]  väliintulo,  tapahtuma,@ (a following on in addition) }
+{ yhtäkkinen_tapahtuma<broader/>,  noun.Tops:tapahtuma,@ (a sudden event that imparts energy or excitement, usually with a dramatic impact; "they gave it another zap of radiation") }
+{ surina3,  ääni,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a buzzing or whizzing sound; "a nasty zizz in the engine") }
+{ arkkitehtikilpailu,  kilpailu,@ ([empty]) }
+{ arvokilpailu,  kilpailu,@ ([empty]) }
+{ arvokisa,  kisa2,@ ([empty]) }
+{ auto-onnettomuus,  onnettomuus1,@ ([empty]) }
+{ avauskilpailu,  kilpailu,@ ([empty]) }
+{ avauskisa,  kisa2,@ ([empty]) }
+{ avausottelu,  ottelu1,@ ([empty]) }
+{ avausvoitto,  voitto,@ ([empty]) }
+{ eliittikisa,  kisa2,@ ([empty]) }
+{ erävoitto,  voitto,@ ([empty]) }
+{ esikisa,  kisa2,@ ([empty]) }
+{ hallikisa,  kisa2,@ ([empty]) }
+{ henkilövahinko,  onnettomuus1,@ ([empty]) }
+{ henkilövahinko1,  vahinko2,@ ([empty]) }
+{ homevaurio,  vaurio,@ ([empty]) }
+{ jääkiekko-ottelu,  ottelu1,@ ([empty]) }
+{ joukkuekilpailu,  kilpailu1,@ ([empty]) }
+{ joukkuekilpailu1,  kilpailu,@ ([empty]) }
+{ joukkuekisa,  kisa2,@ ([empty]) }
+{ joulujuhla,  juhla2,@ ([empty]) }
+{ julkistamistilaisuus,  juttu,@ ([empty]) }
+{ kaksoisvoitto,  voitto,@ ([empty]) }
+{ kärkitulos,  tulos,@ ([empty]) }
+{ karsintakilpailu,  kilpailu,@ ([empty]) }
+{ karsintaottelu,  ottelu1,@ ([empty]) }
+{ kesäkisa,  kisa2,@ ([empty]) }
+{ keskiaalto,  aalto,@ ([empty]) }
+{ kirjoituskilpailu,  kilpailu,@ ([empty]) }
+{ kokonaiskilpailu,  kilpailu,@ ([empty]) }
+{ kokouspalkkio,  palkkio,@ ([empty]) }
+{ kolmoisvoitto,  voitto,@ ([empty]) }
+{ kosteusvaurio,  vaurio,@ ([empty]) }
+{ kotikisa,  kisa2,@ ([empty]) }
+{ kotivoitto,  voitto,@ ([empty]) }
+{ koulutustilaisuus,  juttu,@ ([empty]) }
+{ kuolonkolari,  kolari2,@ ([empty]) }
+{ kutsukilpailu,  kilpailu,@ ([empty]) }
+{ lahjusskandaali,  skandaali,@ ([empty]) }
+{ laulukilpailu,  kilpailu,@ ([empty]) }
+{ liigaottelu,  ottelu1,@ ([empty]) }
+{ liikenneonnettomuus,  onnettomuus1,@ ([empty]) }
+{ loppukilpailu,  kilpailu,@ ([empty]) }
+{ lopputurnaus,  turnaus,@ ([empty]) }
+{ maailmanmestaruuskilpailu,  kilpailu,@ ([empty]) }
+{ maailmanmestaruuskilpailu1,  mestaruuskilpailu,@ ([empty]) }
+{ maailmanmestaruuskisa,  kisa2,@ ([empty]) }
+{ maakuntaviesti,  viesti,@ ([empty]) }
+{ maidontuottaja,  tuottaja,@ ([empty]) }
+{ mestaruuskisa,  kisa2,@ ([empty]) }
+{ mestaruusturnaus,  turnaus,@ ([empty]) }
+{ metsätaloustuottaja,  tuottaja,@ ([empty]) }
+{ myöhäisottelu,  ottelu1,@ ([empty]) }
+{ neuvottelutulos,  tulos,@ ([empty]) }
+{ olympiavoitto,  voitto,@ ([empty]) }
+{ osakilpailu,  kilpailu,@ ([empty]) }
+{ osakilpailuvoitto,  voitto,@ ([empty]) }
+{ osaottelu,  ottelu1,@ ([empty]) }
+{ osasyy,  aiheuttaja,@ ([empty]) }
+{ otteluvoitto,  voitto,@ ([empty]) }
+{ pääsyy,  aiheuttaja,@ ([empty]) }
+{ paikallisottelu,  ottelu1,@ ([empty]) }
+{ poikkeustapaus,  tapaus4,@ ([empty]) }
+{ pronssiottelu,  ottelu1,@ ([empty]) }
+{ puolivälieräottelu,  ottelu1,@ ([empty]) }
+{ sarjaottelu,  ottelu1,@ ([empty]) }
+{ sukupolvenvaihdos,  vaihto,@ ([empty]) }
+{ suunnittelukilpailu,  kilpailu,@ ([empty]) }
+{ syttymissyy,  aiheuttaja,@ ([empty]) }
+{ talvikisa,  kisa2,@ ([empty]) }
+{ tennisturnaus,  turnaus,@ ([empty]) }
+{ testitulos,  tulos,@ ([empty]) }
+{ torjuntavoitto,  voitto,@ ([empty]) }
+{ tositapahtuma,  tapahtuma,@ ([empty]) }
+{ tulosparannus,  kehitys1,@ ([empty]) }
+{ tutkimustulos,  tulos,@ ([empty]) }
+{ työtapaturma,  onnettomuus1,@ ([empty]) }
+{ vaalitulos,  tulos,@ ([empty]) }
+{ vaalivoitto,  voitto,@ ([empty]) }
+{ väitöstilaisuus,  juttu,@ ([empty]) }
+{ välieräottelu,  ottelu1,@ ([empty]) }
+{ varaslähtö,  alku2,@ ([empty]) }
+{ vesivahinko,  onnettomuus1,@ ([empty]) }
+{ vierasvoitto,  voitto,@ ([empty]) }
+{ viulukilpailu,  kilpailu,@ ([empty]) }
+{ voittokulku,  edistyminen,@ ([empty]) }
+{ voittotulos,  tulos,@ ([empty]) }
+{ yhteistulos,  tulos,@ ([empty]) }
+{ yksittäistapaus,  tapaus4,@ ([empty]) }
+{ yleiskilpailu,  kilpailu,@ ([empty]) }
+{ yleisötilaisuus,  juttu,@ ([empty]) }

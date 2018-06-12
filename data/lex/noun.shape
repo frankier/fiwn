@@ -1,0 +1,342 @@
+{ kappale<note>geometriassa</note>,  kolmiulotteinen_kappale,  noun.Tops:muoto,@ (a three-dimensional shape) }
+{ [ taso, adj.all:tasainen2^tasainen3,+]  pinta,  noun.Tops:muoto,@ noun.cognition:matematiikka,;c ((mathematics) an unbounded two-dimensional shape; "we will refer to the plane of the graph as the X-Y plane"; "any line joining two points on a plane lies wholly on that plane") }
+{ karteesinen_taso,  taso,@ (a plane in which all points can be described in Cartesian coordinates) }
+{ fasettipinta,  taso,@ (the plane of a facet of an object (as of a cube)) }
+{ keskileikkaus,  keskiviiva,  taso,@ (the median plane of the body (or some part of the body)) }
+{ kiertoratataso,  taso,@ noun.cognition:astronomia,;c ((astronomy) the plane on which a body is orbiting) }
+{ maalauksen_etuala,  taso,@ noun.attribute:perspektiivi,#p (the plane that is in the foreground of a drawing or painting; coextensive with but different from the objective surface of the work) }
+{ tangenttitaso,  taso,@ (the plane that contains all the lines tangent to a specific point on a surface) }
+{ luonnollinen_muoto,  noun.Tops:muoto,@ (a shape created by natural forces; not man-made) }
+{ lehden_muoto,  luonnollinen_muoto,@ noun.plant:lehdet,#p (any of the various shape that leaves of plants can assume) }
+{ tasasivuinen_kuvio,  muoto,@ (a figure whose sides are all equal) }
+{ levennys,  noun.Tops:muoto,@ (a shape that spreads outward; "the skirt had a wide flare") }
+{ muoto,  noun.Tops:muoto,@ (a combination of points and lines and planes that form a visible palpable shape) }
+{ sädekimppu,  muoto,@ noun.cognition:fysiikka,;c noun.cognition:geometria,;c (a figure formed by a set of straight lines or light rays meeting at a point) }
+{ tasokuvio,  kaksiulotteinen_kuvio,  muoto,@ (a two-dimensional shape) }
+{ kolmiulotteinen_kuvio,  muoto,@ (a three-dimensional shape) }
+{ alakuvio,  muoto,@ (a figure that is a part of another figure) }
+{ muoto1,  noun.Tops:muoto,@ (a length (straight or curved) without breadth or thickness; the trace of a moving point) }
+{ [ sipuli, adj.all:pyöreä1^sipulimainen,+]  pyöreä_muoto,@ (anything with a round shape resembling a teardrop) }
+{ kupera_muoto,  [ kuperuus, adj.all:kupera,+]  kappale<note>geometriassa</note>,@ (a shape that curves or bulges outward) }
+{ kallistuma,  kallistus,  kupera_muoto,@ (a slight convexity (as of the surface of a road)) }
+{ pullistuminen,  kupera_muoto,@ noun.artifact:pylväs,#p (a slight convexity in the shaft of a column; compensates for the illusion of concavity that viewers experience when the sides are perfectly straight) }
+{ kulmikas_muoto,  [ kulmikkuus, adj.all:kulma-,+ adj.all:kulmikas,+]  noun.Tops:muoto,@ (a shape having one or more sharp angles) }
+{ kovera_muoto,  [ koveruus, adj.all:kovera,+]  käyristys,  konkaavius,  kappale<note>geometriassa</note>,@ (a shape that curves or bends inward) }
+{ valssi,  kappale<note>geometriassa</note>,@ (a solid bounded by a cylindrical surface and two parallel planes (the bases)) }
+{ pyöreä_muoto,  noun.Tops:muoto,@ (a shape that is curved and without sharp angles) }
+{ pallo,  pallo1,@ (a rounded spherical form) }
+{ sydän,  tasokuvio,@ (a plane figure with rounded sides curving inward at the top and intersecting at the bottom; conventionally used on playing cards and valentines; "he drew a heart and called it a valentine") }
+{ monikulmio,  polygoni,  tasokuvio,@ (a closed plane figure bounded by straight sides) }
+{ isogoni,  monikulmio,@ (an equiangular polygon) }
+{ [ kupera_monikulmio, konkaavi_monikulmio,! kovera_monikulmio,!]  monikulmio,@ (a polygon such that no side extended cuts any other side or vertex; it can be cut by a straight line in at most two points) }
+{ [ konkaavi_monikulmio, kupera_monikulmio,!]  [ kovera_monikulmio, kupera_monikulmio,!]  monikulmio,@ (a polygon such that there is a straight line that cuts it in four or more points) }
+{ sisäänkääntyvä_polygoni<unconfirmed/>,  sisäänkääntyvä_monikulmio,  konkaavi_monikulmio,@ (a polygon with one or more reentrant angles) }
+{ säännöllinen_monikulmio,  isogoni,@ (a polygon with all sides and all angles equal) }
+{ vääristynyt_muoto,  [ vääristymä, verb.contact:vääntää3,+ noun.person:vääristymiä_käyttävä_maalari<unconfirmed/>,+]  noun.Tops:muoto,@ (a shape resulting from distortion) }
+{ amorfinen_muoto,  noun.Tops:muoto,@ (an ill-defined or arbitrary shape) }
+{ [ käyrä, suora,! suora_viiva,!]  käyrän_muotoinen,  muoto1,@ (the trace of a point whose direction of motion changes) }
+{ suljettu_kaari,  käyrä,@ (a curve (such as a circle) having no endpoints) }
+{ yksinkertainen_suljettu_käyrä,  Jordanin_käyrä,  suljettu_kaari,@ (a closed curve that does not intersect itself) }
+{ s\:n_muotoinen,  käyrä,@ (a double curve resembling the letter S) }
+{ ketjukäyrä,  käyrä,@ (the curve theoretically assumed by a perfectly flexible and inextensible cord of uniform density and cross section hanging freely from two fixed points) }
+{ amorinkaari,  käyrä,@ (the double curve of the upper lip when considered to resemble Cupid's bow) }
+{ aalto,  aaltoilu,  käyrä,@ (an undulating curve) }
+{ holvikaaren_ulkoviiva,  käyrä,@ (the exterior curve of an arch) }
+{ pullonkaula,  käyrä,@ (something in a thin curved form (like the neck of a goose)) }
+{ holvin_sisäpinta,  käyrä,@ (the interior curve of an arch) }
+{ mutka,  käyrä,@ (a circular segment of a curve; "a bend in the road"; "a crook in the path") }
+{ koukku,  kurvi<approximate/>,  käyrä,@ (a sharp curve or crook; a shape resembling a hook) }
+{ uncus,  koukku,@ noun.cognition:biologia,;c ((biology) any hook-shaped process or part) }
+{ verhokäyrä,  käyrä,@ (a curve that is tangent to each of a family of curves) }
+{ lahdeke,  poukama,  mutka,@ (a bend or curve (especially in a coastline)) }
+{ [ suora, käyrä,!]  [ suora_viiva, käyrä,!]  muoto1,@ (a line traced by a point traveling in a constant direction; a line of zero curvature; "the shortest distance between two points is a straight line") }
+{ [ geodeettinen_viiva, adj.pert:geodeettinen,+]  [ geodeesi, adj.pert:geodeettinen,+]  muoto1,@ noun.cognition:matematiikka,;c ((mathematics) the shortest line between two points on a mathematically defined surface (as a straight line on a plane or an arc of a great circle on a sphere)) }
+{ [ kohtisuora, adj.all:kohtisuora3,+]  suora,@ (a straight line at right angles to another line) }
+{ yhdistäminen,  yhteys,  liitos,  noun.Tops:muoto,@ (a connecting shape) }
+{ [ asymptootti, adj.pert:asymptoottinen,+]  suora,@ (a straight line that is the limiting value of a curve; can be considered as tangent at infinity; "the asymptote of the curve") }
+{ [ tangentti, noun.state:tangentiaalisuus,+ adj.pert:tangentiaalinen,+]  suora,@ (a straight line or plane that touches a curve or curved surface at a point but does not intersect it at that point) }
+{ sekantti,  suora,@ (a straight line that intersects a curve at two or more points) }
+{ kehä,  ulkoraja,  muoto1,@ (a line enclosing a plane areas) }
+{ säde,  suora,@ (a straight line from the center to the perimeter of a circle (or from the center to the surface of a sphere)) }
+{ halkaisija,  suora,@ (a straight line connecting the center of a circle with two points on its perimeter (or the center of a sphere with two points on its surface)) }
+{ keskiviiva1,  muoto1,@ (a line that bisects a plane figure) }
+{ kupu,  kovera_muoto,@ (a concave shape whose distinguishing characteristic is that the concavity faces downward) }
+{ kuoppa,  kovera_muoto,@ noun.body:ontelo4,@ (a concavity in a surface (especially an anatomical depression)) }
+{ syvennys,  alkovi,  sopukka,  soppi,  kovera_muoto,@ (a small concavity) }
+{ [ keila, adj.pert:keilamainen,+]  kartio,  keilanmuoto,  pyöreä_muoto,@ (a shape whose base is a circle and whose sides taper up to a point) }
+{ suppilomaisuus,  keila,@ (a conical shape with a wider and a narrower opening at the two ends) }
+{ [ kartioleikkaus, adj.pert:kartiomainen,+]  tasokuvio,@ noun.cognition:geometria,;c ((geometry) a curve generated by the intersection of a plane and a circular cone) }
+{ yhteisjoukko,  noun.group:joukko7,@ (a point or set of points common to two or more geometric configurations) }
+{ [ soikio, adj.all:pitkä^soikea,+]  tasokuvio,@ (a plane figure that deviates from a square or circle due to elongation) }
+{ ympyrä,  ellipsi,@ (ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point; "he calculated the circumference of the circle") }
+{ pieni_ympyrä,  ympyrä,@ (a small circle) }
+{ piiri,  noun.Tops:muoto,@ (something approximating the shape of a circle; "the chairs were arranged in a circle") }
+{ ekvaattori,  ympyrä,@ (a circle dividing a sphere or other surface into two usually equal and symmetrical parts) }
+{ [ puoliympyrä, adj.all:kaareva1^puolipyöreä,+]  tasokuvio,@ (a plane figure with the shape of half a circle) }
+{ [ kaari, adj.all:kaareva1^kaareva2,+ adj.all:kaareva1^kaarimainen,+ verb.motion:kaartua1,+]  käyrä,@ lohko,#p ympyrä,#p (a continuous portion of a circle) }
+{ hammastus,  käyrä,@ (one of a series of rounded projections (or the notches between them) formed by curves along an edge (as the edge of a leaf or piece of cloth or the margin of a shell or a shriveled red blood cell observed in a hypertonic solution etc.)) }
+{ jänne,  suora,@ (a straight line connecting two points on a curve) }
+{ lohko,  tasokuvio,@ (a plane figure bounded by two radii and the included arc of a circle) }
+{ pyörylä,  kiekko,  lautanen,  pyöreä_muoto,@ (something with a round shape resembling a flat circular plate; "the moon's disk hung in a cloudless sky") }
+{ kehä1,  rengas,  rinkilä,  ankkurirengas<unconfirmed/>,  toroidi,@ (a toroidal shape; "a ring of ships in the harbor"; "a halo of smoke") }
+{ [ silmukka, adj.pert:silmukkainen<unconfirmed/>,+]  rengas1,  yksinkertainen_suljettu_käyrä,@ (anything with a round or oval shape (formed by a curve that is closed and does not intersect itself)) }
+{ lenkki,  silmukka1,  silmukka,@ (a loop in a rope) }
+{ [ kiemura, verb.motion:kiertyä,+ verb.contact:kierittää1,+]  [ kiehkura, verb.motion:kiertyä_kerälle,+ verb.change:kiemurrella,+]  pyörre,  [ rulla, verb.change:rullata2,+]  koukero,  kihara,  kiekura,  käärö,  pyöreä_muoto,@ (a round shape formed by a series of concentric circles (as formed by leaves or flower petals)) }
+{ [ kierre, verb.stative:kiemurrella1,+ verb.motion:kiertää13,+]  käyrä,@ (a plane curve traced by a point circling about the center but at increasing distances from the center) }
+{ kierukka,  spiraali,  käyrä,@ (a curve that lies on the surface of a cylinder or cone and cuts the element at a constant angle) }
+{ kaksoiskierre,  kierukka,@ (a pair of parallel helices intertwined about a common axis; "the shape of the DNA molecule is a double helix") }
+{ kieroutuma,  käyrä,@ (a curve that reverses the direction of something; "the tendrils of the plant exhibited perversion"; "perversion also shows up in kinky telephone cords") }
+{ [ epäkeskisyys, adj.all:epäkeskinen,+]  noun.relation:suhde3,@ noun.cognition:geometria,;c ((geometry) a ratio describing the shape of a conic section; the ratio of the distance between the foci to the length of the major axis; "a circle is an ellipse with zero eccentricity") }
+{ elementti,  suora,@ (a straight line that generates a cylinder or cone) }
+{ kartion_lävistäjä<unconfirmed/>,  elementti,@ (a straight line joining the apex and a point on the base) }
+{ sylinterin_lävistäjä<unconfirmed/>,  elementti,@ (a straight line running the length of the cylinder) }
+{ kierukkakulma,  nousukulma,  kulma,@ (the constant angle at which a helix cuts the elements of a cylinder or cone) }
+{ [ sykkyrä, verb.contact:sykertää,+]  mutka1,  kiemura1,  laskos,@ (a sharp bend in a line produced when a line having a loop is pulled tight) }
+{ [ pyörähdys, verb.motion:pyörähdellä,+ verb.motion:pyörittää5,+]  [ pyörre1, verb.motion:pyöriä5,+ verb.motion:pyörteillä,+]  kierre1,  kiemura2,  pyöreä_muoto,@ (the shape of something rotating rapidly) }
+{ [ ellipsi, adj.all:pyöreä4^elliptinen1,+]  [ soikio1, adj.all:pyöreä4^soikea1,+]  ovaali,  kartioleikkaus,@ (a closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it; "the sums of the distances from the foci to any point on an ellipse is constant") }
+{ [ nelikulmio, verb.change:neliöidä,+]  säännöllinen_monikulmio,@ suorakulmio,@ noun.cognition:geometria,;c ((geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon; "you can compute the area of a square if you know the length of its sides") }
+{ nelikulmio1,  neliö,  noun.Tops:muoto,@ (something approximating the shape of a square) }
+{ nelikulmio2,  nelikulmio,@ (a square-shaped object) }
+{ quadrilateral,  [ nelikulmio3, adj.pert:nelikulmio-,+ adj.pert:nelikulmainen,+]  monikulmio,@ (a four-sided polygon) }
+{ [ kolmio, adj.all:monenkeskinen^kolmikulmainen,+ verb.social:kolmioida,+ verb.cognition:kolmioida,+ adj.all:kulma-^kolmikulmainen1,+ adj.all:monenkeskinen^kolmio-,+ adj.all:kulma-^kolmio-1,+ adj.all:kulma-^kolmiomainen,+]  [ kolmikulmio, adj.all:monenkeskinen^kolmikulmainen,+ verb.social:kolmioida,+ verb.cognition:kolmioida,+ adj.all:kulma-^kolmikulmainen1,+ adj.all:monenkeskinen^kolmio-,+ adj.all:kulma-^kolmio-1,+ adj.all:kulma-^kolmiomainen,+]  monikulmio,@ (a three-sided polygon) }
+{ kolmio1,  kolmikulmio1,  noun.Tops:muoto,@ (something approximating the shape of a triangle; "the coastline of Chile and Argentina and Brazil forms two legs of a triangle") }
+{ teräväkulmainen_kolmio,  kolmio,@ (a triangle whose interior angles are all acute) }
+{ tasasivuinen_kolmio,  tasakulmainen_kolmio,  säännöllinen_monikulmio,@ kolmio,@ (a three-sided regular polygon) }
+{ kolmio2,  tasasivuinen_kolmio,@ (an object shaped like an equilateral triangle) }
+{ tasakylkinen_kolmio,  kolmio,@ (a triangle with two equal sides) }
+{ [ vinokolmio, suorakulmainen_kolmio,!]  kolmio,@ (a triangle that contains no right angle) }
+{ tylppäkulmainen_kolmio,  kolmio,@ (a triangle that contains an obtuse interior angle) }
+{ [ suorakulmainen_kolmio, vinokolmio,!]  kolmio,@ (a triangle with one right angle) }
+{ erisivuinen_kolmio,  epäsäännöllinen_kolmio,  kolmio,@ (a triangle with no two sides of equal length) }
+{ heksagrammi,  kuusikanta,  tähti,@ (a regular polygon formed by extending each of the sides of a regular hexagon to form two equilateral triangles) }
+{ paralleeli,  muoto,@ noun.cognition:matematiikka,;c ((mathematics) one of a set of parallel geometric figures (parallel lines or planes); "parallels never meet") }
+{ [ suunnikas, trapezium,!]  quadrilateral,@ (a quadrilateral whose opposite sides are both parallel and equal in length) }
+{ [ trapezium, suunnikas,!]  quadrilateral,@ noun.location:Yhdysvallat,;r (a quadrilateral with no parallel sides) }
+{ puolisuunnikas,  nelikulmio4,  quadrilateral,@ noun.location:Yhdysvallat,;r (a quadrilateral with two parallel sides) }
+{ tähti,  tasokuvio,@ (a plane figure with 5 or more points; often used as an emblem) }
+{ asterismi,  tähti,@ noun.cognition:mineralogia,;c ((mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light) }
+{ viisikanta,  pentagrammi,  tähti,@ (a star with 5 points; formed by 5 straight lines between the vertices of a pentagon and enclosing another pentagon) }
+{ viisikulmio,  pentagoni,  monikulmio,@ (a five-sided polygon) }
+{ [ heksagoni, adj.pert:heksagoninen,+]  kuusikulmio,  monikulmio,@ (a six-sided polygon) }
+{ säännöllinen_kuusikulmio,  heksagoni,@ (a hexagon with six sides of equal length) }
+{ seitsenkulmio,  monikulmio,@ (a seven-sided polygon) }
+{ kahdeksankulmio,  monikulmio,@ (an eight-sided polygon) }
+{ yhdeksänkulmio,  monikulmio,@ (a nine-sided polygon) }
+{ kymmenkulmio,  monikulmio,@ (a polygon with 10 sides and 10 angles) }
+{ 11"-sivuinen_monikulmio,  monikulmio,@ (an eleven-sided polygon) }
+{ kaksitoistakulmio,  monikulmio,@ (a twelve-sided polygon) }
+{ neljäkäs,  vinoneliö,  suunnikas,@ (a parallelogram with four equal sides; an oblique-angled equilateral parallelogram) }
+{ [ vinokaide, adj.pert:vinokaide-,+ adj.pert:vinokaiteen_muotoinen,+]  suunnikas,@ (a parallelogram with adjacent sides of unequal lengths; an oblique-angled parallelogram with only the opposite sides equal) }
+{ [ suorakulmio, adj.all:kulma-^suorakulmainen3,+ adj.all:kulma-^suorakaiteen_muotoinen,+]  [ suorakaide, adj.all:kulma-^suorakulmainen3,+ adj.all:kulma-^suorakaiteen_muotoinen,+]  suunnikas,@ (a parallelogram with four right angles) }
+{ ruutu,  suorakulmio,@ (a rectangular drawing; "the flowchart contained many boxes") }
+{ pallomonikulmio,  monikulmio,@ (a figure on the surface of a sphere bounded by arcs of 3 or more great circles) }
+{ pallokolmio,  pallomonikulmio,@ (a spherical polygon formed by the arcs of 3 great circles) }
+{ [ monitahokas, adj.pert:monitahkoinen,+]  polyedri,  kappale<note>geometriassa</note>,@ (a solid figure bounded by plane polygons or faces) }
+{ kupera_monitahokas,  monitahokas,@ (a polyhedron any plane section of which is a convex polygon) }
+{ kovera_monitahokas,  monitahokas,@ (a polyhedron some of whose plane sections are concave polygons) }
+{ [ prisma, adj.pert:prismaattinen,+]  särmiö,  monitahokas,@ (a polyhedron with two congruent and parallel faces (the bases) and whose lateral faces are parallelograms) }
+{ paralleelipipedi,  suuntaissärmiö,  prisma,@ (a prism whose bases are parallelograms) }
+{ suorakulmainen_särmiö,  paralleelipipedi,@ (a rectangular parallelepiped) }
+{ nelikulmainen_prisma,  prisma,@ (a prism whose bases are quadrangles) }
+{ kolmikulmainen_prisma,  prisma,@ (a prism whose bases are triangles) }
+{ mutkittelu,  mutkittelevuus,  käyrä,@ (having curves; "he hated the sinuosity of mountain roads") }
+{ vänkkyräisyys,  koukeroisuus,  kiertymä,  [ väännös, verb.contact:vääntää3,+]  käyryys,  vääristynyt_muoto,@ (a tortuous and twisted shape or position; "they built a tree house in the tortuosities of its boughs"; "the acrobat performed incredible contortions") }
+{ kieroutuma1,  [ taipuma, verb.change:taipua,+]  vääntymä,  vääristymä1,  vääristynyt_muoto,@ (a shape distorted by twisting or folding) }
+{ muhkura,  pahka,  patti,  vääristynyt_muoto,@ (something twisted and tight and swollen; "their muscles stood out in knots"; "the old man's fists were two great gnarls"; "his stomach was in knots") }
+{ [ kaari1, verb.motion:kaareutua,+ verb.motion:kaartua1,+]  käyrä,@ (a curved shape in the vertical plane that spans an opening) }
+{ [ kello, adj.pert:kello-,+]  kellonmuoto,  käyrä,@ (the shape of a bell) }
+{ [ paraabeli, adj.all:pyöreä4^paraabeli-,+ adj.all:pyöreä4^parabolinen,+]  kartioleikkaus,@ (a plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve) }
+{ [ hyperbeli, adj.pert:hyperbolinen,+]  kartioleikkaus,@ (an open curve formed by a plane that cuts the base of a right circular cone) }
+{ haarautuma<unconfirmed/>,  haarautuminen<unconfirmed/>,  haara,  haarauma,  kulmikas_muoto,@ (the place where something divides into branches) }
+{ [ haarautuma1, verb.change:haarautua2,+ verb.change:haarautua_kahdeksi,+]  haarautuma<unconfirmed/>,@ (the place where something divides into two branches) }
+{ [ haara1, verb.stative:haarautua1,+ verb.change:haarautua2,+ verb.change:haarautua_kahdeksi,+]  haara2,@ haarautuma1,#p (a bifurcating branch (one or both of them)) }
+{ lovi,  kulmikas_muoto,@ (a sharp change in direction; "there was a jog in the road") }
+{ [ siksakki, adj.all:käyrä^siksakkia<idiomatic_pos/>,+]  [ siksak, adj.all:käyrä^siksakkia<idiomatic_pos/>,+]  kulmikas_muoto,@ (an angular shape characterized by sharp turns in alternating directions) }
+{ [ kulma, adj.all:kulmikas,+ verb.motion:kulkea_viistoon,+ adj.pert:kulma-,+ adj.all:kulma-,+]  tyhjä_tila1,@ (the space between two lines or planes that intersect; the inclination of one line to another; measured in degrees or radians) }
+{ komplementtikulmat,  kulma,@ (two angles whose sum is a right angle) }
+{ kulmaetäisyys,  kulma,@ (the angular separation between two objects as perceived by an observer; "he recorded angular distances between the stars") }
+{ tuntikulma,  HA,  kulmaetäisyys,@ noun.cognition:astronomia,;c ((astronomy) the angular distance of a celestial point measured westward along the celestial equator from the zenith crossing; the right ascension for an observer at a particular location and time of day) }
+{ luonnollinen_anomalia,  kulmaetäisyys,@ (the angular distance of a point in an orbit past the point of periapsis measured in degrees) }
+{ tasokulma,  kulma,@ (an angle formed by two straight lines (in the same plane)) }
+{ pallokulma<unconfirmed/>,  kulma,@ (an angle formed at the intersection of the arcs of two great circles) }
+{ avaruuskulma,  kulma,@ (an angle formed by three or more planes intersecting at a common point (the vertex)) }
+{ [ kaltevuuskulma, verb.motion:kallistua3,+]  kulma,@ noun.cognition:geometria,;c ((geometry) the angle formed by the x-axis and a given line (measured counterclockwise from the positive half of the x-axis)) }
+{ inklinaatio,  kiertoradan_kaltevuus,  kulma,@ noun.cognition:astronomia,;c ((astronomy) the angle between the plane of the orbit and the plane of the ecliptic stated in degrees) }
+{ [ sisään_kääntynyt_kulma, ulkoneva_kulma,!]  sisäkulma,@ (an interior angle of a polygon that is greater than 180 degrees) }
+{ [ ulkoneva_kulma, sisään_kääntynyt_kulma,!]  kulma,@ (an angle pointing outward; an interior angle of a polygon that is less than 180 degrees) }
+{ sisäkulma,  kulma,@ (the angle inside two adjacent sides of a polygon) }
+{ ulkokulma,  kulma,@ (the supplement of an interior angle of a polygon) }
+{ taite,  ulkotaite,  ulkokulma,@ noun.artifact:aumakatto,#p noun.cognition:arkkitehtuuri,;c ((architecture) the exterior angle formed by the junction of a sloping side and a sloping end of a roof) }
+{ saapumiskulma,  tulokulma,  kohtauskulma,  virtauksen_tulokulma,  kulma,@ (the angle that a line makes with a line perpendicular to the surface at the point of incidence) }
+{ kohtauskulma1,  saapumiskulma,@ (the acute angle between the direction of the undisturbed relative wind and the chord of an airfoil) }
+{ rajakulma,  äärikulma,  saapumiskulma,@ (the smallest angle of incidence for which light is totally reflected) }
+{ heijastuskulma,  kulma,@ (the angle between a reflected ray and a line perpendicular to the reflecting surface at the point of incidence) }
+{ taittumiskulma,  taitekulma,  kulma,@ (the angle between a refracted ray and a line perpendicular to the surface between the two media at the point of refraction) }
+{ sammumiskulma,  toipumiskulma,  kulma,@ (the angle from its axis that a crystal must be rotated before appearing maximally dark when viewed in polarized light) }
+{ terävä_kulma,  vino_kulma,@ (an angle less than 90 degrees but more than 0 degrees) }
+{ tylppä_kulma,  vino_kulma,@ (an angle between 90 and 180 degrees) }
+{ polveke,  kulma,@ (angle that resembles the hind leg of a dog) }
+{ [ suorakulma, vino_kulma,!]  kulma,@ (the 90 degree angle between two perpendicular lines) }
+{ [ vino_kulma, suorakulma,!]  kulma,@ (an angle that is not a right angle or a multiple of a right angle) }
+{ kupera_kulma,  kulma,@ (an angle greater than 180 degrees (but less than 360)) }
+{ täyskulma,  kulma,@ (an angle of 360 degrees) }
+{ leikkauskulma,  kulma,@ (the angle between the face of a cutting tool and the surface of the work) }
+{ kallistuma1,  inklinaatio1,  magneettinen_kallistuma,  magneettinen_inklinaatio,  kulma,@ noun.cognition:fysiikka,;c ((physics) the angle that a magnetic needle makes with the plane of the horizon) }
+{ ohjaus<unconfirmed/>,  kulma,@ (the angle between the direction a gun is aimed and the position of a moving target (correcting for the flight time of the missile)) }
+{ magneettinen_deklinaatio,  eranto,  kulma,@ (the angle (at a particular location) between magnetic north and true north) }
+{ [ atsimuutti, adj.pert:atsimutaali-,+ adj.pert:atsimutaalinen,+ adj.pert:atsimuutti-,+]  sivukulma,  vaakasuuntakulma,  AZ,  kulma,@ (the azimuth of a celestial body is the angle between the vertical plane containing it and the plane of the meridian) }
+{ allas,  kaukalo,  kovera_muoto,@ (a concave shape with an open top) }
+{ kouru,  ura,  uurre,  kanava,  uoma,  uurros,  painuma,@ (a long narrow furrow cut either by a natural process (such as erosion) or by a tool (as e.g. a groove in a phonograph record)) }
+{ [ ura1, adj.all:uurteinen1^urainen,+]  uurre1,  kouru,@ (a groove or furrow (especially one in soft earth caused by wheels)) }
+{ kuoppa1,  tasku,  kovera_muoto,@ (a hollow concave shape made by removing something) }
+{ [ pullistuma, verb.motion:pullistua_päästä,+ verb.change:pullistua3,+ adj.all:ulostyöntyvä^pullottava,+ verb.stative:pullistua,+ verb.change:pullistaa,+ verb.change:pullottaa,+ verb.stative:pullottaa,+]  kumpu,  kumpare,  paukama,  turpoama,  kieleke,  ulkonema,  kohouma,  ulostyöntymä,  ekstruusio,  kasvannainen,  uloke,  projektio,@ (something that bulges out or is protuberant or projects from its surroundings; "the gun in his pocket made an obvious bulge"; "the hump of a camel"; "he stood on the rocky prominence"; "the occipital protuberance was well developed"; "the bony excrescence between its horns") }
+{ pullistuma1,  pullistuma,@ (a part that bulges deeply; "the belly of a sail") }
+{ pää,  pullistuma,@ (a headlike protuberance on an organ or structure; "the caput humeri is the head of the humerus which fits into a cavity in the scapula") }
+{ kumpare1,  knööli,  pullistuma,@ (a bump on a ski slope) }
+{ klimppi,  muhkura1,  pullistuma,@ (a small lump or protuberance) }
+{ [ törröttävä_kohta, verb.contact:törmätä4,+]  pullistuma,@ (a sharp protuberance) }
+{ nystyrä,  pullistuma,@ noun.Tops:eläin,;c (any small rounded protuberance (as on certain plants or animals)) }
+{ solmu,  pahkura,  paksuuntuma,  kupera_muoto,@ (any thickened enlargement) }
+{ [ kaari<broader/>2, verb.motion:kaartua1,+]  käyrä,@ (something curved in shape) }
+{ [ sirppimäinen, adj.all:pyöreä4^sirppimäinen,+]  [ sirppi, adj.all:pyöreä4^sirppimäinen,+]  käyrä,@ (any shape resembling the curved shape of the moon in its first or last quarters) }
+{ painuma,  painanne,  painauma,  kovera_muoto,@ (a concavity in a surface produced by pressing; "he left the impression of his fingers in the soft mud") }
+{ kuoppa2,  kolo,  painuma,@ (any slight depression in a surface; "there are approximately 336 dimples on a golf ball") }
+{ [ hyperboloidi, adj.all:pyöreä4^hyperboloidin_muotoinen,+]  toisen_asteen_pinta,@ (a quadric surface generated by rotating a hyperbola around its main axis) }
+{ [ paraboloidi, adj.all:pyöreä4^paraboloidinen,+]  tasokuvio,@ (a surface having parabolic sections parallel to a single coordinate axis and elliptic sections perpendicular to that axis) }
+{ [ ellipsoidi, adj.all:pyöreä4^elliptinen2,+]  tasokuvio,@ (a surface whose plane sections are all ellipses or circles; "the Earth is an ellipsoid") }
+{ kylki,  sivu,  alakuvio,@ (a subfigure consisting of a side of something) }
+{ hypotenuusa,  kylki,@ suorakulmainen_kolmio,#p (the side of a right triangle opposite the right angle) }
+{ [ korkeus, adj.pert:korkeus-,+]  noun.attribute:välimatka1,@ (the perpendicular distance from the base of a geometric figure to the opposite vertex (or side if parallel)) }
+{ kanta,  pohja,  kylki,@ (the bottom side of a geometric figure from which the altitude can be constructed; "the base of the triangle") }
+{ [ tasapaino, verb.change:tasapainottaa,+]  vastapaino,  noun.artifact:rakennelma1,@ (equality of distribution) }
+{ symmetrinen_rakenne,  tasapaino,@ (a symmetrical arrangement of the parts of a thing) }
+{ [ symmetria, verb.change:symmetristää<unconfirmed/>,+ verb.change:symmetrisoida,+ verb.change:symmetroida,+ adj.all:symmetrinen1,+]  [ sopusuhtaisuus, epäsuhtaisuus,!]  [ tasasuhtaisuus, epäsuhtaisuus,!]  tasapaino,@ (balance among the parts of something) }
+{ [ epäsuhtaisuus, sopusuhtaisuus,! tasasuhtaisuus,!]  noun.attribute:erilaisuus5,@ (lack of proportion; imbalance among the parts of something) }
+{ [ sferoidi, adj.all:pyöreä4^sferoidinen,+]  pyörähdysellipsoidi,  pyöreä_muoto,@ (a shape that is generated by rotating an ellipse around one of its axes; "it looked like a sphere but on closer examination I saw it was really a spheroid") }
+{ [ pallopinta, adj.all:pyöreä1^pallomainen,+ adj.all:pyöreä1^pallonmuotoinen,+ adj.all:pyöreä1^pallo-,+]  pyöreä_muoto,@ (a three-dimensional closed surface such that every point on the surface is equidistant from the center) }
+{ [ puolipallo, adj.pert:puolipallomainen,+]  alakuvio,@ (half of a sphere) }
+{ [ pallo1, adj.all:pyöreä1^pallo-,+]  pyöreä_muoto,@ (a solid figure bounded by a spherical surface (including the space it encloses)) }
+{ kerä,  [ pallo2, adj.all:pyöreä1^pallo-,+ adj.all:pyöreä1^pallonmuotoinen,+ adj.all:pyöreä1^pallomainen,+]  pyöreä_kappale,  pallo1,@ (an object with a spherical shape; "a ball of fire") }
+{ pallero,  pieni_pallo,  kerä,@ (a small sphere) }
+{ [ sylinteri, adj.all:pyöreä4^sylinterimäinen,+]  pyöreä_muoto,@ (a surface generated by rotating a parallel line around a fixed line) }
+{ ympyrä<approximate/>1,  ympyrä<broader/>2,  pyöreä_muoto,@ (a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle) }
+{ [ toroidi, adj.pert:toroidal,+]  kappale<note>geometriassa</note>,@ (the doughnut-shaped object enclosed by a torus) }
+{ [ pylväs, adj.all:pylväs-^pylväsmäinen2,+]  torni,  pilari,  noun.Tops:muoto,@ (anything that approximates the shape of a column or tower; "the test tube held a column of white powder"; "a tower of dust rose above the horizon"; "a thin pillar of smoke betrayed their campsite") }
+{ patsas,  noun.Tops:muoto,@ (anything that resembles a feather in shape or lightness; "a plume of smoke"; "grass with large plumes") }
+{ kolumella,  pylväs,@ (a small column (or structure resembling a column) that is a part of a plant or animal) }
+{ kivipylväs<approximate/>,  pylväs,@ noun.cognition:geologia,;c ((geology) a column of weathered and unusually shaped rock; "a tall sandstone hoodoo") }
+{ rumpu,  sylinteri1,  tela,  sylinteri,@ (a bulging cylindrical shape; hollow with flat ends) }
+{ putki,  sylinteri,@ (a hollow cylindrical shape) }
+{ kuula,  pallo3,  pelletti,  kerä,@ (a small sphere) }
+{ bolus,  kerä,@ (a small round soft mass (as of chewed food)) }
+{ pisara,  helmi,  pallo1,@ (a shape that is spherical and small; "he studied the shapes of low-viscosity drops"; "beads of sweat on his forehead") }
+{ kastepisara,  pisara,@ (a drop of dew) }
+{ kyynelhelmi,  kyynelkarpalo,  kyynelpisara,  pisara,@ (anything shaped like a falling drop (as a pendant gem on an earring)) }
+{ harja,  kupera_muoto,@ (any long raised strip) }
+{ [ aallotus, verb.contact:aallottaa,+]  [ poimutus, verb.contact:poimuttaa3,+]  harja,@ (a ridge on a corrugated surface) }
+{ [ reunus, verb.possession:reunustaa,+]  pyöreä_muoto,@ raja,@ (the shape of a raised edge of a more or less circular object) }
+{ piikki,  kupera_muoto,@ noun.artifact:kynä1,#p noun.artifact:veitsi2,#p noun.artifact:nuolenpää,#p noun.artifact:miekka3,#p noun.artifact:alppisauva,#p keila,#p (a V shape; "the cannibal's teeth were filed to sharp points") }
+{ kartio1,  kupera_muoto,@ (a convex shape that narrows toward a point) }
+{ toisen_asteen_pinta,  käyrä,@ (a curve or surface whose equation (in Cartesian coordinates) is of the second degree) }
+{ [ raja, verb.stative:rajata2,+ verb.change:rajata,+]  muoto1,@ (a line determining the limits of an area) }
+{ reuna,  laita,  ympärys,  raja,@ (the boundary line or the area immediately inside the boundary) }
+{ [ reuna-alue, adj.all:reuna-,+]  [ reuna1, adj.all:perifeerinen^reuna-1,+]  ulkoraja1,  raja,@ (the outside boundary or surface of something) }
+{ parras,  reuna2,  äyräs,  raja,@ (a region marking a boundary) }
+{ yläraja,  raja,@ noun.cognition:matematiikka,;c ((mathematics) a number equal to or greater than any other number in a given set) }
+{ alaraja<unconfirmed/>,  raja,@ noun.cognition:matematiikka,;c ((mathematics) a number equal to or less than any other number in a given set) }
+{ lävistäjä,  suora,@ (a line or cut across a fabric that is not at right angles to a side of the fabric) }
+{ diagonaali,  suora,@ noun.cognition:geometria,;c ((geometry) a straight line connecting any two vertices of a polygon that are not adjacent) }
+{ painuma1,  painauma1,  painuma,@ (a depression in an otherwise level surface; "there was a dip in the road") }
+{ kuppi,  kovera_muoto,@ (any cup-shaped concavity; "bees filled the waxen cups with honey"; "he wore a jock strap with a metal cup"; "the cup of her bra") }
+{ leikkaus,  [ naarmu, verb.contact:naarmuttaa,+]  [ pistos, verb.contact:pistää2,+]  [ viilto, verb.contact:viiltää5,+ verb.contact:viiltää4,+]  lommo,  painuma,@ (a depression scratched or carved into a surface) }
+{ lovi1,  halkeama,  uurros1,@ noun.cognition:anatomia,;c ((anatomy) a notch or small hollow) }
+{ uurros1,  lovi2,@ (a V-shaped indentation; "mandibular notch") }
+{ vekki,  leikkaus,@ (a slight surface cut (especially a notch that is made to keep a tally)) }
+{ [ painauma2, verb.motion:painaa2,+]  painuma,@ (a shape that sags; "there was a sag in the chair seat") }
+{ [ ryppy, verb.change:ryppyyntyä,+ verb.contact:rypistää1,+]  juonne,  uurre2,  kurttu,  painuma,@ noun.body:iho,#p (a slight depression in the smoothness of a surface; "his face has many lines"; "ironing gets rid of most wrinkles") }
+{ naururyppy,  naururypyt,  ryppy,@ (a wrinkle in the skin at the outer corner of your eyes) }
+{ ihopiena,  ryppy,@ (the lines that form patterns on the skin (especially on the fingertips and the palms of the hands and the soles of the feet)) }
+{ kulmien_kurtistus,  otsan_rypistys,  ryppy,@ (a facial wrinkle associated with frowning) }
+{ elämän_viiva,  ryppy,@ (a crease on the palm; its length is said by palmists to indicate how long you will live) }
+{ sydämen_viiva,  rakkauden_viiva,  ryppy,@ (a crease on the palm; palmists say it indicates your emotional nature) }
+{ uurre3,  kohtalon_viiva,  saturnuksen_viiva,  ryppy,@ (a crease on the palm; palmists say it indicates how successful you will be) }
+{ rako,  kolo1,  halkeama1,  railo,  painuma,@ (a long narrow depression in a surface) }
+{ [ laskos, verb.contact:laskostaa1,+]  prässi,  [ poimu, verb.contact:poimuttaa4,+]  [ taive, verb.motion:taipua,+ verb.motion:taittua,+ verb.contact:taittaa2,+ verb.contact:taivuttaa1,+]  taitos,  kulmikas_muoto,@ (an angular or rounded shape made by folding; "a fold in the napkin"; "a crease in his trousers"; "a plication on her blouse"; "a flexure of the colon"; "a bend of his elbow") }
+{ [ ryppy1, verb.contact:rypistyä,+ verb.contact:rypyttää,+ verb.contact:rypyttää<unconfirmed/>1,+]  [ kurttu1, verb.contact:kurtistua,+]  laskos,@ (an irregular fold in an otherwise even surface (as in cloth)) }
+{ lovi2,  painauma3,  kovera_muoto,@ (a concave cut into a surface or edge (as in a coastline)) }
+{ halkio,  lovi2,@ (a split or indentation in something (as the palate or chin)) }
+{ juovaisuus,  uurteisuus,  kouru,@ (any of a number of tiny parallel grooves such as: the scratches left by a glacier on rocks or the streaks or ridges in muscle tissue) }
+{ vierintäkäyrä,  käyrä,@ (a line generated by a point on one figure rolling around a second figure) }
+{ [ sykloidi, adj.all:pyöreä4^sykloidinen,+]  vierintäkäyrä,@ (a line generated by a point on a circle rolling along a straight line) }
+{ hyposykloidi,  sykloidi,@ (a cycloid generated by a point inside the rolling circle) }
+{ prolaatti_sykloidi,  sykloidi,@ (a cycloid generated by a point outside the rolling circle) }
+{ [ sinikäyrä, adj.all:kaareva1^sinusoidaalinen,+ adj.all:kaareva1^sinimuotoinen,+]  aalto,@ (the curve of y=sin x) }
+{ [ episykli, adj.pert:episyklinen,+]  ympyrä,@ (a circle that rolls around (inside or outside) another circle; generates an epicycloid or hypocycloid) }
+{ episykloidi,  vierintäkäyrä,@ (a line generated by a point on a circle rolling around another circle) }
+{ kardioidi,  episykloidi,@ (an epicycloid in which the rolling circle equals the fixed circle) }
+{ hyposykloidi1,  vierintäkäyrä,@ (a line generated by a point on a circle that rolls around inside another circle) }
+{ [ muodottomuus, adj.all:muodoton4^muodoton5,+]  amorfinen_muoto,@ (an amorphous or indefinite shape; "a shapeless mass") }
+{ möykky,  amorfinen_muoto,@ (an indistinct shapeless form) }
+{ [ tyhjyys, verb.change:tyhjentää6,+ adj.all:tyhjä3^tyhjä9,+ adj.all:tyhjä3^tyhjä6,+]  [ tyhjä_tila, adj.all:tyhjä3^tyhjä6,+]  autius,  tyhjiö,  tyhjä_tila1,@ (an empty area or space; "the huge desert voids"; "the emptiness of outer space"; "without their support he'll be ruling in a vacuum") }
+{ tyhjä_tila1,  amorfinen_muoto,@ noun.Tops:paikka,@ (an empty area (usually bounded in some way between things); "the architect left space in front of the building"; "they stopped at an open space in the jungle"; "the space between his teeth") }
+{ kolo2,  kolo3,@ (a cavity or space in something; "hunger had caused the hollows in their cheeks") }
+{ risteyskohta,  yhdistäminen,@ (a connecting point at which several lines come together) }
+{ liittäminen,  [ niveltäminen, verb.possession:niveltää,+]  [ liitos1, verb.possession:liittää1,+ verb.possession:liittää_yhteen,+ verb.contact:liittää16,+]  [ liittymäkohta, verb.possession:liittää1,+ verb.possession:liittää_yhteen,+ verb.contact:liittää16,+]  [ sauma, verb.stative:saumata,+]  liitoskohta,  liittymä,  yhdistäminen,@ (the shape or manner in which things come together and a connection is made) }
+{ aukko,  tyhjä_tila1,@ (an unoccupied space) }
+{ kolo3,  onkalo,  tyhjä_tila1,@ (space that is surrounded by something) }
+{ tasku1,  tyhjä_tila1,@ noun.act:keilapeli1,;c ((bowling) the space between the headpin and the pins behind it on the right or left; "the ball hit the pocket and gave him a perfect strike") }
+{ piste,  täplä,  pyörylä,@ (a very small circular shape; "a row of points"; "draw lines between the dots") }
+{ [ huokonen, adj.all:huokoinen1,+]  aukko,@ (any tiny hole admitting passage of a liquid (fluid or gas)) }
+{ puu,  puudiagrammi,  tasokuvio,@ (a figure that branches from a single root; "genealogical tree") }
+{ kladogrammi,  puu,@ (a tree diagram used to illustrate phylogenetic relationships) }
+{ puudiagrammi1,  puu,@ (a tree diagram showing a reconstruction of the transmission of manuscripts of a literary work) }
+{ rajaviiva<broader/>,  raja,@ (the middle of the chief navigable channel of a waterway that forms the boundary line between states) }
+{ kieleke1,  uloke1,  oka,  [ piikki1, adj.all:terävä31^piikkimäinen,+]  projektio,@ (any sharply pointed projection) }
+{ kuristuma,  pullonkaula1,  ahtauma,  noun.attribute:supistuma,@ (a narrowing that reduces the flow through a channel) }
+{ fasetti,  alakuvio,@ (a smooth surface (as of a bone or cut gemstone)) }
+{ suuntima,  suora,@ (a straight line segment whose length is magnitude and whose orientation in space is direction) }
+{ säde1,  suuntima,@ noun.cognition:matematiikka,;c ((mathematics) a straight line extending from a point) }
+{ muoto2,  tyyppi,  malli,  kappale<note>geometriassa</note>,@ (the distinctive form in which a thing is made; "pottery of this cast was found throughout the region") }
+{ [ haara2, verb.change:haarautua,+]  oksa,  [ haarake, verb.change:haarautua1,+ verb.change:haaraantua,+]  alakuvio,@ haarautuma<unconfirmed/>,#p (a part of a forked or branching shape; "he broke off one of the branches") }
+{ olkavarsi,  haara2,@ noun.cognition:biologia,;c ((biology) a branching or armlike part of an animal) }
+{ haara3,  joenhaara<narrower/>,  haara2,@ (the region of the angle formed by the junction of two branches; "they took the south fork"; "he climbed into the crotch of a tree") }
+{ tasku2,  kolo3,@ (an enclosed space; "the trapped miners found a pocket of air") }
+{ järkäle,  [ kuutio, adj.all:kuutio-^kuutiomainen,+ adj.all:kuutio-^kuutiomainen1,+ verb.contact:kuutioida,+]  [ lohkare, adj.all:kuutio-^lohkaremainen,+]  kappale<note>geometriassa</note>,@ (a three-dimensional shape with six square or rectangular sides) }
+{ [ pyramidi, adj.all:terävä31^pyramidin_muotoinen,+]  monitahokas,@ (a polyhedron having a polygonal base and triangular sides with a common vertex) }
+{ [ munanmuotoinen_esine, adj.all:pyöreä4^munanmuotoinen,+]  [ ovoidi, adj.all:pyöreä4^ovoidi,+]  kappale<note>geometriassa</note>,@ (an egg-shaped object) }
+{ tetraedri,  monitahokas,@ (any polyhedron having four plane faces) }
+{ pentaedri,  viisitahokas,  monitahokas,@ (any polyhedron having five plane faces) }
+{ heksaedri,  kuusikulmio1,  monitahokas,@ (any polyhedron having six plane faces) }
+{ romboedri,  paralleelipipedi,@ heksaedri,@ (a parallelepiped bounded by six similar faces (either rhombuses or parallelograms)) }
+{ oktaedri,  monitahokas,@ (any polyhedron having eight plane faces) }
+{ kymmentahokas,  monitahokas,@ (any polyhedron having ten plane faces) }
+{ kaksitoistatahokas,  dodekaedri,  monitahokas,@ (any polyhedron having twelve plane faces) }
+{ kaksikymmentahokas,  ikosaedri,  monitahokas,@ (any polyhedron having twenty plane faces) }
+{ säännöllinen_monitahokas,  säännöllinen_polyedri,  platonin_kappale,  monitahokas,@ (any one of five solids whose faces are congruent regular polygons and whose polyhedral angles are all congruent) }
+{ tasojen_välinen_kulma,  kulma,@ (the space enclosed by three or more planes that intersect in a vertex) }
+{ kulma<broader/>1,  kulma,@ (the angle formed by two edges of a polyhedral angle) }
+{ säännöllinen_tetraedri,  säännöllinen_monitahokas,@ (a tetrahedron with four equilateral triangular faces) }
+{ [ kuutio1, adj.all:kuutio-^kuutiomainen1,+ verb.contact:kuutioida,+]  säännöllinen_kuusikulmio1,  säännöllinen_monitahokas,@ (a hexahedron with six equal squares as faces) }
+{ tesserakti,  kuutio1,@ (the four-dimensional analogue of a cube) }
+{ neliö1,  kuutio1,@ (a cubelike object) }
+{ säännöllinen_dodekaedri,  säännöllinen_monitahokas,@ (a dodecahedron with twelve regular pentagons as faces) }
+{ säännöllinen_oktaedri,  säännöllinen_monitahokas,@ (an octahedron with eight equilateral triangles as faces) }
+{ säännöllinen_ikosaedri,  säännöllinen_monitahokas,@ (an icosahedron with twenty equilateral triangles as faces) }
+{ katkaistu_kartio,  kappale<note>geometriassa</note>,@ (a truncated cone or pyramid; the part that is left when a cone or pyramid is cut by a plane parallel to the base and the apical part is removed) }
+{ monitahokas<broader/>1,  katkaistu_kartio,@ (a frustum formed from a pyramid) }
+{ kartio<broader/>2,  katkaistu_kartio,@ (a frustum formed from a cone) }
+{ monitahokas<broader/><note>prismatoidi?</note>2,  monitahokas,@ (a polyhedron whose vertices all lie in one or the other of two parallel planes; the faces that lie in those planes are the bases of the prismatoid) }
+{ monitahokas<note>prismoidi?</note>3,  monitahokas<broader/><note>prismatoidi?</note>2,@ (a prismatoid whose bases are polygons having the same number of sides and whose other faces are trapezoids or parallelograms) }
+{ häntä,  häntäpää,  projektio,@ (any projection that resembles the tail of an animal) }
+{ kieleke2,  projektio,@ (any long thin projection that is transient; "tongues of flame licked at the walls"; "rifles exploded quick knives of fire into the dark") }
+{ kallistuskulma,  kulma,@ (the angle a rocket makes with the vertical as it curves along its trajectory) }
+{ monitahokas<broader/>4,  monitahokas,@ (a polyhedron whose faces are trapeziums) }
+{ pystykulma,  kulma,@ (either of two equal and opposite angles formed by the intersection of two straight lines) }
+{ lehtikiehkura<approximate/>,  kiemura,@ (a whorl of leaves growing around a stem) }
+{ kuvakulma,  kulma,@ (the angle included by a photographic lens) }
+{ eroosion_aiheuttama_ura,  kouru,@ (the channel or break produced by erosion of relatively soft soil by water; "it was several days after the storm before they could repair the washout and open the road") }
+{ aaltokulma,  kulma,@ (the angle of arrival (or departure) of a radio wave with respect to the axis of an antenna array) }
+{ kiila,  kiilan_muoto,  kolmio,@ (any shape that is triangular in cross section) }
+{ projektio,  kupera_muoto,@ (any solid convex shape that juts out from something) }
+{ emäpuu,  projektio,@ (a projection or ridge that suggests a keel) }
+{ keskiaalto,  aalto,@ ([empty]) }

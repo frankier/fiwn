@@ -1,0 +1,38 @@
+
+FinnWordNet - the Finnish WordNet
+=================================
+
+
+FinnWordNet
+-----------
+
+FinnWordNet is a wordnet for Finnish. For more information about
+FinnWordNet, please see the README file in the parent directory or
+visit the FinnWordNet project Web page
+
+    http://www.ling.helsinki.fi/en/lt/research/finnwordnet/
+
+The rest of this README file describes the contents of this directory.
+
+
+lex: FinnWordNet in the Princeton WordNet lexicographer file format
+-------------------------------------------------------------------
+
+The directory 'lex' contains FinnWordNet data in the Princeton WordNet
+(PWN) lexicographer file format, which is the source format for the
+PWN database:
+
+    http://wordnet.princeton.edu/wordnet/man/wninput.5WN.html
+
+The FinnWordNet lexicographer files correspond exactly to the PWN
+ones.
+
+A modified version of the PWN Grind program generating the database is
+required for the FinnWordNet lexicographer files.
+
+
+Bugs
+----
+
+* Finnish verbs have a dummy verb frame (number 1) in order for the
+  data to work with the 'wn' search tool.

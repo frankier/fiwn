@@ -1,0 +1,756 @@
+{ olla_olemassa,  olla,   frames: 1 (have an existence, be extant; "Is there a God?") }
+{ olla_aiemmin,  olla_olemassa,@ frames: 1 (exist beforehand or prior to a certain point in time; "Did this condition pre-exist?") }
+{ kuljeskella,  hengailla,  oleilla,  olla_olemassa,@ frames: 1 (be around; be alive or active; "Does the old man still kick around?") }
+{ esiintyä_yhtaikaisesti,  olla_olemassa,@ frames: 1 (exist together) }
+{ elää_rauhanomaista_rinnakkaiseloa,  esiintyä_yhtaikaisesti,@ frames: 1 (coexist peacefully, as of nations) }
+{ olla1,   frames: 1 (have the quality of being; (copula, used with an adjective or a predicate noun); "John is rich"; "This is not a good answer") }
+{ muodostaa,  selittää,  olla1,@ frames: 1 (be the sole or primary factor in the existence, acquisition, supply, or disposal of something; "Passing grades account for half of the grades given in this exam") }
+{ poiketa_tavanomaisesta,  olla1,@ frames: 1 (be contrary to ordinary procedure or limitations; "Opinions on bombing the Serbs cut across party lines") }
+{ levittäytyä,  jatkua,  olla11,@ frames: 1 (occupy a large, elongated area; "The park stretched beneath the train line") }
+{ olla_naapuri,  rajoittua,  verb.contact:rajoittua,@ frames: 1 (be located near or adjacent to; "Pakistan neighbors India") }
+{ olla_naapuri1,  olla_lähellä,  asuttaa,@ frames: 1 (live or be located as a neighbor; "the neighboring house") }
+{ [ alkaa, päättyä,! noun.event:alku2,+ noun.time:alkaminen,+ noun.time:alku2,+ noun.time:alkuunpano,+ noun.act:alkaminen,+ noun.act:alku,+ noun.act:alkuunpano,+]  [ aloittaa, päättyä,! noun.time:aloitus,+ noun.act:aloitus,+]  ruveta,  ryhtyä,  saada_alkunsa_jstak,  alkaa2,$ alkaa1,$ frames: 1 (have a beginning, in a temporal, spatial, or evaluative sense; "The DMZ begins right over the hill"; "The second movement begins after the Allegro"; "Prices for these homes start at $250,000") }
+{ [ alkaa1, noun.event:alku2,+ noun.act:alkaminen,+ noun.act:alku,+ noun.act:alkuunpano,+]  [ aloittaa1, noun.act:aloitus,+]  ruveta1,  ryhtyä1,  saada_alkunsa_jstak1,  olla1,@ verb.social:alkaa3,$ alkaa,$ alkaa4,$ frames: 1 (have a beginning characterized in some specified way; "The novel begins with a murder"; "My property begins with the three maple trees"; "Her day begins with a workout"; "The semester begins with a convocation ceremony") }
+{ alkaa2,  aloittaa2,  olla1,@ alkaa,$ verb.change:aloittaa4,$ frames: 1 (have a beginning, of a temporal event; "WW II began in 1939 when Hitler marched into Poland"; "The company's Asia tour begins next month") }
+{ alkaa3,  tulla,  vaikuttaa,  alkaa,@ frames: 1 (enter a particular state; "Laziness set in"; "After a few moments, the effects of the drug kicked in") }
+{ [ sarastaa, noun.event:sarastus,+ noun.time:sarastus1,+]  alkaa,@ frames: 1 (appear or develop; "The age of computers had dawned") }
+{ [ päättyä, alkaa,! aloittaa,! noun.state:päätös,+ noun.time:päätös,+ noun.location:pääty,+ noun.location:pää,+ adj.all:viimeinen5^päättyvä,+ noun.location:päätepiste,+]  [ loppua, noun.time:loppu3,+]   frames: 1 (have an end, in a temporal, spatial, or quantitative sense; either spatial or metaphorical; "the bronchioles terminate in a capillary bed"; "Your rights stop where you infringe upon the rights of other"; "My property ends by the bushes"; "The symphony ends in a pianissimo") }
+{ [ päättyä1, noun.communication:päätös,+ noun.act:päätös3,+]  päättyä,@ frames: 1 (come to a close; "The concert closed with a nocturne by Chopin") }
+{ päättyä2,  päättyä,@ frames: 1 (result or end; "How will the game turn out?") }
+{ johtaa,  päätyä,  päättyä2,@ frames: 1 (come out in the end) }
+{ toimia,  päättyä2,@ frames: 1 (happen in a certain way, leading to, producing, or resulting in a certain outcome, often well; "Things worked out in an interesting way"; "Not everything worked out in the end and we were disappointed") }
+{ [ olla<broader/>2, verb.competition:vastustaa2,^ verb.competition:vastustaa<approximate/>3,^ tukea,^ herättää_huomiota,^ tarkoittaa2,^ loistaa1,^ katsoa_sivusta,^ nousta_esiin,^]  olla1,@ frames: 1 (be in some specified state or condition; "I stand corrected") }
+{ eritellä,  määrittää,  rajata,  rajoittaa,  spesifioida,  olla1,@ frames: 1 (determine the essential quality of) }
+{ määrittää_uudelleen,  määritellä_uudelleen,  eritellä,@ frames: 1 (give a new or different definition to; "She redefined his duties") }
+{ sattua,  paistaa,  osua,  verb.change:tapahtua,@ frames: 1 (touch or seem as if touching visually or audibly; "Light fell on her face"; "The sun shone on the fields"; "The light struck the golden necklace"; "A strange sound struck my ears") }
+{ esiintyä,  esiintyä1,@ säilyä,$ frames: 1 (occur persistently; "Musical talent runs in the family") }
+{ esiintyä1,  verb.change:ilmaantua5,@ frames: 1 (to be found to exist; "sexism occurs in many workplaces"; "precious stones occur in a large area in Brazil") }
+{ esiintyä_usein_vierekkäin,  esiintyä_rinnakkain,  kollokoida,  esiintyä1,@ frames: 1 (have a strong tendency to occur side by side; "The words 'new' and 'world' collocate") }
+{ [ käydä, olla_pääsemättä,! missata,!]  [ olla_läsnä, olla_pääsemättä,! missata,!]  [ osallistua, olla_pääsemättä,! noun.person:osallistuja,+ noun.act:osanotto,+ missata,!]  olla11,@ noun.act:kirkonmenot,;c frames: 1 (be present at (meetings, church services, university), etc.; "She attends class regularly"; "I rarely attend services at my church"; "did you go to the meeting?") }
+{ ottaa_osaa,  vierailla,  käydä,@ frames: 1 (attend as a visitor; "Can I sit in on your Intermediate Hittite class?") }
+{ [ palvoa, noun.act:palvelus2,+ noun.act:palvonta,+]  käydä,@ frames: 1 (attend religious services; "They worship in the traditional manner") }
+{ rukoilla,  palvoa,@ frames: 1 (present as an act of worship; "offer prayers to the gods") }
+{ [ olla_pääsemättä, käydä,! olla_läsnä,! osallistua,!]  [ missata, käydä,! olla_läsnä,! osallistua,!]  verb.social:jättää_tekemättä,@ frames: 1 (fail to attend an event or activity; "I missed the concert"; "He missed school for a week") }
+{ pinnata,  jättää_väliin,  lintsata,  olla_pääsemättä,@ frames: 1 (intentionally fail to attend; "cut class") }
+{ lintsata1,  pinnata1,  pinnata,@ noun.communication:slangi,;u frames: 1 (play truant from work or school; "The boy often plays hooky") }
+{ olla3,  [ elää, noun.state:elämä1,+]  selviytyä_hengissä1,$ frames: 1 (have life, be alive; "Our great leader is no more"; "My grandfather lived until the end of war") }
+{ [ elää1, noun.cognition:elämä,+]  elellä,  olla_olemassa,* elää2,$ frames: 1 (lead a certain kind of life; live in a certain style; "we had to live frugally after the war") }
+{ viettää_huikentelevaa_elämää,  elää1,@ frames: 1 (live a life of pleasure, especially with respect to alcoholic consumption) }
+{ elää2,  elää1,$ frames: 1 (pursue a positive and satisfying existence; "You must accept yourself and others if you really want to live") }
+{ elää_rennosti,  elää1,@ frames: 1 (live in a lively, modern, and relaxed style; "The Woodstock generation attempted to swing freely") }
+{ mitätöidä,  pyyhkiä_pois,  elää1,@ frames: 1 (live so as to annul some previous behavior; "You can never live this down!") }
+{ elää_kevytkenkäisesti,  elää1,@ frames: 1 (indulge in a carefree or voluptuous way of life) }
+{ oleilla_tylsistyneenä,  oleskella,  elää1,@ frames: 1 (lead a passive existence without using one's body or mind) }
+{ porsastella,  elää_kuin_sikolätissä,  elää1,@ frames: 1 (live like a pig, in squalor) }
+{ piileskellä<broader/>,  elää1,@ frames: 1 (live in the bush as a fugitive or as a guerilla) }
+{ keinotella<unconfirmed/>,  elää1,@ frames: 1 (live like a buccaneer) }
+{ [ poikamies-<idiomatic_pos/>, noun.person:poikamies,+]  sinkku-<idiomatic_pos/>,  elää1,@ frames: 1 (lead a bachelor's existence) }
+{ kituuttaa,  elää1,@ frames: 1 (live from day to day, as with some hardship; "He eked out his years in great poverty") }
+{ olla4,   frames: 1 (be identical to; be someone or something; "The president of the company is John Smith"; "This is my house") }
+{ elää_maalaiselämää,  asua2,@ frames: 1 (live in the country and lead a rustic life) }
+{ olla_olemassa1,  selviytyä_hengissä,  elää3,  elättää,  selvitä,  selviytyä_hengissä1,$ frames: 1 (support oneself; "he could barely exist on such a low wage"; "Can you live on $2000 a month in New York City?"; "Many people in the world have to subsist on $1 a day") }
+{ hengittää<note>olla_hengissä</note>,  olla_hengissä,  olla_olemassa1,@ frames: 1 (be alive; "Every creature that breathes") }
+{ [ asua_sisällä<approximate/>, noun.process:asukas<approximate/>,+]  olla_olemassa,@ frames: 1 (to exist as an inner activating spirit, force, or principle) }
+{ viettää_rentoa_elämää<unconfirmed/>,  olla_olemassa1,@ verb.motion:ajelehtia2,$ frames: 1 (live unhurriedly, irresponsibly, or freely; "My son drifted around for years in California before going to law school") }
+{ menestyä,  edetä,  onnistua,  suoriutua,  pärjätä,  selviytyä,  verb.change:edetä1,@ frames: 1 (proceed or get along; "How is she doing in her new job?"; "How are you making out in graduate school?"; "He's come a long way") }
+{ [ mennä, kuulua_yhteen,^ noun.act:meno,+ noun.act:meno<unconfirmed/>1,+]  [ sujua, kuulua_yhteen,^]   frames: 1 (pass, fare, or elapse; of a certain state of affairs or action; "How is it going?"; "The day went well until I got your call") }
+{ olla5,  olla1,@ frames: 1 (be or continue to be in a certain condition; "The children went hungry that day") }
+{ selviytyä_hengissä1,  [ kestää, noun.state:kestävyys,+]  elää4,  mennä_eteenpäin,  selvitä1,  sinnitellä,  olla3,* olla3,$ olla_olemassa1,$ frames: 1 (continue to live through hardship or adversity; "We went without water and food for 3 days"; "These superstitions survive in the backwaters of America"; "The race car driver lived through several very serious accidents"; "how long can a person last without food and water?") }
+{ kestää1,  pitää,  kestää_tarkastelua,  olla_vedenpitävä,  pitää_vettä,  selviytyä_hengissä1,@ frames: 1 (resist or withstand wear, criticism, etc.; "Her shoes won't hold up"; "This theory won't hold water") }
+{ kasvaa_monivuotisena,  [ perennoida, noun.process:perennoiminen,+ noun.plant:perenna,+]  selviytyä_hengissä1,@ frames: 1 (survive from season to season, of plants) }
+{ elää5,  selviytyä_hengissä1,@ frames: 1 (live out one's life; live to the end) }
+{ selvitä2,  pysytellä,  selviytyä1,   frames: 1 (hang on during a trial of endurance; "ride out the storm") }
+{ viipyä_kauemmin,  selvitä2,@ frames: 1 (surpass in staying power; "They outstayed their competitors") }
+{ käydä_kylässä,  käydä1,  oleskella1,@ frames: 1 (stay with as a guest; "Every summer, we visited our relatives in the country for a month") }
+{ olla_järkeä,  täsmätä,  olla1,@ frames: 1 (be reasonable or logical or comprehensible) }
+{ elää_kauemmin,  kestää_kauemmin,  elää_pitempään,  kestää_kauemmin_kuin,  olla3,* frames: 1 (live longer than; "She outlived her husband by many years") }
+{ [ selvitä_hengissä, kuolla,! noun.person:selviytyjä,+]  selvitä3,  toipua,  selviytyä2,  [ jäädä_eloon, kuolla,!]  [ jäädä_henkiin, kuolla,!]  verb.competition:päihittää3,@ verb.body:tointua,* frames: 1 (continue in existence after (an adversity, etc.); "He survived the cancer against all odds") }
+{ kaatua,  saada_surmansa,  verb.change:kuolla3,@ verb.possession:antautua1,$ verb.social:kaatua,$ frames: 1 (die, as in battle or in a hunt; "Many soldiers fell at Verdun"; "Several deer have fallen to the same gun"; "The shooting victim fell dead") }
+{ [ kuolla, selvitä_hengissä,! jäädä_eloon,! jäädä_henkiin,!]  menehtyä,  verb.change:kuolla3,@ frames: 1 (be fatally overwhelmed) }
+{ muodostaa1,  olla6,  edustaa,  vastata,  [ koostua, noun.attribute:koostumus,+]  muodostua,  sisältää,   frames: 1 (form or compose; "This money is my only income"; "The stone wall was the backdrop for the performance"; "These constitute my entire belonging"; "The children made up the chorus"; "This sum represents my entire income for a year"; "These few men comprise his entire army") }
+{ tehdä,  muodostaa1,@ frames: 1 (constitute the essence of; "Clothes make the man") }
+{ muodostaa2,  muodostaa1,@ frames: 1 (form the substance of; "Greed and ambition composed his personality") }
+{ [ muodostaa3, noun.communication:muoto2,+]  olla7,  muodostaa1,@ frames: 1 (to compose or represent:"This wall forms the background of the stage setting"; "The branches made a roof"; "This makes a fine introduction") }
+{ [ kelatoida, noun.process:kelatoituminen,+ noun.process:kelatointi,+ noun.substance:kelaatti,+]  muodostaa3,@ frames: 1 (form a chelate, in chemistry) }
+{ erottaa,  jakaa,  rajata1,  halkoa,   frames: 1 (act as a barrier between; stand between; "The mountain range divides the two countries") }
+{ pitää_yhtä,  pysytellä_yhdessä,  verb.contact:yhdistää7,@ frames: 1 (be connected; "In my heart I can make the world hang together") }
+{ [ yhdistyä, adj.all:yhdistävä^yhdistävä1,+]  [ liittyä_yhteen, noun.state:liitos,+]  tulla_yhteen,  [ yhtyä, noun.act:yhtyminen,+]  lyöttäytyä_yhteen,   frames: 1 (be or become joined or united or linked; "The two streets connect to become a highway"; "Our paths joined"; "The travelers linked up again at the airport") }
+{ kytkeä_nivelillä,  niveltää,  yhdistyä,@ frames: 1 (unite by forming a joint or joints; "the ankle bone articulates with the leg bones to form the ankle bones") }
+{ olla_yhteydessä_keskenään,  yhdistää,@ frames: 1 (be interconnected, afford passage; "These rooms intercommunicate") }
+{ yhdistää,  kytkeä_toisiinsa,  yhdistyä,@ frames: 1 (be interwoven or interconnected; "The bones are interconnected via the muscle") }
+{ [ yhdistää1, riittää,^]  kaventaa,  verb.contact:yhdistää7,@ frames: 1 (connect or reduce the distance between) }
+{ riittää,  riittää1,@ frames: 1 (suffice for a period between two points; "This money will keep us going for another year") }
+{ muuttua_jksik,  tulla_jksik,   frames: 1 (come into existence; "What becomes has duration") }
+{ juontaa_juurensa,  muuttua_jksik,@ frames: 1 (come into existence, originate; "The problem roots in her depression") }
+{ [ muodostua1, noun.act:muodostaminen1,+]  käynnistyä,  [ muotoutua, noun.act:muodostaminen1,+]  muuttua_jksik,@ frames: 1 (develop into a distinctive entity; "our plans began to take shape") }
+{ kasvaa_pää<unconfirmed/>,  verb.change:muodostaa,@ frames: 1 (form a head or come or grow to a head; "The wheat headed early this year") }
+{ muodostua2,  saada_alkunsa,  [ syntyä, noun.event:synty,+]  ilmaantua,  ilmetä,  kehittyä,  kasvaa,  tulla1,  muuttua_jksik,@ verb.change:paljastua,$ frames: 1 (come into existence; take on form or shape; "A new religious movement originated in that country"; "a love that sprang up from friendship"; "the idea for the book grew out of a short story"; "An interesting phenomenon uprose") }
+{ nousta_uudelleen,  muodostua2,@ frames: 1 (rise again; "His need for a meal resurged"; "The candidate resurged after leaving politics for several years") }
+{ seurata,  tulla_esiin,  muodostua2,@ frames: 1 (happen or occur as a result of something) }
+{ puhjeta,  seurata,@ frames: 1 (come forth or begin from a state of latency; "The first winter storm broke over New York") }
+{ tulla2,  seurata1,  muodostua2,@ tulla9,$ frames: 1 (to be the product or result; "Melons come from a vine"; "Understanding comes from experience") }
+{ pisaroitua,  verb.change:muodostaa,@ frames: 1 (form into beads, as of water or sweat, for example) }
+{ jakaa_verkkokuvioon,  verb.change:muuttua,@ frames: 1 (form a net or a network) }
+{ ilmaantua1,  ilmetä1,  syntyä1,  ilmestyä_näkyviin,  muuttua_jksik,@ frames: 1 (originate or come into being; "a question arose") }
+{ saostua_höytäleinä,  verb.change:muuttua,@ frames: 1 (form into an aggregated lumpy or fluffy mass; "the protoplasms flocculated") }
+{ saostaa_höytäleiksi,  verb.change:muuttaa3,@ frames: 1 (cause to become a fluffy or lumpy aggregate; "The chemist flocculated the suspended material") }
+{ ydintyä,  muuttua_jksik1,@ frames: 1 (form into a nucleus; "Some cells had nucleated") }
+{ ilmetä2,  nousta,  muodostua2,@ frames: 1 (come up (as of feelings and thoughts, or other ephemeral things); "Strong emotions welled up"; "Smoke swelled from it") }
+{ muuttua_jksik1,  tulla_jksik1,  tulla3,  verb.change:muuttua6,@ muuttua,$ verb.change:kääntyä1,$ frames: 1 (undergo a change or development; "The water turned into ice"; "Her former friend became her worst enemy"; "He turned traitor") }
+{ muuttua,  verb.change:muuttaa3,@ muuttua_jksik1,$ frames: 1 (cause to change or turn into something different; assume new characteristics; "The princess turned the frog into a prince by kissing him"; "The alchemists tried to turn lead into gold") }
+{ [ karbonoida, noun.substance:karbonaatti,+]  verb.change:muuttua,@ frames: 1 (turn into a carbonate) }
+{ tulla4,  nousta1,  muuttua_jksik1,@ frames: 1 (develop into; "This idea will never amount to anything"; "nothing came of his grandiose plans") }
+{ kasaantua,  kerääntyä,  ryhmittyä_yhteen,  tulla4,@ frames: 1 (amount in the aggregate to) }
+{ olla_lähtöisin,   frames: 1 (come from) }
+{ kasvaa1,  nousta2,  olla_peräisin,  aiheutua,  johtua,  juontaa,  olla_lähtöisin,@ frames: 1 (grow out of, have roots in, originate in; "The increase in the national debt stems from the last war") }
+{ [ tehdä_välttämättömäksi, poistaa,!]  [ vaatia, noun.cognition:vaatimus,+]  edellyttää,  [ tarvita, noun.object:tarve1,+]  kuulua,  kysyä,  verb.communication:vaatia4,$ frames: 1 (require as useful, just, or proper; "It takes nerve to do what she did"; "success usually requires hard work"; "This job asks a lot of patience and skill"; "This position demands a lot of personal sacrifice"; "This dinner calls for a spectacular dessert"; "This intervention does not postulate a patient's consent") }
+{ vaatia1,  tehdä_välttämättömäksi,@ frames: 1 (require to be in a certain grammatical case, voice, or mood; "most transitive verbs govern the accusative case in German") }
+{ vaatia_syvyys<unconfirmed/>,  tehdä_välttämättömäksi,@ frames: 1 (require a specified depth for floating; "This boat draws 70 inches") }
+{ maksaa,  tehdä_välttämättömäksi,@ frames: 1 (require to lose, suffer, or sacrifice; "This mistake cost him his job") }
+{ vaatia2,  edellyttää1,  tehdä_välttämättömäksi,@ frames: 1 (need badly or desperately; "This question cries out for an answer") }
+{ [ poistaa, tehdä_välttämättömäksi,!]  eliminoida,   frames: 1 (do away with) }
+{ poistaa1,  hylätä,  poistaa,@ frames: 1 (make impossible, especially beforehand) }
+{ pitää_sisällään,  sisältää1,  käsittää,  sisältää3,@ frames: 1 (include or contain; have as a component; "A totally new idea is comprised in this paper"; "The record contains many old songs from the 1930's") }
+{ sisältää2,  sulkea_sisäänsä,  sulkea_piiriinsä,  käsittää1,  sisältää3,@ verb.communication:koskea,$ frames: 1 (include in scope; include as part of something broader; have as one's sphere or territory; "This group encompasses a wide range of people from different backgrounds"; "this should cover everyone in the group") }
+{ [ olla8, olla_vailla,! puuttua,! olla_vailla_jotakin,!]  kuulua1,  verb.possession:omistaa1,$ verb.possession:olla,$ frames: 1 (have as a feature; "This restaurant features the most famous chefs in France") }
+{ kantaa,  omata,  olla8,@ frames: 1 (be equipped with (a mast or sail); "This boat can only carry a small sail") }
+{ olla9,  omata1,  olla8,@ frames: 1 (have; "bear a resemblance"; "bear a signature") }
+{ huokua,  päästää,  säteillä,  olla8,@ frames: 1 (have as a by-product; "The big cities gave off so many wonderful American qualities") }
+{ liittää,  [ yhdistyä1, noun.event:yhdistelmä,+]  olla8,@ frames: 1 (have or possess in combination; "she unites charm with a good business sense") }
+{ [ tähdittää<note>vakiintunut_uudissana</note>, noun.person:tähti2,+ noun.person:tähti1,+]  olla8,@ frames: 1 (feature as the star; "The movie stars Dustin Hoffman as an autistic man") }
+{ esittää_toista_pääosaa,  tähdittää<note>vakiintunut_uudissana</note>,@ frames: 1 (feature as the co-star in a performance) }
+{ komeilla,  rehennellä,  pröystäillä,  olla8,@ frames: 1 (wear or display in an ostentatious or proud manner; "she was sporting a new hat") }
+{ [ osoittaa, noun.act:osoitus,+]  omata2,@ frames: 1 (show an attribute, property, knowledge, or skill; "he exhibits a great talent") }
+{ [ fosforoida, adj.all:valoisa1^fosforoiva,+ noun.phenomenon:fosforesenssi,+]  [ hohtaa, adj.all:valoisa1^hohtava,+]  osoittaa,@ frames: 1 (to exhibit phosphorescence) }
+{ omata2,  olla8,@ frames: 1 (have as an attribute, knowledge, or skill; "he possesses great knowledge about the Middle East") }
+{ [ jäädä_vaille, olla8,!]  olla_vailla,  [ puuttua, noun.state:puute1,+]  olla_vailla_jotakin,   frames: 1 (be without; "This soup lacks salt"; "There is something missing in my jewelry box!") }
+{ kaivata,  jäädä_vaille,@ frames: 1 (be without, lack; be deficient in; "want courtesy"; "want the strength to go on living"; "flood victims wanting food and shelter") }
+{ olla_kadoksissa,   frames: 1 (be absent; "The child had been missing for a week") }
+{ [ sisältää3, jättää_pois,!]  [ kattaa, jättää_pois,!]  olla8,* frames: 1 (have as a part, be made up out of; "The list includes the names of many famous writers") }
+{ käsittää2,  sisältää3,@ frames: 1 (contain as a part; "Dinner at Joe's always involves at least six courses") }
+{ koostua1,  käsittää3,  olla1,@ frames: 1 (be composed of; "The land he conquered comprised several provinces"; "What does this dish consist of?") }
+{ olla_yhtäpitävä,  [ vastata1, adj.all:samanlainen7^vastaava12,+]  olla_vastaava,  olla_yhtä_paljon_kuin,@ frames: 1 (be equivalent or parallel, in mathematics) }
+{ [ jättää_pois, sisältää3,! kattaa,!]  jäädä_vaille,@ frames: 1 (lack or fail to include; "The cost for the trip excludes food and beverages") }
+{ osoittautua,  käydä_ilmi,  ilmetä3,  paljastua,  olla1,@ frames: 1 (be shown or be found to be; "She proved to be right"; "The medicine turned out to save her life"; "She turned up HIV positive") }
+{ osoittautua1,  verb.change:tapahtua,@ frames: 1 (prove to be in the result or end; "It turns out that he was right") }
+{ johtaa1,  seurata2,  osoittautua,@ frames: 1 (issue or terminate (in a specified way, state, etc.); end; "result in tragedy") }
+{ johtua1,  seurata_jstak,  johtaa1,@ frames: 1 (be the result of) }
+{ sisältää4,  sisältää3,@ frames: 1 (contain or include; "This new system subsumes the old one") }
+{ vaatia3,  sisältää5,  merkitä,  aiheuttaa,@ frames: 1 (impose, involve, or imply as a necessary accompaniment or result; "What does this move entail?") }
+{ selittää1,  olla1,@ frames: 1 (be the reason or explanation for; "The recession accounts for the slow retail business") }
+{ [ seurata3, noun.cognition:seuraus,+]  merkitä1,  tarkoittaa,  tietää,  edellyttää2,@ frames: 1 (have as a logical consequence; "The water shortage means that we have to stop taking long showers") }
+{ ajaa_tekemään,  tehdä_välttämättömäksi,@ frames: 1 (necessitate or exact; "the water shortage compels conservation") }
+{ edellyttää2,  aiheuttaa,@ frames: 1 (cause to be a concomitant) }
+{ jättää,  johtaa2,  verb.creation:aiheuttaa12,@ jättää2,$ olla_yhtä_kuin,$ frames: 1 (have as a result or residue; "The water left a mark on the silk dress"; "Her blood left a stain on the napkin") }
+{ aiheuttaa,  johtaa3,  jättää,@ frames: 1 (tend to or result in; "This remark lead to further arguments among the guests") }
+{ merkitä2,  tarkoittaa1,  aiheuttaa1,  olla8,@ frames: 1 (have as a necessary feature; "This decision involves many changes") }
+{ omata3,  sisältyä,  merkitä2,@ olla29,$ frames: 1 (be necessarily associated with or result in or involve; "This crime carries a penalty of five years in prison") }
+{ [ kantaa1, noun.act:kantaminen,+]  verb.possession:olla,@ kantaa2,$ frames: 1 (have or possess something abstract; "I carry her image in my mind's eye"; "I will carry the secret to my grave"; "I carry these thoughts in the back of my head"; "I carry a lot of life insurance") }
+{ joutua,  sotkeutua<narrower/>,  verb.change:kääntyä1,@ frames: 1 (get involved in or with) }
+{ [ syyttää, noun.communication:syyte5,+ noun.communication:syyttäminen_rikoksesta,+]  vihjailla,  väittää_syylliseksi,  verb.communication:herättää1,@ frames: 1 (suggest that someone is guilty) }
+{ [ oleskella1, noun.act:oleskelu,+]  viipyä,  jäädä,@ noun.communication:arkaismi,;u frames: 1 (dwell; "You can stay with me while you are in town"; "stay a bit longer--the day is still young") }
+{ viipyä_liian_kauan,  viipyä_kauemmin1,  oleskella1,@ frames: 1 (stay too long; "overstay or outstay one's welcome") }
+{ [ jäädä_jäljelle, noun.artifact:jäännöspala,+ noun.relation:jäännös1,+ noun.relation:jäämä,+]  olla_jäljellä,  olla1,@ frames: 1 (be left; of persons, questions, problems, results, evidence, etc.; "There remains the question of who pulled the trigger"; "Carter remains the only President in recent history under whose Presidency the U.S. did not fight a war") }
+{ [ odotella, noun.person:odottaja,+ noun.act:odotus,+ noun.act:odottaminen,+]   frames: 1 (stay in one place and anticipate or expect something; "I had to wait on line for an hour to get the tickets") }
+{ odottaa_kädet_ristissä,  odotella,@ frames: 1 (wait or pass the time aimlessly or futilely; be kept waiting; "She kicked her heels for hours at the gate of the Embassy") }
+{ olla_varalla,  olla_valmiina,  odotella,@ frames: 1 (be available or ready for a certain function or service) }
+{ tukea,  olla1,@ frames: 1 (be loyal to; "She stood by her husband in times of trouble"; "The friends stuck together through the war") }
+{ [ noudattaa, noun.act:noudattaminen2,+]  pitää_kiinni,  pysyä,  tarttua,  pitäytyä,  verb.possession:omaksua1,@ frames: 1 (be a devoted follower or supporter; "The residents of this village adhered to Catholicism"; "She sticks to her principles") }
+{ maleksia,  lorvailla,  lorvia,  vetelehtiä,  laiskotella,  hengailla1,  viivytellä<approximate/>,  viipyillä<unconfirmed/>,  vaania<narrower/>,  pyöriä,  tungeksia<narrower/>,  seisoksia,  munia,  roikkua,  olla1,@ frames: 1 (be about; "The high school students like to loiter in the Central Square"; "Who is this man that is hanging around the department?") }
+{ kuljeksia,  maleksia1,  kuljeskella1,  maleksia,@ frames: 1 (loiter about, with no apparent aim) }
+{ loisia,  laiskotella1,  [ vetelehtiä1, noun.person:vetelehtijä2,+]  löysäillä,  kuluttaa_aikaa,  maleksia2,  kelliä,  loikoilla,  verb.social:olla_joutilaana,@ frames: 1 (be lazy or idle; "Her son is just bumming around all day") }
+{ lorvailla1,  verb.social:olla_joutilaana,@ frames: 1 (hang around idly; "She did all the work while he lay around") }
+{ väijyä,  lymyillä,  piileskellä1,  verb.perception:piilottaa,@ frames: 1 (lie in wait, lie in ambush, behave in a sneaky and secretive manner) }
+{ viipyä1,  epäröidä,@ frames: 1 (delay) }
+{ empiä,  epäröidä,@ frames: 1 (hesitate when confronted with a problem, or when in doubt or fear) }
+{ [ epäröidä, noun.cognition:epäröiminen,+]  empiä1,  [ jahkailla, noun.person:jahkailija2,+]  aikailla,  verb.cognition:epäillä2,* frames: 1 (pause or hold back in uncertainty or unwillingness; "Authorities hesitate to quote exact figures") }
+{ pysytellä1,  norkoilla,  epäröidä,@ frames: 1 (move to and fro; "The shy student lingered in the corner") }
+{ [ epäröidä1, noun.act:epäröinti,+]  pysähtyä,  tauota,  viivyttää,@ frames: 1 (interrupt temporarily an activity before continuing; "The speaker paused") }
+{ empiä2,  epäröidä1,@ frames: 1 (hesitate on moral grounds; "The man scrupled to perjure himself") }
+{ [ odottaa, noun.person:odottaja,+ noun.time:odotus,+]  pitkittää,  pidätellä,  verb.social:toimia,@ frames: 1 (wait before acting; "the scientists held off announcing their results until they repeated the experiment") }
+{ odotella<approximate/>1,  odottaa,@ frames: 1 (wait uncompromisingly for something desirable; "He held out for the dessert and did not touch the cheeses") }
+{ [ viivyttää, noun.time:viivytys,+ noun.time:viivästys,+]  odottaa,@ frames: 1 (act later than planned, scheduled, or required; "Don't delay your application to graduate school or else it won't be considered") }
+{ hidastella,  pitkittää1,  vetkutella,  vältellä,  lykätä,  viivyttää,@ frames: 1 (postpone doing what one should be doing; "He did not want to write the letter and procrastinated for days") }
+{ viivytellä1,  [ vitkastella, noun.attribute:vitkastelu,+]  lykätä1,  hidastella,@ viivyttää,@ frames: 1 (postpone or delay needlessly; "He procrastinated the matter until it was almost too late") }
+{ [ lykätä2, noun.act:lykkäys1,+]  siirtää,  siirtää_jkn_käsittelyä,  panna_hyllylle,  siirtää_tuonnemmaksi,  jättää_pöydälle,  siirtää_myöhemmäksi,  viivyttää,@ verb.social:perua,* verb.communication:siirtää,* frames: 1 (hold back to a later time; "let's postpone the exam") }
+{ pysyä_virassa,  jäädä,@ frames: 1 (continue a term of office past the normal period of time) }
+{ siirtää<broader/>1,  lykätä2,@ frames: 1 (stop or postpone because of adverse conditions, such as bad weather; "call a football game") }
+{ viivyttää<approximate/>1,  lykätä2,@ frames: 1 (stop dealing with; "hold all calls to the President's office while he is in a meeting") }
+{ lykätä_tuonnemmaksi,  lykätä2,@ frames: 1 (render temporarily ineffective; "the prison sentence was suspended") }
+{ asettaa_ehdonalaiseen,  lykätä2,@ frames: 1 (put a convicted person on probation by suspending his sentence) }
+{ [ armahtaa, noun.act:armonaika,+]  lykätä3,  lykätä2,@ frames: 1 (postpone the punishment of a convicted criminal, such as an execution) }
+{ olla_enemmistönä,  olla_hallitseva,  hallita,  olla_valta-asemassa,  olla_vallitseva,   frames: 1 (be larger in number, quantity, power, status or importance; "Money reigns supreme here"; "Hispanics predominate in this neighborhood") }
+{ työntää_syrjään,  olla_enemmistönä,@ frames: 1 (prevail over; "health considerations override financial concerns") }
+{ hallita1,  olla_enemmistönä,@ frames: 1 (be central or dominant; "This scene overarches the entire first act") }
+{ olla_lukuisampi,  laskea_yhteen,@ frames: 1 (be larger in number) }
+{ laskea_yhteen,  tehdä_yhteensä,  olla10,  olla1,@ frames: 1 (add up in number or quantity; "The bills amounted to $2,000"; "The bill came to $2,000") }
+{ tuottaa_keskiarvoksi,  laskea_keskiarvo,  laskea_yhteen,@ frames: 1 (amount to or come to an average, without loss or gain; "The number of hours I work per work averages out to 40") }
+{ olla_ylivoimainen,  olla_tärkeämpi,  painaa_vaa'assa_enemmän,  painaa_enemmän,  olla_enemmistönä,@ frames: 1 (weigh more heavily; "these considerations outweigh our wishes") }
+{ merkitä3,  [ olla_tärkeä, olla_merkitystä1,^ noun.attribute:olla_merkitystä<idiomatic_pos/>,+]  vaikuttaa1,  [ olla_merkitystä, olla_merkitystä1,^ noun.attribute:olla_merkitystä<idiomatic_pos/>,+]  olla1,@ frames: 1 (have weight; have import, carry weight; "It does not matter much") }
+{ vaivata,  painaa,  ahdistaa,  merkitä3,@ frames: 1 (to be oppressive or burdensome; "weigh heavily on the mind", "Something pressed on his mind") }
+{ olla_arvoinen,  olla1,@ frames: 1 (be worthy of or have a certain rating; "This bond rates highly") }
+{ [ ansaita, noun.attribute:ansio,+]  olla1,@ frames: 1 (be worthy or deserving; "You deserve a promotion after all the hard work you have done") }
+{ ansaita1,  ansaita,@ frames: 1 (deserve (either good or bad); "It's too bad he got fired, but he sure had it coming") }
+{ saada,  olla1,@ verb.possession:ostaa,$ frames: 1 (be worth or be capable of buying; "This sum will buy you a ride on the train") }
+{ [ hallita2, adj.all:hallitseva1,+]  verb.social:vaikuttaa1,@ frames: 1 (be in control; "Her husband completely dominates her") }
+{ murskata,  hallita2,@ frames: 1 (overcome; "overbear criticism, protest, or arguments") }
+{ saada_tekemään_jtk,  saada_valtaansa,  ottaa_valtaansa,  hallita2,@ frames: 1 (enter into and control, as of emotions or ideas; "What possessed you to buy this house?"; "A terrible rage possessed her") }
+{ säilyä,  kestää2,  olla_sitkeä,  jatkua1,  olla_edelleen_olemassa,  pysyä_järkähtämättömänä,  verb.change:jatkua,@ esiintyä,$ frames: 1 (continue to exist; "These stories die hard"; "The legend of Elvis endures") }
+{ juuttua,  kestää9,@ frames: 1 (endure; "The label stuck to her for the rest of her life") }
+{ heijastua,  säilyä,@ frames: 1 (have a long or continuing effect; "The discussions with my teacher reverberated throughout my adult life") }
+{ kestää3,  kestää5,@ frames: 1 (extend or continue for a certain period of time; "The film runs 5 hours") }
+{ säilyttää,  jatkaa1,@ frames: 1 (cause to continue or prevail; "perpetuate a myth") }
+{ jatkaa_loputtomiin,  säilyttää,@ frames: 1 (cause to continue indefinitely) }
+{ vallita,  olla_voimassa,  olla_vallalla,  olla_olemassa,@ frames: 1 (be valid, applicable, or true; "This theory still holds") }
+{ [ asua, noun.person:asuja1,+ noun.person:asukas5,+ noun.act:asuminen,+]  majailla,  asuttaa,@ frames: 1 (live (in a certain place); "She resides in Princeton"; "he occupies two rooms on the top floor") }
+{ täyttää,  olla11,@ frames: 1 (occupy the whole of; "The liquid fills the container") }
+{ uittaa,  liottaa,  verb.change:kastella,@ frames: 1 (wet thoroughly) }
+{ ahtautua,  täyttää,@ frames: 1 (fill or occupy to the point of overflowing; "The students crowded the auditorium") }
+{ ottaa_pois,  viedä,  täyttää,@ frames: 1 (take up time or space; "take up the slack") }
+{ oleskella2,  asua,@ frames: 1 (reside temporarily; "I'm staying at the Hilton") }
+{ vallata,  asua,@ frames: 1 (occupy (a dwelling) illegally) }
+{ asuttaa,  [ asua1, noun.person:asukki,+ noun.artifact:asumus,+ verb.consumption:asua<note>talossa\,_jossa_on_henkilökuntana</note>,^ verb.consumption:asua_työpaikan_ulkopuolella,^ adj.all:asuttava,+ noun.person:asukas3,+ noun.person:asukas,+ noun.act:asuminen2,+ adj.all:asumiskelpoinen,+]  [ elää6, noun.act:eläminen,+]  [ asustaa, noun.person:asukki,+ noun.artifact:asumus,+ verb.consumption:asua<note>talossa\,_jossa_on_henkilökuntana</note>,^ verb.consumption:asua_työpaikan_ulkopuolella,^ adj.all:asuttava,+ noun.person:asukas3,+ noun.person:asukas,+ noun.act:asuminen2,+ adj.all:asumiskelpoinen,+]  [ elellä1, verb.consumption:asua<note>talossa\,_jossa_on_henkilökuntana</note>,^ verb.consumption:asua_työpaikan_ulkopuolella,^]  olla11,@ frames: 1 (inhabit or live in; be an inhabitant of; "People lived in Africa millions of years ago"; "The people inhabited the islands that are now deserted"; "this kind of fish dwells near the bottom of the ocean"; "deer are populating the woods") }
+{ [ asua2, noun.person:asukas5,+ noun.act:asuminen,+]  asettua_asumaan,  asuttaa,@ frames: 1 (make one's home in a particular place or community; "may parents reside in Florida") }
+{ asuttaa1,  asuttaa,@ frames: 1 (furnish with people; "The plains are sparsely populated") }
+{ [ liikakansoittaa, noun.group:liikakansoitus,+]  asuttaa,@ frames: 1 (cause to have too great a population; "Some towns in New Jersey are becoming overpopulated") }
+{ elää_avoliitossa,  asua_yhdessä,  asettua_yhteen_asumaan,  pistää_hynttyyt_yhteen,  asuttaa,@ frames: 1 (share living quarters; usually said of people who are not married and live together as a couple) }
+{ [ majoittaa, majailla,^ noun.artifact:maja3,+ noun.artifact:maja-paikka,+]  ottaa_asumaan,  verb.social:majoittaa,@ frames: 1 (provide housing for; "We are lodging three foreign students this semester") }
+{ majoittaa_kasarmiin,  majoittaa,@ frames: 1 (lodge in barracks) }
+{ majoittaa1,  majoittaa,@ frames: 1 (supply with room and board; "He is keeping three women in the guest cottage"; "keep boarders") }
+{ kasvattaa,  pitää1,  verb.creation:kasvattaa1,@ frames: 1 (raise; "She keeps a few chickens in the yard"; "he keeps bees") }
+{ paimentaa,  kasvattaa,@ frames: 1 (keep, move, or drive animals; "Who will be herding the cattle when the cowboy dies?") }
+{ paimentaa1,  paimentaa,@ frames: 1 (herd and care for; "wrangle horses") }
+{ [ asua3, noun.person:asukas4,+ noun.act:asuminen1,+]  [ majailla1, noun.artifact:maja3,+ noun.artifact:majoituspaikka,+ noun.artifact:maja-paikka,+]  asuttaa,@ frames: 1 (be a lodger; stay temporarily; "Where are you lodging in Paris?") }
+{ jäädä_yöksi,  asua3,@ frames: 1 (stay overnight; "The boy's friends were allowed to sleep over after the birthday party") }
+{ keskeyttää,  verb.motion:pysähtyä4,@ frames: 1 (interrupt a journey temporarily, e.g., overnight; "We had to stop over in Venezuela on our flight back from Brazil") }
+{ [ majoittaa2, noun.artifact:majoitus3,+ noun.artifact:majapaikka,+ noun.artifact:majoitus1,+]  majoittaa,@ noun.group:sotavoimat,;c frames: 1 (provide housing for (military personnel)) }
+{ asua4,  elää7,  koostua2,  muodostua3,  olla_peräisin1,  olla_olemassa,@ frames: 1 (originate (in); "The problems dwell in the social injustices in this country") }
+{ kuulua_olennaisesti,  kuulua2,  kuulua_jhk2,@ frames: 1 (be inherent in something) }
+{ kuulua_jhk,  koskea_jtk,  kuulua_jhk2,@ frames: 1 (be a part or attribute of) }
+{ kuulua_jollekulle,  mennä_jollekulle,   frames: 1 (be awarded; be allotted; "The first prize goes to Mary"; "Her money went on clothes") }
+{ [ telttailla, noun.person:telttailija,+ noun.artifact:teltta4,+ noun.act:telttailu,+]  [ leiriytyä, noun.act:leiriytyminen,+ noun.location:leirintäalue,+ noun.artifact:leiri,+]  asuttaa,@ frames: 1 (live in or as if in a tent; "Can we go camping again this summer?"; "The circus tented near the town"; "The houseguests had to camp in the living room") }
+{ asua5,  [ elää8, noun.act:eläminen,+]  olla_läsnä1,  olla11,@ frames: 1 (be present in; "sweet memories inhabit this house") }
+{ vaivata1,  asua5,@ frames: 1 (live on or in a host, as of parasites) }
+{ tunkeutua,  ottaa_haltuunsa,  vallata1,  olla_kiusana,  [ vaivata2, noun.group:vaivaaminen,+]  asua5,@ frames: 1 (occupy in large numbers or live on a host; "the Kudzu plant infests much of the South and is spreading to the North") }
+{ [ pesiä, noun.animal:pesijä,+ noun.object:pesä1,+]  [ pesiytyä, noun.animal:pesijä,+ noun.object:pesä1,+]  asuttaa,@ frames: 1 (inhabit a nest, usually after building; "birds are nesting outside my window every Spring") }
+{ olla11,   frames: 1 (occupy a certain position or area; be somewhere; "Where is my umbrella?" "The toolshed is in the back"; "What is behind this behavior?") }
+{ irrottaa,  pysyä_etäällä,  välttää,  kääntää_katseensa,  vältellä1,  kartella,  karttaa,  pitää_etäisyyttä,  pysyä_erossa,  olla11,@ frames: 1 (stay clear of, avoid; "Keep your hands off my wife!"; "Keep your distance from this man--he is dangerous") }
+{ loistaa,  olla1,@ frames: 1 (be clear and obvious; "A shining example") }
+{ sulkea_huoneeseen,  verb.social:majoittaa,@ frames: 1 (place in a chamber) }
+{ antaa_suojapaikka,  piilotella,  suojella,  tarjota_suojapaikka,  suojata,@ frames: 1 (secretly shelter (as of fugitives or criminals)) }
+{ [ suojata, noun.artifact:suoja9,+ noun.artifact:suoja8,+ noun.artifact:suojapaikka1,+ noun.artifact:suojapaikka2,+]  verb.possession:varustaa1,@ frames: 1 (provide shelter for; "After the earthquake, the government could not provide shelter for the thousands of homeless people") }
+{ majoittua,  asua6,  asuttaa,@ frames: 1 (live and take one's meals at or in; "she rooms in an old boarding house") }
+{ ottaa_suojiinsa,  verb.social:majoittaa,@ frames: 1 (provide with shelter) }
+{ tunkeutua_kutsumatta,  asua,@ frames: 1 (occupy, usually uninvited; "My son's friends crashed our house last weekend") }
+{ [ vastata_jtak, noun.artifact:vastine,+ noun.attribute:vastaavuus,+ adj.all:samanlainen7^vastaava12,+]  [ sopia, olla_erilainen,! adj.all:yhdenmukainen1^sopusointuinen2,+]  vastata2,  käydä_yksiin,  sopia_yhteen,  täsmätä1,  olla_vastaava1,  olla_yhtä_paljon_kuin,@ täsmätä2,$ olla_sopusoinnussa1,$ frames: 1 (be compatible, similar or consistent; coincide in their characteristics; "The two stories don't agree in many details"; "The handwriting checks with the signature on the check"; "The suspect's fingerprints don't match those on the gun") }
+{ olla_sopusoinnussa,  vastata_jtak,@ frames: 1 (be consistent in form, tenor, or character; be congruous; "Desires are to be satisfied only so far as consists with an approved end") }
+{ täsmätä2,  olla_yhtäpitävä1,  vastata_jtak,$ frames: 1 (be verified or confirmed; pass inspection; "These stories don't check!") }
+{ näyttää_jltak,  vastata_jtak,@ frames: 1 (accord in appearance with; "You don't look your age!") }
+{ vastata3,  vastata_jtak,@ frames: 1 (match or correspond; "The drawing of the suspect answers to the description the victim gave") }
+{ osua_yhteen,  vastata_jtak,@ frames: 1 (be the same; "our views on this matter coincided") }
+{ asettua_jkn_kannalle<unconfirmed/>,  vastata_jtak,@ frames: 1 (be or come into adjustment with) }
+{ olla_vastaavuussuhteessa,  vastata_jtak,@ verb.cognition:saattaa_vastaavuussuhteeseen,$ frames: 1 (to bear a reciprocal or mutual relation; "Do these facts correlate?") }
+{ olla_rinnakkainen,  vastata_jtak,@ frames: 1 (be parallel to; "Their roles are paralleled by ours") }
+{ kaksinkertaistaa,  vastata_jtak,@ frames: 1 (duplicate or match; "The polished surface twinned his face and chest in reverse") }
+{ sopia1,  vastata_jtak,@ frames: 1 (be compatible with; "one idea squares with another") }
+{ sovittaa,  verb.change:mukautua,@ frames: 1 (cause to match, as of ideas or acts) }
+{ sopia2,  sopia10,@ sopia_yhteen1,$ frames: 1 (be the right size or shape; fit correctly or as desired; "This piece won't fit into the puzzle") }
+{ liittää1,  yhdistellä,  sopia2,@ frames: 1 (fit together exactly, of identical shapes; "triangles tessellate") }
+{ [ saumata, noun.shape:sauma,+ noun.artifact:sauma,+]  sopia2,@ frames: 1 (fit as if by joints; "The boards fit neatly") }
+{ sinkata,  verb.change:sovittaa4,@ sopia2,> frames: 1 (fit together tightly, as if by means of a dovetail) }
+{ osua_yhteen1,  [ tapahtua_samanaikaisesti, esiintyä_yhdessä<unconfirmed/>,^]  esiintyä_yhtaikaisesti,@ frames: 1 (go with, fall together) }
+{ mennä_päällekkäin,  olla_osittain_päällekkäinen,  osua_yhteen1,@ frames: 1 (coincide partially or wholly; "Our vacations overlap") }
+{ esiintyä_usein_toisen_sanan_kanssa,  järjestyä,  rakentua,  esiintyä_yhdessä<unconfirmed/>,  kuulua_yhteen,  liittyä2,@ frames: 1 (go or occur together; "The word 'hot' tends to cooccur with 'cold'") }
+{ osua1,  olla1,@ verb.change:osua,$ frames: 1 (be due; "payments fall on the 1st of the month") }
+{ noudattaa1,  olla_yhdenmukainen,@ noun.communication:runous,;c frames: 1 (conform to a metrical pattern) }
+{ [ poiketa, olla_yhdenmukainen,! noun.person:poikkeava_henkilö,+ noun.person:poikkeava<idiomatic_pos/>2,+ noun.attribute:poikkeama,+ adj.all:epänormaali1^poikkeava5,+ noun.cognition:poikkeama,+ noun.event:poikkeus,+ noun.phenomenon:poikkeama,+ noun.event:poikkeavuus,+]  [ erota, noun.event:ero,+ adj.all:eri2^eroava3,+]  erota1,@ frames: 1 (be at variance with; be out of line with) }
+{ [ poiketa1, noun.state:poikkeaminen,+ noun.state:poikkeus,+]  poiketa,@ noun.cognition:valo-oppi,;c frames: 1 (diverge or deviate from the straight path; produce aberration; "The surfaces of the concave lens may be proportioned so as to aberrate exactly equal to the convex lens") }
+{ [ poiketa2, noun.state:poikkeaminen,+ noun.person:poikkeava1,+ noun.state:poikkeus,+]  poiketa,@ frames: 1 (diverge from the expected; "The President aberrated from being a perfect gentleman") }
+{ muuttua1,  [ vaihdella, adj.all:vaihteleva14^vaihteleva15,+ adj.all:eri2^vaihtoehtoinen4,+ adj.all:vaihteleva16^vaihteleva17,+ adj.all:vaihteleva14,+ noun.event:vaihtelu,+]  erota1,@ frames: 1 (be subject to change in accordance with a variable; "Prices vary"; "His moods vary depending on the weather") }
+{ [ kovarioida, noun.cognition:kovarianssi,+]  muuttua1,@ noun.cognition:tilastotiede,;c frames: 1 (vary in the same time period (of two random variables)) }
+{ ajautua,  muuttua1,@ verb.change:ajautua1,$ frames: 1 (vary or move from a fixed point or course; "stock prices are drifting higher") }
+{ [ olla_yhdenmukainen, poiketa,!]   frames: 1 (be similar, be in line with) }
+{ olla_ristiriidassa,  kumota,  poiketa,@ frames: 1 (be in contradiction with) }
+{ [ vahvistaa, adj.all:kannustava2^vahvistava5,+ noun.communication:vahvistaminen,+]  pönkittää,  tukea1,  kannatella,  kannattaa,  vastata_jtak,@ frames: 1 (support with evidence or authority or make more certain or confirm; "The stories and claims were born out by the evidence") }
+{ perustaa,  perustua,  riippua2,@ frames: 1 (be based on; of theories and claims, for example; "What's this new evidence based on?") }
+{ olla_riippuvainen,   frames: 1 (be dependent on, as for support or maintenance; "elderly parents often depend on their adult children") }
+{ luottaa,   frames: 1 (put trust in with confidence; "she is someone you can really rely on when times get rough"; "you can rely on his discretion") }
+{ [ riippua, adj.all:ehdollinen^riippuvainen3,+]  [ riippua_jostakin, adj.all:ehdollinen^riippuvainen3,+]  olla_riippuvainen1,  olla1,@ frames: 1 (be contingent upon (something that is elided); "That depends") }
+{ olla_hiuskarvan_varassa,  riippua,@ frames: 1 (depend on a small thing or be at risk; "His life now hangs by a thread") }
+{ pohjata,  pohjautua,  olla_perustana,  olla1,@ frames: 1 (be or form the base for) }
+{ olla12,  kuulua4,@ frames: 1 (be inherent or innate in; ) }
+{ [ olla_yhtä_paljon_kuin, erota1,! poiketa3,!]  olla13,  [ olla_yhtä_suuri, erota1,! poiketa3,!]  [ tehdä1, erota1,! poiketa3,!]  [ vastata4, erota1,! poiketa3,!]   frames: 1 (be identical or equivalent to; "One dollar equals 1,000 rubles these days!") }
+{ merkitä4,  olla_verrattavissa,   frames: 1 (be tantamount or equivalent to; "Her action amounted to a rebellion") }
+{ olla14,  merkitä4,@ tehdä_yhteensä1,$ frames: 1 (amount to; "This salary increase makes no difference to my standard of living") }
+{ olla_samankaltainen,  muistuttaa,  vastata_jtak,@ frames: 1 (appear like; be similar or bear a likeness to; "She resembles her mother very much"; "This paper resembles my own work") }
+{ olla_jnk_näköinen,  muistuttaa1,  näyttää,  olla_samankaltainen,@ frames: 1 (bear a physical resemblance to; "She looks like her mother") }
+{ syttyä_eloon,  olla_samankaltainen,@ frames: 1 (be lifelike, as of a painting; "If you look at it long enough, this portrait comes to life!") }
+{ muistuttaa2,  tulla<note>eri_konstruktio</note>5,  muistuttaa_jotakuta,  olla_samankaltainen,@ frames: 1 (be similar to a relative; "She takes after her father!") }
+{ muistuttaa_läheisesti,  tulla_lähelle,  olla_samankaltainen,@ frames: 1 (be close or similar; "Her results approximate my own") }
+{ [ erota1, olla_yhtä_paljon_kuin,! noun.attribute:ero,+ noun.attribute:eroavaisuus,+ olla_yhtä_suuri,! tehdä1,! vastata4,!]  [ poiketa3, olla_yhtä_paljon_kuin,! olla_yhtä_suuri,! tehdä1,! vastata4,!]   frames: 1 (be different; "These two tests differ in only one respect") }
+{ asettaa_vastapaino,  tasapainottaa,  erota_jyrkästi,@ frames: 1 (contrast with equal weight or force) }
+{ muodostaa_vastapaino,  olla_vastapainona,  toimia_vastapainona,  asettaa_vastapaino,@ frames: 1 (constitute a counterweight or counterbalance to) }
+{ erota_jyrkästi,  erota1,@ frames: 1 (to show differences when compared; be different; "the students contrast considerably in their artistic abilities") }
+{ olla_ristiriidassa1,  erota_jyrkästi,@ frames: 1 (be in conflict; "The two proposals conflict!") }
+{ [ tulla_muotiin, jäädä_pois_käytöstä,! jäädä_pois_muodista,!]  verb.change:muuttua,@ noun.cognition:muoti1,;c frames: 1 (come into fashion; become fashionable) }
+{ [ jäädä_pois_käytöstä, tulla_muotiin,!]  [ jäädä_pois_muodista, tulla_muotiin,!]  verb.change:muuttua,@ noun.cognition:muoti1,;c frames: 1 (go out of fashion; become unfashionable) }
+{ riidellä,  ottaa_yhteen,  olla_ristiriidassa1,@ frames: 1 (be incompatible; be or come into conflict; "These colors clash") }
+{ täyttää1,  sopia3,  noudattaa2,  vastata_jtak,@ frames: 1 (satisfy a condition or restriction; "Does this paper meet the requirements for the degree?") }
+{ olla_sopiva,  täyttää_odotukset,  täyttää1,@ frames: 1 (be what is needed or be good enough for what is required; "Does this restaurant fit the bill for the celebration?") }
+{ jkn_kuuluu,  olla_velvollisuus,  täyttää1,@ frames: 1 (be appropriate or necessary; "It behooves us to reflect on this matter") }
+{ [ rikkoa, mukautua,! noun.act:rikkomus7,+ adj.all:rikkoutuva,+]  vastustaa,   frames: 1 (fail to agree with; be in violation of; as of rules or patterns; "This sentence violates the rules of syntax") }
+{ olla_vastoin_jtk,  rikkoa,@ frames: 1 (go against; "This action flies in the face of the agreement") }
+{ [ mukautua, rikkoa,!]  verb.social:noudattaa1,@ frames: 1 (observe; "conform to the rules") }
+{ ylittää,  voittaa,  jättää_taakseen,  lyödä,  olla_parempi,  päihittää,  erottua,@ frames: 1 (be superior or better than some standard; "She exceeded our expectations"; "She topped her performance of last year") }
+{ olla_suurempi_kuin,  voittaa1,  ylittää1,   frames: 1 (be greater in scope or size than some standard; "Their loyalty exceeds their national bonds") }
+{ kasvaa_yli,  olla_suurempi_kuin,@ frames: 1 (grow too large) }
+{ [ riittää1, noun.quantity:riittävästi<idiomatic_pos/>,+ noun.attribute:riittävyys,+ adj.all:riittävä6,+]  vastata5,  piisata,  käydä_päinsä,  olla_hyväksyttävää,  kelvata,  välttää1,  tyydyttää,  menetellä,  täyttää2,@ frames: 1 (be sufficient; be adequate, either in quality or quantity; "A few words would answer"; "This car suits my purpose well"; "Will $100 do?"; "A 'B' grade doesn't suffice to get me into medical school"; "Nothing else will serve") }
+{ riittää_pitkälle<unconfirmed/>,  riittää1,@ frames: 1 (suffice or be adequate for a while or to a certain extent) }
+{ auttaa,  myötävaikuttaa,  verb.creation:aiheuttaa3,@ edistää,$ frames: 1 (contribute or conduce to; "The scandal served to increase his popularity") }
+{ edistää,  hyödyttää,  olla_eduksi,  olla_hyödyksi,  verb.communication:vaalia,@ auttaa,$ frames: 1 (promote, benefit, or be useful or beneficial to; "Art serves commerce"; "Their interests are served"; "The lake serves recreation"; "The President's wisdom has served the country well") }
+{ palvella,  toimia1,  riittää1,@ verb.social:palvella2,$ frames: 1 (serve a purpose, role, or function; "The tree stump serves as a table"; "The female students served as a control group"; "This table would serve very well"; "His freedom served him well"; "The table functions as a desk") }
+{ päästää_sisään,  päästää1,  istua,@ verb.social:päästää_sisään1,$ frames: 1 (serve as a means of entrance; "This ticket will admit one adult to the show") }
+{ toimia_alkusoittona,  palvella,@ frames: 1 (serve as a prelude or opening to) }
+{ toimia_jnk,  palvella,@ frames: 1 (function as or act like; "This heap of stones will act as a barrier") }
+{ [ jäädä_alle, täyttää2,!]   frames: 1 (fail to satisfy, as of expectations, for example) }
+{ [ täyttää2, jäädä_alle,! noun.act:täyttäminen3,+ noun.act:täyttäminen,+]  täyttää1,@ frames: 1 (meet the requirements or expectations of) }
+{ olla_yhdenvertainen,  yltää_jkn_tasolle,  vetää_vertoja,  vastata_jtak1,  verb.competition:kilpailla,@ verb.change:yhdenmukaistaa,$ frames: 1 (be equal to in quality or ability; "Nothing can rival cotton for durability"; "Your performance doesn't even touch that of your colleagues"; "Her persistence and ambition only matches that of her parents") }
+{ tasauttaa,  tasapainottaa1,  oikaista,  oikoa,  tasoittaa,  tasata,  kompensoida,  pitää_tasapainossa,@ frames: 1 (adjust for; "engineers will work to correct the effects or air resistance") }
+{ korvata,  hyvittää,  [ ylikompensoida, noun.process:ylikompensaatio,+]  kompensoida1,  tasauttaa,@ verb.communication:kattaa,$ frames: 1 (make up for shortcomings or a feeling of inferiority by exaggerating good qualities; "he is compensating for being a bad father") }
+{ [ pitää_tasapainossa, järkyttää,!]  verb.change:sovittaa6,@ tasapainoilla,$ verb.contact:pysytellä_tasapainossa,$ frames: 1 (bring into balance or equilibrium; "She has to balance work and her domestic duties"; "balance the two weights") }
+{ [ järkyttää, pitää_tasapainossa,!]   frames: 1 (throw out of balance or equilibrium; "The tax relief unbalanced the budget"; "The prima donna unbalances the smooth work in our department") }
+{ olla_korkeampiarvoinen,  olla_korkeammassa_asemassa<unconfirmed/>,  sijoittua,  erottua,@ frames: 1 (take precedence or surpass others in rank) }
+{ erottua,  loistaa1,  olla_erittäin_hyvä,  olla_parempi1,   frames: 1 (distinguish oneself; "She excelled in math") }
+{ haista<unconfirmed/>,  olla1,@ frames: 1 (be extremely bad in quality or in one's performance; "This term paper stinks!") }
+{ olla_perseestä,  olla_syvältä,  haista1,  olla1,@ frames: 1 (be inadequate or objectionable; "this sucks!") }
+{ loistaa2,  kunnostautua,  olla_erittäin_hyvä1,  erottua,@ frames: 1 (be good at; "She shines at math") }
+{ herättää_huomiota,  pistää_silmään,  nousta_esiin,  verb.perception:näyttää,@ frames: 1 (be highly noticeable) }
+{ tulla_jksik2,  muuttua_jksik,@ frames: 1 (be or be capable of being changed or made into; "He makes a great host"; "He will make a fine father") }
+{ matkia,  olla_samankaltainen,@ frames: 1 (appear like, as in behavior or appearance; "Life imitate art") }
+{ [ apinoida, noun.person:apinoija,+ noun.person:apina1,+]  [ matkia1, noun.act:matkiminen,+]  matkia,@ frames: 1 (imitate uncritically and in every aspect; "Her little brother apes her behavior") }
+{ [ emuloida, noun.cognition:emulointi,+]  jäljitellä,  matkia,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (imitate the function of (another system), as by modifying the hardware or the software) }
+{ palauttaa_mieleen,  muistaa,  olla_samankaltainen,@ frames: 1 (call to mind; "His words echoed John F. Kennedy") }
+{ seurata4,  noudattaa_esimerkkiä,  seurata_esimerkkiä,  imitoida,  matkia2,  matkia,@ frames: 1 (do what someone else is doing) }
+{ [ jäljitellä1, noun.act:jäljittely2,+ noun.person:jäljittelijä,+]  verb.creation:matkia,@ frames: 1 (strive to equal or match, especially by imitating; "He is emulating the skating skills of his older sister") }
+{ peittää,  täyttää2,@ frames: 1 (provide for; "The grant doesn't cover my salary") }
+{ [ viitata, noun.cognition:viittaus,+]  kuulua_asiaan,  liittyä,  koskea,  olla_tekemistä,  verb.communication:viitata5,$ frames: 1 (be relevant to; "There were lots of questions referring to her talk"; "My remark pertained to your earlier comments") }
+{ keskittää,  painottua,  pyöriä_ympärillä,  [ keskittyä, noun.cognition:keskipiste1,+ noun.cognition:keskipiste,+]  painottaa,  viitata,@ frames: 1 (center upon; "Her entire attention centered on her children"; "Our day revolved around our work") }
+{ koskea1,  päteä,  pitää_paikkansa,  viitata,@ olla_omiaan,$ frames: 1 (be pertinent or relevant or applicable; "The same laws apply to you!"; "This theory holds for all irrational numbers"; "The same rules go for everyone") }
+{ koskea2,  liikuttaa,  vaikuttaa2,  koskettaa,  liittyä1,  viitata,@ frames: 1 (connect closely and often incriminatingly; "This new ruling affects your business") }
+{ osoittaa_syylliseksi,  koskea2,@ frames: 1 (bring into intimate and incriminating connection; "He is implicated in the scheme to defraud the government") }
+{ sotkea,  verb.social:hyväksyä2,@ frames: 1 (engage as a participant; "Don't involve me in your family affairs!") }
+{ temmata,  sotkeutua1,  vetää,  vetää_mukaan,  sotkea1,  sotkea,@ frames: 1 (force into some kind of situation, condition, or course of action; "They were swept up by the events"; "don't drag me into this business") }
+{ irrottautua,  [ vapautua, noun.act:vapauttaminen3,+]  verb.social:vapauttaa3,@ frames: 1 (free from involvement or entanglement; "How can I disentangle myself from her personal affairs?") }
+{ takertua,  jäädä_kiinni,  sotkea,@ frames: 1 (entrap; "Our people should not be mired in the past") }
+{ [ huolestuttaa, noun.feeling:huoli3,+]  [ kiinnostaa, noun.cognition:kiinnostus,+]  mietityttää,  huolettaa,   frames: 1 (be on the mind of; "I worry about the second Germanic consonant shift") }
+{ olla_merkitystä1,  kiinnostaa1,  viitata,@ frames: 1 (be of importance or consequence; "This matters to me!") }
+{ kiehtoa,  hurmata,  viehättää,  olla_merkitystä1,@ frames: 1 (cause to be interested or curious) }
+{ pätevöityä,  täyttää_vaatimukset,  riittää1,@ frames: 1 (prove capable or fit; meet requirements) }
+{ [ alkaa4, noun.cognition:alku,+ noun.cognition:alkuosa,+]  aloittaa3,  alkaa1,$ frames: 1 (be the first item or point, constitute the beginning or start, come first in a series; "The number `one' begins the sequence"; "A terrible murder begins the novel"; "The convocation ceremony officially begins the semester") }
+{ [ pitkittää2, noun.attribute:pitkittäminen,+]  jatkaa,  venyttää,  jatkaa1,@ frames: 1 (lengthen or extend in duration or space; "We sustained the diplomatic negotiations as long as possible"; "prolong the treatment of the patient"; "keep up the good work") }
+{ [ jatkaa1, lakata,! lopettaa1,! päättää,!]  pitää_yllä,  [ säilyttää1, noun.state:säilytys,+]  pitää2,@ jatkaa4,$ verb.motion:edetä3,$ frames: 1 (keep or maintain in unaltered condition; cause to remain or last; "preserve the peace in the family"; "continue the family tradition"; "Carry on the old traditions") }
+{ [ muumioida, noun.state:muumioituminen1,+]  jatkaa1,@ frames: 1 (preserve while making lifeless; "mummified ideas and institutions should be gotten rid of") }
+{ sulkea,  lakata,@ frames: 1 (stem the flow of; "shut off the gas when you leave for a vacation") }
+{ lopettaa,  lakata,@ frames: 1 (used in the imperative (get away, or stop it); "Cheese it!") }
+{ [ lakata, jatkaa1,! noun.act:lakkaaminen,+ noun.event:lakkaaminen,+]  [ lopettaa1, jatkaa1,! noun.event:lopettaminen1,+]  [ päättää, jatkaa1,!]   frames: 1 (put an end to a state or an activity; "Quit teasing your little brother") }
+{ lopettaa2,  lopettaa_joltakin_päivältä,  luovuttaa,  lakata,@ frames: 1 (stop doing what one is doing; "At midnight, the student decided to call it quits and closed his books") }
+{ lopettaa3,  luopua,  lakata,@ lopettaa4,$ frames: 1 (give up; "break cigarette smoking") }
+{ lopettaa4,  luopua1,  lopettaa3,> lopettaa3,$ frames: 1 (cause to give up a habit; "She finally broke herself of smoking cigarettes") }
+{ [ pitää2, verb.change:erottaa5,^ verb.competition:säilyttää,^ verb.competition:ylläpitää,^ pitkittää2,^ verb.change:pitää_kurissa,^ verb.social:sulkea_pois,^ verb.social:pitää_jossakin,^ verb.communication:pysyä_erossa,^ verb.communication:välttää4,^ verb.consumption:pysyä_erossa,^ verb.consumption:välttää,^ verb.change:estää_kohoamasta,^ jatkaa,^ venyttää,^]  [ ylläpitää, verb.change:erottaa5,^ verb.competition:säilyttää,^ verb.competition:ylläpitää,^ pitkittää2,^ verb.change:pitää_kurissa,^ verb.social:sulkea_pois,^ verb.social:pitää_jossakin,^ verb.communication:pysyä_erossa,^ verb.communication:välttää4,^ verb.consumption:pysyä_erossa,^ verb.consumption:välttää,^ verb.change:estää_kohoamasta,^ jatkaa,^ venyttää,^]  [ pitää_jonakin, verb.competition:vastustaa2,^ verb.competition:vastustaa<approximate/>3,^ verb.change:pysäyttää1,^ sinnitellä,^ verb.competition:pidätellä,^ pysyä_samana,^ verb.change:viivästyttää1,^]   frames: 1 (keep in a certain state, position, or activity; e.g., "keep clean"; "hold in place"; "She always held herself as a lady"; "The students keep me on my toes") }
+{ pysyä_samana,  pitää2,@ frames: 1 (keep in a position or state from an earlier period of time) }
+{ säilyä1,  pitää2,@ frames: 1 (keep constant through physical or chemical reactions or evolutionary change; "Energy is conserved in this process") }
+{ rauhoittaa,  suojella1,  pitää2,@ frames: 1 (keep undisturbed for personal or private use for hunting, shooting, or fishing; "preserve the forest and the lakes") }
+{ tukea2,  verb.consumption:elättää,@ verb.contact:kantaa,$ frames: 1 (keep up with financial support; "The Federal Government carried the province for many years") }
+{ etäännyttää,  pitää2,@ frames: 1 (keep at a distance; "we have to distance ourselves from these events in order to continue living") }
+{ pitää_taloutta_yllä,  pitää2,@ frames: 1 (maintain a household; take care of all business related to a household) }
+{ pysyä1,  jatkaa4,@ frames: 1 (remain in a certain state, position, or condition; "The weather held"; "They held on the road and kept marching") }
+{ heikentyä,  hiipua,  laantua,  hiljentyä,  päättyä3,@ frames: 1 (end weakly; "The music just petered out--there was no proper ending") }
+{ [ päättyä3, jatkaa4,!]  päättyä,@ frames: 1 (come to or be at an end; "the support from our sponsoring agency will discontinue after March 31") }
+{ keskeyttää1,  lopettaa5,  päättyä3,@ frames: 1 (come to an end, stop or cease; "the road leaves off at the edge of the forest"; "leave off where you started") }
+{ jatkaa2,  jatkua_jatkumistaan,  jatkaa4,@ verb.communication:olla_jnk_asiakas,$ frames: 1 (continue uninterrupted; "The disease will run on unchecked"; "The party kept going until 4 A.M.") }
+{ laverrella,  rönsyillä,  jaaritella,  verb.communication:jatkaa,@ frames: 1 (continue talking or writing in a desultory manner; "This novel rambles on and jogs") }
+{ jatkaa3,  jatkaa4,@ frames: 1 (continue undisturbed and without interference; "Let it ride") }
+{ vanhentua,  vanheta,  päättyä3,@ frames: 1 (lose validity; "My passports expired last month") }
+{ [ jatkaa4, päättyä3,! noun.attribute:jatkuminen,+ noun.act:jatkaminen1,+]  verb.social:toimia,@ jatkaa1,$ jatkua5,$ frames: 1 (continue a certain state, condition, or activity; "Keep on working!"; "We continued to work into the night"; "Keep smiling"; "We went on working until well past midnight") }
+{ mennä_ristiin,  halkoa1,  leikata,  kestää4,  käsittää4,  pyyhkiä,  ylittää2,  kattaa1,@ frames: 1 (to cover or extend over an area or time period; "Rivers traverse the valley floor", "The parking lot spans 3 acres"; "The novel spans three centuries") }
+{ [ ulottua, ulottua4,^ ylettyä1,^]  yltää,  [ koskettaa1, noun.event:kosketus,+]  [ osua2, ulottua4,^ ylettyä1,^]  [ ulottaa, ulottua4,^ ylettyä1,^]  [ ylettyä, ulottua4,^ ylettyä1,^]  olla11,@ frames: 1 (to extend as far as; "The sunlight reached the wall"; "Can he reach?" "The chair must not touch the wall") }
+{ [ ulottua1, reunustaa2,^ yltää,^]  mennä1,  johtaa4,  olla11,@ vaihdella1,$ frames: 1 (stretch out over a distance, space, time, or scope; run or extend between two points or beyond a certain point; "Service runs all the way to Cranbury"; "His knowledge doesn't go very far"; "My memory extends back to my fourth year of life"; "The facts extend beyond a consideration of her personal assets") }
+{ johtaa5,  mennä2,  viedä1,  olla11,@ frames: 1 (lead, extend, or afford access; "This door goes to the basement"; "The road runs South") }
+{ ulottaa1,  johtaa6,  verb.motion:panna_eteenpäin,@ verb.contact:kuljettaa,$ vaihdella1,$ frames: 1 (cause something to pass or lead somewhere; "Run the wire behind the cabinet") }
+{ ulottua2,  ulottua1,@ frames: 1 (extend or reach; "The water came up to my waist"; "The sleeves come to your knuckles") }
+{ levittäytyä1,  säteillä1,  ulottua1,@ frames: 1 (extend or spread outward from a center or focus or inward towards a center; "spokes radiate from the hub of the wheel"; "This plants radiate spines in all directions") }
+{ aaltoilla,   frames: 1 (occur in soft rounded shapes; "The hills rolled past") }
+{ johtaa7,  olla_kärjessä,  verb.competition:kilpailla,* frames: 1 (be ahead of others; be the first; "she topped her class every year") }
+{ reunustaa,  reunustaa2,@ frames: 1 (run around the rim of; "Sugar rimmed the dessert plate") }
+{ ympäröidä,  reunustaa,@ frames: 1 (go along the rim, like a beard around the chin; "Houses bearded the top of the heights") }
+{ kattaa1,  jatkua2,  ulottua3,  olla11,@ verb.competition:pitää_aseen_kantama-alueella,$ frames: 1 (span an interval of distance, space or time; "The war extended over five years"; "The period covered the turn of the century"; "My land extends over the hills on the horizon"; "This farm covers some 200 acres"; "The Archipelago continues for another 500 miles") }
+{ pyyhkiä_yli,  kattaa1,@ frames: 1 (cover the entire range of) }
+{ pyyhkiä1,  pyyhkiä_yli,@ frames: 1 (sweep the length of; "The gunfire raked the coast") }
+{ ampua_sivusta,  pyyhkiä1,@ frames: 1 (rake or be in a position to rake with gunfire in a lengthwise direction) }
+{ olla_limittäin,  limittyä,  olla_osittain_päällekkäinen1,  kattaa1,@ frames: 1 (extend over and cover a part of; "The roofs of the houses overlap in this crowded city") }
+{ olla_limittäin1,  olla_limittäin,@ asettaa_limittäin,$ frames: 1 (overlap; "The roof tiles imbricate") }
+{ asettaa_limittäin,  verb.contact:panna2,@ olla_limittäin1,$ frames: 1 (place so as to overlap; "imbricate the roof tiles") }
+{ [ levitä, noun.event:leviäminen1,+ noun.act:leviäminen,+ noun.event:levittäytyminen,+]  kattaa1,@ frames: 1 (spread across or over; "A big oil spot spread across the water") }
+{ nousta3,  levitä,@ frames: 1 (spread over land, especially along a subsiding shoreline; "The sea transgresses along the West coast of the island") }
+{ jatkua_harjanteena,  kattaa1,@ frames: 1 (extend in ridges; "The land ridges towards the South") }
+{ pilkuttaa,  kuvioida,  peittää<broader/>1,  kattaa1,@ frames: 1 (scatter or intersperse like dots or studs; "Hills constellated with lights") }
+{ ulottua4,  olla11,@ frames: 1 (reach outward in space; "The awning extends several feet over the sidewalk") }
+{ ylettyä1,  ulottua,@ frames: 1 (run into or up to) }
+{ ulottua5,  jatkua3,  muodostaa1,@ frames: 1 (range or extend over; occupy a certain area; "The plants straddle the entire state") }
+{ levittäytyä2,  ulottua6,  ulottua5,@ frames: 1 (stretch over; "His residences spread-eagle the entire county") }
+{ olla15,  [ sijaita, noun.location:sijainti1,+]  olla11,@ olla24,$ frames: 1 (be located or situated somewhere; occupy a certain position) }
+{ sijaita1,  olla16,  seistä,  olla11,@ frames: 1 (be located or situated somewhere; "The White House sits on Pennsylvania Avenue") }
+{ kyyhöttää,  olla15,@ frames: 1 (lie in a sheltered position; "The little cottage nestles in the forest") }
+{ olla_välissä,  olla15,@ frames: 1 (be placed or located between other things or extend between spaces and events; "This interludes intervenes between the two movements"; "Eight days intervened") }
+{ huipentaa,  olla15,@ frames: 1 (be at the top of or constitute the top or highest point; "A star tops the Christmas Tree") }
+{ olla_välissä<unconfirmed/>1,  olla15,@ frames: 1 (occupy an intermediate or middle position or form a connecting link or stage between two others; "mediate between the old and the new") }
+{ olla_ankkurissa,  olla15,@ frames: 1 (lie moored or anchored; "Ship rides at anchor") }
+{ maata_sylissä,  olla15,@ frames: 1 (lie partly over or alongside of something or of one another) }
+{ rajoittua1,  keskittyä1,  paikallistua,  olla15,@ frames: 1 (concentrate on a particular place or spot; "The infection has localized in the left eye") }
+{ esittää_tietyssä_valossa,  värittää,  olla15,@ frames: 1 (lie obliquely; "A scar slanted across his face") }
+{ [ edeltää, adj.all:edeltävä2^edeltävä4,+ noun.communication:edellä_mainittu<note>henkilöstä</note>1,+]  olla15,@ frames: 1 (come before; "Most English adjectives precede the noun they modify") }
+{ lojua,  istuskella,  istuksia,  olla17,  olla11,@ frames: 1 (be around, often idly or without specific purpose; "The object sat in the corner"; "We sat around chatting for another hour") }
+{ maata,  olla<broader/>18,  olla15,@ frames: 1 (lie underneath) }
+{ peittää2,  päällystää,  olla15,@ frames: 1 (lie at the top of; "Snow capped the mountains") }
+{ [ antaa_jhk_päin, olla_jnk_rajaama,! olla_jnk_reunustama,! olla_jnk_takana,! olla_jnk_taustalla,!]  olla_jnnk_päin,  olla15,@ olla_vastakkain,$ frames: 1 (be oriented in a certain direction, often with respect to another reference point; be opposite to; "The house looks north"; "My backyard look onto the pond"; "The building faces the park") }
+{ olla_vastakkain,  olla_vastapäätä,  olla11,@ antaa_jhk_päin,$ frames: 1 (be opposite; "the facing page"; "the two sofas face each other") }
+{ olla_vastapäätä1,  olla1,@ frames: 1 (be opposite to; of angles and sides, in geometry) }
+{ [ olla_jnk_rajaama, antaa_jhk_päin,!]  [ olla_jnk_reunustama, antaa_jhk_päin,!]  [ olla_jnk_takana, antaa_jhk_päin,!]  [ olla_jnk_taustalla, antaa_jhk_päin,!]  olla15,@ frames: 1 (be in back of; "My garage backs their yard") }
+{ reunustaa1,  olla15,@ frames: 1 (be located at the sides of something or somebody) }
+{ olla_kärjessä1,  olla15,@ frames: 1 (be in the front of or on top of; "The list was headed by the name of the president") }
+{ olla_päällä,  olla_kärjessä1,@ frames: 1 (be on top of; "The scarf surmounted the gown") }
+{ muodostaa_huippukohta,  olla_kärjessä1,@ frames: 1 (form the topmost part of; "A weather vane crowns the building") }
+{ varustaa_pinaakkelein,  olla_päällä,@ frames: 1 (surmount with a pinnacle; "pinnacle a pediment") }
+{ paikallistaa,  sijoittaa,  verb.communication:määrittää,@ frames: 1 (determine or indicate the place, site, or limits of, as if by an instrument or by a survey; "Our sense of sight enables us to locate objects in space"; "Locate the boundaries of the property") }
+{ havaita,  paikantaa,  paikallistaa,@ frames: 1 (locate (a moving entity) by means of a tracking system such as radar) }
+{ [ radiopaikantaa, noun.artifact:radiopaikannin,+]  paikallistaa,@ frames: 1 (locate by means of radar; "The pilot managed to radiolocate the lost aircraft") }
+{ [ kartoittaa, noun.act:kartoitus1,+]  paikallistaa,@ frames: 1 (locate within a specific region of a chromosome in relation to known DNA or gene sequences; "map the genes") }
+{ [ paikantaa1, noun.act:paikallistaminen,+ noun.location:paikka9,+]  [ paikallistaa1, noun.act:paikallistaminen,+ noun.location:paikka9,+]  paikallistaa,@ frames: 1 (identify the location or place of; "We localized the source of the infection") }
+{ kohota_yli,  hallita3,  nousta_yläpuolelle,  olla15,@ frames: 1 (look down on; "The villa dominates the town") }
+{ jättää_varjoonsa,  saada_näyttämään_pieneltä,  kohota_yli,@ frames: 1 (make appear small by comparison; "This year's debt dwarfs that of last year") }
+{ häämöttää,  kohota,  [ vallita1, noun.attribute:vallitsevuus,+]  [ vallita<unconfirmed/>2, noun.attribute:vallitsevuus,+]  siintää,  kohota_korkealle,  kohota1,@ frames: 1 (appear very large or occupy a commanding position; "The huge sculpture predominates over the fountain"; "Large shadows loomed on the canyon wall") }
+{ kohota1,  kohota_korkealle1,  verb.perception:näyttää,@ frames: 1 (rise up; "The building rose before them") }
+{ häämöttää1,  siintää1,  verb.perception:näyttää,@ frames: 1 (come into view indistinctly, often threateningly; "Another air plane loomed into the sky") }
+{ uhata,  saattaa_vaaraan,  vaarantaa,  olla_olemassa,@ frames: 1 (pose a threat to; present a danger to; "The pollution is endangering the crops") }
+{ riippua_yli,  riippua1,  verb.contact:riippua1,@ frames: 1 (be suspended over or hang over; "This huge rock beetles over the edge of the town") }
+{ tylsistyä,  verb.change:vanheta,@ frames: 1 (be foolish or senile due to old age) }
+{ edustaa1,  ilmentää,  ruumiillistua,  olla19,  henkilöidä,  henkilöityä,  [ personoida, noun.cognition:persoona,+ noun.attribute:persoona,+]  [ persoonallistua, noun.cognition:persoona,+ noun.attribute:persoona,+]  verb.communication:edustaa,@ frames: 1 (represent, as of a character on stage; "Derek Jacobi was Hamlet") }
+{ olla_luonteenomaista,  olla_ominaista,  verb.cognition:erottua,@ frames: 1 (be characteristic of; "What characterizes a Venetian painting?") }
+{ [ yksilöidä<approximate/>, noun.attribute:yksilökohtaisuus,+ noun.cognition:yksilöiminen,+]  olla_luonteenomaista,@ frames: 1 (give individual character to) }
+{ luonnehtia,  olla_luonteenomaista,@ frames: 1 (determine the nature of; "What defines a good wine?") }
+{ tehdä_todelliseksi,  antaa_muoto,  [ ilmentää1, noun.act:ilmentymä,+]  antaa_konkreettinen_muoto,  olla_jonkin_ruumiillistuma,  olla1,@ frames: 1 (represent in bodily form; "He embodies all that is evil wrong with the system"; "The painting substantiates the feelings of the artist") }
+{ syntyä_uudestaan,  syntyä_uudelleen,  verb.change:syntyä3,@ noun.cognition:usko3,;c frames: 1 (be born anew in another body after death; "Hindus believe that we transmigrate") }
+{ antaa_muoto_jllk,  [ personoida1, noun.communication:personointi,+]  edustaa1,@ frames: 1 (invest with or as with a body; give body to) }
+{ edustaa_jtk,  olla_täydellinen_esimerkki_jstak,  olla_jnk_ruumiillistuma,  verb.communication:edustaa,@ frames: 1 (embody the essential characteristics of or be a typical example of; "The fugue typifies Bach's style of composition") }
+{ merkitä5,  tarkoittaa2,  [ vastata6, adj.all:samanlainen7^vastaava12,+]  olla_vastaava2,  olla_yhtä_paljon_kuin,@ frames: 1 (take the place of or be parallel or equivalent to; "Because of the sound changes in the course of history, an 'h' in Greek stands for an 's' in Latin") }
+{ olla_yhdenmukainen1,  vastata_jtak,@ frames: 1 (be homologous; "A person's arms homologize with a quadruped's forelimbs") }
+{ olla_sopivaa,  sopia4,  olla_sopiva1,  pukea,  vastata_jtak,@ frames: 1 (accord or comport with; "This kind of behavior does not suit a young woman!") }
+{ olla_sopusoinnussa1,  sointua,  sointua_yhteen,  olla_yhtäpitävä2,  täsmätä3,  [ sopia5, adj.all:yhdenmukainen1^sopusointuinen2,+]  vastata_jtak,@ vastata_jtak,$ frames: 1 (go together; "The colors don't harmonize"; "Their ideas concorded") }
+{ sopia_yhteen1,  sulautua_jhk,  käydä2,  sopia_joukkoon,  sulautua,  sulautua_toisiinsa,  olla_sopusoinnussa1,@ sopia2,$ frames: 1 (blend or harmonize; "This flavor will blend with those in your dish"; "This sofa won't go with the chairs") }
+{ kuulua3,  mennä3,   frames: 1 (be sounded, played, or expressed; "How does this song go again?") }
+{ mennä4,  sisältyä1,   frames: 1 (be contained in; "How many times does 18 go into 54?") }
+{ sisältää6,  sisältää3,@ mahtua,$ frames: 1 (contain or hold; have within; "The jar carries wine"; "The canteen holds fresh water"; "This can contains water") }
+{ mahtua,  vetää1,  pitää3,  olla1,@ sisältää6,$ majoittaa3,$ frames: 1 (be capable of holding or containing; "This box won't take all the items"; "The flask holds one gallon") }
+{ mahtua_nukkumaan,  majoittaa3,@ frames: 1 (be able to accommodate for sleeping; "This tent sleeps six people") }
+{ säilyttää2,  sisältää6,@ frames: 1 (hold back within; "This soil retains water"; "I retain this drug for a long time"; "the dam retains the water") }
+{ olla20,  majoittaa3,@ frames: 1 (contain or cover; "This box houses the gears") }
+{ olla_istumapaikkoja,  olla_tilaa,  mahtua1,  majoittaa3,@ frames: 1 (be able to seat; "The theater seats 2,000") }
+{ [ puolustaa, antaa_periksi,!]  pitää_pintansa,  verb.competition:tehdä_vastarintaa1,@ verb.competition:tehdä_vastarintaa,$ frames: 1 (hold one's ground; maintain a position; be steadfast or upright; "I am standing my ground and won't give in!") }
+{ olla_pitkä,  painaa1,  olla_mitoiltaan,@ frames: 1 (be tall; have a height of; copula; "She stands 6 feet tall") }
+{ maksaa1,  olla21,  olla1,@ frames: 1 (be priced at; "These shoes cost $100") }
+{ maksaa2,  tehdä_lovi_kukkaroon,  kärsiä,  maksaa1,@ frames: 1 (cost a certain amount; "My daughter's wedding set me back $20,000") }
+{ soveltua,  [ sopia6, noun.event:sopeutuminen,+]  täyttää1,@ frames: 1 (be agreeable or acceptable to; "This suits my needs") }
+{ pysyä2,  verb.change:jatkua,@ frames: 1 (be in effect; be or remain in force; "The law stands!") }
+{ kelvata1,  pysyä2,@ frames: 1 (admit to testing or proof; "This silly excuse won't wash in traffic court") }
+{ [ antaa_periksi, puolustaa,!]  antaa_myöten,  heltyä,   frames: 1 (give in, as to influence or pressure) }
+{ taipua,  antaa_periksi,@ frames: 1 (yield to out of weakness) }
+{ reunustaa2,  olla15,@ frames: 1 (be in line with; form a line along; "trees line the riverbank") }
+{ reunustaa3,  rajata2,@ frames: 1 (form the edge of) }
+{ lähennellä,  olla_jonkin_rajoilla,  rajata2,@ frames: 1 (border on; come close to; "His behavior verges on the criminal") }
+{ olla_melkein,  lähennellä1,  lähetä,  vetää_vertoja1,  hipoa,  lähestyä,  muistuttaa_läheisesti,@ frames: 1 (come near or verge on, resemble, come nearer in quality, or character; "This borders on discrimination!"; "His playing approaches that of Horowitz") }
+{ järjestyä1,  verb.contact:järjestää3,@ frames: 1 (form a line; "The buildings all line up neatly") }
+{ [ olla_mitoiltaan, täyttää_vaatimukset,^]  olla1,@ frames: 1 (have certain dimensions; "This table surfaces measures 20inches by 36 inches") }
+{ [ punnita, noun.person:punnitsija,+]  vaaita,  verb.change:määrittää1,@ painaa2,$ frames: 1 (determine the weight of; "The butcher weighed the chicken") }
+{ painaa2,  olla_mitoiltaan,@ punnita,$ frames: 1 (have a certain weight) }
+{ kestää5,  jatkua4,  olla_mitoiltaan,@ frames: 1 (persist for a specified period of time; "The bad weather lasted for three days") }
+{ säilyä2,  kestää6,  pysyä_hyvänä,  kestää5,@ frames: 1 (last and be usable; "This dress wore well for almost ten years") }
+{ kestää_kauemmin1,  verb.competition:ylittää,@ frames: 1 (last longer than others; "This material outwears all others") }
+{ pitkittyä,  venyä,  kestää5,@ frames: 1 (last unnecessarily long) }
+{ kuulua4,  olla_osa,  sisältää3,@ frames: 1 (be part of; "This problem inheres in the design") }
+{ kuulua_jhk1,  muodostaa1,@ frames: 1 (be included in or classified as; "This falls under the rubric 'various'") }
+{ [ epäröidä2, noun.cognition:epäröinti2,+]   frames: 1 (be noncommittal) }
+{ [ istua_kahareisin, noun.act:istua_hajareisin,+]  [ seistä_kahareisin, noun.act:seistä_hajareisin,+]  [ istua_hajareisin, noun.act:istua_hajareisin,+]  seisoa_hajareisin,  olla11,@ frames: 1 (sit or stand astride of) }
+{ häilyä,  olla_kahden_vaiheilla,  horjua,  hoippua,  soutaa_ja_huovata,  epäröidä3,  epäröidä,@ frames: 1 (be undecided about something; waver between conflicting positions or courses of action; "He oscillates between accepting the new position and retirement") }
+{ aikailla1,  horjua1,  olla_kahden_vaiheilla1,  häilyä,@ frames: 1 (be uncertain and vague) }
+{ [ hohtaa1, noun.event:hohto,+]  [ kimmeltää, noun.event:kimmellys,+]  verb.perception:kiiltää,@ frames: 1 (give off a shimmering reflection, as of silk) }
+{ kuhista,  kihistä,  vilistä,  olla1,@ frames: 1 (be noisy with activity; "This office is buzzing with activity") }
+{ [ uhmata, adj.all:uhmakas,+]  [ vastustaa1, noun.person:vastustaja<broader/>10,+]  pitää_pintansa1,  kestää7,  verb.competition:tehdä_vastarintaa1,@ frames: 1 (resist or confront with resistance; "The politician defied public opinion"; "The new material withstands even the greatest wear and tear"; "The bridge held") }
+{ seistä1,  seisoa,  verb.change:jäädä,@ frames: 1 (remain inactive or immobile; "standing water") }
+{ sietää,  kestää8,  kohdata_rohkeasti,  uhmata,@ frames: 1 (face and withstand with courage; "She braved the elements") }
+{ [ olla_omiaan, uhmata1,!]  [ sopia7, uhmata1,!]  [ soveltua1, adj.all:käytännöllinen3^sovellettavissa_oleva,+ noun.act:sovellutus,+ noun.act:soveltaminen1,+ adj.all:merkityksellinen1^sovellettavissa_oleva1,+ adj.all:merkityksellinen1^soveltuva,+]  koskea1,$ frames: 1 (be applicable to; as to an analysis; "This theory lends itself well to our new data") }
+{ ylittää3,  uhmata1,@ frames: 1 (be beyond the resources of; "This beggars description!") }
+{ [ uhmata1, olla_omiaan,! sopia7,!]  vastustaa2,  torjua,  olla_käsittämätön_jklle,@ frames: 1 (elude, especially in a baffling way; "This behavior defies explanation") }
+{ viettää_viikonloppua,  kuluttaa,@ frames: 1 (spend the weekend) }
+{ tuhlata,  törsätä,  haaskata,  verb.possession:käyttää2,@ frames: 1 (waste time; spend one's time idly or inefficiently) }
+{ haaskata1,  verb.possession:käyttää2,@ frames: 1 (spend time badly or unwisely; "He misspent his youth") }
+{ kuluttaa,  viettää,   frames: 1 (pass time in a specific way; "how are you spending your summer vacation?") }
+{ [ lomailla, noun.person:lomailija1,+ noun.act:lomailu,+ noun.time:loma,+]  viettää_loma,  viettää_lomaa,  kuluttaa,@ frames: 1 (spend or take a vacation) }
+{ mennä_häämatkalle,  lomailla,@ frames: 1 (spend a holiday after one's marriage; "they plan to honeymoon in Hawai'i") }
+{ istua,  lusia,  kärsiä_tuomio,  saada_kakku,  kuluttaa,@ frames: 1 (spend time in prison or in a labor camp; "He did six years for embezzlement") }
+{ viettää1,  kuluttaa1,  kuluttaa,@ frames: 1 (spend or pass, as with boredom or in a pleasant manner; of time) }
+{ oleskella3,  [ vierailla1, noun.person:vierailija1,+ noun.act:vierailu,+]  kuluttaa,@ frames: 1 (spend a certain length of time; reside temporarily) }
+{ viettää_talvi,  talvehtia,  kuluttaa,@ frames: 1 (spend the winter; "We wintered on the Riviera"; "Shackleton's men overwintered on Elephant Island") }
+{ viettää_kesää,  kuluttaa,@ frames: 1 (spend the summer; "We summered in Kashmir") }
+{ [ erota2, yhtyä1,!]  [ erkaantua, yhtyä1,!]   frames: 1 (extend in a different direction; "The lines start to diverge here"; "Their interests diverged") }
+{ haarautua,  erota2,@ frames: 1 (branch off; "The road divaricates here") }
+{ kohdata,  yhtyä1,@ frames: 1 (meet at breast level; "The runner breasted the tape") }
+{ [ yhtyä1, erota2,! divergoitua<unconfirmed/>,! erkaantua,!]  kohdata1,  verb.contact:koskettaa,$ frames: 1 (be adjacent or come together; "The lines converge at this point") }
+{ [ rajata2, noun.shape:raja,+ noun.location:raja1,+]  [ reunustaa4, olla_melkein,^ hipoa,^ lähestyä,^]  [ rajoittaa1, olla_melkein,^ hipoa,^ lähestyä,^]  ympäröidä1,@ frames: 1 (form the boundary of; be contiguous to) }
+{ reunustaa5,  rajata2,@ frames: 1 (serve as a shore to; "The river was shored by trees") }
+{ ympäröidä1,  sisältää6,@ frames: 1 (close in; darkness enclosed him") }
+{ pengertää,  ympäröidä1,@ frames: 1 (enclose with banks, as for support or protection; "The river was embanked with a dyke") }
+{ [ aidata, noun.artifact:aidoitus,+]  ympäröidä1,@ frames: 1 (enclose with rails; "rail in the old graves") }
+{ tukkia_jklta_tie,  ahdistaa_nurkkaan,  ympäröidä1,@ frames: 1 (enclose or confine as if in a box) }
+{ [ kehystää, noun.person:kehystäjä,+ noun.artifact:kehys2,+]  ympäröidä1,@ frames: 1 (enclose in a frame, as of a picture) }
+{ riippua2,   frames: 1 (be contingent on; "The outcomes rides on the results of the election"; "Your grade will depends on your homework") }
+{ muodostaa_malli,  vastata_jtak,@ frames: 1 (form a pattern; "These sentences pattern like the ones we studied before") }
+{ [ edeltää1, seurata5,! adj.all:edeltävä2^edeltävä4,+ noun.attribute:edeltävyys,+ noun.event:edellä_käyvä_seikka,+ noun.event:edeltävä_tapahtuma,+]   frames: 1 (be earlier in time; go back further; "Stone tools precede bronze tools") }
+{ [ seurata5, edeltää1,!]  olla_seurauksena1,$ frames: 1 (be later in time; "Tuesday always follows Monday") }
+{ suunnata,  verb.motion:sijoittaa,@ osoittaa1,> frames: 1 (cause to point; "Orient the house towards the West") }
+{ [ aurata, noun.act:auraus,+]  jarruttaa,  suunnata,@ frames: 1 (cause to point inward; "stem your skis") }
+{ [ osoittaa1, noun.communication:osoitin,+ noun.artifact:osoitin2,+]  olla15,@ frames: 1 (be oriented; "The weather vane points North"; "the dancers toes pointed outward") }
+{ pistää_esiin,  työntyä,  harottaa,  [ törröttää, noun.act:törrötys,+]  pilkistää,  pistää,  sojottaa,   frames: 1 (extend out or project in space; "His sharp nose jutted out"; "A single rock sticks out from the cliff") }
+{ [ ulottua_yli, noun.artifact:uloke,+]  pistää_esiin,@ frames: 1 (project over) }
+{ työntyä1,  pistää_esiin,@ työntää,$ frames: 1 (push upward; "The front of the trains that had collided head-on thrust up into the air") }
+{ työntää,  noun.cognition:geologia,;c työntyä1,$ frames: 1 (force (molten rock) into pre-existing rock) }
+{ pistää1,  sojottaa1,  pistää_esiin,@ frames: 1 (thrust up like a spear; "The branch speared up into the air") }
+{ [ pullistua, noun.shape:pullistuma,+]  työntyä2,  [ pullottaa, noun.shape:pullistuma,+]  pistää_esiin,@ frames: 1 (bulge out; form a bulge outward, or be so full as to appear to bulge) }
+{ [ pullistua1, adj.all:ulostyöntyvä^pullottava,+ noun.state:pullistuma1,+]  pullistua,@ pullistaa,$ frames: 1 (form a rounded prominence; "The starved child's belly protuberated") }
+{ [ pullistaa, adj.all:ulostyöntyvä^pullottava,+]  pullistua1,$ frames: 1 (cause to bulge out or project) }
+{ [ ulottaa<broader/>2, noun.artifact:ulokepalkki,+]  pistää_esiin,@ frames: 1 (project as a cantilever) }
+{ [ kuhista1, vilistä2,^]  vilistä1,  [ parveilla, noun.group:parvi9,+ noun.group:parvi7,+]  kuhista,@ frames: 1 (be teeming, be abuzz; "The garden was swarming with bees"; "The plaza is teeming with undercover policemen"; "her mind pullulated with worries") }
+{ [ olla_runsaasti, olla_tulvillaan1,^]  olla1,@ frames: 1 (be abundant or plentiful; exist in large quantities) }
+{ olla_täynnä<unconfirmed/>,  olla8,@ frames: 1 (have or be thickly covered with or as if with bristles; "bristling leaves") }
+{ olla_runsaasti1,  olla_pullollaan,  olla_täynnä<unconfirmed/>1,  olla_tulvillaan,  olla8,@ frames: 1 (be in a state of movement or action; "The room abounded with screaming children"; "The garden bristled with toddlers") }
+{ huokua1,  uhkua,  olla8,@ frames: 1 (be completely full; "His eyes brimmed with tears") }
+{ olla_tulvillaan1,  vilistä2,  kuhista2,  esiintyä1,@ frames: 1 (exist in large quantity) }
+{ vilistä3,  kuhista1,@ frames: 1 (be full of; "The old cheese was crawling with maggots") }
+{ liittyä2,  olla_mukana,  täydentää,  tulla_mukana,  esiintyä_yhdessä1,  käydä3,   frames: 1 (be present or associated with an event or entity; "French fries come with the hamburger"; "heart attacks are accompanied by distruction of heart tissue"; "fish usually goes with white wine"; "this kind of vein accompanies certain arteries") }
+{ aiheutua_jstak,  seurata6,  liittyä2,@ frames: 1 (to accompany as a circumstance or follow as a result; "Menuhin's playing was attended by a 15-minute standing ovation") }
+{ pitää_seuraa,  olla_mukana1,  olla_seurana,  olla_jonkun_kanssa,  olla_jonkun_seuralaisena,  verb.social:kaveerata,@ frames: 1 (be a companion to somebody) }
+{ liittyä_jhkin,  liittyä2,@ frames: 1 (have an affinity with; of signs of the zodiac) }
+{ [ kantaa2, noun.act:kantaminen,+]  pitää_mukanaan,  kuljettaa,  olla8,@ kantaa1,$ frames: 1 (have with oneself; have on one's person; "She always takes an umbrella"; "I always carry money"; "She packs a gun when she goes into the mountains") }
+{ lököttää,  roikkua1,  verb.motion:roikkua1,@ frames: 1 (hang loosely, like an empty bag) }
+{ riippua3,  roikkua2,  killua,  verb.contact:riippua1,@ frames: 1 (hang freely; "the ornaments dangled from the tree"; "The light dropped from the ceiling") }
+{ riippua4,  roikkua3,  riippua3,@ frames: 1 (hang loosely or laxly; "His tongue lolled") }
+{ kumota1,  olla_vastapainona1,  tasoittaa1,  pitää_tasapainossa,@ frames: 1 (make up for; "His skills offset his opponent's superior strength") }
+{ korvata1,  vastata7,  pitää_tasapainossa,@ frames: 1 (compensate for or counterbalance; "offset deposits and withdrawals") }
+{ noudattaa3,  pitää_kiinni1,  pysyä3,  vastata_jtak,@ frames: 1 (be compatible or in accordance with; "You must adhere to the rules") }
+{ [ jakaa1, noun.relation:jakaminen,+]  olla_yhteistä,  mennä_päällekkäin,@ frames: 1 (have in common; "Our children share a love of music"; "The two countries share a long border") }
+{ [ olla_erilainen, sopia,!]  erota3,  poiketa_toisistaan,  olla1,@ frames: 1 (be different from one another) }
+{ ammottaa,  olla_avoin,  olla_avonainen,  olla1,@ frames: 1 (be wide open; "the deep gaping canyon") }
+{ [ haarautua1, noun.act:haarautuminen,+ noun.shape:haara1,+]  [ jakaa_kahteen_osaan, noun.act:jakaantuminen_kahteen_osaan,+]  [ jakautua_kahteen_osaan, noun.act:jakaantuminen_kahteen_osaan,+]  erota2,@ frames: 1 (split or divide into two) }
+{ [ murjottaa, noun.feeling:murjotus1,+]  mököttää,  verb.emotion:olla_katkera,* frames: 1 (be in a huff and display one's displeasure; "She is pouting because she didn't get what she wanted") }
+{ suhtautua_suopeasti,  olla_taipuvainen,@ frames: 1 (be willing or inclined to accept; "He did not take kindly to my critical remarks") }
+{ olla_taipuvainen,  olla_altis,  olla_taipumusta,  kallistua,  tavata,  olla1,@ frames: 1 (have a tendency or disposition to do or be something; be inclined; "She tends to be nervous before her lectures"; "These dresses run small"; "He inclined to corpulence") }
+{ kärsiä1,  olla_taipuvainen,@ frames: 1 (be given to; "She suffers from a tendency to talk too much") }
+{ kuulua_jhk2,  olla_jnk_jäsenenä,  olla_jnk_osana,  olla_paikka_jssak,  kuulua5,   frames: 1 (be a part or adjunct; "the uniform looks like it belonged to a museum collection"; "These pages don't belong") }
+{ olla_seurauksena,  seurata7,  johtaa1,@ frames: 1 (come as a logical consequence; follow logically; "It follows that your assertion is false"; "the theorem falls out nicely") }
+{ olla_seurauksena1,  seurata8,  johtaa1,@ seurata5,$ tulla_perässä,$ frames: 1 (come after in time, as a result; "A terrible tsunami followed the earthquake") }
+{ tulla_perässä,  olla11,@ olla_seurauksena1,$ frames: 1 (be next; "Mary plays best, with John and Sue following") }
+{ seurata9,  tulla_perässä,> frames: 1 (to bring something about at a later time than; "She followed dinner with a brandy"; "He followed his lecture with a question and answer period") }
+{ kärsiä<approximate/>2,  aiheuttaa2,@ frames: 1 (be affected by; be subjected to; "run a temperature"; "run a risk") }
+{ aiheuttaa2,  saattaa_itsensä_alttiiksi,  verb.perception:alistaa,@ frames: 1 (make oneself subject to; bring upon oneself; become liable to; "People who smoke incur a great danger to their health") }
+{ olla22,  mennä5,  olla1,@ frames: 1 (have a particular form; "the story or argument runs as follows"; "as the saying goes...") }
+{ jättää1,  jättää_sijaa,  antaa,  verb.possession:antaa22,@ antaa_mahdollisuus,$ frames: 1 (make a possibility or provide opportunity for; permit to be attainable or cause to remain; "This leaves no room for improvement"; "The evidence allows only one conclusion"; "allow for mistakes"; "leave lots of time for the trip"; "This procedure provides for lots of leeway") }
+{ mainita,  esiintyä2,  verb.change:saada_alkunsa,@ frames: 1 (be mentioned; "These names came up in the discussion") }
+{ katsella,  suuntautua_johonkin,  katsella_johonkin,  olla_johonkin_päin,  olla15,@ frames: 1 (be oriented in a certain direction; "The house looks out on a tennis court"; "The apartment overlooks the Hudson") }
+{ olla_mukana2,  osallistua_jhk,  olla1,@ frames: 1 (be or play a part of or in; "Elections figure prominently in every government program"; "How do the elections figure in the current pattern of internal politics?") }
+{ upota,  vahvistaa1,   frames: 1 (be received or accepted or interpreted in a specific way; "This speech didn't play well with the American public"; "His remarks played to the suspicions of the committee") }
+{ synnyttää,  aiheuttaa3,  muodostaa1,@ frames: 1 (introduce; "This poses an interesting question") }
+{ pakottaa,  olla1,@ frames: 1 (be urgent; "This is a pressing problem") }
+{ [ raivota, noun.state:raivo,+]  olla1,@ frames: 1 (be violent; as of fires and storms) }
+{ pauhata,  riehua,  raivota1,  verb.body:toimia,@ frames: 1 (behave violently, as if in state of a great anger) }
+{ olla_käsittämätön_jklle,  verb.cognition:hämmentää4,@ frames: 1 (be incomprehensible to; escape understanding by; "What you are seeing in him eludes me") }
+{ keskittyä2,  olla11,@ frames: 1 (have as a center; "The region centers on Charleston") }
+{ kannattaa1,  verb.social:toimia,@ frames: 1 (act in one's own or everybody's best interest; "You will do well to arrive on time tomorrow!") }
+{ ilmentää2,  edustaa2,  edustaa1,@ frames: 1 (be characteristic of; "This compositional style is exemplified by this fugue") }
+{ juontaa_juurensa1,  olla_peräisin2,  verb.creation:aloittaa,@ frames: 1 (belong to an earlier time; "This story dates back 200 years") }
+{ ympäröidä_pylväskäytävällä,  verb.contact:ympäröidä2,@ frames: 1 (surround with a cloister, as of a garden) }
+{ pukea_jkta,  sopia_jklle,  olla_sopiva2,  pukea1,  sopia8,  verb.change:koristaa,@ frames: 1 (enhance the appearance of; "Mourning becomes Electra"; "This behavior doesn't suit you!") }
+{ olla_yhteydessä,  liittyä3,  olla1,@ verb.cognition:yhdistää_toisiinsa,$ frames: 1 (be in a relationship with; "How are these two observations related?") }
+{ olla_kiimassa,  olla1,@ frames: 1 (be in a state of sexual excitement; of male mammals) }
+{ lakata_virtaamasta,  [ pysähtyä1, noun.state:pysähtyneisyys,+ adj.all:seisova3^pysähtynyt3,+]  olla1,@ kuivattaa,$ frames: 1 (cease to flow; stand without moving; "Stagnating waters"; "blood stagnates in the capillaries") }
+{ kuivattaa,  [ pysäyttää, noun.state:pysähtyneisyys,+ adj.all:seisova3^pysähtynyt3,+]  verb.change:muuttua,@ lakata_virtaamasta,$ frames: 1 (cause to stagnate; "There are marshes that stagnate the waters") }
+{ jähmettyä,  [ pysähtyä2, adj.all:epädynaaminen^pystyyn_kuollut,+ adj.all:epädynaaminen^pysähtynyt1,+]  olla1,@ frames: 1 (stand still; "Industry will stagnate if we do not stimulate our economy") }
+{ olla_käytännöllinen,  olla1,@ frames: 1 (be useful for a certain purpose) }
+{ olla_matala,  painua,  olla1,@ frames: 1 (be close to the earth, or be disproportionately wide; "The building squatted low") }
+{ [ pidättyä, verb.social:toimia,!]  välttää2,   frames: 1 (resist doing something; "He refrained from hitting him back"; "she could not forbear weeping") }
+{ pidättyä1,  hillitä_itsensä,  pidättyä,@ frames: 1 (refrain from doing; "she forbore a snicker") }
+{ estää_itseään,  estää,  pidättyä,@ frames: 1 (abstain from doing; always used with a negative; "I can't help myself--I have to smoke"; "She could not help watching the sad spectacle") }
+{ katsoa_sivusta,  pidättyä,@ frames: 1 (not act or do anything; "He just stood by when the police beat up the demonstrators") }
+{ katsoa_sivusta1,  pidättyä,@ noun.act:urheilu,;c frames: 1 (not participate in (an activity, such as a dance or a sports event); "He sat out the game") }
+{ tuottaa_epäonnea,  olla1,@ frames: 1 (bring bad luck; be a source of misfortune) }
+{ olla_tapahtumaisillaan,  olla1,@ frames: 1 (be imminent or about to happen; "Changes are impending") }
+{ vaihdella1,  olla1,@ ulottua1,$ ulottaa1,$ frames: 1 (change or be different within limits; "Estimates for the losses in the earthquake range as high as $2 billion"; "Interest rates run from 5 to 10 percent"; "The instruments ranged from tuba to cymbals"; "My students range from very bright to dull") }
+{ jäädä,  [ jatkaa5, noun.attribute:jatkuminen,+]  pysytellä2,  olla1,@ frames: 1 (continue in a place, position, or situation; "After graduation, she stayed on in Cambridge as a student adviser"; "Stay with me, please"; "despite student protests, he remained Dean for another year"; "She continued as deputy mayor for another year") }
+{ mennä_kaupaksi,  olla1,@ verb.possession:käydä_kauppaa,$ verb.possession:myydä2,$ frames: 1 (be sold at a certain price or in a certain way; "These books sell like hot cakes") }
+{ [ kääntyä<note>huono_laina</note>, noun.communication:käännös1,+ noun.communication:kääntäminen1,+]  olla_käännettävissä,  olla1,@ verb.communication:kääntää,$ frames: 1 (be translatable, or be translatable in a certain way; "poetry often does not translate"; "Tolstoy's novels translate well into English") }
+{ [ mitata, noun.act:mittaus1,+ noun.act:mitoittaminen,+]  olla_mitoiltaan,@ frames: 1 (measure by or as if by a scale; "This bike scales only 25 pounds") }
+{ [ myydä_vähittäin, noun.act:myynti1,+]  mennä_kaupaksi,@ noun.act:kauppa,;c verb.possession:myydä_vähittäin,$ frames: 1 (be sold at the retail level; "These gems retail at thousands of dollars each") }
+{ [ kaupata, noun.act:kauppa3,+ noun.act:kaupankäynti2,+ noun.act:kauppa1,+]  mennä_kaupaksi,@ noun.act:kauppa,;c frames: 1 (be traded at a certain price or under certain conditions; "The stock traded around $20 a share") }
+{ johtaa8,  olla_kärjessä2,  olla1,@ verb.motion:edeltää1,$ frames: 1 (be the first or leading member of (a group) and excel; "This student heads the class") }
+{ joutua_kohteeksi,  olla1,@ frames: 1 (be subject to or the object of; "The governor came in for a lot of criticism") }
+{ jättää2,  verb.change:tehdä_jksik,@ jättää,$ frames: 1 (act or be so as to become in a specified state; "The inflation left them penniless"; "The president's remarks left us speechless") }
+{ olla_verrattavissa1,  olla1,@ verb.cognition:verrata,$ frames: 1 (be comparable; "This car does not compare with our line of Mercedes") }
+{ olla23,  olla_verrattavissa1,@ frames: 1 (be ranked or compare; "This violinist is as good as Juilliard-trained violinists go") }
+{ tulla6,  olla1,@ frames: 1 (come under, be classified or included; "fall into a category"; "This comes under a new heading") }
+{ olla_yhtä_kuin,  verb.possession:olla2,@ jättää,$ verb.change:jättää,$ frames: 1 (have left or have as a remainder; "That left the four of us"; "19 minus 8 leaves 11") }
+{ joutua1,  kohdata2,  olla1,@ frames: 1 (be beset by; "The project ran into numerous financial difficulties") }
+{ [ tuntua, noun.state:tunnelma2,+]  verb.perception:näyttää,@ verb.perception:tuntea,$ frames: 1 (be felt or perceived in a certain way; "The ground feels shaky"; "The sheets feel soft") }
+{ kihistä1,  saada_kylmiä_väreitä,  tuntua,@ frames: 1 (feel as if crawling with insects; "My skin crawled--I was terrified") }
+{ kuulua6,  sanoa,  olla8,@ verb.cognition:lukea1,$ frames: 1 (have or contain a certain wording or form; "The passage reads as follows"; "What does the law say?") }
+{ kestää9,  jäädä1,  viipyä2,  pysyä_järkähtämättömänä1,   frames: 1 (stay behind; "The smell stayed in the room"; "The hostility remained long after they made up") }
+{ viipyä3,  kestää9,@ frames: 1 (remain present although waning or gradually dying; "Her perfume lingered on") }
+{ olla24,  levätä,  olla11,@ olla15,$ frames: 1 (have a place in relation to something else; "The fate of Bosnia lies in the hands of the West"; "The responsibility rests with the Allies") }
+{ laskea_mukaan,  verb.cognition:luokitella1,@ frames: 1 (put into a group; "The academy counts several Nobel Prize winners among its members") }
+{ olla_velkaa,  perustaa,@ frames: 1 (be indebted to, in an abstract or intellectual sense; "This new theory owes much to Einstein's Relativity Theory") }
+{ olla_kiinnostunut,  olla1,@ frames: 1 (be attracted to; "Boys gravitate towards girls at that age") }
+{ kallistua1,  suuntautua,  olla_taipuvainen,@ frames: 1 (move toward; "The conversation gravitated towards politics") }
+{ kannattaa2,  olla1,@ frames: 1 (be worth it; "It pays to go through the trouble") }
+{ [ konvergoida, divergoitua<unconfirmed/>,! noun.cognition:konvergenssi,+]  olla_melkein,@ noun.cognition:matematiikka,;c frames: 1 (approach a limit as the number of terms increases without limit) }
+{ [ divergoitua<unconfirmed/>, yhtyä1,! konvergoida,! noun.cognition:divergenssi,+]  olla1,@ noun.cognition:matematiikka,;c frames: 1 (have no limits as a mathematical series) }
+{ majoittaa3,  mahtua2,  ottaa,  mahtua,$ frames: 1 (have room for; hold without crowding; "This hotel can accommodate 250 guests"; "The theater admits 300 people"; "The auditorium can't hold more than 500 people") }
+{ [ suojella2, noun.person:suojelija2,+ noun.location:suojelualue,+]  verb.competition:suojata,@ verb.possession:hoitaa,$ frames: 1 (maintain in safety from injury, harm, or danger; "May God keep you") }
+{ loistaa3,  erottua1,  olla1,@ frames: 1 (be distinguished or eminent; "His talent shines") }
+{ [ loistaa4, noun.attribute:loistokkuus,+]  verb.weather:heijastaa,@ frames: 1 (be resplendent or radiant; to shine brightly; "The Queen's garments resplended in velvet and jewels") }
+{ menestyä1,  päästä_pitkälle,  edetä<unconfirmed/>1,  ulottua1,@ frames: 1 (extend in importance or range; "His accomplishments go far") }
+{ tulla_muistetuksi,   frames: 1 (be recorded or remembered; "She will go down as the first feminist") }
+{ [ kimallella_sateenkaaren_väreissä, noun.attribute:kimaltelu,+]  olla1,@ frames: 1 (be iridescent; "The corals iridesced under the surface of the clear water") }
+{ [ opalisoida, noun.attribute:opalisointi,+ adj.all:kirkas2^opaalinhohtoinen,+]  kimallella_sateenkaaren_väreissä,@ frames: 1 (exhibit a play of colors like that of an opal; "This nitrate opalesces under certain conditions") }
+{ olla25,  olla1,@ frames: 1 (be and remain in a particular state or condition; "lie dormant") }
+{ seistä2,  seisoa1,  olla1,@ frames: 1 (occupy a place or location, also metaphorically; "We stand on common ground") }
+{ onnistua_valokuvassa,   frames: 1 (undergo being photographed in a certain way; "Children photograph well") }
+{ säilyä3,  verb.change:jäädä,@ verb.change:säilöä1,$ frames: 1 (fail to spoil or rot; "These potatoes keep for a long time") }
+{ leijua,  olla1,@ frames: 1 (be menacing, burdensome, or oppressive; "This worry hangs on my mind"; "The cloud of suspicion hangs over her") }
+{ täyttää3,  olla1,@ frames: 1 (strew; "Cigar butts littered the ground") }
+{ sopia9,  käydä4,  olla1,@ frames: 1 (be agreeable or acceptable; "This time suits me") }
+{ [ päättää1, noun.state:päätös,+ noun.time:päätös,+]  lopettaa6,  olla1,@ frames: 1 (be the end of; be the last or concluding part of; "This sad scene ended the movie") }
+{ sopia10,  istua1,  olla1,@ frames: 1 (conform to some shape or size; "How does this shirt fit?") }
+{ auttaa1,  [ helpottaa, noun.act:helpottaminen,+]  auttaa,@ frames: 1 (be of use; "This will help to prevent accidents") }
+{ sitoutua,  olla_yhteydessä,@ frames: 1 (be in connection with something relevant; "This ties in closely with his earlier remarks") }
+{ kulua,  mennä6,   frames: 1 (be used or required for; "A lot of energy went into the organization of this banquet") }
+{ antaa1,  olla26,  olla1,@ frames: 1 (have certain characteristics of qualities for something; be open or vulnerable to; "This story would lend itself well to serialization on television"; "The current system lends itself to great abuse") }
+{ vivahtaa_jllk,  jakaa1,@ frames: 1 (have some of the qualities or attributes of something) }
+{ [ rajata3, noun.process:rajaus,+]  verb.perception:osoittaa,@ frames: 1 (show the form or outline of; "The tree was clearly defined by the light"; "The camera could define the smallest object") }
+{ hellittää,  olla1,@ frames: 1 (be relaxed; "Don't be so worried all the time--just let go!") }
+{ [ johtua2, adj.all:johdettu2^johdettu3,+]  tulla7,  polveutua,  periytyä,  olla_kotoisin,$ verb.change:johtua1,$ frames: 1 (come from; be connected by a relationship of blood, for example; "She was descended from an old Italian noble family"; "he comes from humble origins") }
+{ kuulua_jhk3,  olla_paikka_jssak1,  kuulua7,  olla1,@ frames: 1 (be rightly classified in a class or category; "The whales belong among the mammals") }
+{ kuulua_jhk4,  olla_paikka_jssak2,  olla1,@ frames: 1 (be suitable or acceptable; "This student somehow doesn't belong") }
+{ kuulua_jhk5,  olla_paikka_jssak3,  kuulua<note>jhk_paikkaan</note>8,  olla11,@ frames: 1 (be in the right place or situation; "Where do these books belong?"; "Let's put health care where it belongs--under the control of the government"; "Where do these books go?") }
+{ riittää2,  riittää1,@ frames: 1 (be sufficient; "There's not enough to go around") }
+{ paistua<note>auringossa\,_kuumuudessa</note>,  palaa,  käristyä,  sulaa,  verb.change:kuumentua,@ frames: 1 (be excessively hot; "If the children stay out on the beach for another hour, they'll be fried") }
+{ kiemurrella,  kiemurrella2,@ frames: 1 (wind or turn in volutions, especially in an inward spiral, as of snail) }
+{ kaarrella,  [ kiemurrella1, noun.shape:kierre,+]  kiemurrella2,@ frames: 1 (form a spiral; "The path spirals up the mountain") }
+{ kiemurrella2,  kiertää,  [ kaartaa, noun.artifact:kaarre,+]  olla1,@ frames: 1 (extend in curves and turns; "The road winds around the lake"; "the path twisted through the forest") }
+{ kiemurrella3,  mutkitella,  pujotella,  kiemurrella2,@ frames: 1 (form a snake-like pattern; "The river snakes through the valley") }
+{ olla_parisuhteessa_erirotuisen_kanssa,  elää_avoliitossa,@ frames: 1 (marry or cohabit with a person of another race) }
+{ tapahtua_samanaikaisesti1,  tapahtua_samassa_tahdissa,  tapahtua_yhtäaikaisesti,  tapahtua_yhtä_aikaa,  verb.change:tapahtua,@ frames: 1 (happen at the same time) }
+{ kohdata3,  saada_osakseen,  verb.change:olla,@ frames: 1 (experience as a reaction; "My proposal met with much opposition") }
+{ [ korostaa, noun.cognition:koroste,+]  erota_jyrkästi,@ frames: 1 (enhance by contrast; "In this picture, the figures are foiled against the background") }
+{ [ sekoittua, noun.state:sekamelska4,+ noun.state:sekasotku1,+]  [ sotkeutua2, noun.cognition:sotku1,+]  olla1,@ frames: 1 (be all mixed up or jumbled together; "His words jumbled") }
+{ olla_päällä1,  olla8,@ frames: 1 (have in one's aspect; wear an expression of one's attitude or personality; "He always wears a smile") }
+{ horjua2,  epäröidä,@ frames: 1 (be unsure or weak; "Their enthusiasm is faltering") }
+{ [ ilmentää3, noun.cognition:ilmentymä,+]  olla_jonkin_ruumiillistuma1,  verb.communication:esittää12,@ frames: 1 (represent or express something abstract in tangible form; "This painting embodies the feelings of the Romantic period") }
+{ enteillä,  luvata,  olla1,@ frames: 1 (give grounds for expectations; "The new results were promising"; "The results promised fame and glory") }
+{ olla27,   frames: 1 (be confronted with; "What do we have here?"; "Now we have a fine mess") }
+{ pitää_pintansa2,   frames: 1 (be sufficiently competent in a certain situation; "He can hold his own in graduate school") }
+{ olla_esillä,  verb.contact:riippua1,$ frames: 1 (be exhibited; "Picasso hangs in this new wing of the museum") }
+{ kantaa3,   frames: 1 (have a range; be capable of projecting over a certain distance, as of a gun; "This gun ranges over two miles") }
+{ [ kantautua, noun.act:kantaminen,+]  kantaa3,@ verb.motion:välittää1,$ frames: 1 (be conveyed over a certain distance; "Her voice carries very well in this big opera house") }
+{ imeä_itseensä,  ottaa_vastaan,  olla1,@ frames: 1 (be designed to hold or take; "This surface will not take the dye") }
+{ antaa2,  avautua,   frames: 1 (give access or entrance to; "The French doors admit onto the yard") }
+{ [ mukautua1, noun.relation:mukautuminen,+]  [ noudattaa4, noun.relation:noudattaminen,+]  noun.cognition:kielioppi,;c frames: 1 (show grammatical agreement; "Subjects and verbs must always agree in English") }
+{ [ puhdistua, noun.act:puhdistus1,+]  olla1,@ verb.contact:puhdistaa4,$ frames: 1 (be cleanable; "This stove cleans easily") }
+{ vetää2,  olla1,@ verb.motion:nostaa,$ frames: 1 (allow a draft; "This chimney draws very well") }
+{ kulkea,  verb.motion:kulkea7,$ verb.motion:ajaa3,$ frames: 1 (have certain properties when driven; "This car rides smoothly"; "My new truck drives well") }
+{ merkitä6,   frames: 1 (have a specified degree of importance; "My ex-husband means nothing to me"; "Happiness means everything") }
+{ kohdata4,  antaa_jhk_päin,@ frames: 1 (be face to face with; "The child screamed when he confronted the man in the Halloween costume") }
+{ [ peseytyä, noun.act:pesu,+ adj.all:pestävä,+ noun.act:peseminen1,+]  olla1,@ verb.contact:pestä1,$ frames: 1 (be capable of being washed; "Does this material wash?") }
+{ [ tasapainoilla, noun.state:tasapaino,+ noun.person:tasapainoilija,+]  olla_tasapainossa,  olla1,@ pitää_tasapainossa,$ frames: 1 (be in equilibrium; "He was balancing on one foot") }
+{ olla_kotoisin,  tulla8,  olla1,@ johtua2,$ frames: 1 (be a native of; "She hails from Kalamazoo") }
+{ lähteä,  alkaa,@ frames: 1 (begin a trip at a certain point, as of a plane, train, bus, etc.; "The flight originates in Calcutta") }
+{ tulla9,  olla11,@ tulla2,$ frames: 1 (exist or occur in a certain point in a series; "Next came the student from France") }
+{ [ virrata, noun.process:virtaus,+ noun.event:virtaaminen1,+ noun.time:virtaama,+]  olla_olemassa,@ frames: 1 (be abundantly present; "The champagne flowed at the wedding") }
+{ ilmetä4,  tulla_esiin1,   frames: 1 (come forth; "A scream came from the woman's mouth"; "His breath came hard") }
+{ leijua_jnk_yllä,  uhata1,  leijua,@ frames: 1 (hang over, as of something threatening, dark, or menacing; "The terrible vision brooded over her all day long") }
+{ jättää_varjoon,  kohota2,  saattaa_varjoon,  leijua_jnk_yllä,@ frames: 1 (be greater in significance than; "the tragedy overshadowed the couple's happiness") }
+{ olla_varaa,   frames: 1 (have the financial means to do something or buy something; "We can't afford to send our children to college"; "Can you afford this car?") }
+{ avautua1,   frames: 1 (have an opening or passage or outlet; "The bedrooms open into the hall") }
+{ olla28,  verb.change:jäädä,@ frames: 1 (to remain unmolested, undisturbed, or uninterrupted -- used only in infinitive form; "let her be") }
+{ toimia2,  olla1,@ verb.creation:näytellä1,$ frames: 1 (be suitable for theatrical performance; "This scene acts well") }
+{ [ lisätä, adj.all:lisäävä,+]  muodostaa3,@ verb.change:lisätä6,$ frames: 1 (constitute an addition; "This paper will add to her reputation") }
+{ tehdä_yhteensä1,  laskea_yhteen,@ noun.cognition:aritmetiikka,;c olla14,$ verb.social:muodostaa1,$ frames: 1 (add up to; "four and four make eight") }
+{ antaa_mahdollisuus,  [ sallia, adj.all:hyväksyttävä2^sallittu2,+]  hyväksyä,  jättää1,$ frames: 1 (afford possibility; "This problem admits of no solution"; "This short story allows of several different interpretations") }
+{ [ testata, noun.act:testi,+]  olla1,@ frames: 1 (show a certain characteristic when tested; "He tested positive for HIV") }
+{ tuntua1,  olla1,@ frames: 1 (appear to exist; "There seems no reason to go ahead with the project now") }
+{ vastata8,  olla1,@ frames: 1 (be liable or accountable; "She must answer for her actions") }
+{ vetää_vertoja2,  voittaa2,  olla1,@ frames: 1 (be superior; "Reading beats watching television"; "This sure beats work!") }
+{ pitää_sisällään1,  olla1,@ frames: 1 (have as a major characteristic; "The novel holds many surprises"; "The book holds in store much valuable advise") }
+{ muuttua2,  verb.change:vaihdella2,@ frames: 1 (vary or interrupt a uniformity or continuity; "The flat plain was broken by tall mesas") }
+{ laantua1,  päättyä,@ frames: 1 (come to an end; "The heat wave finally broke yesterday") }
+{ olla29,  omata4,  sisältyä2,  olla8,@ omata3,$ frames: 1 (have as an inherent or characteristic feature or have as a consequence; "This new washer carries a two year guarantee"; "The loan carries a high interest rate"; "this undertaking carries many dangers"; "She carries her mother's genes"; "These bonds carry warrants"; "The restaurant carries an unusual name") }
+{ laskea,  olla1,@ frames: 1 (have a certain value or carry a certain weight; "each answer counts as three points") }
+{ olla_jaollinen,  olla1,@ noun.cognition:aritmetiikka,;c frames: 1 (be divisible by; "24 contains 6") }
+{ tarjota_jatkoyhteys,  olla1,@ frames: 1 (be scheduled so as to provide continuing service, as in transportation; "The local train does not connect with the Amtrak train"; "The planes don't connect and you will have to wait for four hours") }
+{ [ jatkua5, noun.attribute:jatkuminen,+ noun.act:jatkaminen1,+]  verb.social:toimia,@ jatkaa4,$ frames: 1 (continue after an interruption; "The demonstration continued after a break for lunch") }
+{ [ jatkaa6, noun.act:jatkaminen1,+]  jatkaa_sinnikkäästi,  verb.social:toimia,@ verb.social:pitää,$ frames: 1 (do something repeatedly and showing no intention to stop; "We continued our research into the cause of the illness"; "The landlord persists in asking us to move") }
+{ [ myydä, noun.act:myynti3,+]  olla1,@ frames: 1 (be responsible for the sale of; "All her publicity sold the products") }
+{ vakuuttaa,  olla1,@ frames: 1 (be approved of or gain acceptance; "The new idea sold well in certain circles") }
+{ olla_kohtalokas,  olla_tappava,  olla1,@ frames: 1 (be fatal; "cigarettes kill"; "drunken driving kills") }
+{ sopia_jksik,  olla1,@ frames: 1 (be suitable for; "Wood makes good furniture") }
+{ tehdä<approximate/>2,  verb.change:muuttua,@ frames: 1 (undergo fabrication or creation; "This wool makes into a nice sweater") }
+{ [ koristaa, noun.artifact:koriste2,+ noun.act:koristelu,+]  [ kaunistaa, noun.attribute:kauneus,+ noun.act:kaunistaminen,+]  komistaa,  olla1,@ frames: 1 (be beautiful to look at; "Flowers adorned the tables everywhere") }
+{ [ koristaa1, noun.state:koristelu,+]  koristaa,@ verb.creation:koristella1,$ frames: 1 (be an ornament to; "stars ornamented the Christmas tree") }
+{ olla_jnk_peitossa,  [ peittää3, noun.object:peite,+ noun.object:peitto,+]  verb.contact:peittää,@ frames: 1 (form a blanket-like cover (over)) }
+{ peittää4,  verb.contact:peittää,@ frames: 1 (form a carpet-like cover (over)) }
+{ peittää5,  verb.contact:peittää,@ frames: 1 (form an impenetrable cover over; "the butter cream smothered the cake") }
+{ peittää6,  verb.contact:peittää,@ frames: 1 (form a cover like a shroud; "Mist shrouded the castle") }
+{ olla30,  tapahtua,   frames: 1 (happen, occur, take place; this was during the visit to my parents' house"; "I lost my wallet"; "There were two hundred people at his funeral"; "There was a lot of noise in the kitchen") }
+{ kellua,  verb.motion:leijailla,@ frames: 1 (be sustained or supported or borne; "His glasses rode high on his nose"; "The child rode on his mother's hips"; "She rode a wave of popularity"; "The brothers rode to an easy victory on their father's political name") }
+{ muodostaa_loppusointu,  rimmata,  vastata_jtak,@ frames: 1 (be similar in sound, especially with respect to the last syllable; "hat and cat rhyme") }
+{ sointua<approximate/>1,  muodostaa_loppusointu,@ frames: 1 (correspond in vowel sounds; rhyme in assonance; "The accented vowels assonated in this poem") }
+{ koostua3,  olla1,@ frames: 1 (have its essential character; be comprised or contained in; be embodied in; "The payment consists in food"; "What does love consist in?") }
+{ [ oskuloida, noun.state:oskulaatio,+]  jakaa1,@ noun.cognition:matematiikka,;c frames: 1 (have at least three points in common with; "one curve osculates the other"; "these two surfaces osculate") }
+{ toimia3,  muokkautua,  olla1,@ verb.contact:hieroa1,$ frames: 1 (behave in a certain way when handled; "This dough does not work easily"; "The soft metal works well") }
+{ edetä2,  juontaa_juurensa1,@ frames: 1 (go back in order of genealogical succession; "Inheritance may not ascend linearly") }
+{ [ voidella, noun.substance:voiteluaine,+ noun.substance:voiteluaine<broader/>1,+ noun.state:voideltu<approximate/><idiomatic_pos/>,+]  olla1,@ frames: 1 (have lubricating properties; "the liquid in this can lubricates well") }
+{ hengittää1,  olla1,@ frames: 1 (allow the passage of air through; "Our new synthetic fabric breathes and is perfect for summer wear") }
+{ lentää_vaakatasossa,  olla1,@ säätää,$ frames: 1 (be in equilibrium during a flight; "The airplane trimmed") }
+{ säätää,  pitää_tasapainossa,@ lentää_vaakatasossa,$ frames: 1 (balance in flight by regulating the control surfaces; "trim an airplane") }
+{ svengata,  olla1,@ frames: 1 (have a certain musical rhythm; "The music has to swing") }
+{ olla_yhteisiä_ominaisuuksia,  olla1,@ frames: 1 (be intermediate between two taxonomic groups; "These species osculate") }
+{ [ viivästyä, noun.time:viive2,+]  olla1,@ frames: 1 (be delayed) }
+{ tiivistää,  vetää_yhteen,  verb.communication:kertoa6,@ verb.communication:tehdä_yhteenveto,$ frames: 1 (be a summary of; "The abstract summarizes the main ideas in the paper") }
+{ [ täydentää1, noun.attribute:täydennys1,+]  muodostaa1,@ verb.possession:täydentää,$ frames: 1 (serve as a supplement to; "Vitamins supplemented his meager diet") }
+{ vastata9,  olla_yhtä_paljon_kuin,@ frames: 1 (be equivalent in effect; "the growth in income translates into greater purchasing power") }
+{ juurtua,  olla1,@ verb.motion:siirtää2,$ frames: 1 (be transplantable; "These delicate plants do not transplant easily") }
+{ pysyä_koossa,  olla1,@ frames: 1 (have internal elements or parts logically connected so that aesthetic consistency results; "the principles by which societies cohere") }
+{ pitää_yhdessä,  verb.change:muuttaa3,@ pysyä_koossa,> frames: 1 (cause to form a united, orderly, and aesthetically consistent whole; "Religion can cohere social groups") }
+{ [ vastustaa3, noun.act:vastalause1,+]  olla1,@ frames: 1 (be averse to or express disapproval of; "My wife objects to modern furniture") }
+{ juuttua1,  olla1,@ frames: 1 (be or become fixed; "The door sticks--we will have to plane it") }
+{ tunnistaa,  olla1,@ frames: 1 (exhibit recognition for (an antigen or a substrate)) }
+{ päättyä4,  kaupata,@ frames: 1 (be priced or listed when trading stops; "The stock market closed high this Friday"; "My new stocks closed at $59 last night") }
+{ saada_alkunsa1,  muodostua2,@ frames: 1 (take its rise; "These rivers head from a mountain range in the Himalayas") }
+{ jakaa2,  olla1,@ frames: 1 (be mathematically distributive) }
+{ jakautua,  olla_olemassa,@ jakaa3,$ frames: 1 (be distributed or spread, as in statistical analyses; "Values distribute") }
+{ jakaa3,  verb.motion:levittää5,@ jakautua,$ frames: 1 (spread throughout a given area; "the function distributes the values evenly") }
+{ hylkiä,  torjua1,  verb.cognition:reagoida,@ frames: 1 (resist immunologically the introduction of some foreign tissue or organ; "His body rejected the liver of the donor") }
+{ vaihtaa_vapaalle<approximate/>,  elää1,@ frames: 1 (choose a simpler life style after questioning personal and career satisfaction goals; "After 3 decades in politics, she cashed out and moved to Polynesia") }
+{ antaa3,  olla1,@ frames: 1 (be sexually active; "She is supposed to put out") }
+{ läkähtyä,  paahtua,  olla1,@ frames: 1 (be very hot, due to hot weather or exposure to the sun; "The town was broiling in the sun"; "the tourists were baking in the heat") }
+{ olla31,  viipyä4,  olla_olemassa,@ frames: 1 (exist or be situated within; "Strange notions inhabited her mind") }
+{ uida,  hukkua,  olla1,@ frames: 1 (be covered with or submerged in a liquid; "the meat was swimming in a fatty gravy") }
+{ huimata,  olla1,@ frames: 1 (be dizzy or giddy; "my brain is swimming after the bottle of champagne") }
+{ olla_sijoitettu,  pitää_päämajaa_jssak,  sijaita_jssak,  sijoittaa1,  sijaita2,  paikallistaa,@ frames: 1 (situate as a center of operations; "we will base this project in the new lab") }
+{ kuulua_jhk6,  olla_paikka_jssak4,  kuulua9,  olla1,@ frames: 1 (be a member, adherent, inhabitant, etc. (of a group, organization, or place); "They belong to the same political party") }

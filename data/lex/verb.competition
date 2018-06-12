@@ -1,0 +1,459 @@
+{ [ kilpailla, adj.all:kilpailu-,+ noun.person:kilpailija2,+ noun.act:kilpailu2,+]  kamppailla,  [ kilvoitella, adj.all:kilpailu-,+ noun.person:kilpailija2,+ noun.act:kilpailu2,+]   frames: 1 (compete for something; engage in a contest; measure oneself against others) }
+{ anoa,  hakea,  verb.communication:hakea1,@ frames: 1 (make an application as for a job or funding; "We put in a grant to the NSF") }
+{ yrittää,  tavoitella,  kilpailla,@ frames: 1 (make an attempt at achieving something; "She tried for the Olympics") }
+{ [ pelata, pelata_loppuun,^ noun.act:pelaaminen,+ noun.act:pelitapa,+ noun.person:pelaaja1,+]  kilpailla,@ kohdata2,$ frames: 1 (participate in games or sport; "We played hockey all afternoon"; "play cards"; "Pele played for the Brazilian teams in many important matches") }
+{ asettua_paikoilleen,  pelata,@ noun.act:jalkapallo,;c frames: 1 (take one's position before a kick-off) }
+{ pelata_curlingia,  pelata,@ noun.act:urheilu,;c frames: 1 (play the Scottish game of curling) }
+{ snookata,  pelata,@ noun.act:biljardipeli<broader/>,;c frames: 1 (leave one's opponent unable to take a direct shot) }
+{ rikkoa_jk,  pelata,@ noun.act:korttipeli,;c frames: 1 (fail to follow suit when able and required to do so) }
+{ [ kehittää, noun.state:kehitys,+]  pelata,@ noun.act:šakki1,;c kehittää1,$ frames: 1 (move into a strategically more advantageous position; "develop the rook") }
+{ [ kehittää1, noun.state:kehitys,+]  pelata,@ noun.act:šakki1,;c kehittää,$ frames: 1 (move one's pieces into strategically more advantageous positions; "Spassky developed quickly") }
+{ palaa,  pelata,@ noun.act:baseball,;c frames: 1 (to be on base at the end of an inning, of a player) }
+{ pelata_väärin,  pelata,@ frames: 1 (play wrong or in an unskillful manner) }
+{ pelata<broader/>1,  pelata,@ noun.act:urheilu,;c frames: 1 (play in the starting lineup) }
+{ [ sählätä_maalyönnissä, noun.act:sähläys,+]  pelata,@ noun.act:baseball,;c frames: 1 (drop or juggle or fail to play cleanly a grounder; "fumble a grounder") }
+{ potkaista_ilmasta<unconfirmed/>,  pelata,@ noun.act:kenttäpeli1,;c frames: 1 (make a volley) }
+{ vapauttaa<unconfirmed/>,  pelata,@ noun.act:korttipeli,;c frames: 1 (play the cards of (a suit) so that the last trick on which a hand can follow suit will be taken by a higher card in the hand of a partner who has the remaining cards of a combined holding) }
+{ pelata_uudelleen,  pelata,@ frames: 1 (play again; "We replayed the game"; "replay a point") }
+{ pelata_krikettiä,  pelata,@ frames: 1 (play cricket) }
+{ pelata_takakentällä<approximate/>,  pelata,@ noun.act:baseball,;c frames: 1 (act as a backstop) }
+{ pelata_blokkaavana_keskushyökkääjänä<note>amerikkalainen_jalkapallo</note>,  pelata_laitapuolustajana<note>jalkapallo</note>,  pelata,@ noun.act:jalkapallo,;c frames: 1 (play the fullback) }
+{ olla_pelinrakentaja,  [ pelata_pelinrakentajana, noun.act:pelinrakentaja,+ noun.person:pelinrakentaja2,+]  pelata,@ noun.act:jalkapallo,;c frames: 1 (play the quarterback) }
+{ juosta_mailan_kanssa<unconfirmed/>,  pelata,@ noun.act:haavipallo,;c frames: 1 (run with the stick) }
+{ tehdä_siirto,  olla_vuoro,  pelata,* verb.communication:esittää5,$ frames: 1 (have a turn; make one's move in a game; "Can I go now?") }
+{ [ bluffata, noun.act:bluffi,+ noun.person:bluffaaja,+ noun.act:bluffaus,+]  hämätä,  tehdä_siirto,@ noun.act:korttipeli,;c frames: 1 (deceive an opponent by a bold bet on an inferior hand with the result that the opponent withdraws a winning hand) }
+{ ajaa_pattitilanteeseen<note>shakissa</note>,  tehdä_siirto,@ noun.act:šakki1,;c frames: 1 (subject to a stalemate) }
+{ [ tornittaa, noun.act:tornitus,+ noun.artifact:torni,+]  tehdä_siirto,@ noun.act:šakki1,;c frames: 1 (move the king two squares toward a rook and in the same move the rook to the square next past the king) }
+{ [ syöttää, noun.act:syöttö6,+ noun.person:syöttäjä2,+]  tehdä_siirto,@ noun.act:kenttäpeli1,;c frames: 1 (put the ball into play; "It was Agassi's turn to serve") }
+{ [ läpisyöttää, noun.act:läpisyöttö,+]  syöttää,@ noun.act:tennis,;c frames: 1 (serve an ace against (someone)) }
+{ aloittaa,  tehdä_siirto,@ noun.act:šakki1,;c frames: 1 (make the opening move; "Kasparov opened with a standard opening") }
+{ nostaa,  arpoa,  tehdä_siirto,@ frames: 1 (choose at random; "draw a card"; "cast lots") }
+{ iskeä<broader/>,  tehdä_siirto,@ noun.act:korttipeli,;c frames: 1 (play a trump) }
+{ lyödä_korkeampi_valtti,  iskeä<broader/>,@ noun.act:korttipeli,;c frames: 1 (play a trump higher than (one previously played) to the trick) }
+{ ottaa_valtilla_vuorotellen<approximate/>,  iskeä<broader/>,@ noun.act:korttipeli,;c frames: 1 (trump alternately in two hands) }
+{ poistua_näyttämöltä,  pelata,@ noun.act:korttipeli,;c frames: 1 (lose the lead) }
+{ [ kohdata, aloittaa1,^]  kohdata2,@ frames: 1 (oppose, as in hostility or a competition; "You must confront your opponent"; "Jackson faced Smith in the boxing ring"; "The two enemies finally confronted each other") }
+{ olla_päin,  kohdata<broader/>1,  kohdata,@ frames: 1 (confront bodily; "breast the storm") }
+{ tarttua_härkää_sarvista,  ottaa_härkää_sarvista,  kohdata,@ frames: 1 (face a difficulty and grapple with it without avoiding it) }
+{ kohdata2,  [ pelata_vastaan, noun.act:pelaaminen,+]  otella,  ottaa_yhteen,  kilpailla,* lyödä,$ pelata,$ siirtää,$ peluuttaa,$ frames: 1 (contend against an opponent in a sport, game, or battle; "Princeton plays Yale this weekend"; "Charlie likes to play Mary") }
+{ [ peluuttaa, noun.act:pelitapa,+]  verb.consumption:käyttää1,@ pelata6,$ kohdata2,$ frames: 1 (employ in a game or in a specific position; "They played him on first base") }
+{ siirtää,  verb.consumption:käyttää1,@ pelata6,$ kohdata2,$ frames: 1 (use or move; "I had to play my queen") }
+{ korottaa,  siirtää,@ noun.act:šakki1,;c korottaa1,$ frames: 1 (change a pawn for a better piece by advancing it to the eighth row, or change a checker piece for a more valuable piece by moving it to the row closest to your opponent) }
+{ korottaa1,  verb.change:muuttua,@ noun.act:lautapeli,;c korottaa,$ frames: 1 (be changed for a superior chess or checker piece) }
+{ lyödä,  verb.contact:lyödä9,@ kohdata2,$ frames: 1 (shoot or hit in a particular manner; "She played a good backhand last night") }
+{ pelata<broader/>2,  lyödä,@ noun.act:rugby,;c frames: 1 (secure with the foot; "hook the ball") }
+{ pelata_uudelleen1,  kohdata2,@ frames: 1 (repeat a game against the same opponent; "Princeton replayed Harvard") }
+{ panna_vastakkain,  panna_vastaan,  [ otteluttaa, noun.event:ottelu1,+]  usuttaa,  panna_tappelemaan,  kohdata,@ frames: 1 (set into opposition or rivalry; "let them match their best athletes against ours"; "pit a chess player against the Russian champion"; "He plays his two children off against each other") }
+{ järjestää_uusintakierros,  kilpailla,@ noun.act:peli1,;c frames: 1 (decide (a contest or competition) by a runoff) }
+{ pelata_loppuun,  pelata,@ noun.act:peli1,;c verb.creation:päättyä,$ frames: 1 (play to a finish; "We have got to play this game out, even thought it is clear that we have last") }
+{ olla_ulkovuorossa,  pelata_kentällä,  pelata,@ noun.act:urheilu,;c frames: 1 (play as a fielder) }
+{ ponnistella_ankarasti,  yrittää_kaikkensa,  kamppailla1,@ noun.act:baseball,;c frames: 1 (exert full strength; "The pitcher bore down") }
+{ tapella_nyrkein,  nyrkkeillä_paljain_käsin,  kamppailla1,@ frames: 1 (fight with the fists; "The man wanted to fist-fight") }
+{ ottaa_koppeja,  ottaa_kiinni,  verb.contact:käsitellä,@ frames: 1 (catch or pick up (balls) in baseball or cricket) }
+{ ottaa_kiinni1,  pelata,@ noun.act:baseball,;c verb.contact:ottaa_kiinni2,$ frames: 1 (be the catcher; "Who is catching?") }
+{ [ osallistua, luopua,! noun.person:osanottaja2,+ adj.all:demokraattinen^osallistuva,+ noun.person:osallistuja4,+ noun.person:osanottaja3,+ noun.state:osallistuminen,+ noun.act:osanotto1,+ adj.all:demokraattinen^osallistumiselle_avoin,+ noun.person:osallistuja2,+]  [ ottaa_osaa, luopua,!]   frames: 1 (become a participant; be involved in; "enter a race"; "enter an agreement"; "enter a drug treatment program"; "enter negotiations") }
+{ ponkaista,  osallistua,@ frames: 1 (enter eagerly into; "He jumped into the game") }
+{ [ luopua, osallistua,! ottaa_osaa,!]  luovuttaa,  pudota_kelkasta,  pudota_kärryiltä,  heittää_väliin<broader/>,  heittää_pyyhe_kehään,  antaa_periksi,  keskeyttää,   frames: 1 (give up in the face of defeat of lacking hope; admit defeat; "In the second round, the challenger gave up") }
+{ panna_maan_tasalle,  tehdä_loppu,  murskata,  päihittää3,@ frames: 1 (defeat soundly; "The home team demolished the visitors") }
+{ kukistaa,  murskata1,  panna_maan_tasalle,@ frames: 1 (overthrow or destroy (something considered evil or harmful); "The police smashed the drug ring after they were tipped off") }
+{ nielaista,  panna_maan_tasalle,@ frames: 1 (engulf and destroy; "The Nazis swallowed the Baltic countries") }
+{ tuhota,  panna_maan_tasalle,@ frames: 1 (defeat totally; "We must cut the other team to ribbons!") }
+{ [ aloittaa1, noun.act:aloitus1,+]  pelata,@ frames: 1 (start a game by a face-off) }
+{ [ tee_off, noun.act:teeoff,+]  pelata,@ noun.act:golf,;c frames: 1 (strike a ball from the teeing ground at the start of a hole) }
+{ saada_ihannetulos<approximate/>,  tehdä_pisteitä,@ noun.act:golf,;c frames: 1 (make a score (on a hole) equal to par) }
+{ heittää,  tehdä_pisteitä,@ noun.act:urheilu,;c frames: 1 (score; "shoot a basket"; "shoot a goal") }
+{ antaa_maalipotku,  tehdä_pisteitä,@ noun.act:keilapeli1,;c tehdä_maali,$ tehdä_maali1,$ frames: 1 (score (a spare)) }
+{ tehdä_maali,  tehdä_pisteitä,@ antaa_maalipotku,$ frames: 1 (complete successfully; "score a penalty shot or free throw") }
+{ tehdä_maali1,  tehdä_pisteitä,@ antaa_maalipotku,$ frames: 1 (score an extra point or points after touchdown by kicking the ball through the uprights or advancing the ball into the end zone; "Smith converted and his team won") }
+{ pelata_holari<unconfirmed/>,  pelata_ässä<unconfirmed/>,  pelata,@ noun.act:golf,;c frames: 1 (play (a hole) in one stroke) }
+{ [ tuomita, noun.act:tuomarointi<unconfirmed/>,+]  toimia_erotuomarina,  toimia_tuomarina,  [ tuomaroida, noun.act:tuomarointi<unconfirmed/>,+]  verb.cognition:tuomita1,@ noun.act:urheilu,;c frames: 1 (be a referee or umpire in a sports competition) }
+{ hankaloittaa,  vaikeuttaa,  haitata,  verb.social:haitata2,@ frames: 1 (put at a disadvantage; "The brace I have to wear is hindering my movements") }
+{ vaikuttaa_jhk<note>puolueellisesti</note>,  verb.cognition:tehdä_ennakkoluuloiseksi,@ frames: 1 (influence in an unfair way; "you are biasing my choice by telling me yours") }
+{ olla_johonkin_kallellaan<note>asenne</note>,  vaikuttaa_jhk<note>puolueellisesti</note>,@ frames: 1 (attempt to forecast the winner (especially in a horse race) and assign odds for or against a contestant) }
+{ [ kilpailla1, noun.act:kilpailu,+ noun.event:kilpailu1,+ noun.animal:kilpaeläin,+ noun.artifact:kilpa-auto,+ noun.event:kilpailu2,+ noun.event:kilpa,+ noun.event:kilpa1,+]  [ juosta, järjestää_uusintakierros,^ noun.act:juokseminen1,+ noun.event:juoksukisa,+ noun.person:juoksija3,+]  kilpailla,@ frames: 1 (compete in a race; "he is running the Marathon this year"; "let's race and see who gets there first") }
+{ tulla_kolmen_parhaan_joukkoon,  kilpailla1,@ frames: 1 (finish third or better in a horse or dog race; "he bet $2 on number six to show") }
+{ [ sijoittua_kärkeen<unconfirmed/>, noun.communication:sija1,+]  kilpailla1,@ frames: 1 (finish second or better in a horse or dog race; "he bet $2 on number six to place") }
+{ kilpasoutaa,  kilpailla1,@ verb.motion:veneillä,* frames: 1 (participate in a boat race) }
+{ osallistua_hevoskilpailuun,  kilpailla1,@ frames: 1 (compete in a horse race) }
+{ ohjastaa_kilpahevosta,  osallistua_hevoskilpailuun,@ frames: 1 (ride a racehorse as a professional jockey) }
+{ [ aseistautua, riisua_aseista,! noun.artifact:ase2,+ noun.act:aseistaminen1,+]  [ varustautua, riisua_aseista,!]  [ linnoittaa, noun.artifact:linnake<narrower/>2,+ noun.artifact:linnoitus<narrower/>3,+ noun.cognition:linnoittaminen,+]  rakentaa_linnakkeita,   frames: 1 (prepare oneself for a military confrontation; "The U.S. is girding for a conflict in the Middle East"; "troops are building up on the Iraqi border") }
+{ aseistaa,  varustaa_uudelleen,  aseistautua,@ frames: 1 (arm anew; "After the war, the defeated country was not allowed to rearm") }
+{ aseistaa_ennakolta,  aseistautua,@ frames: 1 (arm in advance of a confrontation) }
+{ [ riisua_aseista, aseistautua,! varustautua,!]  demilitarisoida,   frames: 1 (remove offensive capability from) }
+{ riisua_aseista1,  verb.possession:riistää1,@ frames: 1 (take away the weapons from; render harmless) }
+{ [ kotiutua_sotapalveluksesta, mobilisoida,! panna_liikekannalle,!]  kotiuttaa,@ frames: 1 (retire from military service) }
+{ [ mobilisoida, kotiutua_sotapalveluksesta,!]  [ panna_liikekannalle, kotiutua_sotapalveluksesta,!]  aseistaa2,@ frames: 1 (get ready for war) }
+{ täyttää,  hankkia_työväkeä,@ verb.social:täyttää1,$ frames: 1 (provide with workers; "We cannot man all the desks"; "Students were manning the booths") }
+{ hankkia_työväkeä,  miehittää,  verb.consumption:järjestää,@ frames: 1 (provide with staff; "This position is not always staffed") }
+{ sijoittaa,  ilmoittaa,  lähettää,  passittaa,  löytää_sijoituspaikka,  verb.motion:siirtää1,@ frames: 1 (assign to a station) }
+{ sijoittaa_joukkoja_linnoitukseen,  sijoittaa_joukkoja_varuskuntaan,  sijoittaa,@ frames: 1 (station (troops) in a fort or garrison) }
+{ lyöttäytyä_yhteen,  ryhtyä_yhteistyöhön,  jakautua_ryhmiin,@ frames: 1 (form a team; "We teamed up for this new project") }
+{ sijoittaa<unconfirmed/>1,  jakautua_ryhmiin,@ frames: 1 (attach to, as a journalist to a military unit when reporting on a war; "The young reporter was embedded with the Third Division") }
+{ kuulua_miehistöön,  täyttää,@ frames: 1 (serve as a crew member on) }
+{ jengiytyä,  lyöttäytyä_yhteen1,  kulkea_yhdessä,  muodostaa_jengi,  jakautua_ryhmiin,@ frames: 1 (act as an organized group) }
+{ jakautua_ryhmiin,  [ ryhmittyä, noun.act:ryhmittely,+ noun.act:ryhmitys,+ noun.Tops:ryhmä,+]  verb.social:kokoontua,@ frames: 1 (form a group or group together) }
+{ koota_porukka,  liittyä_porukkaan,  jakautua_ryhmiin,@ frames: 1 (join or form a pool of people) }
+{ muodostaa_prikaatiksi<huom/>,  jakautua_ryhmiin,@ frames: 1 (form or unite into a brigade) }
+{ kamppailla1,  [ tapella, torjua2,^ noun.act:tappelu1,+]  [ taistella, noun.act:taistelu2,+]  kilpailla,* frames: 1 (be engaged in a fight; carry on a fight; "the tribesmen fought each other"; "Siblings are always fighting"; "Militant groups are contending for control of the country") }
+{ ryhtyä_taisteluun,  kamppailla1,@ frames: 1 (engage in a conflict; "The battle over health care reform was joined") }
+{ panna_vastaan1,  kamppailla1,@ frames: 1 (struggle in opposition; "She tugged and wrestled with her conflicts") }
+{ [ taistella_jtk_vastaan, noun.person:taistelija1,+]  [ vastustaa, noun.act:vastustus2,+ noun.person:vastustaja1,+ adj.all:vihamielinen3^vastustava2,+]  [ puolustautua, adj.all:anteeksipyytävä^puolusteleva,+]  kamppailla1,@ frames: 1 (fight against or resist strongly; "The senator said he would oppose the bill"; "Don't fight it!") }
+{ hangata_vastaan,  niskoitella,  taistella_jtk_vastaan,@ frames: 1 (show strong objection or repugnance; manifest vigorous opposition or resistance; be obstinately disobedient; "The Democratic senators recalcitrated against every proposal from the Republican side") }
+{ selvittää,  maksaa_takaisin,  kamppailla1,@ frames: 1 (get one's revenge for a wrong or an injury; "I finally settled with my old enemy") }
+{ puolustautua1,  kamppailla1,@ frames: 1 (defend oneself) }
+{ [ kamppailla2, noun.act:kamppailu3,+]  [ taistella1, noun.act:taistelu3,+ adj.all:aktiivinen5^taistelunhaluinen,+ adj.all:sota-^taisteleva,+ noun.act:taistelu4,+ noun.person:taistelija1,+]  kamppailla1,@ frames: 1 (battle or contend against in or as if in a battle; "The Kurds are combating Iraqi troops in Northern Iraq"; "We must combat the prejudices against other races"; "they battled over the budget") }
+{ [ lähitaistella, noun.act:lähitaistelu1,+]  kamppailla2,@ frames: 1 (engage in an aerial battle with another fighter plane) }
+{ kamppailla3,  kamppailla2,@ frames: 1 (combat to overcome an opposing tendency or force; "He wrestled all his life with his feeling of inferiority") }
+{ [ sotia, tehdä_sovinto,! noun.act:sota,+ noun.state:sotatila1,+ noun.person:soturi,+ noun.person:sotilas7,+]  kamppailla1,@ frames: 1 (make or wage war) }
+{ käydä_salamasota,  salamasotia,  sotia,@ frames: 1 (fight a quick and surprising war) }
+{ ryhtyä_sotaan,  ryhtyä_sotaan<unconfirmed/>1,  ryhtyä_taisteluun1,  tarttua_aseisiin,  sotia,@ frames: 1 (commence hostilities) }
+{ [ tehdä_sovinto, sotia,!]  verb.communication:saada_aikaan_sovinto,@ frames: 1 (end hostilities; "The brothers who had been fighting over their inheritance finally made peace") }
+{ lähteä_sotaretkelle,  lähteä_sotaan,  sotia,* frames: 1 (go on a campaign; go off to war) }
+{ käydä_pyhää_sotaa,  tehdä_ristiretki,  olla_ristiretkellä,  lähteä_sotaretkelle,@ frames: 1 (go on a crusade; fight a holy war) }
+{ [ kampanjoida, noun.event:kampanja,+]  pyrkiä,  kilpailla1,@ frames: 1 (run, stand, or compete for an office or a position; "Who's running for treasurer this year?") }
+{ kampanjoida1,  kampanjoida,@ frames: 1 (travel through a district and make political speeches; "the candidate stumped the Northeast") }
+{ pyrkiä_uudelleen,  kampanjoida,@ frames: 1 (run again for office; "Bush wants to rerun in 1996") }
+{ olla_vaalikiertueella<note>yl_maaseudulla</note>,  verb.creation:esiintyä,@ olla_kiertueella<note>yl_maaseudulla</note>,$ frames: 1 (tour the country making political speeches, giving lectures, or presenting plays; "The presidential candidates are busy barnstorming this month") }
+{ olla_kiertueella<note>yl_maaseudulla</note>,  verb.creation:esiintyä,@ olla_vaalikiertueella<note>yl_maaseudulla</note>,$ frames: 1 (appear at county fairs and carnivals as a stunt flier and parachute jumper) }
+{ kampanjoida<broader/>2,  kampanjoida,@ frames: 1 (tour the country in order to solicit votes for an election) }
+{ olla_palveluksessa,  palvella,  verb.social:olla_töissä,@ verb.social:olla_asepalveluksessa,$ frames: 1 (do duty or hold offices; serve in a specific function; "He served as head of the department for three years"; "She served in Congress for two terms") }
+{ olla_jäsenenä,  pitää_istuntoa,  olla_palveluksessa,@ frames: 1 (serve in a specific professional capacity; "the priest sat for confession"; "she sat on the jury") }
+{ palvella1,  olla_palveluksessa,@ frames: 1 (serve on the staff of; "The two men staff the reception desk") }
+{ [ toimia_jnk, noun.person:toimija,+]  olla_palveluksessa,@ frames: 1 (discharge one's duties; "She acts as the chair"; "In what capacity are you acting?") }
+{ [ arvostella, noun.person:arvostelija4,+ noun.person:arvostelija2,+ noun.person:arvostelija3,+ noun.person:arvioija3,+]  kritisoida,  moittia,  toimia_jnk,@ frames: 1 (act as a critic; "Those who criticize others often are not perfect, either") }
+{ vuorotella,  olla_palveluksessa,@ verb.social:kierrättää1,$ frames: 1 (perform a job or duty on a rotating basis; "Interns have to rotate for a few months") }
+{ [ toimia, noun.act:toimi3,+ noun.act:toimitus2,+ noun.act:toimenkuva,+]  olla_palveluksessa,@ frames: 1 (perform duties attached to a particular office or place or function; "His wife officiated as his private secretary") }
+{ toimia_mailapoikana<huom/>,  toimia_mailapoikana1,  olla_palveluksessa,@ noun.act:golf,;c frames: 1 (act as a caddie and carry clubs for a player) }
+{ palvella2,  verb.stative:kuluttaa,@ frames: 1 (serve as a soldier in the military) }
+{ värväytyä,  ilmoittautua,@ frames: 1 (join the military) }
+{ ilmoittautua,  verb.social:liittyä1,@ frames: 1 (join a club, an activity, etc. with the intention to join or participate, "Sign up for yoga classes") }
+{ [ kutsua_asepalvelukseen, kotiuttaa,!]  kutsua<broader/>,  kutsua_palvelukseen,  verb.social:rekisteröidä,@ frames: 1 (engage somebody to enter the army) }
+{ [ kotiuttaa, kutsua_asepalvelukseen,!]  vapauttaa_palveluksesta,  verb.contact:vapauttaa2,@ frames: 1 (release from military service) }
+{ [ kutsua1, noun.communication:kutsunta<note>asepalvelukseen</note>,+]  [ panna_liikekannalle1, kotiuttaa1,!]  aseistaa1,  koota,  verb.communication:kutsua3,@ frames: 1 (call to arms; of military personnel) }
+{ [ kotiuttaa1, panna_liikekannalle1,!]  [ demobilisoida, noun.act:demobilisointi,+]  kotiuttaa,@ frames: 1 (release from military service or remove from the active list of military service) }
+{ [ värvätä, noun.act:värväys1,+ noun.person:värväri,+ noun.person:värvääjä1,+]  [ kutsua_palvelukseen1, noun.act:kutsunta1,+]  ottaa_sotaväkeen,  kutsua_asepalvelukseen,@ frames: 1 (cause to assemble or enlist in the military; "raise an army"; "recruit new soldiers") }
+{ värvätä1,  värväytyä,@ frames: 1 (enroll into service compulsorily; "The men were conscripted") }
+{ [ aseistaa2, demilitarisoida1,! noun.act:aseistaminen,+]  verb.change:muuttaa3,@ frames: 1 (lend a military character to (a country), as by building up a military force; "militarize Germany again after the war") }
+{ militarisoida_uudelleen,  aseistaa2,@ frames: 1 (militarize anew; "Should Japan be remilitarized?") }
+{ [ demilitarisoida1, aseistaa2,!]  riisua_aseista1,@ frames: 1 (do away with the military organization and potential of) }
+{ [ hävitä, voittaa,! noun.person:häviäjä,+ noun.person:häviäjä1,+]  kilpailla,* frames: 1 (fail to win; "We lost the battle but we won the war") }
+{ hävitä1,  kärsiä_tappio,  hävitä,@ frames: 1 (be defeated; "If America goes down, the free world will go down, too") }
+{ hävitä2,  hävitä,@ noun.act:urheilu,;c frames: 1 (lose (a game); "The Giants dropped 11 of their first 13") }
+{ [ voittaa, hävitä,! noun.person:voittaja1,+ noun.person:voittaja2,+ noun.possession:voitto2,+ noun.event:voitto,+]  kilpailla,* frames: 1 (be the winner in a contest or competition; be victorious; "He won the Gold Medal in skating"; "Our home team won"; "Win the game") }
+{ voittaa_helposti,  voittaa,@ frames: 1 (win easily; "romp a race") }
+{ voittaa1,  voittaa,@ saada_kannatus,$ voittaa3,$ frames: 1 (be successful in; "She lost the game but carried the match") }
+{ ottaa,  voittaa2,  voittaa,@ frames: 1 (obtain by winning; "Winner takes all"; "He took first prize") }
+{ voittaa_ylivoimaisesti,  voittaa,@ frames: 1 (win an overwhelming victory in or on; "Her new show dog swept all championships") }
+{ saada_enemmän_pisteitä,  saada_pistevoitto,  kukistaa1,@ frames: 1 (score more points than one's opponents) }
+{ lyödä_kunnari,  tehdä_pisteitä,@ frames: 1 (hit a home run) }
+{ julistaa_häviäjä,  verb.communication:julistaa10,@ noun.act:nyrkkeily,;c frames: 1 (declare the loser) }
+{ voittaa3,  voittaa,@ voittaa1,$ verb.social:saada_puolelleen,$ frames: 1 (win in an election; "The senator carried his home state") }
+{ saada_kannatus,  verb.possession:saada2,@ voittaa1,$ frames: 1 (secure the passage or adoption (of bills and motions); "The motion carried easily") }
+{ [ voittaa4, noun.event:voitto1,+ adj.all:voittamaton2^voittoisa,+]  menestyä,  voittaa,@ frames: 1 (prove superior; "The champion prevailed, though it was a hard fight") }
+{ [ kukistaa1, noun.person:kukistaja,+]  nujertaa,  [ voittaa5, adj.all:mahdollinen_valloittaa<head>mahdollinen</head>^voitettavissa_oleva1,+ adj.all:mahdollinen_valloittaa<head>mahdollinen</head>^voitettavissa<idiomatic_pos/>1,+]  murskata2,  [ päihittää, noun.event:päihitys,+]  päihittää3,@ voittaa,* vetää_nenästä,$ frames: 1 (come out better in a competition, race, or conflict; "Agassi beat Becker in the tennis championship"; "We beat the competition"; "Harvard defeated Yale in the last football game") }
+{ voittaa_helposti1,  kukistaa1,@ frames: 1 (beat easily; "The local team walked over their old rivals for the championship") }
+{ eliminoida,  kukistaa1,@ frames: 1 (remove from a contest or race; "The cyclist has eliminated all the competitors in the race") }
+{ lyödä1,  voittaa6,  puhdistaa_vihollisista,  kerätä_voitto,  kukistaa1,@ frames: 1 (defeat thoroughly; "He mopped up the floor with his opponents") }
+{ kumauttaa,  päihittää3,@ frames: 1 (defeat soundly and utterly; "We'll wallop them!") }
+{ kaataa,  päihittää3,@ noun.act:urheilu,;c frames: 1 (bring down or defeat (an opponent)) }
+{ vallata,  päihittää3,@ frames: 1 (seize the position of and defeat; "the Crusaders overran much of the Holy Land") }
+{ hakata,  kukistaa1,@ frames: 1 (beat overwhelmingly) }
+{ löylyttää,  [ rökittää, noun.event:rökitys,+]  päihittää3,@ noun.act:korttipeli,;c frames: 1 (defeat by a lurch) }
+{ murtaa,  poistaa,  verb.change:muuttaa3,@ frames: 1 (make ineffective; "Martin Luther King tried to break down racial discrimination") }
+{ päihittää1,  voittaa7,  selviytyä,  kukistaa1,@ frames: 1 (overcome, usually through no fault or weakness of the person that is overcome; "Heart disease can get the best of us") }
+{ selättää,  löylyttää1,  kukistaa1,@ frames: 1 (defeat disastrously) }
+{ olla_etu_puolellaan,  saada_etu_puolelleen,  kukistaa1,@ frames: 1 (be there first; "They had gotten the jump on their competitors") }
+{ taklata,  pysäyttää,@ noun.act:baseball,;c frames: 1 (intercept (a player)) }
+{ pettää,  petkuttaa,  jymäyttää,  huiputtaa,  jujuttaa,  puijata,  huijata,  kukistaa1,@ frames: 1 (defeat someone through trickery or deceit) }
+{ vetää_nenästä,  puijata1,  petkuttaa1,  olla_ovelampi,  pettää1,  ylittää,@ kukistaa1,$ frames: 1 (beat through cleverness and wit; "I beat the traffic"; "She outfoxed her competitors") }
+{ ohittaa_kasvussa,  kasvaa_isommaksi,  kasvaa_nopeammin,  ylittää,@ frames: 1 (grow faster than) }
+{ huutaa_kovempaa,  huudahtaa_kovempaa,  ylittää,@ frames: 1 (shout louder than) }
+{ karjua_kovempaa,  ylittää,@ frames: 1 (roar louder than) }
+{ purjehtia_paremmin,  ylittää,@ frames: 1 (sail faster or better than; "They outsailed the Roman fleet") }
+{ vetää_nopeammin,  ylittää,@ frames: 1 (draw a gun faster, or best someone in a gunfight) }
+{ ylittää,  jättää_jälkeensä,  voittaa8,  päihittää2,  ohittaa,  jättää_jotain_taaksen,  kukistaa1,@ frames: 1 (be or do something to a greater degree; "her performance surpasses that of any other student I know"; "She outdoes all other athletes"; "This exceeds all my expectations"; "This car outperforms all others in its class") }
+{ myydä_enemmän,  ylittää,@ frames: 1 (sell more than others; "This salesman outsells his colleagues") }
+{ myydä_paremmin,  ylittää,@ frames: 1 (be sold more often than other, similar products; "The new Toyota outsells the Honda by a wide margin") }
+{ ohittaa1,  ylittää,@ frames: 1 (surpass in speed; "Malthus believed that population increase would outpace increases in the means of subsistence") }
+{ [ parantaa, noun.attribute:parempi<idiomatic_pos/>1,+]  rikkoa,  ylittää,@ frames: 1 (surpass in excellence; "She bettered her own record"; "break a record") }
+{ jättää_varjoonsa,  jättää_varjoon,@ frames: 1 (steal the show, draw attention to oneself away from someone else; "When the dog entered the stage, he upstaged the actress") }
+{ jättää_varjoon,  ylittää,@ frames: 1 (attract more attention and praise than others; "This film outshone all the others in quality") }
+{ kantaa_pidemmälle,  ylittää,@ frames: 1 (have a greater range than (another gun)) }
+{ painaa_enemmän,  ylittää,@ frames: 1 (be heavier than) }
+{ olla_muita_rohkeampi,  ylittää,@ frames: 1 (be braver than) }
+{ olla_julmempi,  ylittää,@ frames: 1 (surpass someone in cruelty or evil) }
+{ olla_ovelampi1,  ylittää,@ frames: 1 (outdo someone in trickery) }
+{ tehdä_ennätys,  voittaa,@ frames: 1 (rank first; used often in a negative context; "He takes the cake for chutzpah!") }
+{ saattaa_häpeään,  ylittää,@ frames: 1 (surpass or beat by a wide margin) }
+{ päihittää3,  voittaa9,  lyödä2,   frames: 1 (win a victory over; "You must overcome all difficulties"; "defeat your enemies"; "He overcame his shyness"; "He overcame his infirmity"; "Her anger got the better of her and she blew up") }
+{ voittaa10,  suoriutua,  nujertaa1,  selviytyä1,  pitää_kurissa,  päästä_jonkin_yli,  kukistaa1,@ frames: 1 (get on top of; deal with successfully; "He overcame his shyness") }
+{ bulldog,  voittaa10,@ frames: 1 (throw a steer by seizing the horns and twisting the neck, as in a rodeo) }
+{ rökittää1,  löylyttää2,  ajaa_pois,  päihittää3,@ frames: 1 (cause to flee; "rout out the fighters from their caves") }
+{ kukistaa2,  päihittää3,@ frames: 1 (defeat suddenly and unexpectedly; "The foreign team upset the local team") }
+{ olla_parempi,  päihittää4,  voittaa11,  päästä_voitolle,  panna_paremmaksi,  viedä_voitto,  kukistaa_jku,  ennättää_kilpailijoiden_edelle,  kukistaa1,@ frames: 1 (get the better of; "the goal was to best the competition") }
+{ päihittää5,  kukistaa1,@ frames: 1 (to fight better than; get the better of; "the Rangers outfought the Maple Leafs"; "The French forces outfought the Germans") }
+{ voittaa_täpärästi,  päihittää3,@ frames: 1 (defeat by a narrow margin) }
+{ olla_parempi_taktikko,  voittaa_viekkaudessa,@ frames: 1 (surpass in generalship) }
+{ siirtää1,  liikutella,  pitää_taisteluharjoituksia,  [ operoida, noun.act:operaatio1,+]  tehdä_siirto,@ frames: 1 (perform a movement in military or naval tactics in order to secure an advantage in attack or defense) }
+{ juonitella,  keplotella,  siirtää1,@ frames: 1 (compete (for an advantage or a position)) }
+{ voittaa_viekkaudessa,  toimia_taitavammin,  olla_ovelampi2,  päihittää_oveluudessa,  olla_parempi,@ frames: 1 (defeat by more skillful maneuvering; "The English troops outmaneuvered the Germans"; "My new supervisor knows how to outmaneuver the boss in most situations") }
+{ nujertaa2,  kukistaa3,  musertaa,  murskata3,  kukistaa1,@ frames: 1 (overcome by superior force) }
+{ jyrätä,  nujertaa2,@ verb.social:jyrätä1,$ frames: 1 (overwhelm by using great force; "steamroller the opposition") }
+{ marssia_pidemmälle,  ylittää,@ frames: 1 (march longer distances and for a longer time than; "This guy can outmarch anyone!") }
+{ [ hankkia, perääntyä,!]  [ saada, perääntyä,!]  [ saavuttaa, perääntyä,!]  edistyä,  ohittaa<approximate/>2,  edetä,  menestyä1,  saada_jalansijaa<approximate/>,   frames: 1 (obtain advantages, such as points, etc.; "The home team was gaining ground"; "After defeating the Knicks, the Blazers pulled ahead of the Lakers in the battle for the number-one playoff berth in the Western Conference") }
+{ ottaa_varaslähtö,  hankkia,@ noun.act:baseball,;c frames: 1 (steal a base) }
+{ voittaa_takaisin<narrower/>,  saada_takaisin,  verb.possession:saada1,@ frames: 1 (recover something or somebody that appeared to be lost; "We got back the money after we threatened to sue the company"; "He got back his son from the kidnappers") }
+{ tehdä_pisteitä,  kerätä_pisteitä,  saada_pisteitä,  hankkia,@ kilpailla,* frames: 1 (gain points in a game; "The home team scored many times"; "He hit a home run"; "He hit .300 in the past season") }
+{ saavuttaa_pistemäärä,  verb.social:saavuttaa,@ frames: 1 (get a certain number or letter indicating quality or performance; "She scored high on the SAT"; "He scored a 200") }
+{ saada_testissä,  saavuttaa1,  saavuttaa_pistemäärä,@ verb.cognition:olla_testattavana,$ frames: 1 (achieve a certain score or rating on a test; "She tested high on the LSAT and was admitted to all the good law schools") }
+{ potkaista_maasta,  tehdä_maali2,@ noun.act:jalkapallo,;c frames: 1 (score (a goal) by making a place kick) }
+{ tehdä_maali2,  tehdä_pisteitä,@ noun.act:jalkapallo,;c frames: 1 (make a goal; "He kicked the extra point after touchdown") }
+{ lyödä_kaksi_lyöntiä_alle_par-luvun,  tehdä_pisteitä,@ noun.act:golf,;c frames: 1 (shoot in two strokes under par) }
+{ tehdä_hole-in-one,  tehdä_pisteitä,@ noun.act:golf,;c frames: 1 (score a hole in one) }
+{ päihittää<unconfirmed/>6,  tehdä_pisteitä,@ frames: 1 (score an ace against; "He aced his opponents") }
+{ saada_piste<approximate/>,  tehdä_pisteitä,@ noun.act:baseball,;c antaa_piste<unconfirmed/>,$ frames: 1 (obtain a base on balls) }
+{ tuoda_kotiin<unconfirmed/>,  noun.act:baseball,;c tehdä_pisteitä,> frames: 1 (cause a run or runner to be scored; "His line double drove in Jim Lemon with the winning run") }
+{ [ perääntyä, hankkia,! saada,! saavuttaa,!]  hävitä3,  pudota,  jäädä_jälkeen,  [ vetäytyä, noun.act:vetäytyminen6,+]  verb.change:taantua,@ frames: 1 (retreat) }
+{ säilyttää,  ylläpitää,  kilpailla,* frames: 1 (maintain a required pace or level; "He could not keep up and dropped out of the race") }
+{ pysyä_perässä,  pysyä_tahdissa,  säilyttää,@ frames: 1 (maintain the same pace; "The child cannot keep step with his big brother") }
+{ [ voittaa12, noun.act:voittaminen1,+]  päihittää3,@ frames: 1 (overcome by conquest; "conquer your fears"; "conquer a country") }
+{ tehdä_matti,  matittaa,  kukistaa1,@ noun.act:šakki1,;c frames: 1 (place an opponent's king under an attack from which it cannot escape and thus ending the game; "Kasparov checkmated his opponent after only a few moves") }
+{ šakata,  shakata,  hyökätä,@ noun.act:šakki1,;c tehdä_siirto,* frames: 1 (place into check; "He checked my kings") }
+{ usuttaa_koirat_kimppuun,  hyökätä3,@ frames: 1 (attack with dogs or set dogs upon) }
+{ usuttaa1,  lähettää_kimppuun,  hyökätä3,@ frames: 1 (urge to attack someone; "The owner sicked his dogs on the intruders"; "the shaman sics sorcerers on the evil spirits") }
+{ pelata_tasapeli,  pelata_tasan,  verb.change:yhdenmukaistaa,@ pelata,* frames: 1 (finish a game with an equal number of points, goals, etc.; "The teams drew a tie") }
+{ [ tasoittaa, noun.act:tasoitusmaali,+]  päästä_tasoihin,  tehdä_pisteitä,@ frames: 1 (compensate; make the score equal) }
+{ [ antautua, tehdä_vastarintaa1,! noun.person:antautuja,+ noun.act:antautuminen,+]  luopua1,  luovuttaa2,@ frames: 1 (give up or agree to forgo to the power or possession of another; "The last Taleban fighters finally surrendered") }
+{ tehdä_vastarintaa,  [ puolustaa, noun.act:puolustusasema,+]  torjua,  vastustaa1,  taistella_jtk_vastaan,@ verb.stative:puolustaa,$ frames: 1 (withstand the force of something; "The trees resisted her"; "stand the test of time"; "The mountain climbers had to fend against the ice and snow") }
+{ [ luopua2, noun.person:luovuttaja,+]  [ luovuttaa1, noun.person:luovuttaja,+]  antautua,@ frames: 1 (surrender (power or a position); "The King abnegated his power to the ministers") }
+{ luovuttaa2,   frames: 1 (cease opposition; stop fighting) }
+{ [ tehdä_vastarintaa1, antautua,!]  [ vastustaa2, noun.person:vastarannankiiski<approximate/>,+]  [ vastustaa<approximate/>3, noun.person:vastarannankiiski<approximate/>,+]  kestää,  taistella_jtk_vastaan,@ frames: 1 (stand up or offer resistance to somebody or something) }
+{ vastustaa4,  tehdä_vastarintaa1,@ frames: 1 (be stubborn in resolution or resistance) }
+{ vastustaa5,  tehdä_vastarintaa1,@ frames: 1 (refuse to back down; remain solid under criticism or attack) }
+{ uhmata,  tehdä_vastarintaa1,@ frames: 1 (resist bravely; "He outbraved the enemy") }
+{ pitää_puoliaan,  tehdä_vastarintaa1,@ frames: 1 (resist and fight to a standoff; "Dallas had enough of a lead to hold the Broncos off") }
+{ ottaa_kiinni_syöttö,  napata_syöttö,  pelata,@ noun.act:jalkapallo,;c frames: 1 (complete a pass) }
+{ [ myöntää_vastustajan_vaalivoitto, noun.communication:myönnytys,+ noun.communication:myöntyminen,+]  antautua,@ frames: 1 (acknowledge defeat; "The candidate conceded after enough votes had come in to show that he would lose") }
+{ [ antautua1, noun.act:antautuminen,+]  luovuttaa3,  antautua,@ frames: 1 (surrender under agreed conditions) }
+{ tehdä_vaarattomaksi,  demilitarisoida1,@ frames: 1 (make incapable of military action) }
+{ totella,  antautua,* frames: 1 (yield to the control of another) }
+{ altistaa,  totella,@ frames: 1 (make accountable for; "He did not want to subject himself to the judgments of his superiors") }
+{ [ hyökätä, noun.act:hyökkäys5,+ noun.person:hyökkääjä1,+ noun.act:hyökkäys16,+ adj.all:vihamielinen3^hyökkäävä2,+ noun.act:hyökkäys3,+]  iskeä1,  verb.social:toimia,@ hyökätä1,$ frames: 1 (take the initiative and go on the offensive; "The Serbs attacked the village at night"; "The visiting team started to attack") }
+{ haarautua<unconfirmed/>,  hyökätä,@ noun.act:šakki1,;c frames: 1 (place under attack with one's own pieces, of two enemy pieces) }
+{ käydä_kimppuun,  hyökätä3,@ frames: 1 (attack viciously and ferociously) }
+{ [ hyökätä1, puolustautua2,! noun.act:hyökkäys5,+ noun.person:hyökkääjä1,+]  [ iskeä2, puolustautua2,!]  käydä_kimppuun1,  kamppailla1,@ hyökätä,$ frames: 1 (launch an attack or assault on; begin hostilities or start warfare with; "Hitler attacked Poland on September 1, 1939 and started World War II"; "Serbian forces assailed Bosnian towns all week") }
+{ hyökätä_sukellusveneellä,  hyökätä1,@ frames: 1 (attack by submarine; "The Germans submarined the Allies") }
+{ hyökätä2,  rynnistää,  hyökätä3,@ frames: 1 (attack suddenly) }
+{ [ hyökätä3, noun.person:hyökkääjä1,+ noun.act:hyökkäys1,+ adj.all:hyökkäys-^hyökkäävä4,+ noun.act:hyökkäys2,+]  käydä_kimppuun2,   frames: 1 (attack someone physically or emotionally; "The mugger assaulted the woman"; "Nightmares assailed him regularly") }
+{ hyökätä_kuolleesta_kulmasta,  hyökätä_selustasta,  hyökätä3,@ frames: 1 (attack or hit on or from the side where the attacked person's view is obstructed) }
+{ [ ahdistella, noun.person:ahdistelija1,+]  hätyytellä,  hätyyttää,  uuvuttaa,  väsyttää,  hyökätä,@ frames: 1 (exhaust by attacking repeatedly; "harass the enemy") }
+{ [ raadella, noun.act:raakamaisuus,+]  hyökätä3,@ frames: 1 (attack brutally and fiercely) }
+{ iskeä_uudestaan,  hyökätä3,@ frames: 1 (assail again; "Her old fears reassailed her") }
+{ rynnätä,  hyökätä3,@ frames: 1 (make a sudden physical attack on; "The muggers jumped the woman in the fur coat") }
+{ [ pommittaa, noun.person:pommittaja1,+]  hyökätä1,@ verb.contact:lennättää1,* frames: 1 (attack and bombard with or as if with missiles; "pelt the speaker with questions") }
+{ tehdä_toimintakyvyttömäksi,  kukistaa1,@ frames: 1 (make defenseless) }
+{ kiinnittää,  hyökätä,@ noun.act:šakki1,;c frames: 1 (immobilize a piece) }
+{ [ rynniä, noun.act:rynnistys,+ noun.act:rynnäkkö5,+]  syöksyä,  [ hyökätä4, noun.act:hyökkäys6,+]  hyökätä2,@ frames: 1 (to make a rush at or sudden attack upon, as in battle; "he saw Jess charging at him with a pitchfork") }
+{ olla_kaksintaistelussa,  kamppailla1,@ frames: 1 (fight a duel, as over one's honor or a woman; "In the 19th century, men often dueled over small matters") }
+{ [ kilpailla2, noun.act:kilpailu2,+ noun.person:kilpailija2,+]  kilpailla,@ frames: 1 (be the rival of, be in competition with; "we are rivaling for first place in the race") }
+{ yltää_samaan,  kilpailla,@ frames: 1 (compete with successfully; approach or reach equality with; "This artist's drawings cannot emulate his water colors") }
+{ olla_suurempi_vastustaja,  olla_suurempi_kilpailija,  kilpailla2,@ frames: 1 (be more of a rival than) }
+{ [ turnailla, noun.event:turnajaiset1,+]  kamppailla1,@ frames: 1 (joust against somebody in a tournament by fighting on horseback) }
+{ taistella2,  [ turnata, noun.event:turnajaiset1,+ noun.person:turnajaisiin_osallistuva,+]  turnailla,@ frames: 1 (charge with a tilt) }
+{ taistella_toisen_olkapäillä_istuen,  kamppailla1,@ frames: 1 (fight while sitting on somebody's shoulders) }
+{ [ turnata1, noun.event:turnaus,+]  kamppailla1,@ frames: 1 (engage in a tourney) }
+{ olla_riitaisissä_väleissä,  [ riidellä, noun.act:riita4,+]  kamppailla1,@ frames: 1 (carry out a feud; "The two professors have been feuding for years") }
+{ [ kantaa, noun.act:kantaminen,+]  [ kantautua, noun.act:kantaminen,+]  verb.motion:kulkea,@ noun.act:golf,;c kantaa1,$ frames: 1 (cover a certain distance or advance beyond; "The drive carried to the green") }
+{ [ kantaa1, noun.act:kantaminen,+]  verb.stative:olla8,@ kantaa,$ frames: 1 (have a certain range; "This rifle carries for 3,000 feet") }
+{ [ kahakoida, noun.act:kahakka2,+ noun.person:kahakoitsija,+]  nahinoida,  nahistella,  kamppailla1,@ frames: 1 (engage in a skirmish) }
+{ [ hyökätä5, noun.act:hyökkäys11,+]  hyökätä1,@ verb.contact:osua<approximate/>,$ ampua8,$ frames: 1 (make a strategic, offensive, assault against an enemy, opponent, or a target; "The Germans struck Poland on Sept. 1, 1939"; "We must strike the enemy's oil fields"; "in the fifth inning, the Giants struck, sending three runners home to win the game 5 to 2") }
+{ lyödä_kierteellä,  hyökätä5,@ frames: 1 (hit a ball so that it causes a backspin) }
+{ iskeä3,  hyökätä5,@ frames: 1 (hit sharply) }
+{ lyödä_kevyesti,  hyökätä5,@ frames: 1 (strike a ball with a smooth blow) }
+{ pysyä_tahdissa1,  verb.motion:soutaa,@ frames: 1 (row at a particular rate) }
+{ kääntää_lappeelleen,  verb.motion:soutaa,@ frames: 1 (turn the oar, while rowing) }
+{ kääntää_lappeelleen1,  verb.motion:meloa1,@ frames: 1 (turn the paddle; in canoeing) }
+{ tehdä_vastahyökkäys,  tehdä_vastaisku,  hyökätä1,@ frames: 1 (make a counterattack) }
+{ ottaa_lukua,  jäädä_kanveesiin,  hävitä,@ noun.act:nyrkkeily,;c frames: 1 (be counted out; remain down while the referee counts to ten) }
+{ [ kaasuttaa, noun.act:kaasutus,+]  hyökätä1,@ frames: 1 (attack with gas; subject to gas fumes; "The despot gassed the rebellious tribes") }
+{ sumuttaa_kyynelkaasulla,  kaasuttaa,@ frames: 1 (attack with teargas; subject to teargas fumes; "The students were teargassed during the riot") }
+{ [ miinoittaa, noun.artifact:miina1,+ noun.act:miinoittaminen,+]  verb.change:vahvistaa3,@ frames: 1 (lay mines; "The Vietnamese mined Cambodia") }
+{ raivata_miinoja,  miinoittaa,@ frames: 1 (destroy enemy mines with one's own mines; "We countermined the banks of the river") }
+{ tehdä_rynnäkkö,  tehdä_yllätyshyökkäys,  rynnistää1,  rynnäköidä,  rynnätä1,  hyökätä1,@ frames: 1 (attack by storm; attack suddenly) }
+{ hyökätä_varoittamatta,  pommittaa_ankarasti,  tehdä_salamahyökkäys_jhk,  hyökätä1,@ frames: 1 (attack suddenly and without warning; "Hitler blitzed Poland") }
+{ [ hyökätä6, noun.person:hyökkääjä4,+ noun.act:hyökkäys8,+]  [ miehittää1, noun.act:miehitys,+ noun.person:miehittäjä,+]  vallata1,  hyökätä1,@ frames: 1 (march aggressively into another's territory by military force for the purposes of conquest and occupation; "Hitler invaded Poland on September 1, 1939") }
+{ piirittää,  saartaa,  ympäröidä,  käydä_jkn_kimppuun,  hyökätä3,@ frames: 1 (assail or attack on all sides: "The zebra was beset by leopards") }
+{ tukkia,  sulkea,  piirittää1,@ frames: 1 (impose a blockade on) }
+{ [ saartaa1, noun.artifact:saarto,+]  [ sulkea1, noun.artifact:sulku,+]  tukkia_kulku,  verb.contact:tukkia6,@ frames: 1 (obstruct access to) }
+{ sulkea_barrikadilla,  sulkea_esteellä,  verb.contact:tukkia6,@ frames: 1 (block off with barricades) }
+{ sulkea_barrikadilla1,  sulkea_esteellä1,  verb.contact:tukkia6,@ frames: 1 (prevent access to by barricading; "The street where the President lives is always barricaded") }
+{ [ piirittää1, noun.person:piirittäjä,+]  [ saartaa2, noun.person:saartaja,+]  ympäröidä1,  motittaa,  hyökätä1,@ frames: 1 (surround so as to force to give up; "The Turks besieged Vienna") }
+{ padota<unconfirmed/>,  piirittää1,@ frames: 1 (hem in fish with stakes and nets so as to prevent them from going back into the sea with the ebb) }
+{ [ puolustautua2, hyökätä1,! iskeä2,! adj.all:kestävä14^puolustettavissa_oleva,+ adj.all:kestävä14^puolustettavissa<idiomatic_pos/>,+ noun.group:puolustus2,+ adj.all:puolustus-,+]  verb.social:estää2,@ kamppailla1,* frames: 1 (be on the defensive; act against an attack) }
+{ vallittaa,  puolustautua2,@ frames: 1 (defend with a bulwark) }
+{ [ suojata, noun.person:suojelija<approximate/>,+ noun.artifact:suojaus,+ noun.act:suojelu,+ adj.all:suoja-,+ adj.all:suojaava2,+]  [ suojella, noun.person:suojelija<approximate/>,+ noun.artifact:suojaus,+ noun.act:suojelu,+ adj.all:suoja-,+ adj.all:suojaava2,+]  puolustautua2,@ frames: 1 (shield from danger, injury, destruction, or damage; "Weatherbeater protects your roof from the rain") }
+{ antaa_koskemattomuus<approximate/>,  antaa_suoja<approximate/>,  suojata,@ frames: 1 (law: grant immunity from prosecution) }
+{ [ ylisuojella, noun.act:ylisuojelu,+]  suojata,@ frames: 1 (protect excessively; "Don't overprotect your son--he is an adult now!") }
+{ suojella1,  suojata,@ frames: 1 (to protect someone's interests; "A man's gotta look out for his family") }
+{ pitää_aseen_kantama-alueella,  suojata,@ verb.stative:kattaa1,$ frames: 1 (hold within range of an aimed firearm) }
+{ vahtia,  suojella<note>vanh</note>2,  suojata1,  suojata,@ frames: 1 (watch over or shield from danger or harm; protect; "guard my possessions while I'm away") }
+{ torjua1,  vastustaa6,  puolustautua2,@ frames: 1 (avert, turn away, or repel; "Ward off danger") }
+{ [ suojella3, noun.act:suojelutulli,+ adj.all:suoja-,+ adj.all:suojaava2,+]  verb.social:avustaa,@ noun.act:kaupankäynti2,;c frames: 1 (use tariffs to favor domestic industry) }
+{ [ puolustaa1, adj.all:kestävä14^puolustettavissa_oleva,+ adj.all:kestävä14^puolustettavissa<idiomatic_pos/>,+ noun.person:puolustaja<approximate/>,+ noun.group:puolustus,+ adj.all:puolustus-,+]  vartioida,  pitää_hallussaan,  suojella4,  suojata,@ verb.social:pitää_hallussaan,$ frames: 1 (protect against a challenge or attack; "Hold that position behind the trees!"; "Hold the bridge against the enemy's attacks") }
+{ [ suojata2, noun.act:suojelu1,+ noun.person:suojelija<approximate/>,+ noun.artifact:suoja,+]  [ suojella5, noun.act:suojelu1,+ noun.person:suojelija<approximate/>,+]  varjella,  suojata,@ frames: 1 (protect, hide, or conceal from danger or harm) }
+{ suojella_taikakeinoin,  suojata,@ frames: 1 (protect through supernatural powers or charms) }
+{ [ muurata, verb.contact:muurata,^ verb.contact:ympäröidä1,^ verb.contact:sulkea_seinällä,^ noun.artifact:muuri,+]  [ paaluttaa, noun.artifact:paaluaita,+]  aidata,  ympäröidä_aidalla,  [ ympäröidä2, noun.location:ympäristö1,+]  suojata,@ frames: 1 (surround with a wall in order to fortify) }
+{ [ paaluttaa1, noun.artifact:paaluvarustus,+]  muurata,@ frames: 1 (surround with a stockade in order to fortify) }
+{ ympäröidä_vallituksin,  muurata,@ frames: 1 (surround with or as if with a rampart or other fortification) }
+{ [ torjua2, noun.communication:torjunta,+ noun.act:torjunta,+ noun.communication:torjuminen2,+]  taistella_jtk_vastaan,@ frames: 1 (force or drive back; "repel the attacker"; "fight off the onslaught"; "rebuff the attack") }
+{ pysäyttää,  käännyttää,  pidättää,  estää,  hillitä,  pidätellä,  puolustautua2,@ frames: 1 (hold back, as of a danger or an enemy; check the expansion or influence of; "Arrest the downward trend"; "Check the growth of communism in South East Asia"; "Contain the rebel movement"; "Turn back the tide of communism") }
+{ [ pommittaa1, noun.act:pommitus,+ noun.artifact:pommi,+ noun.artifact:pommikone,+ noun.person:pomminasettaja,+]  hyökätä1,@ frames: 1 (throw bombs at or attack with bombs; "The Americans bombed Dresden") }
+{ [ mattopommittaa, noun.act:mattopommitus,+]  pommittaa1,@ frames: 1 (bomb a large area systematically and extensively; "The U.S. decided to carpet bomb Vietnam") }
+{ tehdä_joku_kodittomaksi_pommittamalla<unconfirmed/>,  pommittaa1,@ frames: 1 (make somebody homeless by destroying their houses with bombs) }
+{ [ syöksypommittaa, noun.artifact:syöksypommittaja,+ noun.act:syöksypommitus,+]  pommittaa1,@ frames: 1 (bomb from a diving airplane) }
+{ liukupommittaa,  pommittaa1,@ frames: 1 (bomb by gliding) }
+{ pommittaa<broader/>2,  pommittaa1,@ frames: 1 (attack with delayed release bombs) }
+{ hyökätä_atomipommilla,  hyökätä_ydinpommilla,  hyökätä_ydinaseella,  pommittaa1,@ frames: 1 (bomb with atomic weapons) }
+{ pommittaa_vetypommilla,  pommittaa1,@ frames: 1 (attack with a hydrogen bomb) }
+{ aluepommittaa,  pommittaa1,@ frames: 1 (bomb in certain patterns) }
+{ tuhota_ydinasein,  hävittää_ydinpommilla,  hyökätä_ydinpommilla1,  pommittaa3,  tuhota1,  pommittaa1,@ frames: 1 (strike at with firepower or bombs; "zap the enemy") }
+{ lähettää_kirjepommi,  pommittaa1,@ frames: 1 (send an explosive to; "The Unabomber letter bombed a number of individuals and institutions") }
+{ heittää_palopommeja,  pommittaa1,@ frames: 1 (attack with incendiary bombs; "The rioters fire-bombed the stores") }
+{ [ laukaista, noun.act:laukaiseminen1,+ noun.act:laukaisu2,+]  [ laukoa, noun.act:laukaiseminen1,+ noun.act:laukaisu2,+]  laueta,> frames: 1 (cause to go off; "fire a gun"; "fire a bullet") }
+{ paukutella,  laukaista,@ frames: 1 (fire a weapon with a loud explosive noise; "The soldiers were popping") }
+{ [ laueta, noun.act:laukaiseminen1,+ noun.act:laukaisu2,+]   frames: 1 (go off or discharge; "The gun fired") }
+{ antaa_tulta,  laukaista,@ frames: 1 (fire as from a gun; "The soldiers let drive their bullets") }
+{ ampua<note>tykillä</note>,  ampua_tykillä,  tulittaa,  tykittää,  kotiuttaa,@ frames: 1 (fire a cannon) }
+{ jäädä_laukeamatta,  verb.change:pettää1,@ frames: 1 (fail to fire or detonate; "The guns misfired") }
+{ [ ampua1, noun.person:ampuja1,+]  tulittaa1,  laukaista1,  laukaista,@ ampua8,$ frames: 1 (fire a shot; "the gunman blasted away") }
+{ ampua<broader/><note>tauotta_tai_umpimähkään</note>2,  tulittaa2,  ampua1,@ frames: 1 (shoot rapidly and repeatedly; "He blazed away at the men") }
+{ [ ampua_yli, ampua_huti,!]  ampua1,@ verb.contact:mennä_ohi,@ tähdätä1,* frames: 1 (shoot beyond or over (a target)) }
+{ painaa_liipaisinta,  laukaista,* frames: 1 (release or pull the trigger on; "Trigger a gun") }
+{ ampua3,  ampua_väijyksistä,  ampua1,@ frames: 1 (aim and shoot with great precision) }
+{ metsästää_kurppia,  metsästää2,@ frames: 1 (hunt or shoot snipe) }
+{ avata_tuli,  ampua4,  tulittaa3,  ampua1,@ frames: 1 (start firing a weapon) }
+{ ampua5,  tulittaa4,  pommittaa4,  pommittaa1,@ frames: 1 (use explosives on; "The enemy has been shelling us all day") }
+{ [ hyökätä<broader/>7, noun.act:hyökkäys17,+]  hyökätä1,@ frames: 1 (attack with machine guns or cannon fire from a low-flying plane; "civilians were strafed in an effort to force the country's surrender") }
+{ pommittaa5,  ampua5,@ frames: 1 (bombard with heavy shells) }
+{ [ tykittää1, noun.act:tykkituli1,+]  hyökätä1,@ frames: 1 (attack with cannons or artillery) }
+{ [ ampua6, ampua7,^ noun.person:ampuja2,+]  ampua1,@ frames: 1 (shoot with a gun) }
+{ ampua_konekiväärillä,  ampua6,@ ampua8,* frames: 1 (shoot with a machine gun) }
+{ ampua7,  ampua8,@ frames: 1 (strike down or shoot down) }
+{ ampua_alas,  ampua8,@ frames: 1 (shoot down, of birds) }
+{ [ ampua8, noun.person:ampuja1,+]  iskeä4,  vahingoittaa,  verb.body:haavoittaa,@ ampua1,$ hyökätä5,$ verb.social:ampua,$ frames: 1 (hit with a missile from a weapon) }
+{ ampua_polvilumpioon,  ampua8,@ frames: 1 (shoot in the kneecap, often done by terrorist groups as a warning; "They kneecapped the industrialist") }
+{ tulittaa5,  laukaista,@ frames: 1 (attack with fusillade) }
+{ [ purkaa, varustaa_sulakkeella,!]  [ tehdä_vaarattomaksi1, varustaa_sulakkeella,!]  verb.change:irrottaa,@ frames: 1 (remove the triggering device from) }
+{ [ varustaa_sulakkeella, purkaa,! tehdä_vaarattomaksi1,!]  verb.possession:varustaa3,@ frames: 1 (equip with a fuse; provide with a fuse) }
+{ [ torpedoida, noun.artifact:torpedo,+]  hyökätä1,@ frames: 1 (attack or hit with torpedoes) }
+{ [ suojella6, noun.act:suojatoimenpide,+ noun.act:suoja,+]  [ suojata3, noun.act:suojatoimenpide,+ noun.act:suoja,+]  turvata,  suojata,@ frames: 1 (make safe) }
+{ [ väijyä, noun.act:väijytys,+ noun.person:väijyjä,+]  väijyttää,  odottaa,  vaania,  kätkeytyä,  olla_väijyksissä,  odottaa_makuulla,  verb.stative:odotella,@ frames: 1 (wait in hiding to attack) }
+{ kamppailla4,  riidellä1,  kamppailla1,@ frames: 1 (exchange blows) }
+{ pelata_uhkapeliä,  uhkapelata,  pelata,@ frames: 1 (play games for money) }
+{ heittää_noppaa,  pelata_uhkapeliä,@ frames: 1 (play dice) }
+{ pelata<broader/>3,  pelata_uhkapeliä,@ frames: 1 (play a game of craps) }
+{ veikata,  pelata_uhkapeliä,@ pelata7,$ frames: 1 (bet or wager (money); "He played $20 on the new horse"; "She plays the races") }
+{ lyödä_vetoa,  lyödä_vetoa<note>jnk_puolesta</note>1,  panna_pantiksi,  [ panna_likoon, noun.possession:panos1,+]  [ panna_peliin, noun.possession:panos1,+]  [ panna_vaakalaudalle, noun.possession:panos1,+]  riskeerata,  lyödä_vetoa2,@ frames: 1 (place a bet on; "Which horse are you backing?"; "I'm betting on the new horse") }
+{ panna_pöytään_avauspanokseksi,  maksaa_alkupanos,  lyödä_vetoa,@ noun.act:korttipeli,;c frames: 1 (place one's stake) }
+{ pelata<broader/>4,  veikata,@ noun.act:korttipeli,;c frames: 1 (play a card lower than (a held high card)) }
+{ sijoittaa_uudestaan,  tuplata<unconfirmed/>,  lyödä_vetoa,@ frames: 1 (stake winnings from one bet on a subsequent wager) }
+{ pidättyä,  tehdä_siirto,@ noun.act:korttipeli,;c frames: 1 (decline to initiate betting) }
+{ [ bongata_lintuja, noun.person:bongari,+]  katsella_lintuja,  verb.perception:tarkkailla5,@ frames: 1 (watch and study birds in their natural habitat) }
+{ ravustaa,  kalastaa,@ frames: 1 (fish for crab) }
+{ troolata,  kalastaa,@ frames: 1 (fish with a seine; catch fish with a seine) }
+{ kerätä_simpukoita,  kalastaa,@ frames: 1 (fish for scallops) }
+{ [ harppunoida, noun.artifact:harppuuna,+ noun.person:harppunoija,+]  verb.contact:ottaa_kiinni2,@ frames: 1 (spear with a harpoon; "harpoon whales") }
+{ antaa_piste<unconfirmed/>,  pelata,@ noun.act:baseball,;c saada_piste<approximate/>,$ frames: 1 (give a base on balls to) }
+{ [ kalastaa, noun.food:kala,+ noun.act:kalastus,+ noun.animal:kala1,+ noun.act:kalastus1,+ noun.person:kalastaja,+ noun.artifact:kalanviljelylaitos,+ noun.artifact:kalankäsittelylaitos,+]  verb.contact:ottaa_kiinni2,@ frames: 1 (catch or try to catch fish or shellfish; "I like to go fishing on weekends") }
+{ vetää_uistinta<unconfirmed/>,  kalastaa,@ frames: 1 (fish with a handline over the rails of a boat; "They are railing for fresh fish") }
+{ supistaa<note>nostaa_verkkoa</note>,  kalastaa,@ frames: 1 (haul fish aboard with brails) }
+{ kalastaa_perholla,  onkia,@ frames: 1 (fish with flies as lures) }
+{ [ onkia, noun.person:onkija,+]  kalastaa,@ frames: 1 (fish with a hook) }
+{ [ uistella, noun.artifact:uistin2,+ noun.act:uistelu,+]  onkia,@ frames: 1 (angle with a hook and line drawn through the water) }
+{ metsästää_valaita,  pyytää_valaita,  metsästää2,@ frames: 1 (hunt for whales) }
+{ pyydystää_katkarapuja,  kalastaa,@ frames: 1 (fish for shrimp) }
+{ vaania1,  [ väijyä1, noun.act:väijytys,+ noun.person:väijyjä,+]  metsästää2,@ frames: 1 (hunt (quarry) by stalking and ambushing) }
+{ metsästää<broader/>,  metsästää_kilpikonnia,  metsästää2,@ frames: 1 (hunt for turtles, especially as an occupation) }
+{ ajaa,  metsästää2,@ metsästää<broader/>1,$ frames: 1 (hunting: chase from cover into more open ground; "drive the game") }
+{ metsästää<broader/>1,  metsästää2,@ ajaa,$ frames: 1 (hunting: search for game; "drive the forest") }
+{ pyydystää_kaniineja,  olla_kanijahdissa,  metsästää2,@ frames: 1 (hunt rabbits) }
+{ linnustaa,  metsästää2,@ frames: 1 (hunt fowl in the forest) }
+{ [ metsästää_metsäkanoja, noun.food:metsäkanan_liha,+ noun.animal:metsäkana,+]  linnustaa,@ frames: 1 (hunt grouse) }
+{ kerätä_kotiloita<unconfirmed/>,  verb.contact:kerätä_etanoita,@ frames: 1 (gather whelk) }
+{ harjoittaa_salametsästystä,  metsästää_salaa,  salametsästää,  metsästää2,@ frames: 1 (hunt illegally; "people are poaching elephants for their ivory") }
+{ kalastaa_verkolla,  kalastaa,@ frames: 1 (fish with nets) }
+{ metsästää_hylkeitä,  pyytää_hylkeitä,  metsästää2,@ frames: 1 (hunt seals) }
+{ metsästää_haita,  kalastaa,@ frames: 1 (hunt shark) }
+{ kalastaa<broader/>1,  troolata1,  kalastaa,@ frames: 1 (fish with trawlers) }
+{ [ metsästää2, noun.act:metsästys2,+ noun.person:metsästäjä,+ noun.act:metsästys3,+]  ajaa_takaa,  jahdata,  pyydystää,  verb.contact:pyydystää4,@ verb.motion:juoksuttaa2,$ metsästää3,$ frames: 1 (pursue for food or sport (as of wild animals); "Goering often hunted wild boars in Poland"; "The dogs are running deer"; "The Duke hunted in these woods") }
+{ metsästää_fretillä,  metsästää2,@ frames: 1 (hunt with ferrets) }
+{ [ metsästää3, noun.act:metsästys2,+ noun.person:metsästäjä,+]  verb.perception:etsiä,@ metsästää2,$ frames: 1 (search (an area) for prey; "The King used to hunt these forests") }
+{ ajaa1,  metsästää2,@ noun.act:peli1,;c frames: 1 (hunt with hounds; "He often courses hares") }
+{ osallistua_ketunajoon,  metsästää2,@ frames: 1 (hunt foxes, on horseback and with dogs) }
+{ ajaa<broader/>2,  ajaa_puuhun,  verb.motion:ajaa_takaa1,@ frames: 1 (chase an animal up a tree; "the hunters treed the bear with dogs and killed it"; "her dog likes to tree squirrels") }
+{ tuulastaa,  metsästää2,@ frames: 1 (hunt with a jacklight) }
+{ onkia1,  kalastaa,@ frames: 1 (fish with the line and bait resting still or stationary in the water) }
+{ metsästää<broader/>4,  metsästää2,@ frames: 1 (hunt with hawks; "the tribes like to hawk in the desert") }
+{ metsästää_haukalla,  metsästää2,@ frames: 1 (hunt with falcons; "The tribes like to falcon in the desert") }
+{ [ linnustaa1, noun.person:linnustaja,+]  metsästää2,@ frames: 1 (hunt fowl) }
+{ ponnistella,  pinnistellä,  verb.social:nykiä,@ frames: 1 (to exert much effort or energy; "straining our ears to hear") }
+{ rasittaa_itseään,  ponnistella,@ frames: 1 (strain to the utmost) }
+{ tappaa_itsensä_rasitukseen,  rasittaa_itseään_liikaa,  ponnistella,@ frames: 1 (strain oneself more than is healthy) }
+{ [ keilata, noun.artifact:keilapallo,+ noun.person:keilaaja,+]  pelata,@ frames: 1 (engage in the sport of bowling; "My parents like to bowl on Friday nights") }
+{ [ keilata1, noun.artifact:keila3,+]  keilata,@ frames: 1 (play skittles) }
+{ [ golfata, noun.act:golf,+ noun.person:golfaaja1,+ noun.person:golfari,+ noun.person:golfin_pelaaja,+ noun.person:golfpelaaja,+ noun.act:golfaaminen,+]  pelata_golfia,  pelata,@ frames: 1 (play golf) }
+{ [ miekkailla, noun.act:miekkailu1,+ noun.person:miekkailija,+]  kamppailla1,@ frames: 1 (fight with fencing swords) }
+{ torjua3,  [ estää1, noun.act:estäminen4,+]  miekkailla,@ frames: 1 (impede the movement of (an opponent or a ball); "block an attack") }
+{ heitellä,  pelata5,  viskoa,  pelata,@ noun.act:urheilu,;c frames: 1 (toss or strike a ball back and forth) }
+{ heitellä1,  heitellä,@ frames: 1 (send or toss to and fro, like a shuttlecock) }
+{ hylätä,  hyväksyä,  verb.cognition:hallita2,@ frames: 1 (include or exclude by determining judicially or in agreement with rules) }
+{ tehdä_virhe,  rikkoa1,  pelata,@ frames: 1 (commit a foul; break the rules) }
+{ lyödä_laiton_lyönti,  lyödä_ulos,  verb.contact:lyödä9,@ noun.act:baseball,;c frames: 1 (hit a foul ball) }
+{ lyödä_karamboli<note>biljardissa</note>,  verb.contact:lyödä9,@ noun.act:biljardi,;c frames: 1 (make a cannon) }
+{ hakata1,  tehdä_virhe,@ noun.act:rugby,;c frames: 1 (kick on the shins) }
+{ hakata2,  tehdä_virhe,@ noun.act:koripallo,;c frames: 1 (kick on the arms) }
+{ suojata4,  suojata,@ vartioida1,$ frames: 1 (protect or defend (a position in a game); "he covered left field") }
+{ kaksoismiehittää<unconfirmed/>,  suojata4,@ noun.act:urheilu,;c frames: 1 (cover with two defensive players) }
+{ vartioida1,  suojata,@ suojata4,$ frames: 1 (be responsible for guarding an opponent in a game) }
+{ puoltaa,  kannustaa,  asettua_puolelle,@ frames: 1 (take sides with; align oneself with; show strong sympathy for; "We all rooted for the home team"; "I'm pulling for the underdog"; "Are you siding with the defender of the title?") }
+{ asettua_puolelle,  asettua_vastaan,  verb.cognition:asettua_jkn_puolelle,@ frames: 1 (take sides for or against; "Who are you widing with?"; "I"m siding against the current candidate") }
+{ taistella3,  [ puolustaa2, adj.all:kestävä14^puolustettavissa_oleva,+ adj.all:kestävä14^puolustettavissa<idiomatic_pos/>,+ noun.person:puolustaja<approximate/>,+]  taistella_jonkun_puolesta,  verb.social:kannattaa,@ frames: 1 (protect or fight for as a champion) }
+{ [ sijoittaa2, noun.act:sijoittaminen5,+]  verb.motion:sijoittaa,@ frames: 1 (place troops or weapons in battle formation) }
+{ pelata6,  sijoittaa2,@ siirtää,$ peluuttaa,$ frames: 1 (put (a card or piece) into play during a game, or act strategically as if in a card game; "He is playing his cards close to his chest"; "The Democrats still have some cards to play before they will concede the electoral victory") }
+{ määrätä_valtti,  pelata6,@ noun.act:korttipeli,;c frames: 1 (lead (a card) and establish the trump suit) }
+{ ottaa_tikki,  pelata6,@ noun.act:korttipeli,;c frames: 1 (play a higher card than the one previously played; "Smith covered again") }
+{ [ taklata1, noun.person:taklaaja,+ noun.person:taklaaja1,+ noun.act:taklaus,+]  hyökätä,@ noun.act:jalkapallo,;c frames: 1 (seize and throw down an opponent player, who usually carries the ball) }
+{ nostaa_painoja,  punnertaa,  verb.body:harjoittaa,@ frames: 1 (lift weights; "This guy can press 300 pounds") }
+{ tähdätä,  kohdistaa,  suunnata,  tähdätä1,@ frames: 1 (intend (something) to move towards a certain goal; "He aimed his fists towards his opponent's face"; "criticism directed at her superior"; "direct your anger towards others, not towards yourself") }
+{ kohdistaa1,  osoittaa,  tähdätä,@ frames: 1 (direct a question at someone) }
+{ [ tähdätä1, noun.act:tähtäin,+]  ottaa_tähtäimeen,  suunnata1,  ohjata,  osoittaa1,  verb.motion:sijoittaa,@ frames: 1 (point or cause to go (blows, weapons, or objects such as photographic equipment) towards; "Please don't aim at your little brother!"; "He trained his gun on the burglar"; "Don't train your camera on the women"; "Take a swipe at one's opponent") }
+{ osoittaa2,  tähdätä1,@ frames: 1 (aim with a gun; "The hunter drew a bead on the rabbit") }
+{ pitää,  tähdätä1,@ frames: 1 (aim, point, or direct; "Hold the fire extinguisher directly on the flames") }
+{ osoittaa3,  tähdätä1,@ frames: 1 (direct at someone; "She turned a smile on me"; "They turned their flashlights on the car") }
+{ [ huitaista, noun.act:huitaisu1,+]  [ lyödä3, noun.act:lyönti13,+]  tähdätä1,@ frames: 1 (hit or aim at with a sweeping arm movement; "The soccer player began to swing at the referee") }
+{ osoittaa4,  osoitella,  tähdätä1,@ voida_tähdätä<approximate/>,$ frames: 1 (direct into a position for use; "point a gun"; "He charged his weapon at me") }
+{ osua,  verb.social:onnistua2,@ tähdätä1,* frames: 1 (hit the intended target or goal) }
+{ [ ampua_huti, ampua_yli,!]  verb.contact:mennä_ohi,@ ampua1,* frames: 1 (shoot short of or below (a target)) }
+{ voida_tähdätä<approximate/>,  verb.stative:olla1,@ osoittaa4,$ frames: 1 (be positionable in a specified manner; "The gun points with ease") }
+{ suunnata2,  tähdätä1,@ frames: 1 (aim at; "level criticism or charges at somebody") }
+{ tähdätä2,  tähdätä,@ frames: 1 (direct onto a point or target, especially by automatic navigational aids) }
+{ [ kostaa, adj.all:rankaiseva2^kosto-,+ noun.act:kosto,+]  iskeä_takaisin,  vastata_samalla_mitalla,  hyökätä5,@ frames: 1 (make a counterattack and return like for like, especially evil for evil; "The Empire strikes back"; "The Giants struck back and won the opener"; "The Israeli army retaliated for the Hamas bombing") }
+{ [ kostaa1, noun.act:kosto,+ noun.person:kostaja,+ adj.all:rankaiseva2^kosto-,+]  verb.social:rangaista,@ frames: 1 (take revenge for a perceived wrong; "He wants to avenge the murder of his brother") }
+{ tasoittaa_tilit<unconfirmed/>,  ottaa_revanssi<unconfirmed/>,  kostaa1,@ frames: 1 (take revenge or even out a score; "I cannot accept the defeat--I want to get even") }
+{ kostaa2,  maksaa,  selvittää_välit_lopullisesti,  tehdä_tilit_selväksi,  käydä_kimppuun3,  panna_järjestykseen,  tasoittaa_tilit<unconfirmed/>,@ verb.possession:hyvittää6,$ frames: 1 (take vengeance on or get even; "We'll get them!"; "That'll fix him good!"; "This time I got him") }
+{ polttaa,  noun.act:baseball,;c verb.motion:siirtyä2,> frames: 1 (cause to get out; "The pitcher retired three batters"; "the runner was put out at third base") }
+{ [ polttaa1, noun.act:poltto,+]  pelata,@ noun.act:baseball,;c frames: 1 (retire; "he was put out at third base on a long throw from left field") }
+{ lähteä_pelikentälle,  verb.motion:saapua4,@ frames: 1 (go on the playing field, of a football team) }
+{ pelata_krokettia,  pelata,@ frames: 1 (play a game in which players hit a wooden ball through a series of hoops) }
+{ tehdä_koinkestäväksi,  suojata,@ frames: 1 (protect from moths; "mothproof woollen clothes during the summer") }
+{ voittaa13,  kukistaa1,@ frames: 1 (excel or defeat in a game; "The Knicks outplayed the Lakers") }
+{ [ ohittaa3, noun.act:ohitus,+ noun.act:ohittaminen,+]  saavuttaa2,  saada_kiinni,  tavoittaa,  kilpailla,* verb.motion:ehtiä1,$ frames: 1 (catch up with and possibly overtake; "The Rolls Royce caught us near the exit ramp") }
+{ ampua9,  ampua1,@ frames: 1 (deliver forth; "pump bullets into the dummy") }
+{ sijoittaa3,  sijoittaa,@ frames: 1 (station (troops) in a fort) }
+{ nousta,  verb.social:ryhtyä3,@ frames: 1 (exert oneself to meet a challenge; "rise to a challenge"; "rise to the occasion") }
+{ lyödä_vetoa2,  pelata_uhkapeliä,@ pelata7,$ frames: 1 (stake on the outcome of an issue; "I bet $100 on that new horse"; "She played all her money on the dark horse") }
+{ pelata7,  veikata1,  lyödä_vetoa2,@ lyödä_vetoa2,$ veikata,$ frames: 1 (make bets; "Play the races"; "play the casinos in Trouville") }
+{ korottaa2,  lyödä_vetoa2,@ noun.act:korttipeli,;c frames: 1 (bet more than the previous player) }
+{ [ korottaa3, noun.person:korottaja,+ noun.act:korotus1,+]  verb.possession:kehottaa,@ noun.act:bridge,;c frames: 1 (bid (one's partner's suit) at a higher level) }
+{ vastata,  lyödä_vetoa2,@ noun.act:korttipeli,;c frames: 1 (match or meet; "I saw the bet of one of my fellow players") }
+{ hävitä_syöttövuoro,  hävitä,@ noun.act:tennis,;c frames: 1 (lose a game in which one is serving) }

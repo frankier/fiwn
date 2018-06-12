@@ -1,0 +1,243 @@
+{ [ juoda, kieltäytyä,! pidättyä,! pidättäytyä,!]  [ syödä, kieltäytyä,! pidättyä,! pidättäytyä,!]  nauttia,  niellä,  [ käyttää, imeä2,^]  olla,   frames: 1 (serve oneself to, or consume regularly; "Have another bowl of chicken soup!"; "I don't take sugar in my coffee") }
+{ kuluttaa_liikaa,  juoda,@ frames: 1 (consume to excess; "hit the bottle") }
+{ [ kuluttaa, adj.all:kuluttava3,+ adj.all:uhrattava<approximate/>^kulutus-,+ adj.all:kulutus-1,+ adj.all:uhrattava<approximate/>^kuluva,+]  kuluttaa_loppuun,  verb.possession:käyttää2,@ verb.possession:vaatia,$ frames: 1 (use up (resources or materials); "this car consumes a lot of gas"; "We exhausted our savings"; "They run through 20 bottles of wine a week") }
+{ kuluttaa1,  kuluttaa,@ frames: 1 (deplete of resources; "The exercise class drains me of energy") }
+{ kuluttaa2,  törsätä,  [ tuhlata, noun.person:tuhlari3,+]  haaskata,  verb.possession:käyttää2,@ frames: 1 (spend extravagantly; "waste not, want not") }
+{ säästää,  tuhlata_loppuun,@ frames: 1 (use frugally or carefully) }
+{ [ tuhlata_loppuun, kuluttaa,^]  [ kuluttaa3, noun.act:kulutus,+]  kuluttaa,* frames: 1 (use up, consume fully; "The legislature expended its time on school questions") }
+{ [ käyttää1, adj.all:tarpeellinen4^käyttökelpoinen5,+ noun.act:käyttö4,+ adj.all:käytettävissä_oleva2^käytettävä,+ adj.all:käytettävissä_oleva2^käyttökelpoinen,+ adj.all:kestävä10^käytettävä1,+ adj.all:kestävä10^käyttökelpoinen4,+ noun.act:käyttäminen3,+ noun.act:käyttö5,+ adj.all:käytännöllinen3^käytännöllinen4,+]  [ hyödyntää, noun.act:hyödyntäminen2,+ noun.attribute:hyödyllisyys1,+ adj.all:tarpeellinen4^hyödynnettävissä_oleva,+]  [ soveltaa, adj.all:käytännöllinen3^sovellettavissa_oleva,+ noun.act:sovellutus,+ noun.act:soveltaminen1,+]  verb.stative:koskea1,> verb.social:harjoittaa3,$ frames: 1 (put into service; make work or employ for a particular purpose or for its inherent or natural purpose; "use your head!"; "we only use Spanish at home"; "I can't use this tool"; "Apply a magnetic field here"; "This thinking was applied to many projects"; "How do you utilize this tool?"; "I apply this rule to get good results"; "use the plastic bags to store the food"; "He doesn't know how to use a computer") }
+{ tehdä_kaikkensa,  käyttää1,@ frames: 1 (use all resources available; "The organizers pulled out all the stops for the centennial meeting") }
+{ panna,  asettaa,  käyttää1,@ frames: 1 (attribute or give; "She put too much emphasis on her the last statement"; "He put all his efforts into this job"; "The teacher put an interesting twist to the interpretation of the story") }
+{ laittaa<approximate/>,  panna,@ frames: 1 (put or confide something in a person or thing; "These philosophers reposed the law in the people") }
+{ käyttää2,  käyttää1,@ frames: 1 (use diligently; "ply your wits!") }
+{ suunnata,  suuntautua,  käyttää1,@ frames: 1 (address or apply oneself to something, direct one's efforts towards something, such as a question) }
+{ [ tuhlata1, noun.attribute:tuhlaavaisuus1,+]  käyttää1,@ frames: 1 (use inefficiently or inappropriately; "waste heat"; "waste a joke on an unappreciative audience") }
+{ käyttää_väärin,  väärinkäyttää,  käyttää1,@ frames: 1 (apply to a wrong thing or person; apply badly or incorrectly; "The words are misapplied in this context"; "You are misapplying the name of this religious group") }
+{ hyödyntää1,  hyödyttää,  tuottaa_etua,  käyttää1,@ frames: 1 (use to one's advantage; "He availed himself of the available resources") }
+{ käyttää_liikaa,  mennä_äärimmäisyyksiin,  käyttää1,@ frames: 1 (make use of too often or too extensively) }
+{ mainita_turhaan,  verb.change:käyttää_väärin,@ frames: 1 (use a name, such as God, without proper respect) }
+{ käsitellä,  käydä_läpi,  verb.social:tehdä_kovasti_töitä,@ frames: 1 (apply thoroughly; think through; "We worked through an example") }
+{ purkaa_varaosiksi,  käyttää1,@ verb.creation:purkaa,* frames: 1 (use parts of something to repair something else) }
+{ syödä_lajitovereita,  juoda,@ frames: 1 (eat human flesh) }
+{ [ kierrättää, noun.act:kierrätys,+]  käsitellä_uudelleen,  käyttää_uudelleen,  käyttää1,@ frames: 1 (use again after processing; "We must recycle the cardboard boxes") }
+{ jauhaa,  [ toistaa, noun.communication:toistaminen,+]  vatvoa,  kierrättää,@ frames: 1 (present or use over, with no or few changes) }
+{ käyttää_hyväkseen,  hyötyä_jstk,  käyttää1,@ verb.perception:vaikuttaa,$ frames: 1 (use or manipulate to one's advantage; "He exploit the new taxation system"; "She knows how to work the system"; "he works his parents for sympathy") }
+{ käyttää_tilaisuus_hyväkseen,  käyttää_hyväkseen,@ frames: 1 (turn to one's advantage; "The environmentalist lobby made hay of the nuclear plant accident") }
+{ pelata,  käyttää_hyväkseen,@ frames: 1 (use to one's advantage; "She plays on her clients' emotions") }
+{ valjastaa,  ottaa_käyttöön,  käyttää3,@ frames: 1 (exploit the power of; "harness natural forces and resources") }
+{ [ kaivaa, noun.act:kaivostoiminta,+ noun.person:kaivosmies,+ noun.artifact:kaivos1,+]  louhia,  käyttää3,@ noun.act:kaivostoiminta,;c verb.contact:kaivaa4,* frames: 1 (get from the earth by excavation; "mine ores and metals") }
+{ [ louhia1, noun.person:louhosmies1,+ noun.artifact:louhimo,+ noun.act:louhiminen,+]  käyttää3,@ noun.act:louhiminen,;c verb.contact:kaivaa4,* frames: 1 (extract (something such as stones) from or as if from a quarry; "quarry marble") }
+{ louhia_avolouhoksesta,  kaivaa,@ noun.act:kaivostoiminta,;c frames: 1 (extract (ore) from a strip-mine) }
+{ käyttää3,  käyttää_hyväkseen1,  käyttää1,@ frames: 1 (draw from; make good use of; "we must exploit the resources we are given wisely") }
+{ käyttää_liikaa1,  käyttää3,@ frames: 1 (exploit excessively; "We should not overexploit our natural resources") }
+{ yrittää_saada_mahdollisimman_paljon_voittoa,  käyttää3,@ frames: 1 (exploit for maximal profit, usually by sacrificing quality; "The hotel owners are commercializing the beaches") }
+{ käyttää_hyväksi,  käyttää3,@ frames: 1 (exploit as much as possible; "I am milking this for all it's worth") }
+{ [ käyttää4, noun.act:käyttö4,+]  juoda,@ frames: 1 (take or consume (regularly or habitually); "She uses drugs rarely") }
+{ [ addiktoida, adj.all:addiktiivinen,+ noun.person:addikti,+ noun.state:addiktio,+ adj.all:addiktoiva,+]  aiheuttaa_riippuvuutta,  [ koukuttaa, noun.cognition:koukku,+]  saada_koukkuun,  tehdä_riippuvaiseksi,  verb.change:totuttaa2,@ käyttää4,* frames: 1 (to cause (someone or oneself) to become dependent (on something, especially a narcotic drug)) }
+{ pinnistää,  ponnistaa,  käyttää1,@ frames: 1 (use to the utmost; exert vigorously or to full capacity; "He really extended himself when he climbed Kilimanjaro"; "Don't strain your mind too much") }
+{ rasittaa_liikaa,  kasata_liikaa_tekemistä,  pinnistää,@ frames: 1 (strain excessively; "He overextended himself when he accepted the additional assignment") }
+{ [ käyttää5, noun.act:käyttö4,+]  ottaa_käyttöön1,  käyttää1,@ frames: 1 (put to use; "exert one's power or influence") }
+{ panna_koetukselle,  pinnistää,@ frames: 1 (use to the limit; "you are taxing my patience") }
+{ [ syödä1, syödä_loppuun,^ syödä_ulkona,^ syödä_kotona,^ noun.act:syönti1,+ noun.person:syöjä1,+]  juoda,@ syödä3,$ frames: 1 (eat a meal; take a meal; "We did not eat until 10 P.M. because there were so many phone calls"; "I didn't eat yet, so I gladly accept your invitation") }
+{ hakea_ravintolasta,  [ noutaa_ravintolasta, noun.food:noutoruoka,+]  syödä1,@ frames: 1 (buy and consume food from a restaurant or establishment that sells prepared food; "We'll take out pizza, since I am too tired to cook") }
+{ syödä2,  syödä1,@ frames: 1 (take in nourishment) }
+{ huuhtoa,  syödä3,@ frames: 1 (eat food accompanied by lots of liquid; also use metaphorically; "She washed down her dinner with a bottle of red wine"; "He washes down his worries with a nightly glass of whisky") }
+{ [ syödä_kotona, syödä_ulkona,!]  syödä1,@ frames: 1 (eat at home) }
+{ [ syödä_ulkona, syödä_kotona,!]  syödä_ravintolassa,  syödä1,@ frames: 1 (eat at a restaurant or at somebody else's home) }
+{ tarjota_päivällinen,  syöttää,@ frames: 1 (give dinner to; host for dinner; "I'm wining and dining my friends") }
+{ [ syödä_päivällistä, syödä_kotona,^ syödä_ravintolassa,^ noun.person:syöjä,+]  [ illastaa, syödä_kotona,^ syödä_ravintolassa,^]  syödä1,@ frames: 1 (have supper; eat dinner; "We often dine with friends in this restaurant") }
+{ käydä_piknikillä,  syödä1,@ frames: 1 (eat alfresco, in the open air; "We picnicked near the lake on this gorgeous Sunday") }
+{ [ syödä3, noun.act:syönti1,+ noun.person:syöjä1,+ noun.food:syönti-,+]  syödä1,@ juoda,@ nielaista1,* pureskella1,* syödä1,$ syödä4,$ frames: 1 (take in solid food; "She was eating a banana"; "What did you eat for dinner last night?") }
+{ [ ahmia, noun.person:ahmatti1,+]  mässäillä,  syödä3,@ frames: 1 (eat a lot and without restraint) }
+{ ahmia1,  hotkaista,  ahmaista,  hotkia,  syödä3,@ frames: 1 (eat hastily; "The teenager wolfed down the pizza") }
+{ hörppiä,  ryystää,  syödä3,@ frames: 1 (eat noisily; "He slurped his soup") }
+{ ryypätä,  kulauttaa_kurkkuunsa,  juoda1,@ frames: 1 (drink large quantities of (liquid, especially alcoholic drink)) }
+{ pakkojuottaa<unconfirmed/>,  järjestää,@ noun.Tops:eläin,;c juoda1,> frames: 1 (force to drink) }
+{ [ imeä, imeä2,^ noun.act:imeminen,+ noun.person:imevä,+]  [ lutkuttaa, imeä2,^]  juoda1,@ imettää,$ frames: 1 (draw into the mouth by creating a practical vacuum in the mouth; "suck the poison from the place where the snake bit"; "suck on a straw"; "the baby sucked on the mother's breast") }
+{ [ juoda1, juoda_loppuun,^ kaataa_kurkkuunsa,^ noun.person:juoja,+ noun.food:juoma3,+ noun.food:juoma,+ noun.act:juominen1,+]  nauttia<broader/>1,  juoda,@ frames: 1 (take in liquids; "The patient must drink several liters each day"; "The children like to drink soda") }
+{ juoda_äänekkäästi<unconfirmed/>,  juoda1,@ frames: 1 (drink from a flask with a gurgling sound) }
+{ [ siemailla, noun.act:siemaus1,+ noun.person:siemailija,+]  juoda1,@ frames: 1 (drink in sips; "She was sipping her tea") }
+{ hotkia1,  juoda1,@ frames: 1 (drink greedily or as if with great thirst; "The boys guzzled the cheap vodka") }
+{ latkia,  litkiä,  nuolla,  juoda1,@ frames: 1 (take up with the tongue; "The cat lapped up the milk"; "the cub licked the milk from its mother's breast") }
+{ [ juoda2, noun.act:juoppous,+ noun.act:juopottelu,+ noun.person:juomari1,+]  ryypiskellä,  juopotella,  dokata,  ottaa,  ryypätä1,  juoda,@ juopotella1,$ frames: 1 (consume alcohol; "We were up drinking all night") }
+{ tank,  juoda2,@ frames: 1 (consume excessive amounts of alcohol) }
+{ juoda_portviiniä,  juoda2,@ frames: 1 (drink port; "We were porting all in the club after dinner") }
+{ juoda_punaviiniä,  juoda2,@ frames: 1 (drink claret; "They were clareting until well past midnight") }
+{ kiertää_kapakoita,  tehdä_kapakkakierros,  juoda2,@ frames: 1 (go from one pub to the next and get progressively more drunk; "he pub-crawled around Birmingham") }
+{ [ lipitellä, noun.person:lipittelijä,+]  tissutella,  juoda2,@ frames: 1 (drink moderately but regularly; "We tippled the cognac") }
+{ [ juopotella1, noun.person:juomari1,+ noun.act:juoppous,+ noun.act:juopottelu,+ noun.person:juoppo3,+]  ryypiskellä1,  ryypätä2,  käyttää4,@ juoda2,$ frames: 1 (drink excessive amounts of alcohol; be an alcoholic; "The husband drinks and beats his wife") }
+{ aterioida,  syödä1,@ frames: 1 (have a meal, usually with company; "The early Christian disciples broke bread together") }
+{ nauttia2,  koskea,  juoda,@ frames: 1 (consume; "She didn't touch her food all night") }
+{ nauttia3,  nauttia2,@ noun.cognition:kristinusko,;c frames: 1 (partake of the Holy Eucharist sacrament) }
+{ syödä_hyvin,  syödä3,@ frames: 1 (eat well) }
+{ käydä_pöytään<broader/>,  käydä_käsiksi_ateriaan,  syödä3,@ frames: 1 (eat heartily; "The food was placed on the table and the children pitched in") }
+{ ahmia2,  syödä_loppuun,@ syödä1,* frames: 1 (eat up; usually refers to a considerable quantity of food; "My son tucked in a whole pizza") }
+{ [ napsia, noun.person:napostelija,+]  [ napostella, noun.person:napostelija,+]  syödä1,@ frames: 1 (eat a snack; eat lightly; "She never loses weight because she snacks between meals") }
+{ näykkiä,  syödä3,@ frames: 1 (eat like a bird; "The anorexic girl just picks at her food") }
+{ [ nokkia, noun.animal:nokka,+]  syödä3,@ frames: 1 (eat by pecking at, like a bird) }
+{ [ ahmia3, ahmia4,^ noun.person:ahmija<unconfirmed/>,+]  [ hotkaista1, ahmia4,^ noun.person:hotkija<unconfirmed/>,+]  [ hotkia2, ahmia4,^ noun.person:hotkija<unconfirmed/>,+]  syödä3,@ frames: 1 (eat hastily without proper chewing; "Don't bolt your food!") }
+{ hotkia3,  ahmia4,  syödä3,@ frames: 1 (eat a large amount of food quickly; "The children gobbled down most of the birthday cake") }
+{ napostella1,  näykkiä1,  napsia1,  syödä3,@ frames: 1 (eat intermittently; take small bites of; "He pieced at the sandwich all morning"; "She never eats a full meal--she just nibbles") }
+{ [ märehtiä, adj.pert:märehtijä-,+ noun.animal:märehtijä,+ noun.act:märehtiminen,+ noun.act:märehdintä,+]  syödä3,@ noun.animal:märehtijä,;c frames: 1 (chew the cuds; "cows ruminate") }
+{ natustella,  napostella2,  maistella,  napsia,@ frames: 1 (eat lightly, try different dishes; "There was so much food at the party that we quickly got sated just by browsing") }
+{ [ rouskuttaa, noun.act:rouskutus,+]  pureskella,  pureskella1,@ frames: 1 (chew noisily; "The boy chomped his sandwich") }
+{ purra,  pureskella1,@ frames: 1 (chafe at the bit, like horses) }
+{ [ mutustaa, noun.act:mutustelu,+]  [ mussuttaa, noun.act:mussuttaminen,+]  pureskella1,@ frames: 1 (grind with the gums; chew without teeth and with great difficulty; "the old man had no teeth left and mumbled his food") }
+{ kohottaa_malja,  juoda_malja,  nostaa_malja,  esittää_malja,  kilistää,  skoolata,  ottaa1,  verb.social:kunnioittaa1,@ juoda2,* frames: 1 (propose a toast to; "Let us toast the birthday girl!"; "Let's drink to the New Year") }
+{ ehdottaa,  kohottaa_malja,@ frames: 1 (propose; "He gave the first of many toasts at the birthday party") }
+{ tyhjentää_lasi,  juoda_loppuun,  juoda1,@ frames: 1 (drink to the last drop; "drink up--there's more wine coming") }
+{ [ aterioida1, noun.food:ateria1,+]  syödä1,@ noun.group:sotavoimat,;c frames: 1 (eat in a mess hall) }
+{ kestittää,  tarjota,  järjestää,@ verb.possession:hemmotella,$ frames: 1 (provide with choice or abundant food or drink; "Don't worry about the expensive wine--I'm treating"; "She treated her houseguests with good food every night") }
+{ tarjota_viiniä,  kestittää,@ frames: 1 (treat to wine; "Our relatives in Italy wined and dined us for a week") }
+{ humaltua,  päihtyä,  kestittää,@ frames: 1 (subject to the influence of alcohol; "After we finished dinner, we were thoroughly alcoholized") }
+{ majoittaa<approximate/>,  järjestää,@ syöttää,* majoittua<approximate/>,$ frames: 1 (provide food and lodging (for); "The old lady is boarding three men") }
+{ majoittua<approximate/>,  käyttää4,@ juoda,* majoittaa<approximate/>,$ frames: 1 (lodge and take meals (at)) }
+{ [ asua<note>talossa\,_jossa_on_henkilökuntana</note>, asua_työpaikan_ulkopuolella,!]  majoittaa<approximate/>,@ frames: 1 (live in the house where one works; "our babysitter lives in, as it is too far to commute for her") }
+{ [ asua_työpaikan_ulkopuolella, asua<note>talossa\,_jossa_on_henkilökuntana</note>,!]  verb.motion:kulkea_työmatkaa,@ frames: 1 (work in a house where one does not live; he can easily commute from his home"; "our cook lives out") }
+{ saalistaa,  laiduntaa,  syödä4,@ frames: 1 (wander and feed; "The animals forage in the woods") }
+{ hotkia4,  syödä4,@ frames: 1 (feed greedily; "The lions ravened the bodies") }
+{ syödä_haaskaa,  syöttää,@ frames: 1 (feed on carrion or refuse; "hyenas scavenge") }
+{ ruokkia_rehulla,  syöttää,@ frames: 1 (give fodder (to domesticated animals)) }
+{ [ ruokkia, noun.food:ruoantähteet1,+]  [ ruokkia_sikoja, noun.food:ruoantähteet1,+]  syöttää,@ frames: 1 (feed pigs) }
+{ oksentaa,  syöttää,@ frames: 1 (feed through the beak by regurgitating previously swallowed food; "many birds feed their young by regurgitating what they have swallowed and carried to the nest") }
+{ [ syöttää, nälkiinnyttää,! näännyttää,!]  [ antaa, noun.act:antaminen3,+]  järjestää,@ syödä3,> frames: 1 (give food to; "Feed the starving children in India"; "don't give the child this tough meat") }
+{ antaa_viljarehua,  syöttää,@ frames: 1 (feed (cattle) with corn) }
+{ [ aliravita, noun.state:aliravitsemus,+]  syöttää,@ frames: 1 (provide with insufficient quality or quantity of nourishment; "The stunted growth of these children shows that they are undernourished") }
+{ ruokkia_liikaa,  syöttää,@ frames: 1 (feed excessively) }
+{ päästää_helpolla,  syöttää,@ frames: 1 (feed with a spoon) }
+{ [ pakkosyöttää, noun.act:pakkoruokinta,+]  syöttää,@ frames: 1 (feed someone who will not or cannot eat) }
+{ [ syödä4, noun.person:syöjä1,+ noun.act:syöminen,+ noun.act:syönti1,+]  käyttää_ravintonaan,  juoda,@ syödä3,$ frames: 1 (take in food; used of animals only; "This dog doesn't eat certain kinds of meat"; "What do whales eat?") }
+{ ruokkia1,  järjestää,@ frames: 1 (serve as food for; be the food for; "This dish feeds six") }
+{ tarjoilla,  tarjota1,  jaella,  jakaa,  asettaa_tarjolle,  panna_lautasille,  heittää,  pilata,  järjestää,@ tarjoilla1,$ frames: 1 (provide (usually but not necessarily food); "We serve meals for the homeless"; "She dished out the soup at 8 P.M."; "The entertainers served up a lively show") }
+{ [ lankku-<idiomatic_pos/>, noun.substance:lankku,+]  tarjoilla,@ frames: 1 (cook and serve on a plank; "Planked vegetable"; "Planked shad") }
+{ järjestää_ruokatarjoilu<approximate/>,  toimittaa_ruokaa,  järjestää,@ frames: 1 (supply food ready to eat; for parties and banquets) }
+{ [ parittaa, noun.person:parittaja1,+]  toimia_sutenöörinä,  järjestää,@ frames: 1 (arrange for sexual partners for others) }
+{ tyydyttää,  verb.possession:varustaa1,@ frames: 1 (feed into; supply; "Her success feeds her vanity") }
+{ [ tarjoilla1, noun.person:tarjoilija4,+]  järjestää,@ tarjoilla,$ frames: 1 (help to some food; help with food or drink; "I served him three times, and after that he helped himself") }
+{ antaa_energiaa<approximate/>,  antaa_tehoa,  antaa_virtaa,  järjestää,@ frames: 1 (supply the force or power for the functioning of; "The gasoline powers the engines") }
+{ käyttää6,  [ ohjata, noun.communication:ohjain,+]  pyörittää,  antaa_energiaa<approximate/>,@ frames: 1 (cause to function by supplying the force or power for or by controlling; "The amplifier drives the tube"; "steam drives the engines"; "this device drives the disks for the computer") }
+{ syöttää1,  järjestää,@ frames: 1 (provide as food; "Feed the guests the nuts") }
+{ ravita,  [ nauttia_jstk, noun.event:nautinto1,+]  kestittää,@ frames: 1 (gratify; "feed one's eyes on a gorgeous view") }
+{ [ miellyttää, noun.act:mielihyvä,+]  ruokkia_tarpeita,  antaa_periksi,  langeta,  sortua,  järjestää,@ frames: 1 (yield (to); give satisfaction to) }
+{ irrotella,  miellyttää,@ frames: 1 (engage without restraint in an activity and indulge, as when shopping) }
+{ järjestää,  [ hankkia, noun.quantity:hankinta,+]  tyrkyttää,  antaa1,  verb.possession:antaa,@ frames: 1 (give what is desired or needed, especially support, food or sustenance; "The hostess provided lunch for all the guests") }
+{ pohjata,  tukea,  järjestää,@ frames: 1 (provide with a base, support, lining, or backing; "underlay the boards with joists") }
+{ täyttää,  [ tyydyttää1, adj.all:tyydyttävä1,+ noun.object:tyydyttäjä,+]  vastata,  toteuttaa,  järjestää,@ frames: 1 (fill or meet a want or need) }
+{ vastata1,  täyttää,@ frames: 1 (be satisfactory for; meet the requirements of or serve the purpose of; "This may answer her needs") }
+{ hankkia_hevonen,  varustaa_hevosella,  järjestää,@ frames: 1 (provide with a horse or horses) }
+{ järjestää_ratsu<unconfirmed/>,  hankkia_hevonen,@ frames: 1 (provide with fresh horses; "remount a regiment") }
+{ hukuttaa,  järjestää,@ frames: 1 (provide abundantly with; "He showered her with presents") }
+{ hankkia1,  järjestää1,  toimittaa,  järjestää,@ frames: 1 (provide with something desired or needed; "Can you accommodate me with a rental car?") }
+{ elättää,  pitää,  ylläpitää,  verb.possession:olla,@ frames: 1 (supply with necessities and support; "She alone sustained her family"; "The money will sustain our good cause"; "There's little to earn and many to keep") }
+{ suojella,  [ tukea1, noun.act:tukeminen2,+]  elättää,@ frames: 1 (support by being a patron of) }
+{ siementää,  elättää,@ frames: 1 (maintain by seeding without human intervention; "Some plants reseed themselves indefinitely") }
+{ [ lounastaa, noun.person:lounastaja,+ noun.food:lounas,+ noun.act:lounastaminen,+]  syödä1,@ frames: 1 (take the midday meal; "At what time are you lunching?") }
+{ tarjota_lounas<approximate/>,  syöttää,@ frames: 1 (provide a midday meal for; "She lunched us well") }
+{ syödä<note>brunssia</note>5,  syödä1,@ frames: 1 (eat a meal in the late morning; "We brunch in Sundays") }
+{ [ aamiaistaa, noun.food:aamiainen,+ noun.food:aamupala,+]  syödä1,@ frames: 1 (eat an early morning meal; "We breakfast at seven") }
+{ tarjota<broader/>2,  syöttää,@ frames: 1 (provide breakfast for) }
+{ herkutella,  osallistua_päivällisille,  osallistua_juhliin<unconfirmed/>,  syödä1,@ pitää_pidot,$ frames: 1 (partake in a feast or banquet) }
+{ pitää_pidot,  kestitä,  pitää_juhlat<unconfirmed/>,  isännöidä,@ herkutella,$ frames: 1 (provide a feast or banquet for) }
+{ [ imettää, ruokkia_pullosta<unconfirmed/>,! noun.act:imeminen,+ noun.person:imettäjä1,+ noun.act:imettäminen,+ noun.time:imetys,+ noun.act:imetys,+ noun.time:imetysaika,+]  syöttää,@ imeä,$ frames: 1 (give suck to; "The wetnurse suckled the infant"; "You cannot nurse your baby in public in some places") }
+{ hoitaa_lasta,  verb.social:hoitaa10,@ frames: 1 (take care of an infant without breastfeeding it) }
+{ [ vieroittaa, noun.act:vieroitus,+]  verb.possession:jättää_ilman,@ imettää,* frames: 1 (gradually deprive (infants and young mammals) of mother's milk; "she weaned her baby when he was 3 months old and started him on powdered milk"; "The kitten was weaned and fed by its owner with a bottle") }
+{ [ ruokkia_pullosta<unconfirmed/>, imettää,!]  syöttää,@ frames: 1 (feed (infants) with a bottle) }
+{ imeä1,  syödä4,@ juoda1,* frames: 1 (suck milk from the mother's breasts; "the infant was suckling happily") }
+{ kuolla_nälkään,  nääntyä,  verb.change:kuolla3,@ frames: 1 (die of food deprivation; "The political prisoners starved to death"; "Many famished in the countryside during the drought") }
+{ [ nälkiinnyttää, syöttää,! noun.act:nälkiinnyttäminen,+]  [ näännyttää, syöttää,!]  verb.possession:jättää_ilman,@ nälkiintyä,> kuivua,$ frames: 1 (deprive of food; "They starved the prisoners") }
+{ kuivua,  nälkiinnyttää1,  verb.possession:jättää_ilman,@ nälkiinnyttää,$ frames: 1 (deprive of a necessity and cause suffering; "he is starving her of love"; "The engine was starved of fuel") }
+{ [ nälkiintyä, olla_kylläinen,! olla_täynnä,! olla_täysi,! noun.state:nälkiintyminen,+ noun.state:nälkä,+ noun.state:nälkään_nääntyminen,+]  [ olla_nälässä, olla_kylläinen,! olla_täynnä,! olla_täysi,!]  [ nähdä_nälkää, olla_kylläinen,! olla_täynnä,! olla_täysi,!]  [ nääntyä1, olla_kylläinen,! olla_täynnä,! olla_täysi,!]  verb.body:kärsiä,@ frames: 1 (be hungry; go without food; "Let's eat--I'm starving!") }
+{ [ olla_kylläinen, nälkiintyä,! olla_nälässä,! nähdä_nälkää,! nääntyä1,!]  [ olla_täynnä, nälkiintyä,! olla_nälässä,! nähdä_nälkää,! nääntyä1,!]  [ olla_täysi, nälkiintyä,! olla_nälässä,! nähdä_nälkää,! nääntyä1,!]   frames: 1 (be sated, have enough to eat; "I'm full--don't give me any more beans, please") }
+{ haluta_hartaasti,  kaivata,  [ janota, noun.attribute:jano,+]  kaivata_kiihkeästi,  [ himoita, noun.act:himo,+ noun.feeling:himo4,+]  haluta_kovasti,  isota,  verb.emotion:haluta4,@ frames: 1 (have a craving, appetite, or great desire for) }
+{ [ tahtoa, noun.object:tahto,+]  tarvita,  vaatia,  verb.stative:olla1,@ frames: 1 (have need of; "This piano wants the attention of a competent tuner") }
+{ vaatia1,  tahtoa,@ frames: 1 (demand immediate action; "This situation is crying for attention") }
+{ kaivata1,   frames: 1 (have or feel a need for; "always needing friends and money") }
+{ olla_dieetillä,  paastota,@ frames: 1 (eat sparingly, for health reasons or to lose weight) }
+{ [ paastota, noun.act:paasto,+ noun.act:paastoaminen,+]  kieltäytyä,@ frames: 1 (abstain from eating; "Before the medical exam, you must fast") }
+{ [ paastota1, noun.act:paasto,+ noun.act:paastoaminen,+]  kieltäytyä,@ frames: 1 (abstain from certain foods, as for religious or medical reasons; "Catholics sometimes fast during Lent") }
+{ pysyä_erossa,  välttää,  karttaa,  kieltäytyä,@ frames: 1 (refrain from certain foods or beverages; "I keep off drugs"; "During Ramadan, Muslims avoid tobacco during the day") }
+{ noudattaa_ruokavaliota,  paastota1,@ frames: 1 (follow a regimen or a diet, as for health reasons; "He has high blood pressure and must stick to a low-salt diet") }
+{ [ kännätä, noun.person:kännikala,+]  ryypätä3,  [ päihtyä1, noun.state:päihtymys,+]  juopotella2,  juoda2,@ frames: 1 (become drunk or drink excessively) }
+{ [ juovuttaa, noun.food:juovutusjuoma,+]  juopotella3,  [ päihdyttää, noun.state:päihtymys,+ noun.food:päihde,+ noun.food:päihdyttävä_aine,+]  verb.body:vaikuttaa,@ frames: 1 (make drunk (with alcoholic drinks)) }
+{ hämmentyä,  mennä_päästään_pyörällä,  hämmentää,  sekoittaa,  juovuttaa,@ frames: 1 (make stupid with alcohol) }
+{ juoda_viiniä,  juoda2,@ frames: 1 (drink wine) }
+{ saada_iloa_jstk,  [ nauttia_jstk1, noun.feeling:nautinto1,+ noun.person:nautiskelija,+ noun.act:nautinto1,+]  nauttia_suuresti_jstk,  tuhlata_loppuun,* frames: 1 (take delight in; "he delights in his granddaughter") }
+{ olla_hauskaa,  pitää_hauskaa,  saada_iloa_jstk,@ frames: 1 (enjoy oneself greatly; "We had a ball at the party and didn't come home until 2 AM") }
+{ paistatella,  saada_iloa_jstk,@ frames: 1 (delight greatly in; "wallow in your success!") }
+{ elää_täysillä,  nauttia_elämästä,  saada_iloa_jstk,@ frames: 1 (enjoy oneself; "it's your birthday, so let's live it up!") }
+{ suoda_itselleen,  nautiskella,  kuluttaa,@ frames: 1 (enjoy to excess; "She indulges in ice cream") }
+{ ahtaa_täyteen,  ylensyödä,  suoda_itselleen,@ frames: 1 (indulge (one's appetite) to satiety) }
+{ omistautua,  verb.social:heittäytyä,@ frames: 1 (devote oneself entirely to something; indulge in to an immoderate degree, usually with pleasure; "Wallow in luxury"; "wallow in your sorrows") }
+{ viettää_villiä_nuoruutta,  miellyttää,@ frames: 1 (live promiscuously and self-indulgently) }
+{ kastaa,  dipata,  syödä3,@ frames: 1 (dip into a liquid while eating; "She dunked the piece of bread in the sauce") }
+{ [ nauttia_jstk2, noun.attribute:nautinta,+]  käyttää1,@ frames: 1 (have benefit from; "enjoy privileges") }
+{ olla_varaa,  verb.possession:käyttää2,@ frames: 1 (be able to spare or give up; "I can't afford to spend two hours with this person") }
+{ käydä_vähiin<narrower/>,  olla_vähissä<narrower/>,  kuluttaa_loppuun1,  verb.stative:päättyä,@ kulua,$ frames: 1 (to be spent or finished; "The money had gone after a few days"; "Gas is running low at the gas stations in the Midwest") }
+{ kulua,  tulla_käytetyksi,  käydä_vähiin<narrower/>,$ frames: 1 (be spent; "All my money went for food and rent") }
+{ [ ahmia5, noun.person:ahmatti2,+ noun.act:ahminta,+]  [ ahmia<unconfirmed/>6, noun.person:ahmatti2,+ noun.act:ahminta,+]  mässäillä1,  käyttää_liikaa2,  ahmia_vatsansa_täyteen,  [ ylensyödä1, noun.act:ylensyönti,+]  herkutella1,  syöpötellä,  tehdä_kylläiseksi,  hotkaista2,  hotkia5,  syödä1,@ frames: 1 (overeat or eat immodestly; make a pig of oneself; "She stuffed herself at the dinner"; "The kids binged on ice cream") }
+{ hyödyntää2,  [ käyttää_hyväkseen2, adj.all:käytettävissä_oleva,+ adj.all:käytettävissä<idiomatic_pos/>,+]  ottaa2,  varastaa,  käyttää_hyväkseen,@ frames: 1 (take or use; "She helped herself to some of the office supplies") }
+{ tehdä_kylläiseksi1,  syödä_kylläiseksi,  täyttää1,  tyydyttää2,  juoda,@ frames: 1 (fill to satisfaction; "I am sated") }
+{ ällöttää,  kyllästyttää,  tehdä_kylläiseksi1,@ frames: 1 (cause surfeit through excess though initially pleasing; "Too much spicy food cloyed his appetite") }
+{ saada_loppumaan,  voittaa,  hillitä,  saada_rauhoittumaan,  sammuttaa,  tyydyttää3,  lepyttää,  rauhoittaa,  tyynnyttää,  täyttää,@ frames: 1 (overcome or allay; "quell my hunger") }
+{ [ tyytyä, noun.state:tyytyväisyys,+ noun.feeling:tyytyväisyys,+]  verb.change:vähentää3,@ frames: 1 (satisfy in a limited way; "He contented himself with one glass of beer per day") }
+{ [ isännöidä, noun.person:isäntä1,+ noun.person:isäntä2,+]  toimia_isäntänä,  verb.social:kestitä,@ frames: 1 (be the host of or for; "We hosted 4 couples last night") }
+{ kestitä1,  isännöidä,@ frames: 1 (provide with food and drink, usually lavishly) }
+{ juhlia,  herkutella,@ syödä1,* juoda2,* frames: 1 (eat sumptuously; "we wined and dined in Paris") }
+{ [ lihottaa, noun.attribute:lihavuus,+]  pulskistaa,  verb.change:muuttaa3,@ syöttää,* frames: 1 (make fat or plump; "We will plump out that poor starving child") }
+{ syöttää_suonensisäisesti,  injektoida,  syöttää,@ frames: 1 (feed intravenously) }
+{ [ maistaa, noun.food:maistiainen,+ noun.cognition:maistiainen,+ noun.act:maisteleminen,+ noun.person:maistaja,+]  [ koettaa, noun.cognition:koe,+]  kokeilla,  juoda,@ frames: 1 (take a sample of; "Try these new crackers"; "Sample the regional dishes") }
+{ [ maistella1, noun.act:maisteleminen,+]  maistaa,@ frames: 1 (taste with relish; "degust this wonderful soup") }
+{ hävittää,  kuluttaa_turhaan,  [ tuhlata2, noun.act:tuhlaus,+]  hukata,  polttaa,  kuluttaa4,  kuluttaa2,@ kuluttaa,* frames: 1 (spend frivolously and unwisely; "Fritter away one's inheritance") }
+{ [ kieltäytyä, juoda,! syödä,! noun.person:kieltäymyksen_harjoittaja<unconfirmed/>,+]  [ pidättyä, juoda,! syödä,! adj.all:pidättyvä^pidättyvä1,+ noun.person:pidättyvä<idiomatic_pos/>,+ noun.attribute:pidättyvyys1,+ noun.attribute:pidättäytyminen,+]  [ pidättäytyä, juoda,! syödä,! adj.all:pidättyvä^pidättyvä1,+ noun.person:pidättyvä<idiomatic_pos/>,+ noun.attribute:pidättyvyys1,+ noun.attribute:pidättäytyminen,+]   frames: 1 (choose not to consume; "I abstain from alcohol") }
+{ olla_raivoraitis,  kieltäytyä,@ frames: 1 (practice teetotalism and abstain from the consumption of alcoholic beverages) }
+{ hankkiutua_eroon,  lopettaa,  luopua,  verb.social:luopua2,@ frames: 1 (stop consuming; "kick a habit"; "give up alcohol") }
+{ ahmia7,  hotkia6,  hotkaista3,  syödä6,  syödä3,@ frames: 1 (eat greedily; "he devoured three sandwiches") }
+{ syödä_loppuun,  tyhjentää_lautanen,  syödä_lautanen_tyhjäksi,  hotkaista4,  syödä3,@ frames: 1 (finish eating all the food on one's plate or on the table; "She polished off the remaining potatoes") }
+{ [ ahmia8, noun.person:ahmatti,+]  nielaista,  mässäillä2,  popsia,  syödä7,  syödä3,@ frames: 1 (eat immoderately; "Some people can down a pound of meat in the course of one meal") }
+{ maiskauttaa,  maiskuttaa,  mässyttää,  verb.communication:päästää_ilmoille1,@ frames: 1 (press (the lips) together and open (the lips) noisily, as in eating) }
+{ sietää,  [ sulattaa, adj.all:sulava5,+]  verb.change:käsitellä,@ juoda,* verb.change:sulaa6,$ frames: 1 (convert food into absorbable substances; "I cannot digest milk products") }
+{ sietää1,  sulattaa1,  sietää,@ frames: 1 (bear to eat; "He cannot stomach raw fish") }
+{ metaboloida,  sietää,* frames: 1 (produce by metabolism) }
+{ esisulattaa,  sietää,@ noun.animal:märehtijä,;c frames: 1 (digest (food) beforehand) }
+{ imeä2,  juoda,@ frames: 1 (take up as if with a sponge) }
+{ polttaa1,  [ tupakoida, noun.act:tupakointi,+ noun.act:tupakanpoltto,+ noun.person:tupakoitsija1,+]  juoda,@ verb.body:hengittää_ulos,* verb.body:vetää_henkeä,* frames: 1 (inhale and exhale smoke from cigarettes, cigars, pipes; "We never smoked marijuana"; "Do you smoke?") }
+{ polttaa_ketjussa,  polttaa1,@ frames: 1 (smoke one cigarette after another; light one cigarette from the preceding one) }
+{ imaista,  tuprutella,  polttaa1,@ frames: 1 (smoke and exhale strongly; "puff a cigar"; "whiff a pipe") }
+{ [ hengittää_sisään, noun.substance:hengitetty_aine<approximate/>,+ adj.pert:hengittävä,+]  polttaa1,@ frames: 1 (draw deep into the lungs in by breathing; "Clinton smoked marijuana but never inhaled") }
+{ imeä3,  vetää,  hengittää_sisään1,  verb.body:vetää_henkeä,@ polttaa1,* frames: 1 (suck in or take (air); "draw a deep breath"; "draw on a cigarette") }
+{ käyttää7,  piikittää,  injektoida1,  pistää,  käyttää_huumausaineita,@ frames: 1 (take by injection; "inject heroin") }
+{ piikittää1,  käyttää7,@ frames: 1 (inject into the vein; "She is mainlining heroin") }
+{ napata,  käyttää7,@ frames: 1 (take drugs, especially orally; "The man charged with murder popped a valium to calm his nerves") }
+{ piikittää2,  napata,@ frames: 1 (inject (drugs) into the skin) }
+{ [ ottaa_nenät, noun.artifact:lääke,;c noun.artifact:rohdos,;c noun.artifact:huume,;c noun.artifact:huumausaine,;c]  sniffata,  käyttää_huumausaineita,@ frames: 1 (inhale through the nose) }
+{ [ sytyttää_savuke, noun.artifact:sytytin3,+ noun.artifact:sytkäri,+]  panna_tupakaksi,  verb.weather:sytyttää,@ polttaa1,* frames: 1 (begin to smoke; "After the meal, some of the diners lit up") }
+{ hengittää_kuumennetun_kokaiinin_savua,  polttaa_kokaiinia,  käyttää_huumausaineita,@ frames: 1 (use (purified cocaine) by burning it and inhaling the fumes) }
+{ impata,  nuuskata,  verb.body:vetää_henkeä,@ käyttää_huumausaineita,* frames: 1 (inhale recreational drugs; "The addict was snorting cocaine almost every day"; "the kids were huffing glue") }
+{ käyttää_huumausaineita,  käyttää_huumeita,  juoda,@ pössytellä<unconfirmed/>,> frames: 1 (use recreational drugs) }
+{ mainita_ohimennen,  käyttää_huumausaineita,@ frames: 1 (take (a drug, especially LSD), by mouth; "She dropped acid when she was a teenager") }
+{ käyttää_dopingia,  käyttää_huumausaineita,@ frames: 1 (take drugs to improve one's athletic performance) }
+{ pössytellä<unconfirmed/>,  vetää_kamaa,  vetää_huumeita,  tripata,  trippailla,   frames: 1 (get high, stoned, or drugged; "He trips every weekend") }
+{ [ pureskella1, noun.act:pureskelu,+]  jauhaa1,  mutustella,  pureksia,  verb.contact:kirskua,@ frames: 1 (chew (food); to bite and grind with the teeth; "He jawed his bubble gum"; "Chew your food and don't swallow it!"; "The cows were masticating the grass") }
+{ [ pureksia1, noun.food:purutupakka,+]  pureskella1,@ frames: 1 (chew without swallowing; "chaw tobacco") }
+{ rouskuttaa1,  [ rouskutella, noun.person:rouskuttelija,+]  pureskella1,@ frames: 1 (chew noisily; "The children crunched the celery sticks") }
+{ [ nielaista1, noun.act:nielaisu,+ noun.act:nieleminen,+ noun.act:nielaus,+]  juoda,@ frames: 1 (pass through the esophagus as part of eating or drinking; "Swallow the raw fish--it won't kill you!") }
+{ [ kulauttaa, noun.person:kulauttelija<unconfirmed/>,+ noun.act:kulaus2,+]  [ ryypätä4, noun.food:ryyppy,+ noun.person:ryyppääjä,+]  hörpätä,  juoda1,@ nielaista1,* frames: 1 (to swallow hurriedly or greedily or in one draught; "The men gulped down their beers") }
+{ siemaista,  ottaa<broader/>3,  kaataa_kurkkuunsa,  huitaista<approximate/>,  heittää_huiviin,  nakata_naamaan,  juoda1,@ frames: 1 (drink down entirely; "He downed three martinis before dinner"; "She killed a bottle of brandy that night"; "They popped a few beer after work") }
+{ hotkaista5,  nielaista1,@ frames: 1 (swallow hastily) }
+{ ruokkia2,  elättää1,  ravita1,  järjestää,@ frames: 1 (provide with nourishment; "We sustained ourselves on bread and water"; "This kind of food is not nourishing for young children") }
+{ kantaa,  ruokkia3,  ruokkia2,@ noun.animal:karja,;c verb.creation:kantaa,$ frames: 1 (be able to feed; "This land will carry ten cows to the acre") }
+{ elää_jllak,  täyttää,@ frames: 1 (be sustained by; "He fed on the great ideas of her mentor") }
+{ järjestää2,  järjestää,@ frames: 1 (find (something or someone) for; "I'll fix you up with a nice girl") }
+{ saalistaa1,  rosvota,  riistää,  saalistaa,@ frames: 1 (prey on or hunt for; "These mammals predate certain eggs") }
+{ riistää1,  käyttää_hyväkseen3,  käyttää_hyväkseen,@ frames: 1 (profit from in an exploitatory manner; "He feeds on her insecurity") }
+{ syödä_kyllikseen,  syödä3,@ frames: 1 (eat until one is sated; "He filled up on turkey") }
+{ sammuttaa1,  tyydyttää4,  täyttää,@ juoda,* frames: 1 (satisfy (thirst); "The cold water quenched his thirst") }
+{ [ ravita2, noun.Tops:ravintoaine,+ noun.process:ravinnonsaanti,+]  elättää2,  ruokkia4,  syöttää,@ frames: 1 (give nourishment to) }
+{ [ laiduntaa1, noun.location:laidunalue,+ noun.location:laidun1,+ noun.location:laidunmaa1,+]  syöttää,@ verb.contact:nyhtää,$ frames: 1 (let eat; "range the animals in the prairie") }
+{ syöttää_ruoholla,  verb.contact:laiduntaa1,@ frames: 1 (feed with grass) }
+{ varustaa_kouruilla,  varustaa_ränneillä,  järjestää,@ frames: 1 (provide with gutters; "gutter the buildings") }
+{ nautiskella1,  huikennella<unconfirmed/>,  kuluttaa2,@ frames: 1 (become extravagant; indulge (oneself) luxuriously) }
+{ polttaa2,  kuluttaa5,  kuluttaa,@ frames: 1 (use up (energy); "burn off calories through vigorous exercise") }
+{ vetää1,  pitää_sisällään,  juoda2,@ frames: 1 (drink alcohol without showing ill effects; "He can hold his liquor"; "he had drunk more than he could carry") }
+{ mennä_alas_kurkusta,   frames: 1 (be ingested; "This wine sure goes down well"; "The food wouldn't go down") }
+{ maistaa1,  siemaista1,  juoda,@ frames: 1 (take solid or liquid food into the mouth a little at a time either by drinking or by eating with a spoon) }

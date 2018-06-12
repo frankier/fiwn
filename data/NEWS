@@ -1,0 +1,51 @@
+
+FinnWordNet news
+----------------
+
+* Version 2.0 (2012-09-25)
+
+  - A new relational format as the primary data format (directory
+    'rels'), partially replacing the lists in the previous version.
+    See the file rels/README_rels for more information.
+
+  - Extended beyond being a translation of Princeton WordNet by adding
+    new synsets as hyponyms of existing synsets (without glosses and
+    English translations). The new synsets correspond to senses of
+    common Finnish compound words.
+
+  - Added thousands of new word senses and corrected hundreds of
+    existing ones.
+
+  - Change statistics, compared with the previous version (1.1.2):
+
+                                added  removed  corrected
+
+      synsets                    2,790       0       -
+      word senses               17,060     215     745
+      unique words              10,046     795       -
+      translation relations     15,776   1,081       -
+
+    A total of 14,626 existing synsets were affected.
+
+  - Total size, compared with FinnWordNet 1.1.2 and Princeton WordNet
+    3.0:
+
+                             2.0      1.1.2    increase %     PWN 3.0
+                                                                      
+      synsets                120,449  117,659   2,790   2.4   117,659
+      word senses            208,645  191,800  16,845   8.8   206,978
+      unique words           140,515  131,264   9,251   7.0   148,730
+      semantic relations     159,330  156,540   2,790   1.8   156,540
+      lexical relations       68,047   60,397   7,650  12.7    91,800
+      translation relations  244,742  230,047  14,695   6.4      -   
+
+* Version 1.1.2 (2011-07-01)
+
+  - More than 1800 Finnish translations corrected in over 1000
+    synsets: corrected spelling errors, corrected erroneous
+    translations, added alternative translations and modified
+    translators' comments (adding or removing where appropriate).
+
+* Version 1.1.1 (2010-12-16)
+
+  - The first FinnWordNet version available for download.

@@ -1,0 +1,130 @@
+{ entiteetti,  kokonaisuus,   (that which is perceived or known or inferred to have its own distinct existence (living or nonliving)) }
+{ fyysinen_entiteetti,  entiteetti,@ (an entity that has physical existence) }
+{ [ abstrahointi, verb.cognition:abstrahoida,+]  käsitteellistäminen,  abstrakti_entiteetti,  entiteetti,@ (a general concept formed by extracting common features from specific examples) }
+{ esine,  fyysinen_entiteetti,@ (a separate and self-contained entity) }
+{ esine1,  fyysinen_esine,  fyysinen_entiteetti,@ (a tangible and visible entity; an entity that can cast a shadow; "it was full of rackets, balls and other objects") }
+{ [ kokonaisuus1, adj.all:jakamaton2^kokonainen6,+]  esine1,@ (an assemblage of parts that is regarded as a single entity; "how big is that part compared to the whole?"; "the team is a unit") }
+{ samanlainen,  samansukuinen<idiomatic_pos/>,  kokonaisuus1,@ (a whole (a thing or person) of the same kind or category as another; "lard was also used, though its congener, butter, was more frequently employed"; "the American shopkeeper differs from his European congener") }
+{ elävä_olio,  kokonaisuus1,@ (a living (or once living) entity) }
+{ [ eliö, adj.all:elimellinen,+]  olento,  elävä_olio,@ (a living thing that has (or can develop) the ability to act or function independently) }
+{ [ bentos, adj.pert:benttinen,+]  pohjaeliöstö,  eliö,@ (organisms (plants and animals) that live at or near the bottom of a sea) }
+{ kääpiö,  eliö,@ (a plant or animal that is atypically small) }
+{ heterotrofi,  toisenvarainen,  eliö,@ (an organism that depends on complex organic substances for nutrition) }
+{ emokasvi,  emä,  emo,  eliö,@ (an organism (plant or animal) from which younger ones are obtained) }
+{ elämä,  elävä_olio,@ (living things collectively; "the oceans are teeming with life") }
+{ biont<unconfirmed/>,  elävä_olio,@ (a discrete unit of living matter) }
+{ [ solu, adj.pert:solu-,+ adj.all:solumainen,+]  elävä_olio,@ eliö,#p noun.cognition:biologia,;c ((biology) the basic structural and functional unit of all organisms; they may exist as independent units of life (as in monads) or may form colonies or tissues as in higher plants and animals) }
+{ aiheuttaja,  [ syy, adj.all:aiheuttava^syysuhteinen,+]  kausaalinen_agentti,  fyysinen_entiteetti,@ (any entity that produces an effect or is responsible for events or results) }
+{ henkilö,  ihminen,  henki,  eliö,@ aiheuttaja,@ noun.group:ihmiset,#m (a human being; "there was too much for one person to do") }
+{ eläin,  elollinen_olento,  elukka,  järjetön_luontokappale,  olento1,  eläimistö,  fauna,  otus,  olio,  eliö,@ noun.animal:eläinkunta,#m (a living organism characterized by voluntary movement) }
+{ [ kasvi, adj.pert:kasvi-,+]  eliö,@ noun.plant:kasvit,#m noun.cognition:botaniikka,;c ((botany) a living organism lacking the power of locomotion) }
+{ kotoperäinen_eliölaji,  eliö,@ (indigenous plants and animals) }
+{ [ luonnonesine, artefakti,! teennös,! esine2,!]  kokonaisuus1,@ (an object occurring naturally; not made by man) }
+{ [ aine, adj.all:aineellinen,+]  substanssi,  materia,  materia1,@ noun.relation:osa,@ (the real physical matter of which a person or thing consists; "DNA is the substance of our genes") }
+{ aines,  materia1,@ (a particular kind or species of matter with uniform properties; "shigella is one of the most toxic substances known to man") }
+{ materia1,  aine1,  fyysinen_entiteetti,@ (that which has mass and occupies space; "physicists study both the nature of matter and the forces which govern it") }
+{ ravinto,  [ ravintoaine, verb.consumption:ravita2,+ adj.all:terveellinen5^ravitseva,+]  ruoka,  aines,@ (any substance that can be metabolized by an animal to give energy and build tissue) }
+{ ravinne,  aines,@ (any substance (such as a chemical element or inorganic compound) that can be taken in by a green plant and used in organic synthesis) }
+{ [ artefakti, luonnonesine,! adj.pert:artefakteihin_liittyvä,+]  [ teennös, luonnonesine,!]  [ esine2, luonnonesine,!]  kokonaisuus1,@ (a man-made object taken as a whole) }
+{ kappale,  artefakti,@ (one of a class of artifacts; "an article of clothing") }
+{ psykologinen_ominaisuus,  abstrahointi,@ (a feature of the mental life of a living organism) }
+{ kognitio,  tietoisuus,  tajunta,  psykologinen_ominaisuus,@ (the psychological result of perception and learning and reasoning) }
+{ vaikutin,  motiivi,  tarve,  psykologinen_ominaisuus,@ (the psychological feature that arouses an organism to action toward a desired goal; the reason for the action; that which gives purpose and direction to behavior; "we did not understand his motivation"; "he acted with the best of motives") }
+{ ominaispiirre,  ominaisuus,  attribuutti,  abstrahointi,@ (an abstraction belonging to or characteristic of an entity) }
+{ tila,  ominaispiirre,@ (the way something is with respect to its main attributes; "the current state of knowledge"; "his state of health"; "in a weak financial state") }
+{ [ tunne, verb.emotion:tuntea,+]  tila,@ (the experiencing of affective and emotional states; "she had a feeling of euphoria"; "he had terrible feelings of guilt"; "I disliked him and the feeling was mutual") }
+{ [ paikka, verb.possession:paikantaa,+]  esine1,@ avaruus,#p (a point or extent in space) }
+{ muoto,  ominaispiirre,@ (the spatial arrangement of something as distinct from its substance; "geometry is the mathematical science of shape") }
+{ aika,  ominaispiirre,@ (the continuum of experience in which events pass from the future through the present to the past) }
+{ [ avaruus, adj.pert:avaruus-,+]  äärettömyys,  fysikaalinen_avaruus,  ominaispiirre,@ (the unlimited expanse in which everything is located; "they tested his ability to locate objects in space"; "the boundless regions of the infinite") }
+{ absoluuttinen_avaruus,  avaruus,@ (physical space independent of what occupies it) }
+{ vaiheavaruus,  avaruus,@ noun.cognition:fysiikka,;c ((physics) an ideal space in which the coordinate dimensions represent the variables that are required to describe a system or substance; "a multidimensional phase space") }
+{ tapahtuma,  tilaisuus,  psykologinen_ominaisuus,@ (something that happens at a given place and time) }
+{ kehitys,  fyysinen_kehitys,  fyysinen_entiteetti,@ (a sustained phenomenon or one marked by gradual changes through a series of states; "events now in process"; "the process of calcification begins later for boys than for girls") }
+{ teko,  [ toimenpide, verb.social:toimia,+]  työ,  inhimillinen_toiminta,  tekeminen,  toimi,  tapahtuma,@ (something that people do or cause to happen) }
+{ joukko,  [ ryhmä, verb.competition:ryhmittyä,+ verb.cognition:ryhmitellä,+ verb.cognition:ryhmittää1,+]  ryhmittymä,  abstrahointi,@ (any number of entities (members) considered as a unit) }
+{ [ suhde, noun.relation:suhde,+ noun.state:suhde,+]  abstrahointi,@ (an abstraction belonging to or characteristic of two entities or parts together) }
+{ omaisuus,  suhde,@ (anything owned or possessed) }
+{ sosiaaliset_suhteet,  suhde,@ (a relation between living organisms (especially between people)) }
+{ tiedonanto,  abstrahointi,@ (something that is communicated by or to or between people or groups) }
+{ [ mitta, verb.cognition:mitata,+ verb.change:mitata1,+]  määrä,  summa,  lukumäärä,  abstrahointi,@ adj.all:normaali7,= adj.all:standardista_poikkeava,= (how much there is or how many there are of something that you can quantify) }
+{ ilmiö,  kehitys,@ (any state or process known through the senses rather than by intuition or reasoning) }
+{ asiakasmäärä,  mitta,@ ([empty]) }
+{ asiakasryhmä,  joukko,@ ([empty]) }
+{ asiantuntijaryhmä,  joukko,@ ([empty]) }
+{ asukasmäärä,  mitta,@ ([empty]) }
+{ avainhenkilö,  henkilö,@ ([empty]) }
+{ demariryhmä,  joukko,@ ([empty]) }
+{ eduskuntaryhmä,  joukko,@ ([empty]) }
+{ enimmäismäärä,  mitta,@ ([empty]) }
+{ ennätysmäärä,  mitta,@ ([empty]) }
+{ erityisryhmä,  joukko,@ ([empty]) }
+{ hallitusryhmä,  joukko,@ ([empty]) }
+{ henkilöstömäärä,  mitta,@ ([empty]) }
+{ henkilöstöryhmä,  joukko,@ ([empty]) }
+{ ihmisryhmä,  joukko,@ ([empty]) }
+{ jäsenmäärä,  mitta,@ ([empty]) }
+{ kansanryhmä,  joukko,@ ([empty]) }
+{ kanssaihminen,  henkilö,@ ([empty]) }
+{ kärkiryhmä,  joukko,@ ([empty]) }
+{ katsojamäärä,  mitta,@ ([empty]) }
+{ käyttöesine,  esine,@ ([empty]) }
+{ käyttöesine1,  esine1,@ ([empty]) }
+{ kesätapahtuma,  tapahtuma,@ ([empty]) }
+{ keskushenkilö,  henkilö,@ ([empty]) }
+{ kohderyhmä,  joukko,@ ([empty]) }
+{ kriisiryhmä,  joukko,@ ([empty]) }
+{ kulttuuritapahtuma,  tapahtuma,@ ([empty]) }
+{ kulttuuriteko,  teko,@ ([empty]) }
+{ kuvausryhmä,  joukko,@ ([empty]) }
+{ lähiaika,  aika,@ ([empty]) }
+{ lainamäärä,  mitta,@ ([empty]) }
+{ liikennemäärä,  mitta,@ ([empty]) }
+{ maa-aines,  aines,@ ([empty]) }
+{ markkamäärä,  mitta,@ ([empty]) }
+{ matkustajamäärä,  mitta,@ ([empty]) }
+{ ministeriryhmä,  joukko,@ ([empty]) }
+{ musiikkitapahtuma,  tapahtuma,@ ([empty]) }
+{ ohjausryhmä,  joukko,@ ([empty]) }
+{ opetusryhmä,  joukko,@ ([empty]) }
+{ opiskelijamäärä,  mitta,@ ([empty]) }
+{ oppositioryhmä,  joukko,@ ([empty]) }
+{ osanottajamäärä,  mitta,@ ([empty]) }
+{ osasyy,  aiheuttaja,@ ([empty]) }
+{ osuuspankkiryhmä,  joukko,@ ([empty]) }
+{ pääpaikka,  paikka,@ ([empty]) }
+{ pääsyy,  aiheuttaja,@ ([empty]) }
+{ päätapahtuma,  tapahtuma,@ ([empty]) }
+{ pankkiryhmä,  joukko,@ ([empty]) }
+{ parlamenttiryhmä,  joukko,@ ([empty]) }
+{ pienryhmä,  joukko,@ ([empty]) }
+{ remonttiryhmä,  joukko,@ ([empty]) }
+{ riskiryhmä,  joukko,@ ([empty]) }
+{ seurantaryhmä,  joukko,@ ([empty]) }
+{ sijaintipaikka,  paikka,@ ([empty]) }
+{ sijoituspaikka,  paikka,@ ([empty]) }
+{ suomalaisryhmä,  joukko,@ ([empty]) }
+{ suorituspaikka,  paikka,@ ([empty]) }
+{ surmatyö,  teko,@ ([empty]) }
+{ suurtapahtuma,  tapahtuma,@ ([empty]) }
+{ syttymissyy,  aiheuttaja,@ ([empty]) }
+{ teatteriryhmä,  joukko,@ ([empty]) }
+{ tukihenkilö,  henkilö,@ ([empty]) }
+{ tukiryhmä,  joukko,@ ([empty]) }
+{ tuntimäärä,  mitta,@ ([empty]) }
+{ tuotantomäärä,  mitta,@ ([empty]) }
+{ tuoteryhmä,  joukko,@ ([empty]) }
+{ turkiseläin,  eläin,@ ([empty]) }
+{ tutkijaryhmä,  joukko,@ ([empty]) }
+{ tutkimusryhmä,  joukko,@ ([empty]) }
+{ työntekijämäärä,  mitta,@ ([empty]) }
+{ urheilutapahtuma,  tapahtuma,@ ([empty]) }
+{ väestömäärä,  mitta,@ ([empty]) }
+{ väestöryhmä,  joukko,@ ([empty]) }
+{ väkimäärä,  mitta,@ ([empty]) }
+{ valmennusryhmä,  joukko,@ ([empty]) }
+{ valtuustoryhmä,  joukko,@ ([empty]) }
+{ vasemmistoryhmä,  joukko,@ ([empty]) }
+{ vastuuhenkilö,  henkilö,@ ([empty]) }
+{ yhdyshenkilö,  henkilö,@ ([empty]) }
+{ yhteysryhmä,  joukko,@ ([empty]) }

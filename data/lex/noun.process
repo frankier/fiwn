@@ -1,0 +1,773 @@
+{ ablaktaatio,  maidonerityksen_päättyminen,  ruumiintoiminto,@ (the cessation of lactation) }
+{ ablaatio,  [ sulaminen, verb.change:sulaa1,+]  eroosio,@ (the erosive process that reduces the size of glaciers) }
+{ [ hankaus, verb.contact:hangata4,+ adj.pert:hankautumiseen_liittyvä<approximate/>,+]  [ kulutus, verb.contact:kuluttaa,+]  [ kuluminen, adj.pert:kulumiseen_liittyvä,+]  korraasio,  rapautuminen,  eroosio,@ (erosion by friction) }
+{ irtoaminen<broader/>,  pudottaminen<broader/>,  karvanlähtö1,@ (shedding of flowers and leaves and fruit following formation of scar tissue in a plant) }
+{ [ absorboituminen, verb.contact:absorboitua,+]  [ absorptio, verb.contact:absorboitua,+]  itseensä_imeminen,  sorptio,@ noun.cognition:kemia,;c ((chemistry) a process in which one substance permeates another; a fluid permeates or is dissolved by a liquid or solid) }
+{ absorboituminen1,  absorptio1,  luonnollinen_prosessi,@ sammuttava_vaikutus,#p noun.cognition:fysiikka,;c ((physics) the process in which incident radiated energy is retained without reflection or transmission on passing through a medium; "the absorption of photons by atoms or molecules") }
+{ karttuminen,  nousu,@ (a process of increasing by addition (as to a collection or group); "the art collection grew through accession") }
+{ [ akklimatisaatio, verb.change:akklimatisoitua,+ verb.change:akklimoitua,+]  [ akklimaatio, verb.change:akklimoitua,+]  aklimatisointi,  fysiologinen_sopeutuminen,  mukautuminen,  tottuminen,  mukautuminen1,@ (adaptation to a new climate (a new temperature or altitude or environment)) }
+{ kasvu,  [ lisääntyminen, adj.all:nouseva9^lisäkasvu-,+ adj.all:nouseva9^lisääntymis-1,+]  kertyminen,  kerääntyminen,  nousu,@ (an increase by natural growth or addition) }
+{ [ vesijättö, adj.all:nouseva9^vesijättö-,+]  nousu,@ noun.cognition:geologia,;c ((geology) an increase in land resulting from alluvial deposits or waterborne sediment) }
+{ [ akkreetio, adj.all:nouseva9^akkreetio-,+]  kiinni_kasvaminen,  nousu,@ noun.cognition:biologia,;c ((biology) growth by addition as by the adhesion of parts or particles) }
+{ kertyminen1,  nousu,@ noun.cognition:astronomia,;c ((astronomy) the formation of a celestial object by the effect of gravity pulling together surrounding objects and gases) }
+{ [ asetylaatio, verb.change:asetyloida1,+ verb.change:asetyloida,+]  asylaatio,@ (the process of introducing an acetyl group into a compound; "the acetylation of cyclooxygenase-2 by aspirin") }
+{ Achesonin_menetelmä<unconfirmed/>,  teollisuusprosessi,@ (an industrial process for making graphite by heating a mixture of coke and clay) }
+{ happo-emästasapaino,  tasapainotila,@ noun.cognition:fysiologia,;c ((physiology) the normal equilibrium between acids and alkalis in the body; "with a normal acid-base balance in the body the blood is slightly alkaline") }
+{ [ happamoituminen, verb.change:happamoittaa,+ verb.change:happamoitua,+]  asidifikaatio,  luonnollinen_prosessi,@ (the process of becoming acid or being converted into an acid) }
+{ [ aktivoiminen, inaktivoituminen,! verb.change:aktivoida1,+ verb.change:aktivoida2,+ verb.change:aktivoida3,+]  [ aktivointi, inaktivoituminen,! verb.change:aktivoida1,+ verb.change:aktivoida2,+ verb.change:aktivoida3,+]  kiihotus,@ (stimulation of activity in an organism or chemical) }
+{ aktiivinen_synnytys,  synnytys,@ (childbirth during which the mother is encouraged to be an active participant) }
+{ aktiivinen_kuljetus,  diffuusio,@ noun.artifact:lääke,;c (transport of a substance (as a protein or drug) across a cell membrane against the concentration gradient; requires an expenditure of energy) }
+{ asylaatio,  kemiallinen_prosessi,@ (the process of introducing an acyl group into a compound) }
+{ [ mukautuminen1, verb.change:mukautua,+]  [ sopeutuminen, verb.change:sopeutua,+]  adaptaatio,  luonnollinen_prosessi1,@ (the process of adapting to something (such as environmental conditions)) }
+{ yhtymisreaktio,  additioreaktio,  kemiallinen_reaktio,@ (a chemical reaction in which one molecule is added to another) }
+{ adiabaattinen_prosessi,  lämpöeristetty_prosessi,  luonnollinen_prosessi,@ noun.cognition:termodynamiikka,;c ((thermodynamics) any process that occurs without gain or loss of heat) }
+{ hallinnollinen_tietojenkäsittely,  kaupallinen_tietojenkäsittely,  tietojenkäsittely,@ (data processing in accounting or business management) }
+{ [ adsorptio, verb.contact:adsorboida,+ verb.contact:adsorboitua,+]  kiinnittyminen_pintaan,  pinta-assimiloituvuus<unconfirmed/>,  sorptio,@ (the accumulation of molecules of a gas to form a thin film on the surface of a solid) }
+{ [ advektio, verb.motion:advektoida,+]  lämpötilan_muutos,@ noun.cognition:meteorologia,;c ((meteorology) the horizontal transfer of heat or other atmospheric properties) }
+{ ilmalla_kyllästäminen,  ilmastaminen,  ilmastus,  luonnollinen_prosessi,@ (the process of exposing to air (so as to purify); "the aeration of the soil") }
+{ ageneesi,  kehitysvaje,@ (imperfect development; nondevelopment of a part) }
+{ [ agglutinaatio, verb.contact:agglutinoitua1,+]  kielellinen_prosessi,@ (the building of words from component morphemes that retain their form and meaning in the process of combining) }
+{ [ agglutinaatio1, verb.contact:agglutinoitua,+]  yhteenliimautuminen,  luonnollinen_prosessi1,@ (a clumping of bacteria or red cells when held together by antibodies (agglutinins)) }
+{ agglutinaatio2,  liimautuminen,  agglutinoituminen,  yhteen_tarttuminen,  kemiallinen_prosessi,@ (the coalescing of small particles that are suspended in solution; these larger masses are then (usually) precipitated) }
+{ ikääntyminen,  [ vanheneminen, adj.all:vanha6^vanheneva,+]  luonnollinen_prosessi1,@ (the organic process of growing older and showing the effects of increasing age) }
+{ aldolireaktio,  kemiallinen_reaktio,@ (a reaction of aldehydes resulting in an aldol) }
+{ vesijättömaa,  geologinen_prosessi,@ (gradual formation of new land, by recession of the sea or deposit of sediment) }
+{ alfahajoaminen,  radioaktiivinen_hajoaminen,@ (radioactive decay of an atomic nucleus that is accompanied by the emission of an alpha particle) }
+{ vaihtoehtosynnytys,  synnytys,@ (a method of childbirth that avoids intrusive high-tech medicine in favor of more natural and homely settings) }
+{ amelogeneesi,  kasvaminen,@ (the developmental process of forming tooth enamel) }
+{ [ amerikkalaistuminen, verb.change:amerikkalaistaa,+ verb.change:amerikkalaistua,+]  sopeutuminen1,@ (assimilation into American culture) }
+{ [ amitoosi, adj.pert:amitoottinen,+]  välitön_solunjakautuminen,  solunjakautuminen,@ (the direct method of cell division characterized by simple division of the nucleus without formation of chromosomes) }
+{ [ ammoniakkiutuminen, verb.change:ammonifioida,+]  [ ammonifikaatio, verb.change:ammonifioida,+]  leviäminen,@ (impregnation with ammonia or a compound of ammonia) }
+{ [ amylolyysi<unconfirmed/>, adj.pert:amylolyyttinen<unconfirmed/>,+]  kemiallinen_prosessi,@ (conversion of starch to sugar) }
+{ [ anabolismi, katabolismi,! adj.all:anabolinen,+ adj.pert:anabolinen,+]  konstruktiivinen_metabolismi<unconfirmed/>,  [ anabolia, katabolismi,! adj.all:anabolinen,+ adj.pert:anabolinen,+]  imeytyminen,@ aineenvaihdunta,#p (the synthesis in living organisms of more complex substances (e.g., living tissue) from simpler ones together with the storage of energy) }
+{ [ anaglyfia, adj.pert:anaglyfinen,+ adj.pert:anaglyptinen,+]  valokuvaus,@ (the process of producing pictures in contrasting colors that appear three-dimensional when superimposed and viewed through spectacles with one red and one green lens) }
+{ [ anamorfismi, katamorfismi,! pintametamorfismi,!]  metamorfismi,@ (metamorphism that occurs deep under the earth's surface; changes simple minerals into complex minerals) }
+{ anamorfoosi,  anamorfismi1,  evoluutio,@ (the evolution of one type of organism from another by a long series of gradual changes) }
+{ [ anafaasi, adj.pert:anafaasi-,+ adj.pert:anafaattinen,+]  solunjakautumisen_vaihe,@ meioosi,#p (the stage of meiosis or mitosis when chromosomes move toward opposite ends of the nuclear spindle) }
+{ [ anastaltiikka, peristaltiikka,!]  ruumiintoiminto,@ (muscular action of the alimentary tract in a direction opposite to peristalsis) }
+{ [ androgeneesi, adj.pert:androgeeninen,+ adj.pert:androgeneettinen,+]  [ androgenia, adj.pert:androgeeninen1,+]  partenogeneesi,@ (male parthenogenesis in which the embryo contains only paternal chromosomes due to the failure of the egg nucleus to participate in fertilization) }
+{ angiogeneesi,  kasvaminen,@ (the formation of new blood vessels) }
+{ anglisaatio<unconfirmed/>,  [ englantilaistaminen<unconfirmed/>, verb.change:englantilaistaa,+]  sopeutuminen1,@ (the act of anglicizing; making English in appearance) }
+{ [ anisogamia, adj.pert:anisogaaminen,+ adj.pert:anisogaaminen<unconfirmed/>1,+]  sukupuolinen_lisääntyminen,@ noun.cognition:biologia,;c ((biology) reproduction by the union or fusion of two differing gametes (especially differing in size)) }
+{ [ anovulaatio, ovulaatio,!]  [ munasolun_irtoamattomuus, ovulaatio,!]  [ ovuloimattomuus, ovulaatio,!]  luonnollinen_prosessi1,@ (the absence of ovulation due to immaturity or post-maturity or pregnancy or oral contraceptive pills or dysfunction of the ovary) }
+{ [ antropogeneesi, adj.pert:antropogeneettinen,+]  [ antropogenia, adj.pert:antropogeneettinen,+]  evoluutio,@ (the evolution or genesis of the human race) }
+{ harmaantumisenestoaine,  luonnollinen_prosessi,@ (the process of preventing redeposition) }
+{ antiseptiikka,  luonnollinen_prosessi1,@ (the process of inhibiting the growth and multiplication of microorganisms) }
+{ [ afereesi, adj.pert:afereettinen,+]  poisjättäminen,@ noun.cognition:kielentutkimus,;c ((linguistics) omission at the beginning of a word as in `coon' for `raccoon' or `till' for `until') }
+{ [ afeesi<unconfirmed/>, adj.pert:afeettinen<unconfirmed/>,+]  poisjättäminen,@ (the gradual disappearance of an initial (usually unstressed) vowel or syllable as in `squire' for `esquire') }
+{ [ apogamia<unconfirmed/>, adj.pert:apogaaminen<unconfirmed/>,+]  apomiksis,@ noun.cognition:botaniikka,;c ((botany) development of an embryo without fertilization; especially the development in some ferns of a sporophyte from the gametophyte without fertilization) }
+{ [ apomiksis, adj.all:sukupuoleton^apomiktinen,+ adj.pert:apomiktinen,+]  suvuton_lisääntyminen,@ (any of several kinds of reproduction without fertilization) }
+{ appositio,  kerroskasvu,  kerrostus,  kasvaminen,@ noun.cognition:biologia,;c ((biology) growth in the thickness of a cell wall by the deposit of successive layers of material) }
+{ [ suvuton_lisääntyminen, adj.all:sukupuoleton^suvuttomasti_lisääntyvä,+]  lisääntyminen3,@ (reproduction without the fusion of gametes) }
+{ [ assibilaatio, verb.change:assibiloida,+]  kehittyminen,@ (the development of a consonant phoneme into a sibilant) }
+{ assimilaatio,  kielellinen_prosessi,@ (a linguistic process by which a sound becomes similar to an adjacent sound) }
+{ imeytyminen,  sulattaminen,  luonnollinen_prosessi1,@ (the process of absorbing nutrients into the body after digestion) }
+{ [ sopeutuminen1, verb.change:sopeuttaa,+ verb.change:sopeutua2,+]  [ sulautuminen, verb.change:sulauttaa,+ verb.change:sulautua1,+]  yhdistyminen,  sosiaalinen_prosessointi,@ (the social process of absorbing one cultural group into harmony with another) }
+{ assosiointi,  kemiallinen_prosessi,@ noun.cognition:kemia,;c ((chemistry) any process of combination (especially in solution) that depends on relatively weak chemical bonding) }
+{ [ tahdistamaton_toiminta, synkroninen_operaatio,!]  toimitus,@ (operations that occur without a regular or predictable time relation to other events) }
+{ korroosio,  [ syövytys, verb.body:syövyttää,+]  rappeutuminen1,@ (the onset of a corrosive or destructive process (as by a chemical agent); "the film was sensitive to attack by acids"; "open to attack by the elements") }
+{ [ autokatalyysi, adj.pert:autokatalyyttinen,+]  itsekatalyysi,  itseään_kiihdyttävä_reaktio,  katalyysi,@ (catalysis in which the catalyst is one of the products of the reaction) }
+{ [ autolyysi, adj.pert:autolyyttinen,+]  kudoksen_hajoaminen_sen_omien_nesteiden_vaikutuksesta,  liukeneminen,@ (lysis of plant or animal tissue by an internal process) }
+{ automaattinen_tietojenkäsittely,  ATK,  tietojenkäsittely,@ (data processing by a computer) }
+{ autoradiografia,  radografia,@ (producing a radiograph by means of the radiation emitted from the specimen being photographed) }
+{ [ autotypia, adj.pert:autotyyppinen,+]  faksimilejäljennös,  valokuvaus,@ (process for producing permanent prints in a carbon pigment) }
+{ itsesäätely,  luonnollinen_prosessi1,@ noun.cognition:fysiologia,;c ((physiology) processes that maintain a generally constant physiological state in a cell or organism) }
+{ [ kasvu1, adj.pert:kasvu-,+ adj.pert:kasvuun_liittyvä,+]  kasvaminen,@ (growth from increase in cell size without cell division) }
+{ aputoiminto,  lisätoiminto,  erilliskäyttö,  toimitus,@ (a operation performed by off-line equipment not under the control of the central processing unit) }
+{ tausta-ajo,  taustakäsittely,  taustaohjelman_suoritus,  prioriteettikäsittely,@ (the execution of low priority programs while higher priority programs are not using the processing system) }
+{ jono,  ruuhka,  tukos,  kasvu,@ (an accumulation caused by clogging or a stoppage; "a traffic backup on the main street"; "he discovered a backup in the toilet") }
+{ [ bakteriolyysi, adj.pert:bakteriolyyttinen,+]  liukeneminen,@ (dissolution or destruction of bacteria) }
+{ [ bakteriostaasi, adj.pert:bakteerien_kasvua_estävä,+ adj.pert:bakteriostaattinen,+]  luonnollinen_prosessi1,@ (inhibition of the growth of bacteria) }
+{ perusaineenvaihdunta,  noun.time:aineenvaihdunta,@ (the rate at which heat is produced by an individual in a resting state) }
+{ perusaineenvaihdunta1,  aineenvaihdunta,@ (the amount of energy required to maintain the body of an individual in a resting state) }
+{ eräajo,  eräkäsittely,  suorittaminen,@ (the serial execution of computer programs) }
+{ rannan_eroosio,  eroosio,@ (the erosion of beaches) }
+{ vuoteenkastelu,  yökastelu,  virtsankarkailu,@ (enuresis during sleep; especially common in children (who usually outgrow it)) }
+{ bessemermenetelmä,  bessemer-prosessi,  teräksen_tuotanto,@ teollisuusprosessi,@ (an industrial process for making steel using a Bessemer converter to blast air through molten iron and thus burning the excess carbon and impurities; the first successful method of making steel in quantity at low cost) }
+{ beetahajoaminen,  radioaktiivinen_hajoaminen,@ (radioactive decay of an atomic nucleus that is accompanied by the emission of a beta particle) }
+{ biokemiallinen_mekanismi,  reaktiomekanismi,@ (a chemical mechanism involved in vital processes occurring in living organisms) }
+{ [ biosynteesi, adj.pert:biosynteettinen,+]  [ biogeneesi, adj.pert:biogeeninen,+]  synteesi,@ (production of a chemical compound by a living organism) }
+{ [ blastogeneesi, adj.pert:blastogeeninen,+ adj.pert:blastogeneettinen,+]  suvuton_lisääntyminen,@ (asexual reproduction by budding) }
+{ roihu,  tuhoisa_tulipalo,  tuli,  tulipalo,  tuli1,@ (a strong flame that burns brightly; "the blaze spread rapidly") }
+{ veren_hyytyminen,  juoksettuminen,@ (a process in which liquid blood is changed into a semisolid mass (a blood clot)) }
+{ kukkiminen,  [ kukinta, verb.change:kukkia,+]  [ kukka, verb.change:kukkia,+]  luonnollinen_prosessi1,@ (the organic process of bearing flowers; "you will stop all bloom if you let the flowers go to seed") }
+{ [ kukkiminen1, verb.change:kukkia,+]  kukkimisaika,  anteesi,  hedekukinta,  [ kukkaan_puhkeaminen, adj.all:täysikasvuinen2^kukkaan_puhkeava,+]  kukinta1,  kasvaminen,@ (the time and process of budding and unfolding of blossoms) }
+{ [ puhallus, verb.change:puhaltaa1,+]  puuhkutus<unconfirmed/>,  käsittely1,@ (processing that involves blowing a gas) }
+{ [ siniseksi_värjääminen, verb.change:sinistää,+]  värjäys_siniseksi,  kemiallinen_prosessi,@ (a process that makes something blue (or bluish)) }
+{ ruumiintoiminto,  toiminto,  luonnollinen_prosessi1,@ (an organic process that takes place in the body; "respiratory activity") }
+{ kiehuttaminen,  kuumeneminen,@ höyrystyminen,@ (the application of heat to change something from a liquid to a gas) }
+{ Boolen_toimitus,  kaksioperandinen_toimitus,  binäärioperaatio,  toimitus,@ (an operation that follows the rules of Boolean algebra; each operand and the result take one of two values) }
+{ pohjakäyminen,  käyminen,@ (a slow kind of alcoholic fermentation at a temperature low enough that the yeast cells can sink to the bottom of the fermenting liquid; used in the production of lager) }
+{ suolen_toiminta,  ulostus,  ulostaminen,@ noun.communication:eufemismi,;u (a euphemism for defecation; "he had a bowel movement") }
+{ Bradley-synnytysvalmennus,  Bradley-menetelmä,  lempeä_synnytys,@ (a method that prepares a mother for natural childbirth by providing education and exercises and nutrition and techniques of breathing and relaxation (with the assistance of the father)) }
+{ hautominen,  [ haudonta, verb.body:hautoa1,+]  synnytys1,@ (sitting on eggs so as to hatch them by the warmth of the body) }
+{ budding,  suvuton_lisääntyminen,@ (reproduction of some unicellular organisms (such as yeasts) by growth and specialization followed by the separation by constriction of a part of the parent) }
+{ kasaantuminen,  kasvu,@ (the result of the process of accumulation; "the buildup of leaves blocked the drain pipes") }
+{ [ kalkkeutuminen, verb.change:kalkkeutua1,+]  kemiallinen_prosessi,@ (a process that impregnates something with calcium (or calcium salts)) }
+{ hapetus<broader/>,  pasutus,  hapetus1,@ (the conversion of metals into their oxides as a result of heating to a high temperature) }
+{ vasikoiminen,  vasikointi,  synnytys1,@ (giving birth to a calf) }
+{ [ sieppaus, verb.possession:siepata1,+]  luonnollinen_prosessi,@ (any process in which an atomic or nuclear system acquires an additional particle) }
+{ sieppaus<unconfirmed/>1,  luonnollinen_prosessi,@ (a process whereby a star or planet holds an object in its gravitational field) }
+{ [ hiilihapottaminen, verb.change:hiilihapottaa,+]  leviäminen,@ (saturation with carbon dioxide (as soda water)) }
+{ hiilisykli,  lämpöydinreaktio,@ (a thermonuclear reaction in the interior of stars) }
+{ hiilikierto,  luonnollinen_prosessi1,@ (the organic circulation of carbon from the atmosphere into organisms and back again) }
+{ [ hiilitys, verb.change:hiiltää,+]  [ hiilto, verb.change:hiillyttää,+]  kuivatislaus,@ (the destructive distillation of coal (as in coke ovens)) }
+{ rivinvaihto,  tulostustoiminto,@ (the operation that prepares for the next character to be printed or displayed as the first character on a line) }
+{ solujen_surkastuminen,  ikääntyminen,@ (normal aging of cells) }
+{ [ katabolismi, anabolismi,! adj.pert:katabolinen,+ adj.all:katabolinen,+ verb.change:katabolisoitua<unconfirmed/>,+ anabolia,!]  katabolia,  hajottava_aineenvaihdunta,  luonnollinen_prosessi1,@ aineenvaihdunta,#p (breakdown in living organisms of more complex substances into simpler ones together with release of energy) }
+{ [ katalyysi, adj.pert:katalyyttinen,+]  kemiallinen_prosessi,@ (acceleration of a chemical reaction induced the presence of material that is chemically unchanged at the end of the reaction; "of the top 50 commodity chemicals, 30 are created directly by catalysis and another 6 are made from raw materials that are catalytically produced") }
+{ reikä,  karies,  hammaskaries,  hammasmätä,  rappeutuminen,@ (soft decayed area in a tooth; progressive decay can lead to the death of a tooth) }
+{ solunjakautuminen,  luonnollinen_prosessi1,@ (the process in reproduction and growth by which a cell divides to form daughter cells) }
+{ [ kenogeneesi, palingeneesi,! adj.pert:kenogeneettinen<unconfirmed/>,+]  kasvaminen,@ (introduction during embryonic development of characters or structure not present in the earlier evolutionary history of the strain or species (such as the addition of the placenta in mammalian evolution)) }
+{ [ linkoaminen, verb.motion:lingota,+]  [ sentrifugointi, verb.motion:sentrifugoida,+]  luonnollinen_prosessi,@ (the process of separating substances of different densities by the use of a centrifuge) }
+{ ketjureaktio,  kemiallinen_reaktio,@ (a series of chemical reactions in which the product of one is a reactant in the next) }
+{ ketjureaktio1,  ydinreaktio,@ (a self-sustaining nuclear reaction; a series of nuclear fissions in which neutrons released by splitting one atom leads to the splitting of others) }
+{ [ kelatoituminen, verb.stative:kelatoida,+]  kemiallinen_prosessi,@ (the process of forming a ring by forming one or more hydrogen bonds) }
+{ [ kelatointi, verb.stative:kelatoida,+]  noun.Tops:kehitys,@ noun.cognition:lääketiede,;c ((medicine) the process of removing a heavy metal from the bloodstream by means of a chelate as in treating lead or mercury poisoning) }
+{ tasapainotila,  [ tasapaino, verb.change:tasapainottaa,+]  kemiallinen_tasapaino,  kemiallinen_reaktio,@ (a chemical reaction and its reverse proceed at equal rates) }
+{ kemiallinen_prosessi,  kemialliset_prosessit,  kemiallinen_menetelmä,  luonnollinen_prosessi,@ noun.cognition:kemia,;c ((chemistry) any process determined by the atomic and molecular composition and structure of the substances involved) }
+{ kemiallinen_reaktio,  [ reaktio, verb.change:reagoida,+]  kemiallinen_prosessi,@ noun.cognition:kemia,;c ((chemistry) a process in which one or more substances are changed into others; "there was a chemical reaction of the lime with the ground water") }
+{ kemisorptio,  kemiallinen_adsorptio,  adsorptio,@ (adsorption (especially when irreversible) by means of chemical instead of physical forces; "chemisorption of gaseous nitrogen on iron catalysts") }
+{ kemosynteesi,  synteesi,@ (synthesis of carbohydrate from carbon dioxide and water; limited to certain bacteria and fungi) }
+{ synnytys,  lapsensaanti,  lapsivuode,  alatiesynnytys,  synnytys1,@ (the parturition process in human beings; having a baby; the process of giving birth to a child) }
+{ [ klooraus, verb.change:kloorata,+]  kemiallinen_prosessi,@ (the addition or substitution of chlorine in organic compounds) }
+{ [ kromatografia, adj.pert:kromatografia-,+ adj.pert:kromatografian<gen/>,+]  luonnollinen_prosessi,@ (a process used for separating mixtures by virtue of differences in absorbency) }
+{ sivistyminen,  [ sivistys, verb.change:sivistää,+]  sosiaalinen_prosessointi,@ (the social process whereby societies achieve an advanced stage of development and organization) }
+{ jakautuminen,  solun_jakautuminen,  solunjakautuminen,@ noun.state:raskaus,#p noun.cognition:embryologia,;c ((embryology) the repeated division of a fertilised ovum) }
+{ pilkkoutuminen,  kemiallinen_prosessi,@ (the breaking of a chemical bond in a molecule resulting in smaller molecules) }
+{ ilmastonmuutos,  maailmanlaajuinen_ilmastonmuutos,  lämpötilan_muutos,@ (a change in the world's climate) }
+{ pilvistyminen,  höyrystyminen,@ (the process whereby water particles become visible in the sky) }
+{ koheesio,  kasvaminen,@ noun.cognition:botaniikka,;c ((botany) the process in some plants of parts growing together that are usually separate (such as petals)) }
+{ kylmäfuusio,  fuusio,@ (nuclear fusion at or near room temperatures; claims to have discovered it are generally considered to have been mistaken) }
+{ kolonnikromatografia,  pylväskromatografia,  kromatografia,@ (chromatography that uses selective adsorption by a column of powders) }
+{ [ palaminen, verb.change:palaa,+]  [ palo, verb.change:palaa,+]  hapetus1,@ (a process in which a substance reacts with oxygen to give heat and light) }
+{ nopea_palaminen,  palaminen,@ (combustion that propagates through a gas or along the surface of an explosive at a rapid rate driven by the transfer of heat) }
+{ kompensaatio,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism that conceals your undesirable shortcomings by exaggerating desirable behaviors) }
+{ tietokoneen_toiminto,  toimitus,@ (an elementary operation that a computer is designed and built to perform) }
+{ kivettymä,  luonnollinen_prosessi,@ (the formation of stonelike objects within a body organ (e.g., the kidneys)) }
+{ samanaikainen_toiminto,  toimitus,@ (two or more operations performed at the same time (or within a give interval)) }
+{ kondensointi,  [ nesteytys, verb.change:nesteyttää1,+]  luonnollinen_prosessi,@ (the process of changing from a gaseous to a liquid or solid state) }
+{ [ hyydyttäminen, verb.change:hyytyä2,+]  jäädyttäminen,  kovettuminen1,@ (the process of congealing; solidification by (or as if by) freezing) }
+{ kerskakulutus,  kulutus1,@ (buying expensive services and products in order to flaunt your wealth) }
+{ kulutus1,  kansantaloudellinen_kulutus,  tavaroiden_ja_palveluiden_käyttö,  kysyntä,@ noun.cognition:taloustiede,;c ((economics) the utilization of economic goods to satisfy needs or in manufacturing; "the consumption of energy has increased steadily") }
+{ ohjaustoiminto,  ohjaus,  toimitus,@ (an operation that controls the recording or processing or transmission of interpretation of data; "a control operation started the data processing") }
+{ [ toipuminen, adj.all:kipeä8^toipuva,+ verb.body:toipua,+ verb.body:tointua,+ adj.all:kipeä8^toipilas-,+]  parantuminen,  paraneminen,  palautuminen,  parantuminen1,@ (gradual healing (through rest) after sickness or injury) }
+{ konvektio,  lämmön_virtaus,  lämpötilan_muutos,@ (the transfer of heat through a fluid (liquid or gas) caused by molecular motion) }
+{ konvektio1,  luonnollinen_prosessi,@ noun.cognition:meteorologia,;c ((meteorology) the vertical movement of heat or other properties by massive motion within the atmosphere) }
+{ konversio,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism represses emotional conflicts which are then converted into physical symptoms that have no organic basis) }
+{ [ viileneminen, verb.change:viilentää,+ verb.change:viiletä,+ verb.change:viilentyä,+]  jäähtyminen,  lämpötilan_aleneminen,  lämpötilan_muutos,@ (the process of becoming cooler; a falling temperature) }
+{ korroosio1,  [ syöpyminen, verb.change:syövyttää,+ verb.change:syöpyä,+]  kuluttaminen,  kemiallinen_prosessi,@ (erosion by chemical action) }
+{ mätäneminen,  rappeutuminen,@ (decay of matter (as by rot or oxidation)) }
+{ kustannusinflaatio,  inflaatio,@ (inflation caused by an increase in the costs of production) }
+{ [ krakkaus, verb.change:krakata,+ verb.change:krakkautua,+]  kemiallinen_prosessi,@ (the process whereby heavy molecules of naphtha or petroleum are broken down into hydrocarbons of lower molecular weight (especially in the oil-refining process)) }
+{ geenien_vaihdunta,  luonnollinen_prosessi1,@ diploteeni,#p (the interchange of sections between pairing homologous chromosomes during the prophase of meiosis) }
+{ kasvattaminen,  kasvaminen,@ (the process of fostering the growth of something; "the cultivation of bees for honey") }
+{ juoksettuminen,  [ hyytyminen, verb.change:hyytyä,+]  [ koagulaatio, verb.change:koaguloida,+]  luonnollinen_prosessi,@ (the process of forming semisolid lumps in a liquid) }
+{ syanidiprosessi,  teollisuusprosessi,@ (an industrial process for extracting gold and silver by treating ore with a sodium cyanide solution) }
+{ [ sytogeneesi, adj.pert:sytogeneettinen,+]  kasvaminen,@ (the origin and development and variation of cells) }
+{ [ sytolyysi, adj.pert:sytolyyttinen,+]  liukeneminen,@ (pathological breakdown of cells by the destruction of their outer membrane) }
+{ tiedonrikastus,  tiedonlouhinta,  tietojenkäsittely,@ (data processing using sophisticated data search capabilities and statistical algorithms to discover patterns and correlations in large preexisting databases; a way to discover new meaning in data) }
+{ tietojenkäsittely,  käsittely1,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a series of operations on data by a computer in order to retrieve or transform or classify information) }
+{ puoluerajojen_hämärtyminen<approximate/>,  noun.Tops:kehitys,@ (a process whereby voters are moved toward nonpartisanship thus weakening the structure of political parties) }
+{ [ deaminaatio, verb.change:deaminoida,+]  kemiallinen_prosessi,@ (removal of the amino radical from an amino acid or other amino compound) }
+{ kalkkikato,  kemiallinen_prosessi,@ (loss of calcium from bones or teeth) }
+{ karboksyylien_poistaminen,  dekarboksylaatio,  kemiallinen_prosessi,@ (the process of removing a carboxyl group from a chemical compound (usually replacing it with hydrogen)) }
+{ heikkeneminen,  väheneminen,  heikentyminen,  lasku,  pieneneminen1,@ (a gradual decrease; as of stored charge or current) }
+{ rappeutuminen,  luonnollinen_prosessi,@ (the process of gradually becoming inferior) }
+{ radioaktiivinen_hajoaminen,  ydinreaktio,@ (the spontaneous disintegration of a radioactive substance along with the emission of ionizing radiation) }
+{ [ hajauttaminen, verb.change:hajauttaa,+]  sosiaalinen_prosessointi,@ (the social process in which population and industry moves from urban centers to outlying districts) }
+{ [ väheneminen1, verb.change:vähentyä4,+]  [ pieneneminen, verb.change:pienentyä,+]  lasku1,  pieneneminen1,@ (change toward something smaller or lower) }
+{ dekoktin_valmistus,  louhinta,@ noun.cognition:farmakologia,;c ((pharmacology) the extraction of water-soluble drug substances by boiling) }
+{ dekoktin_valmistus1,  kiehuttaminen,@ noun.act:oluenpano,;c ((brewing) a process in which part of the mash is removed and boiled and then returned) }
+{ [ maatuminen, verb.change:maatua1,+]  [ mädätys, verb.change:mädäntyä,+]  lahoaminen,  mätänemisprosessi,  rappeutuminen,@ noun.cognition:biologia,;c ((biology) the process of decay caused by bacterial or fungal action) }
+{ [ hajottaminen, verb.change:hajottaa,+]  kemiallinen_reaktio,@ noun.cognition:kemia,;c ((chemistry) separation of a substance into two or more substances that may differ from each other and from the original substance) }
+{ [ pieneneminen1, nousu,! lisäys,!]  noun.Tops:kehitys,@ (a process of becoming smaller or shorter) }
+{ dedifferentiaatio,  mukautuminen1,@ (the loss of specialization in form or function) }
+{ [ syveneminen, verb.change:syventää2,+]  kehittyminen,@ (a process of becoming deeper and more profound) }
+{ [ ulostaminen, verb.body:ulostaa2,+]  [ paskantaminen, verb.body:paskoa,+]  eritys1,@ (the elimination of fecal waste through the anus) }
+{ puolustusmekanismi,  puolustusreaktio,  puolustus,  psykoanalyyttinen_prosessi,@ noun.cognition:tiedostamaton_prosessi,@ noun.cognition:psykiatria,;c ((psychiatry) an unconscious process that tries to reduce the anxiety associated with instinctive desires) }
+{ [ deflaatio, inflaatio,! deflaatio1,! adj.all:deflatorinen,+]  talousprosessi,@ (a contraction of economic activity resulting in a decline of prices) }
+{ lehtikato,  luonnollinen_prosessi1,@ (the loss of foliage) }
+{ magneettisuuden_poistaminen,  magneettisuuden_poistaminen1,@ (the process of making a (steel) ship's hull nonmagnetic by producing an opposing magnetic field) }
+{ rappeutuminen1,  [ heikkeneminen1, kehittyminen,!]  noun.Tops:kehitys,@ (the process of declining from a higher to a lower level of effective power or vitality or essential quality) }
+{ dehydraatio,  [ kuivatus, verb.change:kuivattaa,+ verb.change:kuivattaa2,+]  kuivattaminen,  [ haihduttaminen, verb.change:haihduttaa,+]  [ haihdutus, verb.change:haihduttaa,+]  louhinta,@ plastinointi,#p (the process of extracting moisture) }
+{ dejodinaatio,  kemiallinen_prosessi,@ (the removal of iodine atoms from organic compounds) }
+{ magneettisuuden_poistaminen1,  demagnetisointi,  luonnollinen_prosessi,@ (the process of removing magnetization) }
+{ [ kysyntä, toimitus1,!]  talousprosessi,@ (the ability and desire to purchase goods and services; "the automobile reduced the demand for buggywhips"; "the demand exceeded the supply") }
+{ kysyntäinflaatio,  inflaatio,@ (inflation caused by an increase in demand or in the supply of money) }
+{ demineralisaatio,  suolojen_poistaminen,  kemiallinen_prosessi,@ (the removal of minerals and mineral salts from a liquid (especially from water)) }
+{ natsilaisuuden_hävittäminen,  sosiaalinen_prosessointi,@ (social process of removing Nazis from official positions and giving up any allegiance to Nazism; "denazification was a slow process") }
+{ kieltäminen,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism that denies painful thoughts) }
+{ luukato,  luonnollinen_prosessi1,@ (the loss of the mineral content of bone tissue) }
+{ saostuminen,  kasvu,@ (the natural process of laying down a deposit of something) }
+{ sananjohto,  kielellinen_prosessi,@ noun.cognition:deskriptiivinen_kielitiede,;c ((descriptive linguistics) the process whereby new words are formed from existing words or bases by affixation; "`singer' from `sing' or `undo' from `do' are examples of derivations") }
+{ eponymia,  sananjohto,@ (the derivation of a general name from that of a famous person) }
+{ suolan_poistaminen,  suolanpoisto,  kemiallinen_prosessi,@ (the removal of salt (especially from sea water)) }
+{ aavikoituminen,  geologinen_prosessi,@ (the gradual transformation of habitable land into desert; is usually caused by climate change or by destructive use of the land; "the dust storms in Korea are the result of rapid desertification in China") }
+{ herkkyyden_vähentäminen,  siedättäminen,  pieneneminen1,@ (the process of reducing sensitivity; "the patient was desensitized to the allergen") }
+{ [ desorptio, verb.change:desorboitua,+ verb.change:desorboida,+]  luonnollinen_prosessi,@ (changing from an adsorbed state on a surface to a gaseous or liquid state) }
+{ [ destalinisaatio, verb.change:destalinisoida,+]  Stalinin_henkilökultin_purkaminen,  [ destalinisointi, verb.change:destalinisoida,+]  sosiaalinen_prosessointi,@ (social process of neutralizing the influence of Joseph Stalin by revising his policies and removing monuments dedicated to him and renaming places named in his honor; "his statue was demolished as part of destalinization") }
+{ kuivatislaus,  jakotislaus1,@ (heating a solid substance in a closed container and collecting the volatile products) }
+{ [ huonontuminen, verb.body:huonontua,+ verb.change:huonontua2,+]  laadun_aleneminen,  [ rappio, verb.change:rappeutua,+]  heikkeneminen2,  väheneminen1,@ (process of changing to an inferior state) }
+{ turvotuksen_lieveneminen,  väheneminen1,@ (diminution of swelling; the subsidence of anything swollen) }
+{ [ kehittäminen, verb.perception:kehittää,+]  käsittely1,@ (processing a photosensitive material in order to make an image visible; "the development and printing of his pictures took only two hours") }
+{ [ kehittyminen, verb.change:kehittyä11,+ heikkeneminen1,! verb.change:kehittyä4,+]  noun.Tops:kehitys,@ (a process in which something passes by degrees to a different stage (especially a more advanced or mature stage); "the development of his ideas took many years"; "the evolution of Greek civilization"; "the slow development of her skill as a writer") }
+{ diakineesi,  noun.time:kausi9,@ profaasi1,#p (the final stage of the prophase of meiosis) }
+{ diastrofismi,  maan_kuoren_deformaatioprosessi,  geologinen_prosessi,@ (the process of deformation that produces continents and ocean basins in the earth's crust) }
+{ uuttaminen,  luonnollinen_prosessi,@ noun.cognition:fysiikka,;c ((physics) the process in which there is movement of a substance from an area of high concentration of that substance to an area of lower concentration) }
+{ ruoansulatus,  luonnollinen_prosessi1,@ (the organic process by which food is converted into substances that can be absorbed into the body) }
+{ hajottaminen1,  mädätys1,  kemiallinen_prosessi,@ (the process of decomposing organic matter (as in sewage) by bacteria or by chemical action or heat) }
+{ digitaalivalokuvaus,  digitaalinen_valokuvaus,  valokuvaus,@ (a photographic method that stores the image digitally for later reproduction) }
+{ rappeutuminen2,  tuhoutuminen,  rappio1,  rappeutuminen,@ (the process of becoming dilapidated) }
+{ diploteeni,  noun.time:kausi9,@ profaasi1,#p (the fourth stage of the prophase of meiosis) }
+{ eritys,  vuoto,  erittyminen,  ruumiintoiminto,@ (any of several bodily processes by which substances go out of the body; "the discharge of pus") }
+{ [ deflaatio1, inflaatio,! deflaatio,!]  talousprosessi,@ (a reduction of prices intended to improve the balance of payments) }
+{ korvaus,  syrjäytys,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism that transfers affect or reaction from the original object to some more acceptable one) }
+{ syrjäytys1,  korvausreaktio,  syrjäytysreaktio,  kemiallinen_reaktio,@ noun.cognition:kemia,;c ((chemistry) a reaction in which an elementary substance displaces and sets free a constituent element from a compound) }
+{ [ dissimilaatio, verb.change:dissimiloitua,+]  kielellinen_prosessi,@ (a linguistic process by which one of two similar sounds in a word becomes less like the other; "the Old French MARBRE became the English MARBLE by dissimilation") }
+{ [ dissosiaatio, verb.change:dissosioitua,+]  jakautuminen1,  kemiallinen_prosessi,@ noun.cognition:kemia,;c ((chemistry) the temporary or reversible process in which a molecule or ion is broken down into smaller molecules or ions) }
+{ liuotus,  [ hajotus, verb.change:hajota8,+]  luonnollinen_prosessi,@ (separation into component parts) }
+{ [ sulaminen1, verb.change:sulaa5,+]  liuotus1,  nesteyttäminen,@ (the process of going into solution; "the dissolving of salt in water") }
+{ [ tislaus, verb.change:tislata,+ verb.change:tislata1,+]  [ tislaaminen, verb.change:tislata,+]  luonnollinen_prosessi,@ (the process of purifying a liquid by boiling it and condensing its vapors) }
+{ hajautettu_tietojenkäsittely,  etäkäsittely,  tietojenkäsittely,@ (data processing in which some of the functions are performed in different places and connected by transmission facilities) }
+{ rasterointi,  sirottelu,  digitointi<broader/>,@ (the process of representing intermediate colors by patterns of tiny colored dots that simulate the desired color) }
+{ kesyttäminen,  kesytys,  mukautuminen1,@ (adaptation to intimate association with human beings) }
+{ kaksoishajaantuminen,  metateesi,  kemiallinen_reaktio,@ (a chemical reaction between two compounds in which parts of each are interchanged to form two new compounds (AB+CD=AD+CB)) }
+{ kaksoisvaihto,  kaksoishajaantuminen,@ (a chemical reaction between two compounds where the positive ion of one compound is exchanged with the positive ion of another compound) }
+{ kahdella_kertominen,  moninkertaistuminen,@ (increase by a factor of two; "doubling with a computer took no time at all") }
+{ sivupoikkeama,  sorto,  luonnollinen_prosessi,@ noun.artifact:lentokone1,;c noun.artifact:alus2,;c (the gradual departure from an intended course due to external influences (as a ship or plane)) }
+{ suuntaus,  kielellinen_prosessi,@ (a process of linguistic change over a period of time) }
+{ kuivalevy,  valokuvaus,@ (a former photographic method that used a glass plate coated with a light-sensitive gelatinous emulsion) }
+{ semanttinen_muutos<broader/>,  suuntaus,@ (the linguistic process in which over a period of time a word grows more positive in connotation or more elevated in meaning) }
+{ kaksioperandinen_toimitus1,  toimitus,@ (an operation on exactly two operands) }
+{ lasku2,  väheneminen2,  heikkeneminen3,  väheneminen1,@ (a gradual decline (in size or strength or power or number)) }
+{ kovettuminen,  luonnollinen_prosessi1,@ (a change that occurs in degenerative joint disease in which bone is converted into a dense smooth substance resembling ivory) }
+{ mustelma,  ihonalainen_verenvuoto,  luonnollinen_prosessi1,@ (the escape of blood from ruptured blood vessels into the surrounding tissue to form a purple or black-and-blue spot on the skin) }
+{ talouskasvu,  talousprosessi,@ (steady growth in the productive capacity of the economy (and so a growth of national income)) }
+{ talousprosessi,  noun.Tops:kehitys,@ (any process affecting the production and development and management of material wealth) }
+{ kutistuminen<unconfirmed/>,  luonnollinen_prosessi1,@ noun.state:synnytys,#p (shortening of the uterine cervix and thinning of its walls as it is dilated during labor) }
+{ [ poreilu, adj.all:poreileva,+]  luonnollinen_prosessi,@ (the process of bubbling as gas escapes) }
+{ siemensyöksy,  ejakulaatio,  eritys,@ (the discharge of semen in males) }
+{ sähkösaostaminen,  saostuminen,@ (the deposition of a substance on an electrode by the action of electricity (especially by electrolysis)) }
+{ [ elektrolyysi, adj.pert:elektrolyyttinen1,+]  hajottaminen,@ noun.cognition:kemia,;c ((chemistry) a chemical decomposition reaction produced by passing an electric current through a solution containing ions) }
+{ automaattinen_tietojenkäsittely1,  ATK1,  automaattinen_tietojenkäsittely,@ (automatic data processing by electronic means without the use of tabulating cards or punched tapes) }
+{ [ elektroforeesi, adj.pert:elektroforeettinen,+]  ionoforeesi,  sähköforeesi,  luonnollinen_prosessi,@ (the motion of charged particles in a colloid under the influence of an electric field; particles with a positive charge go to the cathode and negative to the anode) }
+{ sähköstaattinen_saostus,  teollisuusprosessi,@ (a process that removes suspended dust particles from a gas by applying a high voltage electrostatic charge to the particles and collecting them on charged plates) }
+{ eritys1,  tyhjennys,  [ erittäminen, verb.body:erittää2,+]  ulostus1,  ulostaminen1,  eritys,@ (the bodily process of discharging waste matter) }
+{ eliminaatioreaktio,  kemiallinen_reaktio,@ (a chemical reaction in which a molecule decomposes to two different molecules) }
+{ elisio,  poisjättäminen,@ (omission of a sound between two words (usually a vowel and the end of one word or the beginning of the next)) }
+{ ellipsi,  sananheitto,  poisjättäminen,@ (omission or suppression of parts of words or sentences) }
+{ [ eluusio, verb.contact:eluioida,+]  louhinta,@ (the process of extracting one material from another by washing with a solvent to remove adsorbed material from an adsorbent (as in washing of loaded ion-exchange resins to remove captured ions); used to obtain uranium ions) }
+{ nouseva_evoluutio<unconfirmed/>,  evoluutio,@ (the appearance of entirely new properties at certain critical stages in the course of evolution) }
+{ emissio,  vapauttaminen,@ (the release of electrons from parent atoms) }
+{ [ kotelointi, verb.contact:koteloida1,+]  noun.Tops:kehitys,@ (the process of enclosing (as in a capsule)) }
+{ endoerginen_reaktio,  ydinreaktio,@ (a nuclear reaction occurring with absorption of energy) }
+{ endoterminen_reaktio,  kemiallinen_reaktio,@ (a chemical reaction accompanied by the absorption of heat) }
+{ virtsankarkailu,  virtsainkontinenssi,  inkontinenssi,  inkontinenssi1,@ (inability to control the flow of urine and involuntary urination) }
+{ epigeneesi,  metamorfismi,@ (a geological change in the mineral content of rock after the rock has formed) }
+{ karvojen_poisto,  menetys,@ (loss of hair; the result of removing hair) }
+{ epitaksia,  kehittyminen<unconfirmed/>1,@ (growing a crystal layer of one mineral on the crystal base of another mineral in such a manner that its crystalline orientation is the same as that of the substrate) }
+{ [ eroosio, verb.change:erodoida,+]  kulutus2,  [ kuluminen1, verb.change:kuluttaa3,+]  geologinen_prosessi,@ noun.cognition:geologia,;c ((geology) the mechanical process of wearing or grinding something down (as by particles washing over it)) }
+{ lasku<broader/>3,  väheneminen1,@ (a gradual decline of something; "after the accounting scandal there was an erosion of confidence in the auditors") }
+{ [ erytropoieesi, adj.pert:erytropoieettinen,+]  punasolujen_muodostus,  luonnollinen_prosessi1,@ (the process of producing red blood cells by the stem cells in the bone marrow) }
+{ vakiintuminen,  luonnollinen_prosessi,@ noun.cognition:ekologia,;c ((ecology) the process by which a plant or animal becomes established in a new habitat) }
+{ [ eurooppalaistuminen, verb.change:eurooppalaistaa,+]  sopeutuminen1,@ (assimilation into European culture) }
+{ rehevöityminen,  luonnollinen_prosessi1,@ (excessive nutrients in a lake or other body of water, usually caused by runoff of nutrients (animal waste, fertilizers, sewage) from the land, which causes a dense growth of plant life; the decomposition of the plants depletes the supply of oxygen, leading to the death of animal life; "he argued that the controlling factor in eutrophication is not nitrate but phosphate") }
+{ [ evoluutio, adj.pert:evolutionistinen,+]  luonnollinen_kehitys,  lajinkehitys,  [ fylogeneesi, adj.pert:fylogeneettinen,+]  kehitys,  luonnollinen_prosessi1,@ noun.cognition:biologia,;c ((biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms) }
+{ suorittaminen,  suoritus,  ajo,  noun.Tops:kehitys,@ tietojenkäsittely,#p noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the process of carrying out an instruction by a computer) }
+{ eksoerginen_reaktio,  ydinreaktio,@ (a nuclear reaction accompanied by the evolution of energy) }
+{ eksoterminen_reaktio,  kemiallinen_reaktio,@ (a chemical reaction accompanied by the evolution of heat) }
+{ [ yskiminen, verb.body:yskiä1,+]  ruumiintoiminto,@ (the process of coughing up and spitting out) }
+{ eksponenttihajoaminen,  eksponenttivaimeneminen,  heikkeneminen,@ (a decrease that follows an exponential function) }
+{ [ ilmentymä, verb.perception:ilmentää,+]  luonnollinen_prosessi1,@ noun.cognition:genetiikka,;c ((genetics) the process of expressing a gene) }
+{ sammuttava_vaikutus,  luonnollinen_prosessi,@ (the reduction of the intensity of radiation as a consequence of absorption and radiation) }
+{ [ louhinta, verb.contact:louhia,+]  uuttaminen1,  luonnollinen_prosessi,@ (the process of obtaining something from a mixture or compound by chemical or physical or mechanical means) }
+{ [ purkautuminen, verb.contact:purkautua,+]  luonnollinen_prosessi1,@ (the process of exuding or passing out of a vessel into surrounding tissues; said of blood or lymph or urine) }
+{ [ porsinta, verb.body:porsia,+]  synnytys1,@ (the production of a litter of pigs) }
+{ rasva-aineenvaihdunta,  aineenvaihdunta,@ (a metabolic process that breaks down ingested fats into fatty acids and glycerol and then into simpler compounds that can be used by cells of the body) }
+{ takaisinkytkentä,  luonnollinen_prosessi,@ (the process in which part of the output of a system is returned to its input in order to regulate its further output) }
+{ feminisaatio,  naismaistuminen,  patologinen_prosessi,@ (the process of becoming feminized; the development of female characteristics (loss of facial hair or breast enlargement) in a male because of hormonal disorders or castration) }
+{ [ märkiminen, verb.body:märkiä,+ verb.body:märkiä1,+ verb.body:märättää,+]  ruumiintoiminto,@ noun.cognition:lääketiede,;c ((medicine) the formation of morbific matter in an abscess or a vesicle and the discharge of pus) }
+{ fibrinolyysi,  liuotus,@ (a normal ongoing process that dissolves fibrin and results in the removal of small blood clots; "drugs causing fibrinolysis have been utilized therapeutically") }
+{ kentän_emissio,  emissio,@ (the emission of electrons that are stripped from parent atoms by a high electric field) }
+{ [ täyttö, verb.change:täyttyä2,+]  virtaus,@ (flow into something (as a container)) }
+{ [ suodatus, verb.contact:suodattaa2,+]  luonnollinen_prosessi,@ (the process whereby fluids pass through a filter or a filtering medium) }
+{ tuli1,  liekki,  palaminen,@ (the process of combustion of inflammable materials producing heat and light and (often) smoke; "fire was one of our ancestors' first discoveries") }
+{ fissio,  ydinfissio,  ydinreaktio,@ (a nuclear reaction in which a massive nucleus splits into smaller nuclei with the simultaneous release of energy) }
+{ jakautuminen2,  suvuton_lisääntyminen,@ (reproduction of some unicellular organisms by division of the cell into two more or less equal parts) }
+{ jakautuvuus,  suvuton_lisääntyminen,@ (reproduction of some multicellular organisms by division, as in the case of some starfish) }
+{ kiinteäjaksoinen_toiminta,  toimitus,@ (an operation that is completed in a specified number of regularly timed execution cycles) }
+{ leimahdus,  tuli1,@ (a sudden burst of flame) }
+{ liukulukulaskenta,  tietokoneen_toiminto,@ (an arithmetic operation performed on floating-point numbers; "this computer can perform a million flops per second") }
+{ höytäleiksi_saostuminen,  luonnollinen_prosessi,@ (the process of flocculating; forming woolly cloudlike aggregations) }
+{ [ virtaus, verb.stative:virrata,+]  luonnollinen_prosessi,@ (any uninterrupted stream or discharge) }
+{ juoksu,  virtaus,@ (gradual internal motion or deformation of a solid body (as by heat); "rock fracture and rock flowage are different types of geological deformation") }
+{ rajoittaminen,  patogeneesi,@ (the confinement of an infection to a limited area) }
+{ poimuttuminen,  geologinen_prosessi,@ (a geological process that causes a bend in a stratum of rock) }
+{ liuskeisuus,  kerrostaminen,@ noun.cognition:geologia,;c ((geology) the arrangement of leaflike layers in a rock) }
+{ lehtien_puhkeaminen,  kasvaminen,@ noun.cognition:botaniikka,;c ((botany) the process of forming leaves) }
+{ edustakäsittely,  prioriteettikäsittely,@ (the execution of a program that preempts the use of the processing system) }
+{ muodostuminen,  luonnollinen_prosessi,@ (natural process that causes something to form; "the formation of gas in the intestine"; "the formation of crystals"; "the formation of pseudopods") }
+{ [ kivettyminen, verb.change:kivettyä1,+]  luonnollinen_prosessi,@ (the process of fossilizing a plant or animal that existed in some earlier age; the process of being turned to stone) }
+{ jakotislaus,  jakotislaus1,@ (fractionation of a liquid by distillation) }
+{ [ jakotislaus1, verb.contact:jakotislata,+ verb.contact:jakotislata1,+]  teollisuusprosessi,@ (a process that uses heat to separate a substance into its components) }
+{ pirstoutuminen,  tallentaminen,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the condition of a file that is broken up and stored in many different locations on a magnetic disk; "fragmentation slows system performance because it takes extra time to locate and assemble the parts of the fragmented file") }
+{ [ jäätyminen, verb.change:jäätyä,+ verb.change:jäätyä1,+]  jähmettyminen,  faasinmuutos,@ viileneminen,@ (the withdrawal of heat to change something from a liquid to a solid) }
+{ kylmäkuivaus,  lyofilisaatio,  jäätyminen,@ dehydraatio,@ (a method of drying food or blood plasma or pharmaceuticals or tissue without destroying their physical structure; material is frozen and then warmed in a vacuum so that the ice sublimes) }
+{ [ jäätyminen<unconfirmed/>1, verb.contact:jäätyä<unconfirmed/>,+]  jäänmuodostus,  jäätyminen,@ (the formation of frost or ice on a surface) }
+{ [ hedelmöinti, verb.body:hedelmöidä,+]  kasvaminen,@ (the bearing of fruit) }
+{ fuusio,  ydinfuusio,  ydinfuusioreaktio,  fuusioreaktio,  ydinreaktio,@ (a nuclear reaction in which nuclei combine to form more massive nuclei with the simultaneous release of energy) }
+{ fuusio1,  kielellinen_prosessi,@ (the merging of adjacent sounds or syllables or words) }
+{ maidoneritys<unconfirmed/>,  erittyminen1,@ (the secretion of milk) }
+{ [ stimulointi_galvaanisella_virralla, verb.body:stimuloida1,+]  kiihotus,@ (stimulation with a galvanic current) }
+{ sukusolujen_kehittyminen_ja_kypsyminen,  kasvaminen,@ (the development and maturation of sex cells through meiosis) }
+{ [ kaasuunnutus, verb.change:kaasuuntua,+]  kemiallinen_prosessi,@ (the process of changing into gas; "coal gas is produced by the gasification of coal") }
+{ kaasutus,  kemiallinen_prosessi,@ (the process of interacting with gas) }
+{ mahalaukun_ruoansulatus,  ruoansulatus,@ (the process of breaking down proteins by the action of the gastric juice in the stomach) }
+{ gastrulaatio,  luonnollinen_prosessi1,@ kasvaminen,#p (the process in which a gastrula develops from a blastula by the inward migration of cells) }
+{ geologinen_prosessi,  luonnollinen_prosessi,@ noun.cognition:geologia,;c ((geology) a natural process whereby geological features are modified) }
+{ [ itäminen, verb.change:itää,+]  [ versominen, verb.change:versoa,+ verb.body:versoa1,+]  kasvaminen,@ (the process whereby seeds or spores sprout and begin to grow) }
+{ [ glasiaatio, adj.pert:glasiaalinen,+]  [ jäätiköityminen, verb.change:jäätiköityä,+ adj.pert:jäätikkö-,+ adj.pert:jäätikköihin_liittyvä,+]  geologinen_prosessi,@ (the process of covering the earth with glaciers or masses of ice) }
+{ Saale-jäätiköityminen,  glasiaatio,@ (the next-to-last Pleistocene glaciation in the Alps and the deposits laid down at that time) }
+{ Saale-jäätiköityminen1,  glasiaatio,@ (the next-to-last Pleistocene glaciation in northern Europe and the deposits laid down at that time) }
+{ Wolstonian-jääkausi,  glasiaatio,@ (the next-to-last Pleistocene glaciation in Britain and the deposits laid down at that time) }
+{ [ globalisaatio, verb.change:globalisoitua,+ verb.change:globaalistaa,+]  maapalloistuminen,  talousprosessi,@ (growth to a global or worldwide scale; "the globalization of the communication industry") }
+{ ilmastonmuutos1,  ilmaston_lämpeneminen,  kuumeneminen,@ (an increase in the average temperature of the earth's atmosphere (especially a sustained increase that causes climatic changes)) }
+{ glykogeneesi,  luonnollinen_prosessi1,@ (the formation in animals of glycogen from glucose) }
+{ glykolyysi,  sokerin_hajaantuminen,  aineenvaihdunta,@ (a metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of ATP) }
+{ kehittyminen<unconfirmed/>1,  noun.act:tuotanto,@ noun.cognition:elektroniikka,;c ((electronics) the production of (semiconductor) crystals by slow crystallization from the molten state) }
+{ [ kasvaminen, verb.change:kasvaa8,+ verb.change:kasvaa12,+ verb.change:kasvattaa5,+]  [ kasvu2, verb.change:kasvaa8,+ verb.change:kasvaa12,+ verb.change:kasvattaa5,+]  [ kehitys1, verb.change:kehittyä1,+ verb.change:kehittyä3,+ kehitysvaje,! verb.body:kehittyä1,+ verb.change:kehittyä6,+ adj.pert:kehitys-,+]  aikuistuminen,  [ kypsyminen, verb.change:kypsyä1,+ adj.pert:kypsymis-,+]  [ kehittyminen2, kehitysvaje,! verb.body:kehittyä1,+ verb.change:kehittyä6,+ adj.pert:kehitys-,+]  [ ontogenia, adj.pert:ontogeneettinen,+]  yksilönkehitys,  [ ontogeneesi, adj.pert:ontogeneettinen,+]  luonnollinen_prosessi1,@ noun.cognition:biologia,;c ((biology) the process of an individual organism growing organically; a purely biological unfolding of events involved in an organism changing gradually from a simple to a more complex level; "he proposed an indicator of osseous development in children") }
+{ [ kehittyminen3, verb.change:kehittyä3,+]  [ kehitys2, verb.change:kehittyä3,+]  kehittyminen,@ (a progression from simpler to more complex forms; "the growth of culture") }
+{ gynogeneesi,  partenogeneesi,@ (female parthenogenesis in which the embryo contains only maternal chromosomes due to the failure of the sperm to fuse with the egg nucleus) }
+{ Haber-prosessi,  Haber-Bosch-menetelmä,  Haber-Bosch-prosessi,  Haber–Bosch-menetelmä,  teollisuusprosessi,@ (an industrial process for producing ammonia from nitrogen and hydrogen by combining them under high pressure in the presence of an iron catalyst) }
+{ asu<note>mineraalin</note>,  kasvutapa<note>kasvin</note>,  kasvaminen,@ (the general form or mode of growth (especially of a plant or crystal); "a shrub of spreading habit") }
+{ [ kovettuminen1, verb.change:kovettua2,+]  kiinteytyminen,  [ jähmettyminen1, verb.change:jähmettää2,+ verb.change:jähmettyä2,+ verb.change:jähmettyä1,+]  kovettaminen,  luonnollinen_prosessi,@ plastinointi,#p (the process of becoming hard or solid by cooling or drying or crystallization; "the hardening of concrete"; "he tested the set of the glue") }
+{ [ haudonta1, verb.body:hautoa1,+]  hautominen1,  synnytys1,@ (the production of young from an egg) }
+{ [ parantuminen1, verb.change:parantua3,+ verb.body:parantua3,+]  ruumiintoiminto,@ (the natural process by which the body repairs itself) }
+{ lämmön_hajaantuminen,  viileneminen,@ (dissipation of heat) }
+{ [ kuumeneminen, verb.change:kuumentua,+]  [ lämpeneminen, verb.change:lämmitä,+]  lämpötilan_muutos,@ (the process of becoming warmer; a rising temperature) }
+{ hemagglutinaatio,  punasolujen_yhteenpakkautuminen,  agglutinaatio1,@ (agglutination of red blood cells) }
+{ hematochezia,  veriuloste,  ulostaminen,@ (passage of stools containing blood (as from diverticulosis or colon cancer or peptic ulcer)) }
+{ [ hematopoeesi, adj.pert:hematopoieettinen,+]  hematopoieesi,  haematopoesis,  haematopoiesis,  verenmuodostus,  veren_muodostuminen,  hematogeneesi,  haematogenesis,  luonnollinen_prosessi1,@ (the formation of blood cells in the living body (especially in the bone marrow)) }
+{ [ hemimetamorfoosi<unconfirmed/>, adj.all:metamorfinen^hemimetamorfinen<unconfirmed/>,+]  [ hemimetabolismi<unconfirmed/>, adj.all:metamorfinen^hemimetabolinen,+]  osittainen_muodonvaihdos,  metamorfoosi,@ (incomplete or partial metamorphosis in insects) }
+{ [ heterometabolia, adj.all:metamorfinen^heterometaboolinen,+]  metamorfoosi,@ (development of insects with incomplete metamorphosis in which no pupal stage precedes maturity) }
+{ [ hemolyysi, adj.pert:hemolyyttinen,+]  [ haemolysis, adj.pert:haemolyticus,+]  punasolujen_hajoaminen,  liukeneminen,@ (lysis of erythrocytes with the release of hemoglobin) }
+{ [ perinnöllisyys, adj.all:perinnöllinen^perinnöllinen2,+]  luonnollinen_prosessi1,@ (the biological process whereby genetic factors are transmitted from one generation to the next) }
+{ [ heterosporia, adj.pert:heterosporinen,+]  monogeneesi,@ (the development of both microspores and megaspores) }
+{ [ holometabolismi<unconfirmed/>, adj.all:metamorfinen^holometabolinen,+]  holometabolias<unconfirmed/>,  täydellinen_muodonvaihdos,  metamorfoosi,@ noun.animal:hyönteinen,;c (complete metamorphosis in insects) }
+{ [ homosporia, adj.pert:homosporinen,+]  monogeneesi,@ (the development of a single kind of asexual spores) }
+{ ihmisprosessi<unconfirmed/>,  noun.Tops:kehitys,@ (a process in which human beings are involved) }
+{ [ maatuminen1, verb.change:maatua,+]  luonnollinen_prosessi1,@ (the process of the formation of humus from plant remains) }
+{ hydraatio,  assosiointi,@ (the process of combining with water; usually reversible) }
+{ vetykrakkaus,  krakkaus,@ (the process whereby hydrocarbon molecules of petroleum are broken down into kerosene and gasolene by the addition of hydrogen under high pressure in the presence of a catalyst) }
+{ [ vedytys, verb.change:vedyttää,+]  kemiallinen_prosessi,@ (a chemical process that adds hydrogen atoms to an unsaturated oil; "food producers use hydrogenation to keep fat from becoming rancid") }
+{ [ hydrolyysi, verb.change:hydrolysoida1,+]  kemiallinen_reaktio,@ (a chemical reaction in which water reacts with a compound to produce other compounds; involves the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion from the water) }
+{ hyperhidroosi,  hyperidrosis,  polyhidroosi,  hikoilu,@ (excessive and profuse perspiration) }
+{ liikaeritys,  erittyminen1,@ (excessive secretion) }
+{ hypostaasi,  ruumiintoiminto,@ (the accumulation of blood in an organ) }
+{ hypostaasi1,  epistaasi,  luonnollinen_prosessi1,@ (the suppression of a gene by the effect of an unrelated gene) }
+{ idealisaatio,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism that splits something you are ambivalent about into two representations--one good and one bad) }
+{ [ syttyminen, verb.weather:sytyttää,+]  tuli1,@ (the process of initiating combustion or catching fire) }
+{ [ imeytyminen1, verb.contact:imeytyä2,+]  absorboituminen,@ noun.cognition:kemia,;c ((chemistry) the absorption of a liquid by a solid or gel) }
+{ immunoelektroforeesi,  elektroforeesi,@ (electrophoresis to separate antigens and antibodies) }
+{ implantaatio,  kiinnittyminen,  luonnollinen_prosessi1,@ noun.cognition:embryologia,;c ((embryology) the organic process whereby a fertilized egg becomes implanted in the lining of the uterus of placental mammals) }
+{ impregnointi,  kyllästys,  kyllästäminen,  leviäminen,@ plastinointi,#p (the process of totally saturating something with a substance; "the impregnation of wood with preservative"; "the saturation of cotton with ether") }
+{ [ inaktivoituminen, aktivoiminen,! aktivointi,! verb.change:inaktivoida,+]  luonnollinen_prosessi,@ (the process of rendering inactive; "the gene inactivation system"; "thermal inactivation of serum samples") }
+{ inkontinenssi1,  [ pidätyskyvyttömyys, adj.all:pidätyskyvytön,+]  karkailu,  eritys1,@ (involuntary urination or defecation) }
+{ [ nousu, pieneneminen1,! verb.change:nousta4,+]  [ lisäys, pieneneminen1,!]  [ kasvu3, verb.change:kasvaa6,+]  noun.Tops:kehitys,@ (a process of becoming larger or longer or more numerous or more important; "the increase in unemployment"; "the growth of population") }
+{ inkrustaatio<approximate/>,  kuortuminen<approximate/>,  muodostuminen,@ (the formation of a crust) }
+{ induktiokuumennus,  induktiolämmitys,  kuumeneminen,@ (the heating of a conducting material caused by an electric current induced in it) }
+{ teollisuusprosessi,  noun.Tops:kehitys,@ (a systematic series of mechanical or chemical operations that produce or manufacture something) }
+{ [ asukas<approximate/>, verb.stative:asua_sisällä<approximate/>,+]  aktivoiminen,@ (activation by an inner spirit or force or principle; "the Holy Spirit is the indweller of the church and its members") }
+{ infektio,  [ tartunta, adj.pert:tarttuva,+ verb.body:tartuttaa,+]  patologinen_prosessi,@ noun.cognition:lääketiede,;c ((medicine) the invasion of the body by pathogenic microorganisms and their multiplication which can lead to tissue damage and disease) }
+{ muutos<approximate/>,  kielellinen_prosessi,@ noun.cognition:fonetiikka,;c ((phonetics) the alteration of a speech sound under the influence of a neighboring sound) }
+{ [ inflaatio, deflaatio,! deflaatio1,! adj.all:inflaatio-,+ adj.all:inflatorinen,+]  nousevat_hinnat,  talousprosessi,@ (a general and progressive increase in prices; "in inflation everything gets more valuable except money") }
+{ tuulen_aiheuttama_maanpinnan_kuluminen,  eroosio,@ noun.cognition:geologia,;c ((geology) the erosion of soil as a consequence of sand and dust and loose rocks being removed by the wind; "a constant deflation of the desert landscape") }
+{ [ inflaatiokierre, deflaatiokierre,!]  kierre,@ (an episode of inflation in which prices and wages increase at an increasing rate and currency rapidly loses value) }
+{ [ deflaatiokierre, inflaatiokierre,!]  kierre,@ (an episode of deflation in which prices and wages decrease at an increasing rate and currency gains in value) }
+{ [ sisäänvirtaus, poistuminen,! ulosvirtaus,!]  virtaus,@ (the process of flowing in) }
+{ hedelmistö,  kasvaminen,@ (the fruiting stage of the inflorescence) }
+{ [ hauduttaminen, verb.change:hautua1,+]  louhinta,@ (the process of extracting certain active properties (as a drug from a plant) by steeping or soaking (usually in water)) }
+{ estäminen<approximate/>,  luonnollinen_prosessi1,@ noun.cognition:fysiologia,;c ((physiology) the process whereby nerves can retard or prevent the functioning of an organ or part; "the inhibition of the heart by the vagus nerve") }
+{ sisään_virtaaminen,  sisään_tuleminen,  sisään_syöksyminen,  sisäänvirtaus,@ (an inflow; "an inpouring of spiritual comfort") }
+{ haihduttamalla_väkevöiminen,  dehydraatio,@ (the process of thickening by dehydration) }
+{ sisään_puhaltaminen,  puhallus,@ noun.cognition:lääketiede,;c ((medicine) blowing air or medicated powder into the lungs (or into some other body cavity)) }
+{ integroitu_tietojenkäsittely,  ITK,  automaattinen_tietojenkäsittely,@ (automatic data processing in which data acquisition and other stages or processing are integrated into a coherent system) }
+{ intellektualisaatio,  älyllistäminen,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism that uses reasoning to block out emotional stress and conflict) }
+{ sisäinen_palaminen,  palaminen,@ (the combustion of fuel inside a cylinder (as in an internal-combustion engine)) }
+{ intruusio,  geologinen_prosessi,@ (the forcing of molten rock into fissures or between strata of an earlier rock formation) }
+{ paisuminen,  turpoaminen,  kemiallinen_prosessi,@ (the increase in volume of certain substances when they are heated (often accompanied by release of water)) }
+{ intussuspektio,  kasvaminen,@ noun.cognition:biologia,;c ((biology) growth in the surface area of a cell by the deposit of new particles between existing particles in the cell wall) }
+{ tuppeuma,  luonnollinen_prosessi1,@ (the folding in of an outer layer so as to form a pocket in the surface; "the invagination of the blastula") }
+{ inversio,  invertointi,  kemiallinen_prosessi,@ (a chemical process in which the direction of optical rotation of a substance is reversed from dextrorotatory to levorotary or vice versa) }
+{ involuutio,  palautuminen1,  luonnollinen_prosessi1,@ (reduction in size of an organ or part (as in the return of the uterus to normal size after childbirth)) }
+{ [ jodaaminen, verb.change:jodioida,+]  [ jodiointi, verb.change:jodioida,+]  [ jodittaminen, verb.change:jodioida,+]  kemiallinen_prosessi,@ (the substitution or addition of iodine atoms in organic compounds) }
+{ ioninvaihto,  luonnollinen_prosessi,@ (a process in which ions are exchanged between a solution and an insoluble (usually resinous) solid; widely used in industrial processing) }
+{ [ ionisointi, verb.change:ionisoida,+ verb.change:ionoida,+ verb.change:ionisoitua,+ verb.change:ionoitua,+]  luonnollinen_prosessi,@ (the process of ionizing; the formation of ions by separating atoms or molecules or radicals or by adding or subtracting electrons from atoms by strong electric fields in a gas) }
+{ [ peruuttamaton_prosessi, palautuva_prosessi,!]  noun.Tops:kehitys,@ (any process that is not reversible) }
+{ isoagglutinaatio,  agglutinaatio1,@ (agglutination of an agglutinogen of one individual by a serum from another individual of the same species) }
+{ isogamia,  sukupuolinen_lisääntyminen,@ noun.cognition:biologia,;c ((biology) reproduction by the union or fusion of gametes of the same size and structure) }
+{ eristäytyminen,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism in which memory of an unacceptable act or impulse is separated from the emotion originally associated with it) }
+{ iteraatio,  noun.Tops:kehitys,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) executing the same set of instructions a given number of times or until a specified result is obtained; "the solution is obtained by iteration") }
+{ iteraatio1,  iteraatio<unconfirmed/>2,  noun.Tops:kehitys,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a single execution of a set of instructions that are to be repeated; "the solution took hundreds of iterations") }
+{ kasvu4,  kasvaminen,@ (the process of growing into a youth) }
+{ sytokineesi,  solunjakautuminen1,  luonnollinen_prosessi1,@ mitoosi,#p meioosi,#p (organic process consisting of the division of the cytoplasm of a cell following karyokinesis bringing about the separation into two daughter cells) }
+{ [ karyokineesi, adj.pert:karyokineettinen,+]  tuman_jakautuminen,  luonnollinen_prosessi1,@ mitoosi,#p meioosi,#p (organic process consisting of the division of the nucleus of a cell during mitosis or meiosis) }
+{ karyolyysi,  liukeneminen,@ (disintegration and dissolution of a cell nucleus when a cell dies) }
+{ [ katamorfismi, anamorfismi,!]  [ pintametamorfismi, anamorfismi,!]  metamorfismi,@ (metamorphism that occurs at or near the earth's surface; breaks down complex minerals into simpler ones) }
+{ [ sarveistuminen, verb.change:sarveistua,+]  luonnollinen_prosessi1,@ (organic process by which keratin is deposited in cells and the cells become horny (as in nails and hair)) }
+{ Krebsin_sykli,  Krebsin_sitruunahappokierto,  sitruunahappokierto,  trikarboksyylihappokierto,  luonnollinen_prosessi1,@ aineenvaihdunta,#p (in all plants and animals: a series of enzymatic reactions in mitochondria involving oxidative metabolism of acetyl compounds to produce high-energy phosphate compounds that are the source of cellular energy) }
+{ kyynelten_vuodatus,  [ kyynelehtiminen, verb.body:kyynelehtiä1,+]  vetistely,  ruumiintoiminto,@ (shedding tears) }
+{ maidon_eritys,  maidoneritys1,  ruumiintoiminto,@ (the production and secretion of milk by the mammary glands) }
+{ Lamazen_metodi<approximate/>,  lempeä_synnytys,@ (a method that prepares a mother for natural childbirth; the pregnant woman (in classes and at home) practices (usually with the help of a coach) and learns about the physiology of childbirth and techniques of relaxation, concentration, and breathing) }
+{ muninta,  synnytys1,@ (the production of eggs (especially in birds)) }
+{ [ huuhdonta, verb.motion:huuhtoutua,+]  [ suodatus1, verb.motion:suodattaa,+]  luonnollinen_prosessi,@ (the process of leaching) }
+{ virtsaaminen,  pissaaminen,  virtsaaminen1,@ noun.communication:eufemismi,;u (a euphemism for urination; "he had to take a leak") }
+{ Leboyerin_menetelmä,  lempeä_synnytys,@ (a method of childbirth that tries to minimize the trauma for the newborn; delivery occurs in a quiet dimly lit room and the infant's head is not pulled and immediate bonding between mother and child is encouraged) }
+{ sivuttain_ajelehtiminen,  sivupoikkeama,@ noun.artifact:lentokone1,;c noun.artifact:alus2,;c ((of a ship or plane) sideways drift) }
+{ leptoteeni,  noun.time:kausi9,@ profaasi1,#p (the first stage of the prophase of meiosis) }
+{ [ leksikaalistuminen, verb.communication:leksikalisoida,+]  [ leksikalisointi, verb.communication:leksikalisoida,+]  kielellinen_prosessi,@ (the process of making a word to express a concept) }
+{ leijailu,  libraatio,  noun.phenomenon:poikkeama,@ värähtely,@ noun.cognition:astronomia,;c ((astronomy) a real or apparent slow oscillation of a moon or satellite; "the libration of the moon") }
+{ elämänkierto,  kasvaminen,@ (the course of developmental changes in an organism from fertilized zygote to maturity when another zygote can be produced) }
+{ valoreaktio,  valokemiallinen_reaktio,@ fotosynteesi,#p (the first stage of photosynthesis during which energy from light is used for the production of ATP) }
+{ rivinvaihto1,  tulostustoiminto,@ (the operation that prepares for the next character to be printed or displayed on the next line) }
+{ kielellinen_prosessi,  ihmisprosessi<unconfirmed/>,@ noun.cognition:kielentutkimus,;c (a process involved in human language) }
+{ [ nesteyttäminen, verb.change:nesteyttää2,+]  [ nesteytys1, verb.change:nesteyttää2,+]  faasinmuutos,@ (the conversion of a solid or a gas into a liquid) }
+{ listankäsittely,  tietojenkäsittely,@ (processing data that is given in the form of chained lists) }
+{ virtsakivien_poistuminen_virtsan_mukana,  virtsaaminen1,@ (passing small stones with the urine) }
+{ looginen_toimitus,  toimitus,@ noun.cognition:logiikka3,;c (an operation that follows the rules of symbolic logic) }
+{ menetys,  väheneminen1,@ (gradual decline in amount or activity; "weight loss"; "a serious loss of business") }
+{ imusolujen_muodostuminen,  lymfopoieesi,  luonnollinen_prosessi1,@ (the formation of lymphocytes in the bone marrow and lymph nodes and thymus and spleen) }
+{ liukeneminen,  liuotus,@ noun.cognition:biokemia,;c ((biochemistry) dissolution or destruction of cells such as blood cells or bacteria) }
+{ lieventyminen,  toipuminen,@ (recuperation in which the symptoms of an acute disease gradually subside) }
+{ [ lysogenisaatio, verb.change:lysogenisoitua,+]  luonnollinen_prosessi1,@ (the process by which a bacterium acquires a phage that becomes integrated into its genome) }
+{ [ liottaminen, verb.change:liottaa2,+]  pehmentyminen,@ (softening due to soaking or steeping) }
+{ makroevoluutio,  evoluutio,@ (evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups) }
+{ [ magnetoituminen, verb.change:magnetoida,+]  magneettinen_induktio,  luonnollinen_prosessi,@ (the process that makes a substance magnetic (temporarily or permanently)) }
+{ majority_operation<note>en_löytänyt_tähän_mitään_järkevää_käännöstä</note>,  kynnysoperaatio,@ (a threshold operation in which each operand is 0 or 1; output is 1 if and only if more than half the operands have the value 1) }
+{ imeytymishäiriö,  imeytyminen,@ (abnormal absorption of nutrients from the digestive tract) }
+{ väheksyntä,  sosiaalinen_prosessointi,@ (the social process of becoming or being made marginal (especially as a group within the larger society); "the marginalization of the underclass"; "the marginalization of literature") }
+{ markkinavoimat,  talousprosessi,@ (the interaction of supply and demand that shapes a market economy) }
+{ Markovin_ketju,  Markov-ketju,  Markov-prosessi,@ (a Markov process for which the parameter is discrete time values) }
+{ Markov-prosessi,  Markovin_prosessi,  stokastinen_prosessi1,@ (a simple stochastic process in which the distribution of future states depends only on the present state and not on how it arrived in the present state) }
+{ maskulinisaatio,  virilisaatio,  virilisoituminen,  kasvaminen,@ (the abnormal development of male sexual characteristics in a female (usually as the result of hormone therapies or adrenal malfunction)) }
+{ [ toteutuminen, verb.change:toteutua,+]  luonnollinen_prosessi,@ (the process of coming into being; becoming reality; "the materialization of her dream") }
+{ [ kypsyminen1, adj.pert:kypsymis-,+ verb.change:kypsyä3,+ verb.change:kypsyä2,+ verb.change:kypsyttää,+ verb.communication:kypsyttää,+]  luonnollinen_prosessi1,@ (coming to full development; becoming mature) }
+{ reaktiomekanismi,  kemiallisen_reaktion_mekanismi,  kemiallinen_prosessi,@ (the atomic process that occurs during a chemical reaction; "he determined unique mechanisms for the photochemical reactions") }
+{ [ meioosi, adj.pert:meioottinen,+]  vähennysjakautuminen,  solunjakautuminen,@ noun.cognition:genetiikka,;c ((genetics) cell division that produces reproductive cells in sexually reproducing organisms; the nucleus divides into four nuclei each containing half the chromosome number (leading to gametes in animals and spores in plants)) }
+{ kypsyminen2,  kypsytys,@ (the process of becoming mellow) }
+{ sulaminen2,  ydinreaktorin_ytimen_sulaminen,  ytimen_sulamisonnettomuus,  liikakuumeneminen,@ (severe overheating of the core of a nuclear reactor resulting in the core melting and radiation escaping) }
+{ runsas_kuukautisvuoto,  hypermenorroea,  menstruaatio,@ noun.state:oire,@ (abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged) }
+{ [ menstruaatio, verb.body:menstruoida,+]  [ kuukautiset, adj.pert:kuukautis-,+]  kuukautiskierto,  [ kuukautisvuoto, adj.pert:kuukautis-,+]  eritys,@ (the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; "the women were sickly and subject to excessive menstruation"; "a woman does not take the gout unless her menses be stopped"--Hippocrates"; "the semen begins to appear in males and to be emitted at the same time of life that the catamenia begin to flow in females"--Aristotle") }
+{ [ aineenvaihdunta, adj.pert:aineenvaihdunta-,+]  aineenvaihduntaprosessi,  metabolia,  luonnollinen_prosessi1,@ noun.Tops:eliö,;c (the organic processes (in a cell or organism) that are necessary for life) }
+{ metamorfismi,  geologinen_prosessi,@ (change in the structure of rock by natural agencies such as pressure or heat or introduction of new chemical substances) }
+{ [ metamorfoosi, adj.all:metamorfinen,+]  [ aineenvaihdunta1, adj.all:aineenvaihdunnallinen,+]  metabolia1,  luonnollinen_prosessi1,@ (the marked and rapid transformation of a larva into an adult that occurs in some animals) }
+{ metafaasi,  solunjakautumisen_vaihe,@ mitoosi,#p (the second stage of mitosis) }
+{ metafaasi1,  solunjakautumisen_vaihe,@ meioosi,#p (the second stage of meiosis) }
+{ etäpesäke,  metastaasi,  patologinen_prosessi,@ (the spreading of a disease (especially cancer) to another part of the body) }
+{ metateesi1,  kielellinen_prosessi,@ (a linguistic process of transposition of sounds or syllables within a word or words within a sentence) }
+{ mikroevoluutio,  evoluutio,@ (evolution resulting from small specific genetic changes that can lead to a new subspecies) }
+{ äänen_siirto<unconfirmed/>,  muuntaminen,@ (the transduction of sound waves into electrical waves (by a microphone)) }
+{ [ virtsaaminen1, verb.body:virtsata,+]  eritys1,@ (the discharge of urine) }
+{ [ homehtuminen, verb.change:homehtua,+]  pilaantuminen,@ (the process of becoming mildewed) }
+{ mineraalin_erottelu,  mineraalin_käsittely,  mineraalin_hionta,  malmin_käsittely,  malmin_muokkaus,  käsittely<approximate/>,  rikastus,  louhinta,@ (crushing and separating ore into valuable substances or waste by any of a variety of techniques) }
+{ mitoosi,  solunjakautuminen,@ (cell division in which the nucleus divides into nuclei containing the same number of chromosomes) }
+{ sulkasato,  karvanlähtö,  nahanluonti,  kuoren_luominen,  karvanlähtö1,@ (periodic shedding of the cuticle in arthropods or the outer skin in reptiles) }
+{ yksioperandinen_toimitus,  toimitus,@ (an operation with exactly one operand) }
+{ monogeneesi,  sporulaatio,  suvuton_lisääntyminen,@ (asexual reproduction by the production and release of spores) }
+{ regeneraatio,  regeneraatio1,@ (regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters) }
+{ morfogeneesi,  kasvaminen,@ noun.Tops:eliö,;c (differentiation and growth of the structure of an organism (or a part of an organism)) }
+{ kanavointi,  toimitus,@ (an operation in which two or more activities are interleaved) }
+{ [ moninkertaistuminen, verb.change:moninkertaistaa,+]  nousu,@ (a multiplicative increase; "repeated copying leads to a multiplication of errors"; "this multiplication of cells is a natural correlate of growth") }
+{ moniajo,  rinnakkaisajo,  tietojenkäsittely,@ (simultaneous processing by two or more processing units) }
+{ vuorokäsittely,  rinnakkaissuoritus,  suorittaminen,@ (the execution of two or more computer programs by a single computer) }
+{ myelinisaatio,  kasvaminen,@ (the development of a myelin sheath around a nerve fiber) }
+{ [ kaventuminen, leventyminen,!]  pieneneminen1,@ (a decrease in width) }
+{ lempeä_synnytys,  synnytys,@ (labor and childbirth without medical intervention; no drugs are given to relieve pain or aid the birth process; "natural childbirth is considered the safest for the baby") }
+{ luonnollinen_prosessi,  luonnon_toiminta,  toiminta,  ilmiö,  noun.Tops:kehitys,@ (a process existing in or produced by nature (rather than by the intent of human beings); "the action of natural forces"; "volcanic activity") }
+{ natsifikaatio<unconfirmed/>,  sosiaalinen_prosessointi,@ (social process of adopting (or being forced to adopt) Nazism; "as the process of Nazification spread they paid less attention to public opinion") }
+{ nekrolyysi,  liukeneminen,@ (disintegration and dissolution of dead tissue) }
+{ negatiivinen_takaisinkytkentä,  takaisinkytkentä,@ (feedback in opposite phase with (decreasing) the input) }
+{ uudiskasvu,  patologinen_prosessi,@ (the pathological process that results in the formation and growth of a tumor) }
+{ neurogeneesi,  kasvaminen,@ (the development of nerve tissues) }
+{ [ neutraloituminen, verb.change:neutraloida,+]  neutraloitumisreaktio,  kemiallinen_reaktio,@ (a chemical reaction in which an acid and a base interact with the formation of a salt; with strong acids and bases the essential reaction is the combination of hydrogen ions with hydroxyl ions to form water) }
+{ rivinsiirto,  tulostustoiminto,@ (the operation that prepares for the next character to be printed or displayed as the first character on the next line) }
+{ [ nitrifikaatio, verb.change:nitratoida,+ verb.change:nitratoida1,+]  hapetus1,@ noun.Tops:kasvi,;c (the oxidation of ammonium compounds in dead organic material into nitrates and nitrites by soil bacteria (making nitrogen available to plants)) }
+{ [ nitrifikaatio1, verb.change:nitrata1,+]  kemiallinen_prosessi,@ (the chemical process in which a nitro group is added to an organic compound (or substituted for another group in an organic compound)) }
+{ typen_kierto_luonnossa,  typen_kiertokulku,  luonnollinen_prosessi1,@ (the circulation of nitrogen; nitrates from the soil are absorbed by plants which are eaten by animals that die and decay returning the nitrogen back to the soil) }
+{ typensidonta,  typen_sidonta,  luonnollinen_prosessi1,@ (the assimilation of atmospheric nitrogen by soil bacteria and its release for plant use on the death of the bacteria) }
+{ nokturia,  nykturia,  virtsaaminen1,@ (excessive urination at night; especially common in older men) }
+{ yöllinen_siemensyöksy,  siemensyöksy,@ noun.cognition:märkä_uni,#p (ejaculation during sleep (usually during a dream)) }
+{ [ kehitysvaje, kehittyminen2,! kehitys1,!]  luonnollinen_prosessi1,@ (failure of normal development to occur) }
+{ nondisjunktio,  meioosi,@ (meiosis in which there is a failure of paired homologous chromosomes to separate; results in an abnormal number of chromosomes in the daughter cells) }
+{ jyrkkä_lasku,  väheneminen1,@ (a sudden sharp drop or rapid decline; "the stock took a nosedive") }
+{ ydinreaktio,  luonnollinen_prosessi,@ noun.cognition:fysiikka,;c ((physics) a process that alters the energy or structure or composition of atomic nuclei) }
+{ nukleosynteesi,  synteesi,@ noun.cognition:astronomia,;c ((astronomy) the cosmic synthesis of atoms more complex than the hydrogen atom) }
+{ [ ravinnonsaanti, adj.all:terveellinen5^ravitseva,+ noun.person:ravitsemusneuvoja,+ adj.pert:ravinto-2,+ verb.consumption:ravita2,+]  luonnollinen_prosessi1,@ noun.cognition:fysiologia,;c ((physiology) the organic process of nourishing or being nourished; the processes by which an organism assimilates food and uses it for growth and maintenance) }
+{ [ vanhentuminen, verb.change:vanhentua2,+ adj.all:ei_käytössä_oleva^vanhentumassa_oleva,+]  rappeutuminen1,@ (the process of becoming obsolete; falling into disuse or becoming out of date; "a policy of planned obsolescence") }
+{ oligomenorrea,  menstruaatio,@ (abnormally light or infrequent menstruation) }
+{ oliguria,  virtsaaminen1,@ (production of an abnormally small amount of urine) }
+{ poisjättäminen,  poisto,  poistaminen,  kielellinen_prosessi,@ (any process whereby sounds or words are left out of spoken words or phrases) }
+{ oogeneesi,  sukusolujen_kehittyminen_ja_kypsyminen,@ (development of ova) }
+{ [ samentuminen, verb.change:samentaa4,+]  luonnollinen_prosessi,@ (the process of becoming cloudy or opaque) }
+{ Siemens-Martin-menetelmä,  teräksen_tuotanto,@ (a process for making steel using an open-hearth furnace) }
+{ toimitus,  tietojenkäsittely,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction); "it can perform millions of operations per second") }
+{ [ toiminta1, verb.contact:toimia,+]  suorituskyky,  noun.Tops:kehitys,@ (process or manner of functioning or operating; "the power of its engine determines its operation"; "the plane's operation in high winds"; "they compared the cooking performance of each oven"; "the jet's performance conformed to high standards") }
+{ [ opsonisaatio, verb.change:opsonoida,+]  ruumiintoiminto,@ (process whereby opsonins make an invading microorganism more susceptible to phagocytosis) }
+{ luonnollinen_prosessi1,  biologinen_prosessi,  noun.Tops:kehitys,@ (a process occurring in living organisms) }
+{ organisoituminen,  luonnollinen_prosessi1,@ (the process of organ formation) }
+{ orogeneesi,  vuorijononmuodostus,  orogenia,  geologinen_prosessi,@ (the process of mountain formation (especially by the upward displacement of the earth's crust)) }
+{ värähtely,  luonnollinen_prosessi,@ (the process of oscillating between states) }
+{ [ osmoosi, adj.pert:osmoottinen,+]  uuttaminen,@ noun.act:dialyysi,#p noun.cognition:kemia,;c noun.cognition:biologia,;c ((biology, chemistry) diffusion of molecules through a semipermeable membrane from a place of higher concentration to a place of lower concentration until the concentration on both sides is equal) }
+{ käänteisosmoosi,  osmoosi,@ noun.cognition:kemia,;c ((chemistry) a method of producing pure water; a solvent passes through a semipermeable membrane in a direction opposite to that for natural osmosis when it is subjected to a hydrostatic pressure greater than the osmotic pressure) }
+{ luunmuodostus,  luonnollinen_prosessi1,@ (the developmental process of bone formation) }
+{ kangistuminen,  ihmisprosessi<unconfirmed/>,@ (the process of becoming rigidly fixed in a conventional pattern of thought or behavior) }
+{ [ luutuminen, verb.change:luuduttaa,+ verb.change:luutua,+]  ossifikaatio,  kalkkeutuminen,@ (the calcification of soft tissue into a bonelike material) }
+{ osteolyysi,  liukeneminen,@ (lysis of bone caused by disease or infection or inadequate blood supply) }
+{ [ poistuminen, sisäänvirtaus,!]  virtaaminen,  [ ulosvirtaus, sisäänvirtaus,!]  virtaus,@ (the process of flowing out) }
+{ [ yliaktiivisuus, adj.all:vilkas^yliaktiivinen,+]  ruumiintoiminto,@ (excessive activity; "overactivity of the sebaceous glands causes the skin to become oily") }
+{ [ ylikompensaatio, verb.stative:ylikompensoida,+]  kompensaatio,@ noun.cognition:psykiatria,;c ((psychiatry) an attempt to overcome a real or imagined defect or unwanted trait by overly exaggerating its opposite) }
+{ ylivuotoinkontinenssi,  virtsankarkailu,@ (urinary incontinence that occurs when the bladder is so full that it continually leaks urine; often attributable to a blocked urethra (e.g., due to prostate enlargement) or weak bladder muscles or nerve damage) }
+{ liikakuumeneminen,  kuumeneminen,@ (excessive heating) }
+{ [ ovulaatio, anovulaatio,! munasolun_irtoamattomuus,! ovuloimattomuus,!]  luonnollinen_prosessi1,@ (the expulsion of an ovum from the ovary (usually midway in the menstrual cycle)) }
+{ [ hapetus1, verb.change:hapettua,+ verb.change:hapettaa1,+]  [ hapettuminen, verb.change:hapettua,+ verb.change:hapettaa1,+]  kemiallinen_reaktio,@ (the process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction) }
+{ hapetus-pelkistysreaktio,  redoksireaktio,  redox-reaktio,  redoksi,  kemiallinen_reaktio,@ (a reversible chemical reaction in which one reaction is an oxidation and the reverse is a reduction) }
+{ oksidatiivinen_fosforylaatio,  luonnollinen_prosessi1,@ Krebsin_sykli,#p (an enzymatic process in cell metabolism that synthesizes ATP from ADP) }
+{ [ hapetus2, verb.change:hapettaa,+]  luonnollinen_prosessi,@ (the process of providing or combining or treating with oxygen; "the oxygenation of the blood") }
+{ nelirihmavaihe,  noun.time:kausi9,@ profaasi1,#p (the third stage of the prophase of meiosis) }
+{ parinmuodostus,  luonnollinen_prosessi,@ (the transformation of a gamma-ray photon into an electron and a positron when the photon passes close to an atomic nucleus) }
+{ [ palingeneesi, kenogeneesi,! adj.pert:palingeneettinen,+]  rekapitulaatio,  kasvaminen,@ (emergence during embryonic development of various characters or structures that appeared during the evolutionary history of the strain or species) }
+{ paperikromatografia,  kromatografia,@ (chromatography that uses selective adsorption on a strip of paper) }
+{ paperielektroforeesi,  elektroforeesi,@ (electrophoresis carried out on filter paper) }
+{ [ rinnakkaiskäyttö, peräkkäinen_toimenpide<approximate/>,!]  [ rinnankäyttö, peräkkäinen_toimenpide<approximate/>,!]  samanaikainen_käyttö,  toimitus,@ (the simultaneous execution of two or more operations) }
+{ partenokarpia,  apomiksis,@ noun.cognition:botaniikka,;c ((botany) the development of a fruit without fertilization or seeds) }
+{ [ partenogeneesi, adj.all:sukupuoleton^partenogeneettinen,+]  apomiksis,@ (process in which an unfertilized egg develops into a new individual; common among insects and some other arthropods) }
+{ partenogeneesi1,  neitseellinen_lisääntyminen,  suvuton_lisääntyminen,@ (human conception without fertilization by a man) }
+{ [ synnytys1, verb.change:syntyä3,+ verb.body:synnyttää2,+]  [ synnyttäminen, verb.change:syntyä3,+ verb.body:synnyttää2,+]  luonnollinen_prosessi1,@ lisääntyminen3,#p (the process of giving birth) }
+{ passiivinen_siirtyminen,  diffuusio,@ (transport of a substance across a cell membrane by diffusion; expenditure of energy is not required) }
+{ patogeneesi,  taudin_synty,  patologinen_prosessi,@ (the origination and development of a disease) }
+{ patologinen_prosessi,  luonnollinen_prosessi1,@ (an organic process occurring as a consequence of disease) }
+{ rauhanprosessi,  sosiaalinen_prosessointi,@ (any social process undertaken by governments who want their citizens to believe they are trying to avoid armed hostilities) }
+{ [ pissaaminen1, verb.body:pissata,+]  [ pissiminen, verb.body:pissata,+]  kuseminen,  virtsaaminen1,@ noun.communication:ruokottomuus,;u (informal terms for urination; "he took a pee") }
+{ [ peptisaatio, verb.change:peptisoida,+]  kemiallinen_prosessi,@ (the process of converting to a sol; bringing to a colloidal solution) }
+{ [ suodattuminen, verb.contact:suodattaa,+ verb.contact:suodattua,+ verb.contact:suodattaa1,+ verb.motion:suodattua,+]  suodatus,@ (the slow passage of a liquid through a filtering medium; "the percolation of rainwater through the soil"; "the infiltration of seawater through the lava") }
+{ [ perennoiminen, verb.stative:perennoida,+]  luonnollinen_prosessi1,@ noun.Tops:kasvi,;c (the process of living through a number of years (as a perennial plant)) }
+{ [ peristaltiikka, anastaltiikka,!]  ruumiintoiminto,@ (the process of wavelike muscle contractions of the alimentary tract that moves food along) }
+{ [ leviäminen, verb.contact:levitä_jhk,+]  [ tunkeutuminen, verb.contact:tunkeutua_jhk,+]  uuttaminen,@ (the process of permeating or infusing something with a substance) }
+{ [ hikoilu, verb.body:hikoilla1,+ adj.pert:hikoilua_edistävä,+]  ruumiintoiminto,@ (the process of the sweat glands of the skin secreting a salty fluid; "perspiration is a homeostatic process") }
+{ [ kivettyminen1, verb.change:kivettyä,+]  kivettyminen,@ (the process of turning some plant material into stone by infiltration with water carrying mineral particles without changing the original shape) }
+{ fagosytoosi,  ruumiintoiminto,@ (process in which phagocytes engulf and digest microorganisms and cellular debris; an important defense against infection) }
+{ faasinmuutos,  olomuodonmuutos,  olotilan_muutos,  fysikaalinen_muutos,  luonnollinen_prosessi,@ (a change from one state (solid or liquid or gas) to another without a change in chemical composition) }
+{ solunjakautumisen_vaihe,  noun.time:kausi9,@ (a stage in meiosis or mitosis) }
+{ valokemiallinen_reaktio,  kemiallinen_reaktio,@ (a chemical reaction produced by the action of light) }
+{ fotoemissio,  emissio,@ (the release or absorption of quanta above a certain energy level) }
+{ [ valokuvaus, adj.pert:valokuvaus-,+ noun.artifact:valokuva,+]  [ valokuvaaminen, adj.pert:valokuvaus-,+ noun.artifact:valokuva,+]  noun.Tops:kehitys,@ (the process of producing images of objects on photosensitive surfaces) }
+{ [ fotomekaaninen_menetelmä<unconfirmed/>, adj.pert:fotomekaaninen,+]  valokuvauslevyn_valmistus<unconfirmed/>,  valokuvaus,@ (the process whereby printing surfaces (plates or cylinders) are produced by photographic methods; "photomechanics revolutionized the practice of printing") }
+{ [ fotosynteesi, adj.pert:fotosynteettinen,+]  [ yhteyttäminen, adj.pert:yhteyttävä,+ adj.pert:yhteytys-,+]  kemiallinen_prosessi,@ noun.Tops:kasvi,;c (synthesis of compounds with the aid of radiant energy (especially in plants)) }
+{ [ väri, verb.change:värjäytyä1,+]  saostuminen,@ (the deposition of pigment in animals or plants or human beings) }
+{ pinosytoosi,  ruumiintoiminto,@ (process by which certain cells can engulf and incorporate droplets of fluid) }
+{ huokoisuus,  epätasaisuus,  kuoppaisuus,  korroosio1,@ (the formation of small pits in a surface as a consequence of corrosion) }
+{ istukanmuodostus,  ruumiintoiminto,@ (the formation of the placenta in the uterus) }
+{ tasoittuminen,  eroosio,@ (the process of erosion whereby a level surface is produced) }
+{ [ plastinointi, verb.possession:plastinoida,+]  säilöntä,@ (a process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened; "the plastination of specimens is valuable for research and teaching") }
+{ [ polymerisaatio, verb.change:polymeroitua,+ verb.change:polymeroida,+]  [ polymerointi, verb.change:polymeroitua,+ verb.change:polymeroida,+]  kemiallinen_prosessi,@ (a chemical process that combines several monomers to form a polymer or polymeric compound) }
+{ väestönkasvu,  nousu,@ (increase in the number of people who inhabit a territory or state) }
+{ äkillinen_kasvu<approximate/>,  väestönkasvu,@ (a sudden sharp increase in the relative numbers of a population) }
+{ positiivinen_takaisinkytkentä,  takaisinkytkentä,@ (feedback in phase with (augmenting) the input) }
+{ potentiaatio,  synergia,@ noun.cognition:lääketiede,;c ((medicine) the synergistic effect of two drugs given simultaneously) }
+{ jauhemenetelmä,  valokuvaus,@ (a process for identifying minerals or crystals; a small rod is coated with a powdered form of the substance and subjected to suitably modified X-rays; the pattern of diffracted rings is used for identification) }
+{ pyörimisakselin_kiertyminen,  luonnollinen_prosessi,@ (a slow westward shift of the equinoxes along the plane of the ecliptic caused by precession of the Earth's axis of rotation) }
+{ preklorinointi<unconfirmed/>,  klooraus,@ (chlorination prior to another chemical process) }
+{ [ saostaminen, verb.change:saostaa1,+]  [ saostus, verb.change:saostaa1,+]  kemiallinen_prosessi,@ (the process of forming a chemical precipitate) }
+{ ennenaikainen_hampaiden_puhkeaminen,  hampaiden_puhkeaminen,@ (teething at an earlier age than expected) }
+{ ennenaikainen_ejakulaatio,  ennenaikainen_laukeaminen,  ennenaikainen_siemensyöksy,  siemensyöksy,@ (ejaculation during the early stages of sexual excitement or soon after the insertion of the penis into the vagina) }
+{ säilöntä,  luonnollinen_prosessi1,@ (a process that saves organic substances from decay) }
+{ tulostustoiminto,  toimitus,@ (an operation that controls the printing or display of information) }
+{ prioriteettikäsittely,  tietojenkäsittely,@ (data processing in which the operations performed are determined by a system of priorities) }
+{ [ käsittely1, verb.social:käsitellä1,+ verb.change:käsitellä,+]  prosessointi,  noun.Tops:kehitys,@ (preparing or putting through a prescribed procedure; "the processing of newly arrived immigrants"; "the processing of ore to obtain minerals") }
+{ [ ammattimaistaminen, verb.change:ammattimaistaa,+ verb.change:ammattimaistua,+]  ammattilaistaminen,  sosiaalinen_prosessointi,@ (the social process whereby people come to engage in an activity for pay or as a means of livelihood; "the professionalization of American sports"; "the professionalization of warfare") }
+{ projektio,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism by which your own traits and emotions are attributed to someone else) }
+{ [ lisäkasvu, verb.change:lisääntyä2,+ verb.change:lisääntyä3,+ verb.change:lisääntyä_nopeasti,+]  [ lisääntyminen1, verb.change:lisääntyä2,+ verb.change:lisääntyä3,+ verb.change:lisääntyä_nopeasti,+]  proliferaatio,  kasvaminen,@ (growth by the rapid multiplication of parts) }
+{ [ lisääntyminen2, noun.act:aserajoitus,! verb.change:lisääntyä2,+ verb.change:lisääntyä3,+ verb.change:lisääntyä_nopeasti,+ noun.act:aseiden_leviämisen_estäminen,!]  nousu,@ (a rapid increase in number (especially a rapid increase in the number of deadly weapons); "the proliferation of nuclear weapons") }
+{ profaasi,  solunjakautumisen_vaihe,@ mitoosi,#p (the first stage of mitosis) }
+{ profaasi1,  solunjakautumisen_vaihe,@ meioosi,#p (the first stage of meiosis) }
+{ [ proteolyysi, adj.pert:proteolyyttinen,+]  kemiallinen_prosessi,@ (the hydrolysis of proteins into peptides and amino acids by cleavage of their peptide bonds) }
+{ hiustenlähtö,  psilosis,  karvojen_poisto,@ ruumiintoiminto,@ (falling out of hair) }
+{ psykoanalyyttinen_prosessi,  ihmisprosessi<unconfirmed/>,@ (a process that is assumed to occur in psychoanalytic theory) }
+{ psykogeneesi,  kasvaminen,@ (a general term for the origin and development of almost any aspect of the mind) }
+{ psykogeneesi1,  kasvaminen,@ (the development in the life of an individual of some disorder that is caused by psychological rather than physiological factors) }
+{ psykomotorinen_kehitys,  kasvaminen,@ (progressive acquisition of skills involving both mental and motor activities) }
+{ psykoseksuaalinen_kehitys,  kasvaminen,@ noun.act:psykoanalyysi,;c ((psychoanalysis) the process during which personality and sexual behavior mature through a series of stages: first oral stage and then anal stage and then phallic stage and then latency stage and finally genital stage) }
+{ ptyalismi,  [ syljenvuoto, verb.body:sylkeä2,+ verb.body:syljeskellä,+]  kuolaaminen,@ (excessive flow of saliva) }
+{ sikiäminen,  versonta,  nousu,@ (a rapid and abundant increase) }
+{ [ versonta1, verb.change:versoa,+]  silmukoiminen,  suvuton_lisääntyminen,@ (asexual reproduction in which a local growth on the surface or in the body of the parent becomes a separate individual) }
+{ pyrokemiallinen_prosessi,  [ pyrokemia, adj.pert:pyrokemiallinen,+]  kemiallinen_prosessi,@ (processes for chemical reactions at high temperatures) }
+{ [ nelinkertaistus, verb.change:nelinkertaistua,+]  moninkertaistuminen,@ (increase by a factor of four) }
+{ quellung-reaktio<unconfirmed/>,  luonnollinen_prosessi1,@ (the swelling of the capsule surrounding a microorganism after reaction with an antibody; the basis of certain tests for identifying microorganisms; "pneumococcus quellung") }
+{ elävöityminen,  luonnollinen_prosessi1,@ (the process of showing signs of life; "the quickening of seed that will become ripe grain") }
+{ [ viisinkertaistaminen, verb.change:viisinkertaistua,+]  moninkertaistuminen,@ (increasing by a factor of five) }
+{ säteilylämmitys,  kuumeneminen,@ (heating a building by radiation from panels containing hot water or electrical heaters) }
+{ säteily,  [ radioaktiivisuus, adj.all:radioaktiivinen,+]  emissio,@ (the spontaneous emission of a stream of particles or electromagnetic rays in nuclear decay) }
+{ radografia,  radiografia,  valokuvaus,@ (the process of making a radiograph; producing an image on a radiosensitive surface by radiation other than visible light) }
+{ radiolyysi,  liukeneminen,@ (molecular disintegration resulting from radiation) }
+{ huuhtoutuminen,  eroosio1,@ (the washing away of soil or other loose material by rain) }
+{ toipuminen1,  toipuminen,@ (a marked recovery of strength or spirits during an illness) }
+{ satunnaiskulku,  stokastinen_prosessi1,@ (a stochastic process consisting of a sequence of changes each of whose characteristics (as magnitude or direction) is determined by chance) }
+{ rationalisointi,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism by which your true motivation is concealed by explaining your actions and feelings in a way that is not threatening) }
+{ reaktionmuodostus,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism in which a person unconsciously develops attitudes and behavior that are the opposite of unacceptable repressed desires and impulses and serve to conceal them; "his strict morality is just a reaction formation to hide his sexual drive") }
+{ Read-synnytysmenetelmä,  Read-menetelmä,  lempeä_synnytys,@ (a method of natural childbirth that assumes it is a normal process and that the pain is largely psychological; involves education and breathing exercises to foster relaxation and other exercises) }
+{ tosiaikakäsittely,  reaaliaikakäsittely,  tietojenkäsittely,@ (data processing fast enough to keep up with an outside process) }
+{ väkevöinti,  jalostaminen,@ noun.cognition:kemia,;c ((chemistry) the process of refinement or purification of a substance by distillation) }
+{ uudelleentalletus,  saostuminen,@ (deposition from one deposit to another) }
+{ [ laihduttaminen, verb.body:laihduttaa,+]  menetys,@ (loss of excess weight (as by dieting); becoming slimmer; "a doctor supervised her reducing") }
+{ pelkistys,  pelkistäminen,  kemiallinen_reaktio,@ (any process in which electrons are added to an atom or ion (as by removing oxygen or adding hydrogen); always occurs accompanied by oxidation of the reducing agent) }
+{ [ täydennys, verb.change:täyttää_uudelleen2,+ verb.change:täydentää3,+]  täyttö,@ (filling again by supplying what has been used up) }
+{ [ jalostaminen, verb.change:jalostaa6,+]  [ puhdistaminen, verb.change:puhdistaa6,+ verb.change:puhdistaa7,+]  raffinointi,  jalostus,  [ puhdistus, verb.change:puhdistaa6,+ verb.change:puhdistaa7,+]  käsittely1,@ (the process of removing impurities (as from oil or metals or sugar etc.)) }
+{ [ elpyminen, verb.change:elpyä3,+]  reflaatio,  inflaatio,@ (inflation of currency after a period of deflation; restore the system to a previous state) }
+{ [ jäähdytys, verb.change:jäähdyttää2,+]  pakastus,  viileneminen,@ säilöntä,@ (the process of cooling or freezing (e.g., food) for preservative purposes) }
+{ regeneraatio1,  [ uudentuminen, verb.body:uudestisyntyä,+ verb.body:uudistua,+]  luonnollinen_prosessi1,@ noun.cognition:biologia,;c ((biology) growth anew of lost tissue or destroyed parts or organs) }
+{ regressio,  taantuma,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) a defense mechanism in which you flee from reality by assuming a more infantile state) }
+{ sääntely<unconfirmed/>,  luonnollinen_prosessi1,@ noun.cognition:embryologia,;c ((embryology) the ability of an early embryo to continue normal development after its structure has been somehow damaged or altered) }
+{ relaksaatio,  relaksaatiokäyttäytyminen,  eksponenttihajoaminen,@ noun.cognition:fysiikka,;c ((physics) the exponential return of a system to equilibrium after a disturbance) }
+{ [ rentoutuminen, verb.body:rentoutua1,+]  nousu,@ noun.cognition:fysiologia,;c ((physiology) the gradual lengthening of inactive muscle or muscle fibers) }
+{ [ vapauttaminen, verb.body:vapauttaa,+ verb.body:vapauttaa1,+]  luonnollinen_prosessi,@ (a process that liberates or discharges something; "there was a sudden release of oxygen"; "the release of iodine from the thyroid gland") }
+{ kahdentuminen,  replikaatio,  luonnollinen_prosessi1,@ noun.cognition:genetiikka,;c ((genetics) the process whereby DNA makes a copy of itself before cell division) }
+{ torjunta,  puolustusmekanismi,@ noun.cognition:psykiatria,;c ((psychiatry) the classical defense mechanism that protects you from impulses or ideas that would cause anxiety by preventing them from becoming conscious) }
+{ [ lisääntyminen3, verb.body:lisääntyä,+]  suvun_jatkaminen,  luonnollinen_prosessi1,@ noun.cognition:biologia,;c (the process of generating offspring) }
+{ [ imeytyminen2, verb.contact:imeytyä<approximate/>1,+]  luonnollinen_prosessi1,@ (the organic process in which the substance of some differentiated structure that has been produced by the body undergoes lysis and assimilation) }
+{ retikulaatio,  muodostuminen,@ noun.act:valokuvaus1,;c ((photography) the formation of a network of cracks or wrinkles in a photographic emulsion) }
+{ haku,  tietokoneen_toiminto,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the operation of accessing information from the computer's memory) }
+{ takaisinsaanti<unconfirmed/>,  haku,@ (retrieval of information from unconnected databases; the situation that exists when it is necessary to climb out of one database in order to climb down into another; sometimes used for protection against wandering hackers) }
+{ uudelleen_kuluttaminen,  ottaminen,@ (a process of using up or consuming again; "psychopharmacologists discovered that amine reuptake is a process that inactivates monoamine neurotransmitters") }
+{ [ palautuva_prosessi, peruuttamaton_prosessi,!]  noun.Tops:kehitys,@ (any process in which a system can be made to pass through the same states in the reverse order when the process is reversed) }
+{ kuolonkankeus,  jäykistyminen,@ (muscular stiffening that begins 2 to 4 hours after death and lasts for about 4 days) }
+{ kypsytys,  luonnollinen_prosessi1,@ (acquiring desirable qualities by being left undisturbed for some time) }
+{ [ juurtuminen, verb.change:juurtua,+ verb.change:juurruttaa,+]  kasvaminen,@ (the process of putting forth roots and beginning to grow) }
+{ [ ruoste, verb.change:ruostua,+ verb.change:ruostuttaa,+ verb.change:ruostua1,+]  ruostuminen,  korroosio1,@ hapetus1,@ (the formation of reddish-brown ferric oxides on iron by low-temperature oxidation in the presence of water) }
+{ [ kuolaaminen, verb.body:kuolata,+]  syljeneritys,  erittyminen1,@ (the secretion of saliva) }
+{ saltaatio,  luonnollinen_prosessi,@ noun.cognition:geologia,;c ((geology) the leaping movement of sand or soil particles as they are transported in a fluid medium over an uneven surface) }
+{ saponifikaatio,  saippuoiminen,  kemiallinen_reaktio,@ (a chemical reaction in which an ester is heated with an alkali (especially the alkaline hydrolysis of a fat or oil to make soap)) }
+{ [ skannaus, verb.motion:skannata,+]  valokuvaus,@ (the process of translating photographs into a digital form that can be recognized by a computer) }
+{ hajaantuminen,  luonnollinen_prosessi,@ sammuttava_vaikutus,#p (the physical process in which particles are deflected haphazardly as a result of collisions) }
+{ skitsogonia,  jakautuminen2,@ (asexual reproduction by multiple fission; characteristic of many sporozoan protozoans) }
+{ haku1,  toimitus,@ (an operation that determines whether one or more of a set of items has a specified property; "they wrote a program to do a table lookup") }
+{ sekundaarinen_emissio,  emissio,@ (the emission of electrons from a surface that is bombarded by higher energy primary electrons) }
+{ [ erittyminen1, verb.body:erittää1,+]  luonnollinen_prosessi1,@ (the organic process of synthesizing and releasing some substance) }
+{ segregaatio,  luonnollinen_prosessi1,@ meioosi,#p noun.cognition:genetiikka,;c ((genetics) the separation of paired alleles during meiosis so that members of each pair of alleles appear in different gametes) }
+{ [ herkistyminen, verb.change:herkistyä,+ verb.change:herkistää,+]  noun.Tops:kehitys,@ noun.cognition:psykologia,;c ((psychology) the process of becoming highly sensitive to specific events or situations (especially emotional events or situations)) }
+{ [ korvautuminen, verb.change:korvautua,+]  kemiallinen_prosessi,@ (the action of forming a chelate or other stable compound with an ion or atom or molecule so that it is no longer available for reactions) }
+{ [ peräkkäinen_toimenpide<approximate/>, rinnakkaiskäyttö,! rinnankäyttö,!]  toimitus,@ (the sequential execution of operations one after another) }
+{ peräkkäiskäsittely,  tietojenkäsittely,@ (sequential processing by two or more processing units) }
+{ [ silkinviljely, noun.person:silkinviljelijä,+ adj.pert:silkinviljelyksen<gen/>,+]  luonnollinen_prosessi,@ (raising silkworms in order to obtain raw silk) }
+{ sukupuolinen_lisääntyminen,  amphimixis,  sukusolujen_yhtyminen,  suvullinen_lisääntyminen,  lisääntyminen3,@ (reproduction involving the union or fusion of a male and a female gamete) }
+{ [ muotoilu, verb.cognition:muotoilla1,+]  piirtäminen,  [ rajaus, verb.stative:rajata3,+]  noun.Tops:kehitys,@ (any process serving to define the shape of something) }
+{ karvanlähtö1,  nahanluonti1,  vuodatus,  luonnollinen_prosessi1,@ (the process whereby something is shed) }
+{ [ paska, verb.body:paskoa,+]  paskaläjä,  ulostaminen,@ (a coarse term for defecation; "he took a shit") }
+{ [ nielu, lähde,!]  luonnollinen_prosessi,@ noun.cognition:insinööritiede,;c ((technology) a process that acts to absorb or remove energy or a substance from a system; "the ocean is a sink for carbon dioxide") }
+{ laskukausi,  väheneminen1,@ (a temporary decline in health or value) }
+{ liukuminen,  luisuhäviö,  pieneneminen1,@ (a decrease of transmitted power in a mechanical system caused by slipping) }
+{ liukuminen1,  väheneminen1,@ (decline from a standard level of performance or achievement) }
+{ [ romahdus, verb.change:romahtaa3,+]  hiljainen_kausi,  lasku4,  pienentyminen,  vähentyminen,  pudotus,  huonontuminen,@ (a noticeable deterioration in performance or quality; "the team went into a slump"; "a gradual slack in output"; "a drop-off in attendance"; "a falloff in quality") }
+{ [ savu, verb.weather:savuta,+ adj.all:savuava,+ adj.all:savuinen,+]  [ käry, verb.weather:kärytä,+]  höyrystyminen,@ (a hot vapor containing fine particles of carbon being produced by combustion; "the fire produced a tower of black smoke that could be seen for miles") }
+{ [ liotus, verb.change:liottaa4,+ verb.contact:liota,+]  imeytys,  [ liottaminen1, verb.contact:liota,+]  liko,  luonnollinen_prosessi,@ (the process of becoming softened and saturated as a consequence of being immersed in water (or other liquid); "a good soak put life back in the wagon") }
+{ sosiaalinen_prosessointi,  ihmisprosessi<unconfirmed/>,@ (a process involved in the formation of groups of persons) }
+{ [ pehmentyminen, verb.change:pehmentää1,+ verb.change:pehmentyä,+]  luonnollinen_prosessi,@ (the process of becoming softer; "refrigeration delayed the softening of the fruit"; "he observed the softening of iron by heat") }
+{ maaperän_eroosio,  eroosio,@ (the washing away of soil by the flow of water) }
+{ [ solvaatio, verb.change:solvatoida,+ verb.change:solvatoitua,+]  assosiointi,@ (a chemical process in which solvent molecules and molecules or ions of the solute combine to form a compound) }
+{ Solvayn_menetelmä,  Solvayn_prosessi,  teollisuusprosessi,@ (an industrial process for producing sodium carbonate from sodium chloride and ammonia and carbon dioxide) }
+{ sorptio,  luonnollinen_prosessi,@ (the process in which one substance takes up or holds another (by either absorption or adsorption)) }
+{ [ lajittelu, verb.cognition:lajitella,+]  sorttaus,  toimitus,@ (an operation that segregates items into groups according to a specified criterion; "the bottleneck in mail delivery is the process of sorting") }
+{ [ lähde, nielu,!]  luonnollinen_prosessi,@ noun.cognition:insinööritiede,;c ((technology) a process by which energy or a substance enters a system; "a heat source"; "a source of carbon dioxide") }
+{ alkuperä,  lähde,@ (the source of something's existence or from which it derives or is derived; "the rumor had its origin in idle gossip"; "vegetable origins"; "mineral origin"; "origin in sensation") }
+{ [ hapantuminen, verb.change:hapantua3,+]  pilaantuminen,@ (the process of becoming sour) }
+{ spallaatio,  ydinreaktio,@ noun.cognition:fysiikka,;c ((physics) a nuclear reaction in which a bombarded nucleus breaks up into many particles; "some astronomers believe that the solar system was formed by spallation when the sun was a very young star") }
+{ [ erikoistuminen, verb.change:erikoistua,+ verb.change:erilaistua2,+]  mukautuminen1,@ noun.cognition:biologia,;c ((biology) the structural adaptation of some body part for a particular function; "cell differentiation in the developing embryo") }
+{ [ lajiutuminen, verb.change:lajiutua,+]  evoluutio,@ (the evolution of a biological species) }
+{ kierre,  talousprosessi,@ (a continuously accelerating change in the economy) }
+{ spermatogeneesi,  sukusolujen_kehittyminen_ja_kypsyminen,@ (development of spermatozoa) }
+{ [ pilaantuminen, verb.change:pilaantua,+]  [ pilalle_meneminen, verb.change:pilaantua,+]  rappeutuminen,@ (the process of becoming spoiled) }
+{ itsesytytys,  itsesyttyminen,  syttyminen,@ (ignition of a substance (as oily rags) resulting from an internal oxidation process) }
+{ [ stagflaatio, adj.pert:stagflaation<gen/>,+]  inflaatio,@ (a period of slow economic growth and high unemployment (stagnation) while prices rise (inflation)) }
+{ [ stalinisaatio, verb.change:stalinisoida,+]  [ stalinisointi, verb.change:stalinisoida,+]  sosiaalinen_prosessointi,@ (social process of adopting (or being forced to adopt) the policies and practices of Joseph Stalin; "many Hungarians refused to take part in the Stalinization of their country") }
+{ stokastinen_prosessi<broader/>,  stokastinen_prosessi1,@ (a stochastic process in which the distribution of the random variables is the same for any value of the variable parameter) }
+{ teräksen_tuotanto,  noun.act:tuotanto,@ (making steel from pig iron) }
+{ [ jäykistyminen, verb.change:jäykistyä,+]  luonnollinen_prosessi,@ (the process of becoming stiff or rigid) }
+{ kiihotus,  stimulaatio,  luonnollinen_prosessi,@ noun.cognition:fysiologia,;c ((physiology) the effect of a stimulus (on nerves or organs etc.)) }
+{ stokastinen_prosessi1,  noun.cognition:malli3,@ (a statistical process involving a number of random variables depending on a variable parameter (which is usually time)) }
+{ tallentaminen,  tietokoneen_toiminto,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the process of storing information in a computer memory or on a magnetic tape or disk) }
+{ [ kerrostaminen, verb.change:kerrostua,+ verb.contact:kerrostaa1,+ verb.contact:kerrostua,+]  geologinen_prosessi,@ (forming or depositing in layers) }
+{ inkontinenssi<broader/>2,  virtsankarkailu,@ (urinary incontinence that occurs when involuntary pressure is put on the bladder by coughing or laughing or sneezing or lifting or straining) }
+{ siirtymä,  alityöntö,  geologinen_prosessi,@ (a geological process in which one edge of a crustal plate is forced sideways and downward into the mantle below another plate) }
+{ sukkessio,  ekologinen_sukkessio,  luonnollinen_prosessi,@ noun.cognition:ekologia,;c ((ecology) the gradual and orderly process of change in an ecosystem brought about by the progressive replacement of one community by another until a stable climax is established) }
+{ [ yhteisvaikutus, adj.all:additiivinen^yhteenlaskun<gen/>,+]  luonnollinen_prosessi1,@ noun.cognition:fysiologia,;c ((physiology) the process whereby multiple stimuli can produce a response (in a muscle or nerve or other part) that one stimulus alone does not produce) }
+{ superpositio,  saostuminen,@ noun.cognition:geologia,;c ((geology) the deposition of one geological stratum on another) }
+{ [ toimitus1, kysyntä,!]  talousprosessi,@ (offering goods and services for sale) }
+{ estyminen,  kasvaminen,@ (the failure to develop some part or organ) }
+{ eloonjääminen,  hengissä_pysyminen,  olemassaolotaistelu,  luonnonvalinta,  selviytyminen,  taistelu_olemassaolosta,  luonnollinen_prosessi,@ (a natural process resulting in the evolution of organisms best adapted to the environment) }
+{ liitos,  symfyysi,  yhteenkasvama,  luonnollinen_prosessi1,@ (a growing together of parts or structures) }
+{ synapsi,  luonnollinen_prosessi1,@ leptoteeni,#p (the side by side pairing of homologous maternal and paternal chromosomes at the start of meiosis) }
+{ [ yhteensulautuminen, adj.pert:yhteensulautuva,+]  fuusio1,@ (the fusion of originally different inflected forms (resulting in a reduction in the use of inflections)) }
+{ [ synkroninen_operaatio, tahdistamaton_toiminta,!]  toimitus,@ (operations that are initiated predictably by a clock) }
+{ synereesi,  kemiallinen_prosessi,@ (the separation of liquid from a gel that is caused by contraction (as in cheese making)) }
+{ synereesi1,  kielellinen_prosessi,@ (the contraction of two vowels into a diphthong) }
+{ [ synergia, adj.all:yhteistoiminnallinen^synergeettinen,+ noun.artifact:synergisti,+ adj.all:synergistinen,+]  [ yhteisvaikutus1, adj.all:yhteistoiminnallinen^yhteisvaikutteinen,+]  luonnollinen_prosessi,@ (the working together of two things (muscles or drugs for example) to produce an effect greater than the sum of their individual effects) }
+{ synizesis,  luonnollinen_prosessi1,@ profaasi1,#p (the contraction of chromatin towards one side of the nucleus during the prophase of meiosis) }
+{ [ synteesi, adj.all:synteettinen2,+ verb.cognition:syntetisoida,+]  kemiallinen_prosessi,@ (the process of producing a chemical compound (usually by the union of simpler chemical compounds)) }
+{ [ ruskettuminen, verb.body:ruskettua,+]  ruumiintoiminto,@ (process in which skin pigmentation darkens as a result of exposure to ultraviolet light) }
+{ hampaiden_puhkeaminen,  kasvaminen,@ (the eruption through the gums of baby teeth) }
+{ telofaasi,  solunjakautumisen_vaihe,@ mitoosi,#p (the final stage of mitosis) }
+{ telofaasi1,  solunjakautumisen_vaihe,@ meioosi,#p (the final stage of meiosis when the chromosomes move toward opposite ends of the nuclear spindle) }
+{ lämpötilan_muutos,  luonnollinen_prosessi,@ (a process whereby the degree of hotness of a body (or medium) changes) }
+{ teratogeneesi,  kasvaminen,@ (the development of defects in an embryo) }
+{ [ sulaminen3, verb.change:sulaa2,+ verb.change:sulattaa2,+ verb.change:sulattaa8,+]  kuumeneminen,@ faasinmuutos,@ (the process whereby heat changes something from a solid to a liquid; "the power failure caused a refrigerator melt that was a disaster"; "the thawing of a frozen turkey takes several hours") }
+{ elektronipurkaus,  terminen_emissio,  terminen_nestepurkauma,  emissio,@ (the emission of electrons from very hot substances) }
+{ termokoagulaatio,  juoksettuminen,@ (congealing tissue by heat (as by electric current)) }
+{ lämpöydinreaktio,  fuusio,@ (a nuclear fusion reaction taking place at very high temperatures (as in the sun)) }
+{ kynnysoperaatio,  toimitus,@ (an operation performed on operands in order to obtain the value of a threshold function) }
+{ liuotushoito,  trombolyysi,  liukeneminen,@ (the process of breaking up and dissolving blood clots) }
+{ pintakäyminen,  tsymoosi,  käyminen,@ (a violent kind of alcoholic fermentation at a temperature high enough to carry the yeast cells to the top of the fermenting liquid; used in the production of ale; "top fermentation uses a yeast that ferments at higher temperatures than that used for bottom fermentation") }
+{ [ transaminaatio, verb.change:transaminoida,+]  kemiallinen_prosessi,@ (the process of transfering an amino group from one compound to another) }
+{ transaminaatio1,  kemiallinen_prosessi,@ (the process of transposing an amino group within a chemical compound) }
+{ transkriptio,  luonnollinen_prosessi1,@ noun.cognition:genetiikka,;c ((genetics) the organic process whereby the DNA sequence in a gene is copied into mRNA; the process whereby a base sequence of messenger RNA is synthesized on a template of complementary DNA) }
+{ [ muuntaminen, verb.change:muuntaa2,+]  luonnollinen_prosessi,@ (the process whereby a transducer accepts energy in one form and gives back related energy in a different form; "the transduction of acoustic waves into voltages by a microphone") }
+{ transduktio,  luonnollinen_prosessi1,@ noun.cognition:genetiikka,;c ((genetics) the process of transfering genetic material from one cell to another by a plasmid or bacteriophage) }
+{ translaatio,  luonnollinen_prosessi1,@ noun.cognition:genetiikka,;c ((genetics) the process whereby genetic information coded in messenger RNA directs the formation of a specific protein at a ribosome in the cytoplasm) }
+{ proteiinin_poimutus,  poimutus,  luonnollinen_prosessi1,@ (the process whereby a protein molecule assumes its intricate three-dimensional shape; "understanding protein folding is the next step in deciphering the genetic code") }
+{ [ siirto, verb.possession:siirtää12,+]  translokaatio,  luonnollinen_prosessi1,@ noun.cognition:genetiikka,;c ((genetics) an exchange of chromosome parts; "translocations can result in serious congenital disorders") }
+{ ravinnonsiirto<note>kasvissa</note>,  luonnollinen_prosessi1,@ (the transport of dissolved material within a plant) }
+{ [ haihdunta, verb.change:haihduttaa1,+]  transpiraatio,  luonnollinen_prosessi1,@ (the emission of water vapor from the leaves of plants) }
+{ haihtuminen<unconfirmed/>,  luonnollinen_prosessi,@ (the passage of gases through fine tubes because of differences in pressure or temperature) }
+{ [ hikoilu1, verb.body:hikoilla2,+]  ruumiintoiminto,@ (the process of giving off or exhaling water vapor through the skin or mucous membranes) }
+{ diffuusio,  uuttaminen,@ (an exchange of molecules (and their kinetic energy and momentum) across the boundary between adjacent layers of a fluid or across cell membranes) }
+{ kertolasku<broader/>,  moninkertaistuminen,@ (increase by a factor of three) }
+{ [ paisuminen1, verb.change:paisuttaa,+]  [ turpoaminen1, verb.change:turvottaa1,+]  luonnollinen_prosessi1,@ (the process of tumefying; the organic process whereby tissue becomes swollen by the accumulation of fluid within it) }
+{ [ haavautuminen, verb.change:haavautua,+]  luonnollinen_prosessi1,@ (the process of ulcer formation; the process of becoming ulcerated) }
+{ [ linkoaminen<narrower/>1, verb.motion:lingota1,+]  linkoaminen,@ (centrifugation at very high speeds) }
+{ [ alivalotus, verb.perception:alivalottaa1,+]  kehittäminen,@ noun.act:valokuvaus1,;c ((photography) inadequate processing of film resulting in inadequate contrast) }
+{ [ kehitys3, verb.change:kehittyä9,+]  kehittyminen,@ (a developmental process; "the flowering of antebellum culture") }
+{ kiinnikasvaminen,  umpeutuminen,  parantuminen1,@ (healing process involving the growing together of the edges of a wound or the growing together of broken bones) }
+{ ottaminen,  otto,  ihmisprosessi<unconfirmed/>,@ (a process of taking up or using up or consuming; "they developed paper napkins with a greater uptake of liquids") }
+{ [ kaupungistaminen, verb.change:kaupunkimaistaa,+]  sosiaalinen_prosessointi,@ (the social process whereby cities grow and societies become more urban) }
+{ pidätyskyvyttömyys1,  virtsankarkailu,@ (urinary incontinence that is generally attributable to involuntary contracts of the bladder muscle resulting in an urgent need to urinate accompanied by a sudden loss of urine; most common in people over 60 years of age) }
+{ ulostus<approximate/>2,  ulostaminen,@ (passage of urine from the anus) }
+{ vaihtelu,  noun.Tops:kehitys,@ (the process of varying or being varied) }
+{ [ höyrystyminen, verb.change:höyrystää,+ verb.change:höyrystyä,+]  [ höyrystys, verb.change:höyrystyä,+ verb.change:höyrystää,+]  haihtuminen1,  [ haihdunta1, verb.change:haihduttaa2,+ verb.change:haihtua4,+]  faasinmuutos,@ (the process of becoming a vapor) }
+{ [ vaskularisaatio, verb.change:vaskularisoitua,+ verb.change:vaskularisoida<unconfirmed/>,+]  luonnollinen_prosessi1,@ (the organic process whereby body tissue becomes vascular and develops capillaries) }
+{ [ kasvu5, verb.change:kasvaa10,+]  kasvaminen,@ (the process of growth in plants) }
+{ [ rakkuloituminen, verb.change:rakkuloitua,+ verb.change:rakkuloida,+]  rakkuloille_nousu,  luonnollinen_prosessi1,@ (the formation of vesicles in or beneath the skin) }
+{ noidankehä,  positiivinen_takaisinkytkentä,@ (one trouble leads to another that aggravates the first) }
+{ digitointi<broader/>,  valokuvaus,@ (the process of capturing and converting and storing video images for use by a computer) }
+{ vinifikaatio,  käyminen,@ (the process whereby fermentation changes grape juice into wine) }
+{ [ lasiksi_muuttuminen, verb.change:lasittua1,+]  luonnollinen_prosessi,@ (the process of becoming vitreous) }
+{ [ vulkanisaatio, verb.change:vulkanoitua,+ verb.change:vulkanoida,+]  [ vulkanointi, verb.change:vulkanoitua,+ verb.change:vulkanoida,+]  käsittely1,@ (process of treating rubber or rubberlike materials with sulphur at great heat to improve elasticity and strength or to harden them) }
+{ eroosio1,  maaperän_eroosio,@ (the erosive process of washing away soil or gravel by water (as from a roadway); "from the house they watched the washout of their newly seeded lawn by the water") }
+{ tuhlaaminen,  pieneneminen1,@ (the process of wasting) }
+{ länsimaistuminen,  sopeutuminen1,@ (assimilation of Western culture; the social process of becoming familiar with or converting to the customs and practices of Western civilization) }
+{ [ leventyminen, kaventuminen,! verb.change:leventyä,+]  nousu,@ (an increase in width) }
+{ tekstinkäsittely,  tietojenkäsittely,@ noun.communication:painatus,;c (rapid and efficient processing (storage and printing) of linguistic data for composition and editing) }
+{ tsygoteeni,  noun.time:kausi9,@ profaasi1,#p (the second stage of the prophase of meiosis) }
+{ [ tsymoosi1, adj.pert:tsymoosiin_liittyvä,+]  infektio,@ noun.cognition:lääketiede,;c ((medicine) the development and spread of an infectious disease (especially one caused by a fungus)) }
+{ [ käyminen, adj.pert:käymiseen_liittyvä,+ adj.pert:käymistä_aiheuttava,+ verb.change:käyttää1,+ verb.change:käydä1,+]  [ käymistila, adj.pert:käymiseen_liittyvä,+ adj.pert:käymistä_aiheuttava,+ verb.change:käyttää1,+ verb.change:käydä1,+]  kemiallinen_prosessi,@ (a process in which an agent causes an organic substance to break down into simpler substances; especially, the anaerobic breakdown of sugar into alcohol) }
+{ energialähde,  lähde,@ ([empty]) }
+{ tupakansavu,  savu,@ ([empty]) }
+{ ylikuumeneminen,  kuumeneminen,@ ([empty]) }

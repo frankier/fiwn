@@ -1,0 +1,465 @@
+{ suhteet,  kanssakäyminen,  noun.Tops:sosiaaliset_suhteet,@ (mutual dealings or connections or communications among persons or groups) }
+{ [ kausaalisuus, adj.all:aiheuttava^kausaalinen1,+]  [ kausaliteetti, adj.all:aiheuttava^kausaalinen1,+]  [ syysuhde, adj.all:aiheuttava^syysuhteinen,+]  [ syysuhteisuus, adj.all:aiheuttava^syysuhteinen,+]  noun.Tops:suhde,@ (the relation between causes and effects) }
+{ [ suhde, noun.Tops:suhde,+]  ihmissuhde,  noun.Tops:suhde,@ (a relation between people; (`relationship' is often used where `relation' would serve, as in `the relationship between inflation and unemployment', but the preferred usage of `relationship' is for human relations or states of relatedness); "the relationship between mothers and their children") }
+{ funktio<unconfirmed/>,  noun.Tops:suhde,@ (a relation such that one thing is dependent on another; "height is a function of age"; "price is a function of supply and demand") }
+{ kumppanuus,  suhde,@ (a cooperative relationship between people or groups who agree to share responsibility for achieving some specific goal; "effective language learning is a partnership between school, teacher and student"; "the action teams worked in partnership with the government") }
+{ henkilökohtainen_suhde,  suhde,@ (a relation between persons) }
+{ läheinen_side,  henkilökohtainen_suhde,@ (a close personal relationship that forms between people (as between husband and wife or parent and child)) }
+{ [ kiitollisuudenvelka, adj.all:velvollinen^kiitollisuudenvelassa_oleva,+ adj.all:velvollinen^kiitollisuudenvelassa<idiomatic_pos/>1,+]  henkilökohtainen_suhde,@ (a personal relation in which one is indebted for a service or favor) }
+{ naisten_välinen_ystävyys,  läheinen_side,@ (the formation of a close personal relationship between women) }
+{ miessidos,  läheinen_side,@ (the formation of a close personal relationship between men; "the rituals known as male bonding do not necessarily involve drinking beer together") }
+{ äidin_ja_lapsen_välinen_sidos,  läheinen_side,@ (the attachment that forms between an infant and its mother beginning at birth; "maternal-infant bonding influences the child's psychological and physical development") }
+{ suhde1,  yhteys,  noun.Tops:suhde,@ (a relation resulting from interaction or dependence; "flints were found in association with the prehistoric remains of the bear"; "the host is not always injured by association with a parasite") }
+{ looginen_yhteys,  noun.Tops:suhde,@ noun.cognition:logiikka3,;c (a relation between propositions) }
+{ kontradiktorinen,  ristikkäinen_lause<unconfirmed/>,  ristikkäinen_propositio<unconfirmed/>,  vastakkainen_lause<unconfirmed/>,  vastakkainen_propositio<unconfirmed/>,  looginen_yhteys,@ (two propositions are contradictories if both cannot be true (or both cannot be false) at the same time) }
+{ vastakohta,  looginen_yhteys,@ (a logical relation such that two propositions are contraries if both cannot be true but both can be false) }
+{ matemaattinen_relaatio,  noun.Tops:suhde,@ noun.cognition:matematiikka,;c (a relation between mathematical expressions (such as equality or inequality)) }
+{ funktio1,  matemaattinen_funktio,  yksiarvoinen_funktio,  kuvaus,  matemaattinen_relaatio,@ noun.cognition:matematiikka,;c ((mathematics) a mathematical relation such that each element of a given set (the domain of the function) is associated with an element of another set (the range of the function)) }
+{ lavennus,  funktio1,@ noun.cognition:matematiikka,;c (a function expressed as a sum or product of terms; "the expansion of (a+b)^2 is a^2 + 2ab + b^2") }
+{ käänteisfunktio,  funktio1,@ (a function obtained by expressing the dependent variable of one function as the independent variable of another; f and g are inverse functions if f(x)=y and g(y)=x) }
+{ Kroneckerin_delta,  funktio1,@ (a function of two variables i and j that equals 1 when i=j and equals 0 otherwise) }
+{ etäisyysfunktio,  metriikka,  funktio1,@ noun.cognition:matematiikka,;c noun.cognition:fysiikka,;c (a function of a topological space that gives, for any two points in the space, a value equal to the distance between them) }
+{ [ muuntaminen, verb.change:muuntaa8,+]  funktio1,@ noun.cognition:matematiikka,;c ((mathematics) a function that changes the position or direction of the axes of a coordinate system) }
+{ reflektio<unconfirmed/>,  muuntaminen,@ noun.cognition:matematiikka,;c ((mathematics) a transformation in which the direction of one axis is reversed) }
+{ kierto,  muuntaminen,@ noun.cognition:matematiikka,;c ((mathematics) a transformation in which the coordinate axes are rotated by a fixed angle about the origin) }
+{ translaatio,  muuntaminen,@ noun.cognition:matematiikka,;c ((mathematics) a transformation in which the origin of the coordinate system is moved to another position but the direction of each axis remains the same) }
+{ affiininen_transformaatio,  affiini_kuvaus,  affiinikuvaus,  affiinimuunnos,  muuntaminen,@ noun.cognition:matematiikka,;c ((mathematics) a transformation that is a combination of single transformations such as translation or rotation or reflection on an axis) }
+{ [ isometria, adj.pert:isometrinen,+]  funktio1,@ (a one-to-one mapping of one metric space into another metric space that preserves the distances between each pair of points; "the isometries of the cube") }
+{ operaattori,  funktio1,@ noun.cognition:matematiikka,;c ((mathematics) a symbol or function representing a mathematical operation) }
+{ lineaarinen_toimija<unconfirmed/>,  operaattori,@ (an operator that obeys the distributive law: A(f+g) = Af + Ag (where f and g are functions)) }
+{ identiteettioperaattori,  identtinen_elementti,  identtinen_operaattori,  neutraalialkio,  yksikköalkio,  identiteettialkio,  operaattori,@ (an operator that leaves unchanged the element on which it operates; "the identity under numerical multiplication is 1") }
+{ trigonometrinen_funktio,  funktio1,@ (function of an angle expressed as a ratio of the length of the sides of right-angled triangle containing the angle) }
+{ sini,  trigonometrinen_funktio,@ (ratio of the length of the side opposite the given angle to the length of the hypotenuse of a right-angled triangle) }
+{ arkussini,  käänteinen_sini,  trigonometrinen_funktio,@ (the inverse function of the sine; the angle that has a sine equal to a given number) }
+{ kosini,  trigonometrinen_funktio,@ (ratio of the adjacent side to the hypotenuse of a right-angled triangle) }
+{ arkuskosini,  käänteinen_kosini,  käänteiskosini,  trigonometrinen_funktio,@ (the inverse function of the cosine; the angle that has a cosine equal to a given number) }
+{ [ tangentti, adj.pert:tangentiaalinen,+]  tan,  trigonometrinen_funktio,@ (ratio of the opposite to the adjacent side of a right-angled triangle) }
+{ arkustangentti,  käänteinen_tangentti,  käänteistangentti,  trigonometrinen_funktio,@ (the inverse function of the tangent; the angle that has a tangent equal to a given number) }
+{ kotangentti,  trigonometrinen_funktio,@ (ratio of the adjacent to the opposite side of a right-angled triangle) }
+{ arkuskotangentti,  käänteinen_kotangentti,  käänteiskotangentti,  trigonometrinen_funktio,@ (the inverse function of the cotangent; the angle that has a cotangent equal to a given number) }
+{ sekantti,  sec,  trigonometrinen_funktio,@ (ratio of the hypotenuse to the adjacent side of a right-angled triangle) }
+{ arkussekantti,  käänteinen_sekantti,  käänteissekantti,  trigonometrinen_funktio,@ (the inverse function of the secant; the angle that has a secant equal to a given number) }
+{ kosekantti,  trigonometrinen_funktio,@ (ratio of the hypotenuse to the opposite side of a right-angled triangle) }
+{ arkuskosekantti,  käänteinen_kosekantti,  käänteiskosekantti,  trigonometrinen_funktio,@ (the angle that has a cosecant equal to a given number) }
+{ kynnysfunktio<unconfirmed/>,  funktio1,@ (a function that takes the value 1 if a specified function of the arguments exceeds a given threshold and 0 otherwise) }
+{ eksponentti-,  eksponenttifunktio,  funktio1,@ (a function in which an independent variable appears as an exponent) }
+{ eksponenttiyhtälö,  noun.communication:yhtälö,@ (an equation involving exponential functions of a variable) }
+{ eksponenttikäyrä,  noun.communication:diagrammi,@ (a graph of an exponential function) }
+{ eksponenttilauseke,  noun.communication:kaava,@ (a mathematical expression consisting of a constant (especially e) raised to some power) }
+{ eksponenttisarja,  noun.cognition:sarja,@ (a series derived from the expansion of an exponential expression) }
+{ pariteetti,  matemaattinen_relaatio,@ noun.cognition:matematiikka,;c ((mathematics) a relation between a pair of integers: if both integers are odd or both are even they have the same parity; if one is odd and the other is even they have different parity; "parity is often used to check the integrity of transmitted data") }
+{ parillisuus,  pariteetti,@ (the parity of even numbers (divisible by two)) }
+{ [ parittomuus, adj.all:pariton1,+]  pariteetti,@ (the parity of odd numbers (not divisible by two)) }
+{ [ pohja, verb.cognition:pohjata,+ verb.cognition:pohjautua,+]  noun.Tops:suhde,@ (the basis on which something is grounded; "there is little foundation for his objections") }
+{ perusta,  pohja1,  lähtökohta,  alusta,  kasvupohja,  maaperä,  maasto,  pohja,@ (a relation that provides the foundation for something; "they were on a friendly footing"; "he worked on an interim basis") }
+{ yhteinen_pohja,  perusta,@ (a basis agreed to by all parties for reaching a mutual understanding) }
+{ perusta<unconfirmed/>1,  ydin<unconfirmed/>,  pohja,@ (the essential foundation or source; "the problem was attacked at the grass roots") }
+{ [ yhteys1, irrallisuus,! adj.all:johdotettu^yhteenkytketty,+]  noun.Tops:suhde,@ adj.all:irrallinen1,= adj.all:yhdistetty,= (a relation between things or events (as in the case of one causing the other or sharing features with it); "there was a connection between eating that pickle and having that nightmare") }
+{ [ sarja, adj.all:asynkroninen^sarja-,+ adj.all:asynkroninen^sarjallinen1,+]  yhteys1,@ noun.cognition:elektroniikka,;c ((electronics) connection of components in such a manner that current flows first through one and then through the other; "the voltage divider consisted of a series of fixed resistors") }
+{ side,  yhteys2,  yhteys1,@ (a connection based on kinship or marriage or common interest; "the shifting alliances within a large family"; "their friendship constitutes a powerful bond between them") }
+{ napanuora,  side,@ (the emotional bond between a mother and her offspring) }
+{ yhteys3,  yhteys1,@ (an associative relation) }
+{ yhteys4,  yhteys3,@ (the means of connection between things linked in series) }
+{ yhteydet,  yhteys1,@ (a connection allowing access between persons or places; "how many lines of communication can there be among four people?"; "a secret passageway provided communication between the two rooms") }
+{ sarja1,  yhteys1,@ (the linking together of a consecutive series of symbols or events or ideas etc; "it was caused by an improbable concatenation of circumstances") }
+{ silta,  yhteys5,  yhteys1,@ (something resembling a bridge in form or function; "his letters provided a bridge across the centuries") }
+{ osallistuminen,  yhteys1,@ (a connection of inclusion or containment; "he escaped involvement in the accident"; "there was additional involvement of the liver and spleen") }
+{ osallisuus,  osallistuminen,@ (a relation implicated by virtue of involvement or close connection (especially an incriminating involvement); "he was suspected of implication in several robberies") }
+{ mukaan_ottaminen,  käsittäminen,  osallistuminen,@ (the relation of comprising something; "he admired the inclusion of so many ideas in such a short work") }
+{ [ irrallisuus, yhteys1,! adj.all:irrallinen1,+]  noun.Tops:suhde,@ (the lack of a connection between things) }
+{ [ relevanssi, asiaankuulumattomuus,! merkityksettömyys,!]  [ merkityksellisyys, adj.all:merkityksellinen1,+]  [ asiaankuuluvuus, asiaankuulumattomuus,! merkityksettömyys,!]  yhteys1,@ (the relation of something to the matter at hand) }
+{ [ oleellisuus, epäolennaisuus,! adj.all:olennainen6,+]  relevanssi,@ (relevance requiring careful consideration) }
+{ [ vakuuttavuus, adj.all:vakuuttava6^vakuuttava7,+]  relevanssi,@ (persuasive relevance) }
+{ ydin1,  relevanssi,@ (a style in speech or writing that arrests attention and has a penetrating or convincing quality or effect) }
+{ [ asiaankuuluvuus1, adj.all:merkityksellinen1^asiaankuuluva1,+]  käyttökelpoisuus,@ (pertinence by virtue of a close relation to the matter at hand) }
+{ [ käyttökelpoisuus, käyttökelvottomuus,!]  [ soveltuvuus, käyttökelvottomuus,! adj.all:merkityksellinen1^sovellettavissa_oleva1,+ adj.all:merkityksellinen1^soveltuva,+]  asianmukaisuus,  [ relevanssi1, adj.all:merkityksellinen1^relevantti1,+]  relevanssi,@ (relevance by virtue of being applicable to the matter at hand) }
+{ [ yhteenliittyvyys, irrallisuus1,!]  [ sukulaisuus, irrallisuus1,!]  yhteys1,@ (a particular manner of connectedness; "the relatedness of all living things") }
+{ merkitys,  yhteys6,  yhteenliittyvyys,@ (relevant relation or interconnection; "those issues have no bearing on our situation") }
+{ [ asiaankuulumattomuus, relevanssi,! adj.all:asiaankuulumaton,+ asiaankuuluvuus,!]  [ merkityksettömyys, relevanssi,! asiaankuuluvuus,!]  irrallisuus,@ (the lack of a relation of something to the matter at hand) }
+{ [ käyttökelvottomuus, käyttökelpoisuus,! soveltuvuus,! adj.all:asiaankuulumaton^käyttökelvoton1,+]  asiaankuulumattomuus,@ (irrelevance by virtue of being inapplicable to the matter at hand) }
+{ [ epäolennaisuus, oleellisuus,! adj.all:epäolennainen2,+]  asiaankuulumattomuus,@ (complete irrelevance requiring no further consideration) }
+{ [ irrallisuus1, yhteenliittyvyys,! adj.all:irralliset,+ sukulaisuus,!]  irrallisuus,@ (the lack of any particular manner of connectedness) }
+{ [ epäolennaisuus1, adj.all:ulkoa_tuleva^epäolennainen1,+ adj.all:asiaankuulumaton^epäolennainen5,+]  irrallisuus1,@ (unrelatedness by virtue of falling outside the matter at hand) }
+{ kieliopillinen_suhde,  kielellinen_suhde,@ (a linguistic relation established by grammar) }
+{ kielellinen_suhde,  noun.Tops:suhde,@ (a relation between linguistic forms or constituents) }
+{ [ mukautuminen, verb.stative:mukautua1,+]  [ noudattaminen, verb.stative:noudattaa4,+]  [ kongruenssi, verb.contact:kongruoida,+]  [ mukautuvuus, verb.contact:mukauttaa,+]  kieliopillinen_suhde,@ (the determination of grammatical inflection on the basis of word relations) }
+{ lukukongruenssi,  mukautuminen,@ (agreement in number between words in the same grammatical construction (e.g., between adjectives and the nouns they modify)) }
+{ kongruenssi1,  mukautuminen,@ (agreement in person between pronouns and verbs) }
+{ sijakongruenssi,  mukautuminen,@ (agreement in grammatical case between words in the same construction) }
+{ sukukongruenssi,  mukautuminen,@ (agreement in grammatical gender between words in the same construction) }
+{ [ transitiivisuus, intransitiivisuus,! adj.all:transitiivi-,+]  kieliopillinen_suhde,@ (the grammatical relation created by a transitive verb) }
+{ [ intransitiivisuus, transitiivisuus,! adj.all:intransitiivinen,+]  kieliopillinen_suhde,@ (the grammatical relation created by an intransitive verb) }
+{ transitiivisuus1,  looginen_yhteys,@ matemaattinen_relaatio,@ noun.cognition:matematiikka,;c noun.cognition:logiikka3,;c ((logic and mathematics) a relation between three elements such that if it holds between the first and second and it also holds between the second and third it must necessarily hold between the first and third) }
+{ [ refleksiivisyys, adj.all:taaksepäin_suuntautuva1^refleksiivinen,+]  looginen_yhteys,@ matemaattinen_relaatio,@ noun.cognition:matematiikka,;c noun.cognition:logiikka3,;c ((logic and mathematics) a relation such that it holds between an element and itself) }
+{ [ samaviitteisyys, adj.all:liittyvä^samaviitteinen,+]  kieliopillinen_suhde,@ (the grammatical relation between two words that have a common referent) }
+{ refleksiivisyys1,  samaviitteisyys,@ (the coreferential relation between a reflexive pronoun and its antecedent) }
+{ konjunktio,  kieliopillinen_suhde,@ (the grammatical relation between linguistic units (words or phrases or clauses) that are connected by a conjunction) }
+{ rinnasteisuus,  konjunktio,@ (the coordination by conjunction of linguistic units of the same status) }
+{ alistuskonjunktio,  konjunktio,@ (the subordination that occurs when a conjunction makes one linguistic unit a constituent of another) }
+{ kopulatiivinen_konjunktio,  konjunktio,@ (the conjunctive relation of units that expresses the addition of their meanings) }
+{ disjunktiivinen_konjunktio,  konjunktio,@ (the conjunctive relation of units that expresses the disjunction of their meanings) }
+{ adversatiivinen_konjunktio,  konjunktio,@ (the conjunctive relation of units that expresses the opposition of their meanings) }
+{ määrittäminen,  kieliopillinen_suhde,@ (the grammatical relation of a word or phrase to a predicate) }
+{ rinnastussuhde,  kieliopillinen_suhde,@ (the grammatical relation of two constituents having the same grammatical form) }
+{ alistussuhde,  kieliopillinen_suhde,@ (the grammatical relation of a modifying word or phrase to its head) }
+{ muunnelma,  [ määritelmä<unconfirmed/>, verb.change:määrittää,+]  rajoitus<unconfirmed/>,  kieliopillinen_suhde,@ (the grammatical relation that exists when a word qualifies the meaning of the phrase) }
+{ välttämättömyys,  muunnelma,@ (a grammatical qualification that makes the meaning more specific (`red hat' has a more specific meaning than `hat')) }
+{ [ appositio, adj.pert:appositio-,+ adj.pert:appositionaalinen,+]  rinnastus,  muunnelma,@ (a grammatical relation between a word and a noun phrase that follows; "`Rudolph the red-nosed reindeer' is an example of apposition") }
+{ tapaluokka,  [ modus, adj.pert:modaalinen,+]  moodi,  kieliopillinen_suhde,@ (verb inflections that express how the action or state is conceived by the speaker) }
+{ indikatiivi,  tositapa,  yleismodus,  tapaluokka,@ (a mood (grammatically unmarked) that represents the act or state as an objective fact) }
+{ subjunktiivi,  konjunktiivi,  tapaluokka,@ (a mood that represents an act or state (not as a fact but) as contingent or possible) }
+{ optatiivi,  tapaluokka,@ noun.communication:Sanskrit,;c noun.location:Kreikka,;r (a mood (as in Greek or Sanskrit) that expresses a wish or hope; expressed in English by modal verbs) }
+{ imperatiivimuoto,  imperatiivi,  käskymuoto,  käskytapa,  tapaluokka,@ (a mood that expresses an intention to influence the listener's behavior) }
+{ interrogatiivinen_tapaluokka<unconfirmed/>,  kysyvä,  tapaluokka,@ (some linguists consider interrogative sentences to constitute a mood) }
+{ modaliteetti,  moodi1,  looginen_yhteys,@ (a classification of propositions on the basis of whether they claim necessity or possibility or impossibility) }
+{ anaforinen_relaatio<unconfirmed/>,  kieliopillinen_suhde,@ (the relation between an anaphor and its antecedent) }
+{ verbin_pääluokka,  pääluokka,  kieliopillinen_suhde,@ noun.cognition:kielentutkimus,;c ((linguistics) the grammatical relation (active or passive) of the grammatical subject of a verb to the action that the verb denotes) }
+{ [ aktiivi, passiivi,! passiivimuoto,!]  verbin_pääluokka,@ (the voice used to indicate that the grammatical subject of the verb is performing the action or causing the happening denoted by the verb; "`The boy threw the ball' uses the active voice") }
+{ [ passiivi, aktiivi,! adj.all:passiivi-,+ adj.all:passiivimuotoinen,+]  [ passiivimuoto, aktiivi,! adj.all:passiivi-,+ adj.all:passiivimuotoinen,+]  verbin_pääluokka,@ (the voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb; "`The ball was thrown by the boy' uses the passive voice"; "`The ball was thrown' is an abbreviated passive") }
+{ [ taivutus, verb.communication:taivuttaa5,+ adj.all:taivutuksellinen,+]  [ taivutuspääte, verb.communication:taivuttaa5,+]  kieliopillinen_suhde,@ (a change in the form of a word (usually by adding a suffix) to indicate a change in its grammatical function) }
+{ konjugaatio,  taivuttaminen,  taivutus1,  taivutus,@ (the inflection of verbs) }
+{ [ taivutus2, verb.communication:taivuttaa6,+]  taivutus,@ (the inflection of nouns and pronouns and adjectives in Indo-European languages) }
+{ muotosarja,  taivutus,@ (systematic arrangement of all the inflected forms of a word) }
+{ monikolliseksi_tekeminen,  monikkomuodon_tekeminen,  taivutus,@ (the act of pluralizing or attributing plurality to) }
+{ [ aspekti, adj.pert:aspektuaalinen,+]  kieliopillinen_suhde,@ (the beginning or duration or completion or repetition of the action of a verb) }
+{ perfektiivinen_aspekti,  perfektiivi,  aspekti,@ (the aspect of a verb that expresses a completed action) }
+{ imperfektiivi,  imperfektiivinen_aspekti,  kestomuoto,@ (aspect without regard to the beginning or completion of the action of the verb) }
+{ kestomuoto,  duratiivinen_aspekti,  aspekti,@ (the aspect of a verb that expresses its duration) }
+{ progressiivinen_aspekti,  kestomuoto,@ (the aspect of a verb that expresses its on-going action) }
+{ inkoatiivinen_aspekti,  aspekti,@ (aspect with regard to the beginning of the action of the verb) }
+{ iteratiivi,  toistuva<idiomatic_pos/>,  toistuva_muoto,  aspekti,@ (the aspect of the verb that expresses the repetition of an action) }
+{ kesto-,  kestomuoto1,  imperfekti,  noun.communication:aikamuoto,@ (a tense of verbs used in describing action that is on-going) }
+{ kestopreesens,  kesto-,@ (a tense used to express action that is on-going at the time of utterance) }
+{ perfekti,  perfektimuoto,  noun.communication:aikamuoto,@ (a tense of verbs used in describing action that has been completed (sometimes regarded as perfective aspect)) }
+{ perfekti1,  perfekti,@ (a perfective tense used to express action completed in the present; "`I have finished' is an example of the present perfect") }
+{ preteriti,  noun.communication:imperfekti,@ (a term formerly used to refer to the simple past tense) }
+{ pluskvamperfekti,  perfekti,@ (a perfective tense used to express action completed in the past; "`I had finished' is an example of the past perfect") }
+{ kestoimperfekti,  kesto-,@ (a progressive tense used to describe on-going action in the past; "`I had been running' is an example of the past progressive") }
+{ futuurin_perfekti,  futuurin_perfektin_aikamuoto<unconfirmed/>,  perfekti,@ (a perfective tense used to describe action that will be completed in the future; "`I will have finished' is an example of the future perfect") }
+{ futuurin_progressiivi<unconfirmed/>,  futuurin_progressiivi1,  futuurin_kestomuoto,  kesto-,@ (a progressive tense used to express action that will be on-going in the future; "`I will be running' is an example of the future progressive") }
+{ semanttinen_suhde,  kielellinen_suhde,@ (a relation between meanings) }
+{ hyponymia,  alakäsitteisyys,  semanttinen_suhde,@ (the semantic relation of being subordinate or belonging to a lower rank or class) }
+{ hypernymia,  yläkäsitteisyys,  semanttinen_suhde,@ (the semantic relation of being superordinate or belonging to a higher rank or class) }
+{ [ synonymia, noun.person:synonymisti,+ adj.all:synonyyminen,+]  semanttinen_suhde,@ (the semantic relation that holds between two words that can (in a given context) express the same meaning) }
+{ antonymia,  merkitysten_vastakkaisuus,  semanttinen_suhde,@ (the semantic relation that holds between two words that can (in a given context) express opposite meanings) }
+{ holonymia,  merkityksen_kokonaiskäsitteisyys,  semanttinen_suhde,@ (the semantic relation that holds between a whole and its parts) }
+{ meronymia,  merkityksen_osakäsitteisyys,  semanttinen_suhde,@ (the semantic relation that holds between a part and the whole) }
+{ troponyymi,  semanttinen_suhde,@ (the semantic relation of being a manner of does something) }
+{ homonymia,  kielellinen_suhde,@ (the relation between two words that are spelled the same way but differ in meaning or the relation between two words that are pronounced the same way but differ in meaning) }
+{ osa,  noun.Tops:suhde,@ meronymia,#p (something determined in relation to something that includes it; "he wanted to feel a part of something bigger than himself"; "I read a portion of the manuscript"; "the smaller component is hard to reach"; "the animal constituent of plankton") }
+{ perusta2,  pohja2,  perusaines,  tärkein_raaka-aine,  osa,@ (the most important or necessary part of something; "the basis of this drink is orange juice") }
+{ yksityiskohta,  erä,  osa,@ (a small part that can be considered separately from the whole; "it was perfect in all details") }
+{ kohokohta,  tähtihetki,  yksityiskohta,@ (the most interesting or memorable part; "the highlight of the tour was our visit to the Vatican") }
+{ yksikkö,  osa,@ (an individual or group or structure or other entity regarded as a structural or functional constituent of a whole; "the reduced the number of units and installations"; "the word is a basic linguistic unit") }
+{ [ jäsen, noun.group:jäsenistö1,+ noun.state:jäsenyys,+]  osa,@ (anything that belongs to a set or class; "snakes are members of the class Reptilia"; "members of the opposite sex") }
+{ loput,  [ jäännös, adj.pert:jäännös-,+]  osa,@ (something left after other parts have been taken away; "there was no remainder"; "he threw away the rest"; "he took what he wanted and I got the balance") }
+{ jäänne,  [ jäännös1, verb.stative:jäädä_jäljelle,+]  [ jäämä, verb.stative:jäädä_jäljelle,+]  ripe,  loput,@ (a small part or portion that remains after the main part no longer exists) }
+{ osa<broader/>1,  osa,@ (a part of a part) }
+{ hengenheimolaisuus,  samankaltaisuus,  noun.Tops:suhde,@ (a close connection marked by community of interests or similarity in nature or character; "found a natural affinity with the immigrants"; "felt a deep kinship with the other students"; "anthropology's kinship with the humanities") }
+{ suhteet1,  välit,  hyvä_suhde,  hyvät_välit,  yhteisymmärrys,  hengenheimolaisuus,@ (a relationship of mutual understanding or trust and agreement between people) }
+{ [ sympatia, adj.all:samanlainen7^sympaattinen2,+ verb.emotion:sympata,+ verb.emotion:sympatisoida,+]  yhteisymmärrys1,  hengenheimolaisuus,@ (a relation of affinity or harmony between people; whatever affects one correspondingly affects the other; "the two of them were in close sympathy") }
+{ yhteisymmärrys2,  keskinäinen_kiintymys,  sympatia,@ (sympathy of each person for the other) }
+{ sukulaisuus1,  fylogeneettinen_suhde,  sukulaisuus2,@ noun.cognition:biologia,;c ((biology) state of relationship between organisms or groups of organisms resulting in resemblance in structure or structural parts; "in anatomical structure prehistoric man shows close affinity with modern humans") }
+{ [ sukulaisuus2, noun.group:suku,+ noun.person:sukulainen2,+]  [ sukulaisuussuhde, noun.person:sukulainen,+]  noun.Tops:suhde,@ noun.cognition:antropologia,;c ((anthropology) relatedness or connection by blood or marriage or adoption) }
+{ syntyperä,  sukulinja,  sukuperä,  sukulaisuus3,  sukulaisuus2,@ (the kinship relation between an individual and the individual's progenitors) }
+{ [ avioliittoon_perustuva_sukulaisuus, verisukulaisuus,! veriveljeys,!]  sukulaisuus2,@ noun.cognition:antropologia,;c ((anthropology) kinship by marriage or adoption; not a blood relationship) }
+{ uusperhe<approximate/>,  avioliittoon_perustuva_sukulaisuus,@ (a family relationship by virtue of remarriage) }
+{ [ verisukulaisuus, avioliittoon_perustuva_sukulaisuus,! adj.all:sukua_oleva^verisukulainen<idiomatic_pos/>,+ adj.all:sukua_oleva^verisukulais-,+]  veriheimolaisuus,  sukulaisuus4,  [ veriveljeys, avioliittoon_perustuva_sukulaisuus,! adj.all:sukua_oleva^verisukulainen<idiomatic_pos/>,+ adj.all:sukua_oleva^verisukulais-,+]  sukulaisuus2,@ noun.cognition:antropologia,;c ((anthropology) related by blood) }
+{ syntyperä1,  sukujuuri,  sukulaisuus2,@ (the kinship relation of an offspring to the parents) }
+{ isyys,  sukulaisuus2,@ (the kinship relation between an offspring and the father) }
+{ [ äitiys, noun.person:äiti2,+]  sukulaisuus2,@ (the kinship relation between an offspring and the mother) }
+{ [ sisaruus, noun.person:sisar3,+ noun.person:sisko2,+]  sukulaisuus2,@ (the kinship relation between a female offspring and the siblings) }
+{ veljeys,  sukulaisuus2,@ (the kinship relation between a male offspring and the siblings) }
+{ bilateraalinen_polveutuminen,  syntyperä,@ (line of descent traced through both the maternal and paternal sides of the family) }
+{ jälkeläinen<broader/>,  syntyperä,@ (line of descent traced through one side of the family) }
+{ äidinpuoleinen_polveutuminen<unconfirmed/>,  jälkeläinen<broader/>,@ (line of descent traced through the maternal side of the family) }
+{ isänpuoleinen_sukulaisuus,  jälkeläinen<broader/>,@ (line of descent traced through the paternal side of the family) }
+{ aviollinen_suhde,  avioliitto,  sukulaisuus2,@ (the relationship between wife and husband) }
+{ suuruussuhde<unconfirmed/>,  noun.Tops:suhde,@ (a relation between magnitudes) }
+{ mittakaava,  suuruussuhde<unconfirmed/>,@ (relative magnitude; "they entertained on a grand scale") }
+{ suhde2,  mittasuhde,  suuruussuhde<unconfirmed/>,@ (the relation between things (or parts of things) with respect to their comparative quantity, magnitude, or degree; "an inordinate proportion of the book is given over to quotations"; "a dry martini has a large proportion of gin") }
+{ [ suhteellinen_osuus, verb.change:suhteuttaa,+]  suhde4,@ (the quotient obtained when the magnitude of a part is divided by the magnitude of the whole) }
+{ tapausten_kuolleisuusosuus,  tappavuus,  suhteellinen_osuus,@ (the number of cases of a disease ending in death divided by the number of cases of the disease; usually expressed as a percentage or as the number of deaths per 1000 cases) }
+{ tarttuvuusaste<unconfirmed/>,  suhteellinen_osuus,@ (the number of cases of a disease divided by the number of infections with the agent that causes the disease) }
+{ pitoisuus,  suhteellinen_osuus,@ (the proportion of a substance that is contained in a mixture or alloy etc.) }
+{ aste,  taso,  suhteellinen_osuus,@ (a quantity or amount or measure considered as a proportion of another quantity or amount or measure; "the literacy rate"; "the retention rate"; "the dropout rate") }
+{ [ mittakaava1, verb.change:mitoittaa1,+]  suhteellinen_osuus,@ (the ratio between the size of something and a representation of it; "the scale of the map"; "the scale of the model") }
+{ kultainen_leikkaus,  suhteellinen_osuus,@ (the proportional relation between two divisions of line or two dimension of a plane figure such that short : long :: long : (short + long)) }
+{ [ oikeasuhteisuus, adj.all:oikeassa_suhteessa_oleva,+ adj.all:oikeassa_suhteessa<idiomatic_pos/>,+]  yhteismitallisuus,  [ suhteellisuus, adj.all:suhteellinen3,+ adj.all:oikeassa_suhteessa_oleva^suhteellinen2,+ adj.all:tasapainossa_oleva^suhteellinen5,+]  verrannollisuus,@ (the relation of corresponding in degree or size or amount) }
+{ osuus,  prosentti,  sadasosa,  prosenttiosuus,  suhteellinen_osuus,@ (a proportion in relation to a whole (which is usually the amount per hundred)) }
+{ poissaoloprosentti,  osuus,@ (the percentage of workers who do not report to work) }
+{ lyöntikeskiarvo,  keskiarvo,@ noun.act:baseball,;c ((baseball) a measure of a batter's performance; the number of base hits divided by the number of official times at bat; "Ted Williams once had a batting average above .400") }
+{ osumatarkkuus<approximate/>,  suhteellinen_osuus,@ noun.act:baseball,;c ((an extension of the baseball term) the proportion of times some effort succeeds; "the salesman's batting average was 7 out of 12") }
+{ kenttäpelikeskiarvo<unconfirmed/>,  keskiarvo,@ noun.act:baseball,;c ((baseball) a measure of a fielder's performance; the number of assists and putouts divided by the number of chances) }
+{ käyttöaste,  osuus,@ (the percentage of all rental units (as in hotels) are occupied or rented at a given time) }
+{ sairaalan_käyttöaste,  käyttöaste,@ (occupancy rate for hospitals) }
+{ hotellin_käyttöaste,  käyttöaste,@ (occupancy rate for hotels) }
+{ vajaakäyttöaste,  osuus,@ (the percentage of all rental units (as in hotels) that are unoccupied or not rented at a given time) }
+{ työttömyysluku,  osuus,@ (the percentage of the work force that is unemployed at any given date) }
+{ suhde3,  suuruussuhde<unconfirmed/>,@ (the relative magnitudes of two quantities (usually expressed as a quotient)) }
+{ abundanssi,  runsaussuhde,  suhde3,@ noun.cognition:kemia,;c ((chemistry) the ratio of the total mass of an element in the earth's crust to the total mass of the earth's crust; expressed as a percentage or in parts per million) }
+{ abundanssi1,  runsaussuhde1,  suhde3,@ noun.cognition:fysiikka,;c ((physics) the ratio of the number of atoms of a specific isotope of an element to the total number of isotopes present) }
+{ albedo,  heijastussuhde,  heijastusteho,  suhde3,@ (the ratio of reflected to incident light) }
+{ kuvasuhde,  suhde3,@ (the ratio of the width to the height of a tv picture) }
+{ keskiarvo,  suhde3,@ noun.act:urheilu,;c ((sports) the ratio of successful performances to opportunities) }
+{ kalloindeksi,  kefaalinen_indeksi,  suhde3,@ (ratio (in percent) of the maximum breadth to the maximum length of a skull) }
+{ tehokkuus,  suhde3,@ (the ratio of the output to the input of any system) }
+{ hyvyysluku,  tehokkuusluku,  tehokkuus,@ (a numerical expression representing the efficiency of a given system, material, or procedure) }
+{ kasvoindeksi,  suhde3,@ (the ratio (in percent) of the maximum width to the maximum height of the face) }
+{ aukkosuhde,  f-luku,  aukkoarvo,  nopeus,  suhde3,@ (the ratio of the focal length to the diameter of a (camera) lens system) }
+{ frekvenssi,  suhteellinen_frekvenssi,  suhde3,@ (the ratio of the number of observations in a statistical category to the total number of observations) }
+{ hematokriitti,  verisolujen_tilavuusosuus_koko_verestä,  suhde3,@ (the ratio of the volume occupied by packed red blood cells to the volume of the whole blood as measured by a hematocrit) }
+{ älykkyysosamäärä,  ÄO,  suhde3,@ (a measure of a person's intelligence as indicated by an intelligence test; the ratio of a person's mental age to their chronological age (multiplied by 100)) }
+{ aikuisen_älykkyys,  älykkyysosamäärä,@ (the average IQ of the adults in a given population) }
+{ rajatapaus<unconfirmed/>,  älykkyysosamäärä,@ (the minimal IQ required for someone to function normally and independently in the world (without some form of institutional assistance)) }
+{ kuormituskerroin,  suhde3,@ noun.cognition:ilmailu1,;c ((aeronautics) the ratio of an external load to the weight of the aircraft (measured in g)) }
+{ vahinkosuhde,  suhde3,@ (the ratio of the annual claims paid by an insurance company to the premiums received) }
+{ Machin_luku,  Mach-luku,  suhde3,@ (the ratio of the speed of a moving body to the speed of sound) }
+{ [ suurennos, verb.change:suurentaa6,+ verb.change:suurentaa2,+]  suhde3,@ (the ratio of the size of an image to the size of the object) }
+{ keskipakoennakko,  suhde3,@ (the ratio of the force exerted by a machine to the force applied to it) }
+{ polttoaineenkulutus,  suhde3,@ (the ratio of the number of miles traveled to the number of gallons of gasoline burned) }
+{ vedonlyöntisuhde,  suhde3,@ (the ratio by which one better's wager is greater than that of another; "he offered odds of two to one") }
+{ suuruusluokka_kymmenjärjestelmässä,  suuruusluokka,  suhde3,@ (a number assigned to the ratio of two quantities; two quantities are of the same order of magnitude if one is less than 10 times as large as the other; the number of magnitudes that the quantities differ is specified to within a power of 10) }
+{ lähdön_ja_tulon_suhdeluku,  suhde3,@ noun.attribute:taajuusvaste,#p (the output power of a transducer divided by the input power) }
+{ esiintyvyys,  prevalenssi,  vallitsevuus,  suhde3,@ noun.cognition:epidemiologia,;c ((epidemiology) the ratio (for a given time period) of the number of occurrences of a disease or event to the number of units at risk in the population) }
+{ voittokerroin,  P/E-luku,  suhde3,@ noun.artifact:osakemarkkinat,;c ((stock market) the price of a stock divided by its earnings) }
+{ tuottavuus,  tuottokyky,  suhde3,@ noun.cognition:taloustiede,;c ((economics) the ratio of the quantity and quality of units produced to the labor per unit of time) }
+{ [ verrannollisuus, adj.all:suhteellinen3^verrannollinen3,+]  suhde3,@ (a ratio of two quantities that is constant) }
+{ suhde4,  suhde3,@ (the ratio of two quantities to be divided) }
+{ taittokerroin,  taitekerroin,  suhde3,@ (the ratio of the velocity of light in a vacuum to that in a medium) }
+{ suhteellinen_kosteus,  suhde3,@ (the ratio of the amount of water in the air at a give temperature to the maximum amount it could hold at that temperature; expressed as a percentage) }
+{ hengitysosamäärä,  suhde3,@ (the ratio of the volume of carbon dioxide expired to the volume of oxygen consumed by an organism or cell in a given period of time) }
+{ turvallisuuskerroin,  suhde3,@ (the ratio of the breaking stress of a structure to the estimated maximum stress in ordinary use) }
+{ signaali-kohinasuhde,  signaali/kohinasuhde,  signaali/kohina,  S/N,  suhde3,@ (the ratio of signal intensity to noise intensity) }
+{ [ stoikiometria, adj.pert:stoikiometrinen,+]  stökiometria,  suhde3,@ noun.cognition:kemia,;c ((chemistry) the relation between the quantities of substances that take part in a reaction or form a compound (typically a ratio of whole integers)) }
+{ suhde<broader/>5,  suhde3,@ (the ratio of the inductance of a circuit in henries to its resistance in ohms) }
+{ vaihtumisnopeus,  suhde3,@ (the ratio of the number of workers that had to be replaced in a given time period to the average number of workers) }
+{ kuormitus,  suhde3,@ (the ratio of the gross weight of an airplane to some factor determining its lift) }
+{ teho-painosuhde,  kuormitus,@ (the ratio of the weight of an airplane to its engine power) }
+{ siipikuormitus,  kuormitus,@ (the ratio of the weight of an airplane to its wingspan) }
+{ siipikuormitus1,  kuormitus,@ (the ratio of the weight of an airplane to its wing area) }
+{ esiintymistiheys,  suhteellinen_esiintymistiheys,  frekvenssi,@ (the relative frequency of occurrence of something) }
+{ sairastuvuus,  esiintymistiheys,@ (the relative incidence of a particular disease) }
+{ hillitseminen,  noun.Tops:suhde,@ (a relation of constraint of one entity (thing or person or group) by another; "measures for the control of disease"; "they instituted controls over drinking on campus") }
+{ suunta,  noun.attribute:sijainti,@ adj.all:lähtevä,= adj.all:tuleva2,= (the spatial relation between something and the course along which it points or moves; "he checked the direction and velocity of the wind") }
+{ fasadi,  julkisivu,  suunta,@ (the direction in which something (such as a building) faces) }
+{ suunnistus,  suunta,@ adj.all:vaakasuora,= adj.all:vertikaalinen,= adj.all:kalteva1,= (position or alignment relative to points of the compass or other specific directions) }
+{ asento,  suunnistus,@ (position of aircraft or spacecraft relative to a frame of reference (the horizon or direction of motion)) }
+{ suunta<approximate/>1,  asento,@ (attitude of an aircraft in flight when allowed to take its own orientation) }
+{ [ vaakasuora, adj.all:vaakasuora,+]  suunnistus,@ (something that is oriented horizontally) }
+{ pystysuora,  suunnistus,@ (something that is oriented vertically) }
+{ oppositio,  suunta,@ (a direction opposite to another) }
+{ [ kohtisuoruus, adj.all:kohtisuora3,+]  oppositio,@ (the relation of opposition between things at right angles) }
+{ [ antipodaalisuus, adj.pert:antipodinen,+]  [ vastakkaisuus, adj.pert:vastakkainen,+]  antipodaalinen_oppositio,  diametraalinen_oppositio,  oppositio,@ (the relation of opposition along a diameter) }
+{ enantiomorfisuus,  peilikuvien_suhde<unconfirmed/>,  oppositio,@ (the relation of opposition between crystals or molecules that are reflections of one another) }
+{ [ tuulen_suunta, tuulen_suunta1,!]  suunta,@ (the direction from which the wind is coming) }
+{ luuvartti,  tuulenpuoli,  ylähanka,  tuulen_suunta,@ (the side toward the wind) }
+{ [ tuulen_suunta1, tuulen_suunta,!]  suunta,@ (the direction in which the wind is blowing) }
+{ suojanpuoli,  tuulen_suunta1,@ (the side sheltered from the wind) }
+{ merta_kohti<idiomatic_pos/>,  suunta,@ (the direction toward the sea) }
+{ ilmansuunta,  pääilmansuunta,  suunnistus,@ (one of the four major division of the compass; "the wind is coming from that quarter") }
+{ kompassipiiru,  piiru,  kompassisuunta,  ilmansuunta1,  suunta,@ (any of 32 horizontal directions indicated on the card of a compass; "he checked the point on his compass") }
+{ pääilmansuunta1,  kompassipiiru,@ (one of the four main compass points) }
+{ pohjoinen,  suoraan_pohjoiseen,  N,  pääilmansuunta1,@ (the cardinal compass point that is at 0 or 360 degrees) }
+{ pohjoisesta_piiru_itään,  NbE,  kompassipiiru,@ (the compass point that is one point east (clockwise) of due north) }
+{ pohjoinen1,  magneettinen_pohjoinen,  neulapohjoinen,  suunta,@ (the direction in which a compass needle points) }
+{ pohjoiskoillinen,  NNE,  kompassipiiru,@ (the compass point that is midway between north and northeast) }
+{ koillisesta_piiru_pohjoiseen<idiomatic_pos/>,  NEbN,  kompassipiiru,@ (the compass point that is one point north of northeast) }
+{ koillinen,  NE,  kompassipiiru,@ (the compass point midway between north and east; at 45 degrees) }
+{ koillisesta_piiru_itään<idiomatic_pos/>,  NEbE,  kompassipiiru,@ (the compass point that is one point east of northeast) }
+{ itäkoillinen,  kompassipiiru,@ (the compass point midway between northeast and east) }
+{ idästä_piiru_pohjoiseen,  kompassipiiru,@ (the compass point that is one point north of due east) }
+{ itä,  I,  pääilmansuunta1,@ (the cardinal compass point that is at 90 degrees) }
+{ idästä_piiru_etelään,  kompassipiiru,@ (the compass point that is one point south of due east) }
+{ itäkaakko,  kompassipiiru,@ (the compass point midway between east and southeast) }
+{ kaakosta_piiru_itään<idiomatic_pos/>,  SEbE,  kompassipiiru,@ (the compass point that is one point east of southeast) }
+{ kaakko,  kaakkoon<idiomatic_pos/>,  SE,  kompassipiiru,@ (the compass point midway between south and east; at 135 degrees) }
+{ kaakosta_piiru_etelään<idiomatic_pos/>,  SEbS,  kompassipiiru,@ (the compass point that is one point south of southeast) }
+{ eteläkaakko,  sou'-sou'-east,  SSE,  kompassipiiru,@ (the compass point midway between south and southeast) }
+{ etelästä_piiru_itään,  SbE,  kompassipiiru,@ (the compass point that is one point east of due south) }
+{ etelä,  suoraan_etelään,  etelään<idiomatic_pos/>,  S,  pääilmansuunta1,@ (the cardinal compass point that is at 180 degrees) }
+{ etelästä_piiru_länteen,  SbW,  kompassipiiru,@ (the compass point that is one point west of due south) }
+{ etelälounas,  sou'-sou'-west,  SSW,  kompassipiiru,@ (the compass point midway between south and southwest) }
+{ lounaasta_piiru_etelään<idiomatic_pos/>,  SWbS,  kompassipiiru,@ (the compass point that is one point south of southwest) }
+{ lounas,  sou'-west,  SW,  kompassipiiru,@ (the compass point midway between south and west; at 225 degrees) }
+{ lounaasta_piiru_länteen<idiomatic_pos/>,  SWbW,  kompassipiiru,@ (the compass point that is one point west of southwest) }
+{ länsilounas,  WSW,  kompassipiiru,@ (the compass point midway between west and southwest) }
+{ lännestä_etelään<idiomatic_pos/>,  lännestä_piiru_etelään<idiomatic_pos/>,  WbS,  kompassipiiru,@ (the compass point that is one point south of due west) }
+{ länsi,  läntinen<idiomatic_pos/>,  L,  pääilmansuunta1,@ (the cardinal compass point that is a 270 degrees) }
+{ lännestä_piiru_pohjoiseen<idiomatic_pos/>,  lännestä_pohjoiseen<idiomatic_pos/>,  WbN,  kompassipiiru,@ (the compass point that is one point north of due west) }
+{ länsiluode,  WNW,  kompassipiiru,@ (the compass point midway between west and northwest) }
+{ luoteesta_piiru_länteen<idiomatic_pos/>,  NWbW,  kompassipiiru,@ (the compass point that is one point west of northwest) }
+{ luode,  NW,  kompassipiiru,@ (the compass point midway between north and west; at 315 degrees) }
+{ luoteesta_piiru_pohjoiseen<idiomatic_pos/>,  NWbN,  kompassipiiru,@ (the compass point that is one point north of northwest) }
+{ pohjoisluode,  NNW,  kompassipiiru,@ (the compass point that is midway between north and northwest) }
+{ pohjoisesta_piiru_länteen,  NbW,  kompassipiiru,@ (the compass point that is one point west of due north) }
+{ pohjoinen2,  suunta,@ (the direction corresponding to the northward cardinal compass point) }
+{ koillinen1,  suunta,@ (the direction corresponding to the northeastward compass point) }
+{ itä1,  suunta,@ (the direction corresponding to the eastward cardinal compass point) }
+{ kaakko1,  suunta,@ (the direction corresponding to the southeastward compass point) }
+{ etelä1,  suunta,@ (the direction corresponding to the southward cardinal compass point) }
+{ lounas1,  suunta,@ (the direction corresponding to the southwestward compass point) }
+{ länsi1,  suunta,@ (the direction corresponding to the westward cardinal compass point) }
+{ luode1,  suunta,@ (the direction corresponding to the northwestward compass point) }
+{ kiertymiskulma<unconfirmed/>,  noun.attribute:sijainti,@ (relation by which any position with respect to any other position is established) }
+{ [ korkeus, adj.pert:korkeus-,+]  korkeuskulma,  kiertymiskulma<unconfirmed/>,@ (angular distance above the horizon (especially of a celestial object)) }
+{ syvyyskulma,  kiertymiskulma<unconfirmed/>,@ (angular distance below the horizon (especially of a celestial object)) }
+{ liikesuhde,  noun.Tops:suhde,@ (a relation between different business enterprises) }
+{ kilpailu,  liikesuhde,@ (a business relation in which two parties compete to gain customers; "business competition can be fiendish at times") }
+{ hintasota,  hintakilpailu,  kilpailu,@ (intense competition in which competitors cut retail prices to gain business) }
+{ asiakkuus,  liikesuhde,@ (relation of a client to a patron) }
+{ ammattisuhde,  noun.Tops:sosiaaliset_suhteet,@ (the relation that exists when one person requests and is granted professional help from a qualified source) }
+{ potilas-lääkärisuhde,  ammattisuhde,@ (the professional relation between a health care professional and a patient) }
+{ lääkärin_ja_potilaan_suhde,  potilas-lääkärisuhde,@ (the responsibility of a physician to act in the best interests of the patient) }
+{ hoitajan_potilassuhde,  potilas-lääkärisuhde,@ (the responsibility of a nurse to act in the best interests of the patient) }
+{ oikeussuhde,  ammattisuhde,@ noun.group:laki,;c (a professional relation that is regulated by law (as between a lawyer and a client)) }
+{ luottamussuhde,  oikeussuhde,@ noun.group:laki,;c (the legal relation that exists when one person justifiably places reliance on another whose aid or protection is sought in some matter) }
+{ pankin_ja_tallettajan_suhde,  luottamussuhde,@ noun.group:laki,;c (the responsibility of a bank to act in the best interests of the depositors) }
+{ neuvonantajan_ja_hänen_asiakkaansa_luottamuksellinen_suhde,  luottamussuhde,@ noun.group:laki,;c (the responsibility of a confidential adviser to act in the best interest of the advisee) }
+{ edunvalvojan_vastuu_holhotistaan<approximate/>,  luottamussuhde,@ noun.group:laki,;c (the responsibility of a conservator to act in the best interests of the ward) }
+{ johtajan_ja_sijoittajan_välinen_luottamussuhde<unconfirmed/>,  sijoittajasuhteet<narrower/>,  luottamussuhde,@ noun.group:laki,;c (the responsibility of corporate directors to act in the best interests of stockholders) }
+{ pesänjakajan_vastuu<unconfirmed/>,  luottamussuhde,@ noun.group:laki,;c (the responsibility of an executor (or administrator) of an estate to act in the best interests of the heir) }
+{ luottamussuhde1,  luottamussuhde,@ noun.group:laki,;c (the responsibility of a lawyer to act in the best interests of the client) }
+{ yhtiötoveruus,  luottamussuhde,@ noun.group:laki,;c (the responsibility of partners to act in one another's best interests) }
+{ toimitsijamiehen_ja_velkojan_suhde<unconfirmed/>,  luottamussuhde,@ noun.group:laki,;c (the responsibility of receiver or trustee in bankruptcy to act in the best interests of the creditor) }
+{ luottamussuhde<unconfirmed/>2,  luottamussuhde,@ noun.group:laki,;c (the responsibility of a trustee to act in the best interests of the beneficiary) }
+{ opetussuhde<narrower/>,  ammattisuhde,@ (a professional relation between instructors and those they instruct) }
+{ opettaja-oppilassuhde,  opetussuhde<narrower/>,@ (the academic relation between teachers and their students) }
+{ [ politikointi<approximate/>, noun.person:poliitikko1,+ noun.person:poliitikko,+]  poliittinen_suhde<approximate/>,  noun.Tops:sosiaaliset_suhteet,@ (social relations involving intrigue to gain authority or power; "office politics is often counterproductive") }
+{ kemiat,  toisiinsa_sopiva_luonteenlaatu,  keskinäiset_reaktiot,  noun.Tops:sosiaaliset_suhteet,@ (the way two individuals relate to each other; "their chemistry was wrong from the beginning -- they hated each other"; "a mysterious alchemy brought them together") }
+{ [ vastavuoroisuus, adj.all:vastavuoroinen3,+]  vuorovaikutteisuus,  noun.Tops:suhde,@ (a relation of mutual dependence or action or influence) }
+{ toisiaan_täydentävyys,  vastavuoroisuus,@ (the interrelation of reciprocity whereby one thing supplements or depends on the other; "the complementarity of the sexes") }
+{ [ korrelaatio, adj.pert:korrelatiivinen,+]  vastaavuussuhde,  vastavuoroisuus,@ (a reciprocal relation between two or more things) }
+{ [ molemminpuolisuus, adj.all:jaettu6^molemminpuolinen2,+ adj.all:molemminpuolinen1,+]  riippuvuussuhde,  vastavuoroisuus,@ (a reciprocal relation between interdependent entities (objects or individuals or groups)) }
+{ kommensalismi,  pöytävierassuhde,  molemminpuolisuus,@ (the relation between two different kinds of organisms when one receives benefits from the other without damaging it) }
+{ loiselämä,  loisinta,  molemminpuolisuus,@ (the relation between two different kinds of organisms in which one receives benefits from the other by causing damage to it (usually not fatal damage)) }
+{ [ symbioosi, adj.all:riippuvuussuhteessa_oleva^symbioottinen,+]  mutualismi,  molemminpuolisuus,@ (the relation between two different species of organisms that are interdependent; each gains benefits from the other) }
+{ symbioosi1,  symbioosi,@ (a symbiotic relation in which one organism protects the other in return for some kind of food product) }
+{ vastaluku,  vastakohta5,@ noun.cognition:matematiikka,;c ((mathematics) one of a pair of numbers whose sum is zero; the additive inverse of -5 is +5) }
+{ käänteisluku,  vastakohta5,@ noun.cognition:matematiikka,;c ((mathematics) one of a pair of numbers whose product is 1: the reciprocal of 2/3 is 3/2; the multiplicative inverse of 7 is 1/7) }
+{ vastavuoroisuus1,  [ molemminpuolisuus1, adj.all:jaettu6^molemminpuolinen2,+]  vastavuoroisuus,@ (a reciprocality of sentiments; "the mutuality of their affection was obvious") }
+{ vastakohta1,  vastavuoroisuus,@ (something (a term or expression or concept) that has a reciprocal relation to something else; "risk is the reciprocal of safety") }
+{ [ jakaminen, verb.stative:jakaa1,+]  molemminpuolisuus,@ (having in common; "the sharing of electrons creates molecules") }
+{ [ jakaminen1, verb.possession:jakaa10,+]  molemminpuolisuus,@ (using or enjoying something jointly with others) }
+{ osituskäyttö,  jakaminen1,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the use of a central computer by many users simultaneously) }
+{ keskinäinen_suhde,  [ toisiinsa_yhdistyneisyys<unconfirmed/>, adj.all:verkkomainen^toisiinsa_yhteydessä_olevat,+]  noun.Tops:suhde,@ (mutual or reciprocal relation or relatedness; "interrelationships of animal structure and function") }
+{ psykodynamiikka,  keskinäinen_suhde,@ (the interrelation of conscious and unconscious processes and emotions that determine personality and motivation) }
+{ ajallinen_suhde,  noun.Tops:suhde,@ adj.all:anterogradinen,= adj.all:seuraava1,= adj.all:retrogradinen,= adj.all:edeltävä2,= (a relation involving time) }
+{ [ edelläkävijä, adj.all:edellä_käyvä,+ adj.all:edeltävä,+]  [ edeltäjä, adj.all:edellä_käyvä,+ adj.all:edeltävä,+]  uranuurtaja,  ajallinen_suhde,@ (anything that precedes something similar in time; "phrenology was an antecedent of modern neuroscience") }
+{ [ kronologia, adj.pert:kronologinen,+]  ajallinen_suhde,@ (an arrangement of events in time) }
+{ [ synkronisuus, eriaikaisuus,!]  [ synkronia, verb.communication:synkronoida,+ verb.change:synkronoida,+ adj.all:synkroninen1,+]  samanaikaisuus,  [ samantahtisuus, adj.all:samanaikainen1,+]  [ synkronointi, eriaikaisuus,!]  synkronisaatio,  [ synkronisointi, eriaikaisuus,!]  ajallinen_suhde,@ (the relation that exists when things occur at the same time; "the drug produces an increased synchrony of the brain waves") }
+{ [ eriaikaisuus, synkronisuus,! synkronointi,! synkronisointi,!]  ajallinen_suhde,@ (the relation that exists when things occur at unrelated times; "the stimulus produced a desynchronizing of the brain waves") }
+{ ensimmäinen,  numero_yksi,  ykkönen,  noun.state:asema5,@ (the first or highest in an ordering or series; "He wanted to be the first") }
+{ [ ensin_mainittu, jälkimmäinen<idiomatic_pos/>,! viimeksi_mainittu,!]  ensimmäinen,@ (the first of two or the first mentioned of two; "Tom and Dick were both heroes but only the former is remembered today") }
+{ [ toinen, adj.all:järjestys-^toinen<ordinal_number/>5,+]  noun.state:asema5,@ (following the first in an ordering or series; "he came in a close second") }
+{ [ jälkimmäinen<idiomatic_pos/>, ensin_mainittu,!]  [ viimeksi_mainittu, ensin_mainittu,!]  toinen,@ (the second of two or the second mentioned of two; "Tom and Dick were both heroes but only the latter is remembered today") }
+{ kolmas,  noun.state:asema5,@ (following the second position in an ordering or series; "a distant third"; "he answered the first question willingly, the second reluctantly, and the third with resentment") }
+{ neljäs,  noun.state:asema5,@ (following the third position; number four in a countable series) }
+{ [ viides, adj.all:järjestys-^viides<ordinal_number/>,+]  noun.state:asema5,@ (position five in a countable series of things; "he was fifth out of several hundred runners") }
+{ kuudes,  noun.state:asema5,@ (position six in a countable series of things) }
+{ [ seitsemäs, adj.all:järjestys-^seitsemäs<ordinal_number/>,+]  noun.state:asema5,@ (position seven in a countable series of things) }
+{ kahdeksas,  noun.state:asema5,@ (position eight in a countable series of things) }
+{ yhdeksäs,  noun.state:asema5,@ (position nine in a countable series of things; "going into the ninth they were a run ahead") }
+{ kymmenes,  noun.state:asema5,@ (position ten in a countable series of things) }
+{ yhdestoista,  noun.state:asema5,@ (position 11 in a countable series of things) }
+{ kahdestoista,  noun.state:asema5,@ (position 12 in a countable series of things) }
+{ kolmastoista,  noun.state:asema5,@ (position 13 in a countable series of things) }
+{ neljästoista,  noun.state:asema5,@ (position 14 in a countable series of things) }
+{ [ viidestoista, adj.all:järjestys-^viidestoista<ordinal_number/>,+]  noun.state:asema5,@ (position 15 in a countable series of things) }
+{ kuusitoista,  noun.state:asema5,@ (position 16 in a countable series of things) }
+{ [ seitsemästoista, adj.all:järjestys-^seitsemästoista<ordinal_number/>,+]  noun.state:asema5,@ (position 17 in a countable series of things) }
+{ kahdeksastoista,  noun.state:asema5,@ (position 18 in a countable series of things) }
+{ yhdeksästoista,  noun.state:asema5,@ (position 19 in a countable series of things) }
+{ kahdeskymmenes,  noun.state:asema5,@ (position 20 in a countable series of things) }
+{ kolmaskymmenes,  noun.state:asema5,@ (position 30 in a countable series of things) }
+{ neljäskymmenes,  noun.state:asema5,@ (position 40 in a countable series of things) }
+{ [ viideskymmenes, adj.all:järjestys-^viideskymmenes<ordinal_number/>,+]  noun.state:asema5,@ (position 50 in a countable series of things) }
+{ kuudeskymmenes,  noun.state:asema5,@ (position 60 in a countable series of things) }
+{ [ seitsemäskymmenes, adj.all:järjestys-^seitsemäskymmenes<ordinal_number/>,+]  noun.state:asema5,@ (position 70 in a countable series of things) }
+{ kahdeksaskymmenes,  noun.state:asema5,@ (position 80 in a countable series of things) }
+{ yhdeksäskymmenes,  noun.state:asema5,@ (position 90 in a countable series of things) }
+{ sadas,  noun.state:asema5,@ (position 100 in a countable series of things) }
+{ tuhannes,  noun.state:asema5,@ (position 1,000 in a countable series of things) }
+{ miljoonas,  noun.state:asema5,@ (position 1,000,000 in a countable series of things) }
+{ miljardis<idiomatic_pos/>,  noun.state:asema5,@ noun.location:Yhdysvallat,;r (position 1,000,000,000 in a countable series of things) }
+{ viimeinen<idiomatic_pos/>,  noun.state:asema5,@ (the last or lowest in an ordering or series; "he was the last to leave"; "he finished an inglorious last") }
+{ arvoasteikko,  mitta-asteikko,  asteikko,  noun.communication:mittapuu,@ (an ordered reference standard; "judging on a scale of 1 to 10") }
+{ boforiasteikko,  tuulen_voimakkuuden_asteikko,  arvoasteikko,@ (an international scale of wind force from 0 (calm air) to 12 (hurricane)) }
+{ [ indeksi, verb.cognition:indeksoida,+]  arvoasteikko,@ (a numerical scale used to compare variables with one another or with some reference number) }
+{ logaritminen_asteikko,  arvoasteikko,@ (scale on which actual distances from the origin are proportional to the logarithms of the corresponding scale numbers) }
+{ Mercallin_asteikko,  arvoasteikko,@ noun.cognition:geologia,;c (a scale formerly used to describe the magnitude of an earthquake; an earthquake detected only by seismographs is a I and an earthquake that destroys all buildings is a XII) }
+{ Mohsin_kovuusasteikko,  arvoasteikko,@ (a scale of hardness of solids; talc is 0 and diamond is 10; ordering is determined by which substance can scratch another substance) }
+{ Richterin_asteikko,  arvoasteikko,@ noun.cognition:geologia,;c (a logarithmic scale of 1 to 10 formerly used to express the magnitude of an earthquake on the basis of the size of seismograph oscillations) }
+{ momenttimagnitudi,  arvoasteikko,@ noun.cognition:geologia,;c (a logarithmic scale of 1 to 10 (a successor to the Richter scale) that enables seismologists to compare the energy released by different earthquakes on the basis of the area of the geological fault that ruptured in the quake) }
+{ lämpötila-asteikko,  noun.quantity:mittausjärjestelmä,@ arvoasteikko,@ (a system of measuring temperature) }
+{ Celsius-asteikko,  celsiusasteikko,  lämpötila-asteikko,@ (a temperature scale that defines the freezing point of water as 0 degrees and the boiling point of water as 100 degrees) }
+{ Fahrenheit-asteikko,  lämpötila-asteikko,@ (a temperature scale that defines the freezing point of water as 32 degrees and the boiling point of water a 212 degrees) }
+{ Kelvin-asteikko,  absoluuttisen_lämpötilan_asteikko,  lämpötila-asteikko,@ (a temperature scale that defines absolute zero as 0 degrees; water freezes at 273.16 degrees and boils at 373.16 degrees) }
+{ Rankine-asteikko,  lämpötila-asteikko,@ (a scale of absolute temperature in Fahrenheit degrees; the freezing point of water is 491.69 degrees and the boiling point of water is 671.69 degrees) }
+{ Reaumur-asteikko,  lämpötila-asteikko,@ (a temperature scale on which water freezes at 0 degrees and boils at 80 degrees) }
+{ palkka-asteikko,  palkkaluokka,  arvoasteikko,@ (a schedule of wages paid for different jobs) }
+{ liukuva_asteikko,  palkka-asteikko,@ (a wage scale that fluctuates in response to the cost-of-living index) }
+{ [ vertailu, verb.cognition:verrata,+ verb.cognition:vertailla,+]  noun.Tops:suhde,@ (relation based on similarities and differences) }
+{ vertailu<broader/>1,  vertailu,@ (the kind of mental comparison that is expressed in similes or metaphors or allegories) }
+{ standardi,  noun.communication:mittapuu,@ (accepted or approved instance or example of a quantity or quality against which others are judged or measured or compared) }
+{ lähtökohta1,  vertailukohta,  noun.communication:mittapuu,@ (an imaginary line or standard by which things are measured or compared; "the established a baseline for the budget") }
+{ normi,  noun.communication:mittapuu,@ (a standard or model or pattern regarded as typical; "the current middle-class norm of two children per family") }
+{ vastakohtaisuus,  [ vastakkaisuus1, adj.all:eri2^vastakkainen8,+]  noun.Tops:suhde,@ (the relation between opposed entities) }
+{ [ vastakohta2, adj.pert:vastakkainen,+]  vastakohtaisuus,@ (direct opposite; "quiet: an antipode to focused busyness") }
+{ antiteesi,  [ vastakohta3, adj.all:eri2^vasta-4,+ adj.all:eri2^vastakkainen6,+]  vastakohtaisuus,@ (exact opposite; "his theory is the antithesis of mine") }
+{ ristiriita,  vastakohtaisuus,@ (opposition in a work of drama or fiction between characters or forces (especially an opposition that motivates the development of the plot); "this form of conflict is essential to Mann's writing") }
+{ vastakohta4,  täysi_vastakohta,  vastakohtaisuus,@ (the opposition or dissimilarity of things that are compared; "in contrast to", "by contrast") }
+{ kääntöpuoli,  vastakohtaisuus,@ noun.communication:trooppi,;u (a different aspect of something (especially the opposite aspect); "the flip side of your positive qualities sometimes get out of control"; "on the flip side of partnerships he talked about their competition") }
+{ vastakohtaisuus1,  kaksinaisuus,  vastakohtaisuus,@ (a relation between two opposite attributes or tendencies; "he viewed it as a balanced polarity between good and evil") }
+{ luokiteltava_vastakohta<unconfirmed/>,  vastakohtaisuus,@ (an opposition that is capable of being graded) }
+{ asteittainen_vastakohtaisuus,  luokiteltava_vastakohta<unconfirmed/>,@ (an opposition that can be graded between two extremes or poles) }
+{ [ polariteetti, adj.all:latautunut^polaarinen,+]  etumerkki,  vastakohtaisuus,@ (having an indicated pole (as the distinction between positive and negative electric charges); "he got the polarity of the battery reversed"; "charges of opposite sign") }
+{ [ positiivisuus, negatiivisuus,!]  polariteetti,@ (the character of the positive electric pole) }
+{ [ negatiivisuus, positiivisuus,!]  polariteetti,@ (the character of the negative electric pole) }
+{ oppositio<broader/>1,  vastakohtaisuus,@ (an opposition that has no intermediate grade; either one or the other) }
+{ toisiaan_täydentävyys1,  oppositio<broader/>1,@ (a relation between two opposite states or principles that together exhaust the possibilities) }
+{ [ kontradiktorisuus, adj.all:antonyyminen^kontradiktorinen,+]  vastakohtaisuus,@ (the relation that exists when opposites cannot coexist) }
+{ vastaväite,  vastakohtaisuus,@ (opposition between two conflicting forces or ideas) }
+{ [ dialektiikka, adj.pert:dialektinen,+ noun.person:dialektikko,+]  vastaväite,@ (a contradiction of ideas that serves as the determining factor in their interaction; "this situation created the inner dialectic of American history") }
+{ yhteensopimattomuus,  keskinäinen_poissulkeminen,  ristiriita1,  [ vastakkaisuus2, verb.communication:vastustaa6,+]  kontradiktorisuus,@ (the relation between propositions that cannot both be true at the same time) }
+{ päinvastaisuus,  vastakohtaisuus,@ (exact opposition; "public opinion to the contrary he is not guilty") }
+{ vastakohtaisuus2,  vastakohtaisuus,@ (the relation between contraries) }
+{ tertium_quid,  vastakohtaisuus,@ (some third thing similar to two opposites but distinct from both) }
+{ käänteisyys,  päinvastaisuus1,  vastakohtaisuus3,  vastakohtaisuus,@ (a relation of direct opposition; "we thought Sue was older than Bill but just the reverse was true") }
+{ vastakohta5,  vastakohtaisuus,@ (something inverted in sequence or character or effect; "when the direct approach failed he tried the inverse") }
+{ [ muutos, verb.change:muuttaa3,+]  noun.Tops:suhde,@ (a relational difference between states; especially between states before and after some event; "he attributed the change to their marriage") }
+{ muutos1,  muutos,@ (a significant change; "the difference in her is amazing"; "his support made a real difference") }
+{ gradientti<unconfirmed/>,  muutos,@ (a graded change in the magnitude of some physical quantity or dimension) }
+{ tiheysgradientti,  gradientti<unconfirmed/>,@ (a gradient in concentration of a solute as a function of distance through a solution; "the movement of a solute down its concentration gradient is called diffusion") }
+{ painovoimagradientti,  gradientti<unconfirmed/>,@ (a gradient in the gravitational forces acting on different parts of a nonspherical object; "the gravity gradient of the moon causes the ocean tides on Earth") }
+{ lämpötilagradientti,  gradientti<unconfirmed/>,@ (change in temperature as a function of distance (especially altitude)) }
+{ [ päätelmä, adj.pert:päätelmään_perustuva<approximate/>,+]  looginen_päätelmä,  syy-seuraussuhde,  implikaatio,  looginen_yhteys,@ (a logical relation between propositions p and q of the form `if p then q'; if p is true then q cannot be false) }
+{ [ antagonismi, adj.all:vihamielinen3^antagonistinen3,+ noun.person:antagonisti,+]  [ vastavoima, verb.social:vastustaa5,+ adj.all:vihamielinen3^vastustava1,+ adj.all:kielteinen5^vastakkainen5,+ noun.person:vastustaja1,+]  vastakohtaisuus,@ (the relation between opposing principles or forces or factors; "the inherent antagonism of capitalism and socialism") }
+{ hallituspohja,  pohja,@ ([empty]) }
+{ henkilösuhde,  suhde,@ ([empty]) }
+{ hiihtosuunnistus,  suunnistus,@ ([empty]) }
+{ huippuyksikkö,  yksikkö,@ ([empty]) }
+{ kiinteistöveroprosentti,  osuus,@ ([empty]) }
+{ korkotaso,  aste,@ ([empty]) }
+{ kustannustaso,  aste,@ ([empty]) }
+{ markkinaosuus,  osuus,@ ([empty]) }
+{ nimenmuutos,  muutos,@ ([empty]) }
+{ nykytaso,  aste,@ ([empty]) }
+{ omavastuuosuus,  osuus,@ ([empty]) }
+{ omistuspohja,  pohja,@ ([empty]) }
+{ parisuhde,  suhde,@ ([empty]) }
+{ peruslähtökohta,  perusta,@ ([empty]) }
+{ pohjaosa,  osa,@ ([empty]) }
+{ rahoitusosuus,  osuus,@ ([empty]) }
+{ rauhankumppanuus,  kumppanuus,@ ([empty]) }
+{ sääntömuutos,  muutos,@ ([empty]) }
+{ tulosyksikkö,  yksikkö,@ ([empty]) }
+{ tulotaso,  aste,@ ([empty]) }
+{ tuloveroprosentti,  osuus,@ ([empty]) }
+{ tutkimusyksikkö,  yksikkö,@ ([empty]) }
+{ työttömyysaste,  aste,@ ([empty]) }
+{ työttömyysprosentti,  osuus,@ ([empty]) }
+{ vaatimustaso,  aste,@ ([empty]) }
+{ voimasuhde,  suhde2,@ ([empty]) }
+{ voitto-osuus,  osuus,@ ([empty]) }
+{ vuokrataso,  aste,@ ([empty]) }

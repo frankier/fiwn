@@ -1,0 +1,120 @@
+
+FinnWordNet - suomen wordnet
+============================
+
+
+FinnWordNet
+-----------
+
+FinnWordNet on suomen wordnet. Se on luotu käännättämällä
+ammattikääntäjillä alkuperäisen englanninkielen Princeton WordNetin
+(PWN) version 3.0 sanat (sananmerkitykset) suomeksi ja yhdistämällä
+käännökset PWN:n rakenteeseen. FinnWordNet on osa
+FIN-CLARIN-infrastruktuurihanketta:
+
+    http://www.ling.helsinki.fi/finclarin/
+
+Lisätietoja FinnWordNetistä saa FinnWordNet-projektin WWW-sivulta:
+
+    http://www.ling.helsinki.fi/kieliteknologia/tutkimus/finnwordnet/
+
+
+Paketit ja hakemistot
+---------------------
+
+FinnWordNet-aineisto on saatavilla seuraavina paketteina:
+
+    fiwn_dict_fi-2.0.zip
+    fiwn_lex_fi-2.0.zip
+    fiwn_lists_fi-2.0.zip
+    fiwn_rels_fi-2.0.zip
+
+Paketit sisältävät seuraavat hakemistot (vastaavasti):
+
+    dict - FinnWordNetin datatiedostot PWN:n tietokantamuodossa
+
+    lex - FinnWordNet PWN:n lexicographer-tiedostomuodossa
+        (tietokannan lähdetiedostot)
+
+    lists - Erilaisia FinnWordNet-aineistosta tuotettuja listoja
+        (synonyymijoukot, käännökset, suhteet), kentät
+        sarkainmerkeillä erotettuina
+
+    rels - FinnWordNetin data relaatiomuodossa, kentät
+        sarkainmerkeillä erotettuina
+
+Lisätietoa saa kunkin hakemiston sisältämästä LUEMINUT-tiedostosta.
+
+Kaikkien pakettien yhteisessä UUTISET-tiedostossa on FinnWordNetiä
+koskevia uutisia.
+
+
+Yleistä FinnWordNet-aineiston muodosta
+--------------------------------------
+
+Koko FinnWordNet-aineiston merkistökoodaus on UTF-8.
+
+Rivinvaihdot ovat Unix-tyylisiä (pelkkä line feed, ASCII 0x0A).
+
+
+Lisenssi
+--------
+
+Koska FinnWordNet käyttää Princeton WordNetin rakennetta ja
+merkitysten selitteitä, se on PWN:n johdannainen ja siten PWN:n
+lisenssin alainen:
+
+    http://wordnet.princeton.edu/wordnet/license/
+
+PWN:n lisenssi sallii vapaan käytön, myös kaupallisesti, kunhan sen
+käyttämisestä ja tekijänoikeuksista kerrotaan:
+
+    WordNet Release 3.0 This software and database is being provided
+    to you, the LICENSEE, by Princeton University under the following
+    license. By obtaining, using and/or copying this software and
+    database, you agree that you have read, understood, and will
+    comply with these terms and conditions.: Permission to use, copy,
+    modify and distribute this software and database and its
+    documentation for any purpose and without fee or royalty is hereby
+    granted, provided that you agree to comply with the following
+    copyright notice and statements, including the disclaimer, and
+    that the same appear on ALL copies of the software, database and
+    documentation, including modifications that you make for internal
+    use or for distribution. WordNet 3.0 Copyright 2006 by Princeton
+    University. All rights reserved. THIS SOFTWARE AND DATABASE IS
+    PROVIDED "AS IS" AND PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS
+    OR WARRANTIES, EXPRESS OR IMPLIED. BY WAY OF EXAMPLE, BUT NOT
+    LIMITATION, PRINCETON UNIVERSITY MAKES NO REPRESENTATIONS OR
+    WARRANTIES OF MERCHANT- ABILITY OR FITNESS FOR ANY PARTICULAR
+    PURPOSE OR THAT THE USE OF THE LICENSED SOFTWARE, DATABASE OR
+    DOCUMENTATION WILL NOT INFRINGE ANY THIRD PARTY PATENTS,
+    COPYRIGHTS, TRADEMARKS OR OTHER RIGHTS. The name of Princeton
+    University or Princeton may not be used in advertising or
+    publicity pertaining to distribution of the software and/or
+    database. Title to copyright in this software, database and any
+    associated documentation shall at all times remain with Princeton
+    University and LICENSEE agrees to preserve same.
+
+FinnWordNetin sisältämien sanojen suomenkielisten käännösten
+tekijänoikeudet ovat Helsinin yliopistolla. Ne lisensoidaan Creative
+Commons Nimeä (CC BY) 3.0 -lisenssillä, joka on samantapainen kuin
+PWN:n lisenssi:
+
+    http://creativecommons.org/licenses/by/3.0/deed.fi
+
+Kun viittaat FinnWordNetiin, viittaa seuraavaan artikkeliin:
+
+    Krister Lindén and Lauri Carlson. 2010. FinnWordNet – WordNet på
+    finska via översättning. LexicoNordica – Nordic Journal of
+    Lexicography, 17:119–140. [Ruotsinkielinen; englanninkielinen
+    tiivistelmä.]
+
+
+Yhteystiedot
+------------
+
+FinnWordNet-projektia johtaa tutkimusjohtaja, FT Krister Lindén
+Helsingin yliopiston nykykielten laitoksessa (kieliteknologian
+oppiaineessa). Teknisissä kysymyksissä yhteyshenkilönä on
+projektitutkija Jyrki Niemi. Sähköpostiosoitteet ovat muotoa
+etunimi.sukunimi@helsinki.fi (aksentit poistettuina).

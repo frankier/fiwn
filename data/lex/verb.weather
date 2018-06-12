@@ -1,0 +1,81 @@
+{ sataa,  syöstä_alas,@ frames: 1 (precipitate as rain; "If it rains much more, we can expect some flooding") }
+{ syöstä_alas,  pudota,  tulla,  sataa1,  verb.change:tiivistyä2,* verb.motion:pudota,$ frames: 1 (fall from clouds; "rain, snow and sleet were falling"; "Vesuvius precipitated its fiery, destructive rage on Herculaneum") }
+{ ropista,  syöstä_alas,@ frames: 1 (come down like raindrops; "Bullets were spatting down on us") }
+{ sulaa,  verb.change:kääntyä1,@ frames: 1 (become liquid; "The garden air overnight liquefied into a morning dew") }
+{ vihmoa,  tihkuttaa,  sataa_tihkua,  tihuttaa,  sataa,@ frames: 1 (rain lightly; "When it drizzles in summer, hiking can be pleasant") }
+{ tulvia,  syöksyä,  suihkuta,  sataa,@ frames: 1 (rain abundantly; "Meteors showered down over half of Australia") }
+{ sirotella,  vihmoa1,  tihuttaa1,  pirskua,  rapista,  ropista1,  ropsahdella,  sataa,@ frames: 1 (rain gently; "It has only sprinkled, but the roads are slick") }
+{ sataa_kaatamalla,  sataa_kuin_saavista_kaatamalla,  sataa_kuin_esterin_perseestä,  sataa_äkäisiä_ämmiä_äkeet_selässä,  sataa,@ frames: 1 (rain heavily; "Put on your rain coat-- it's pouring outside!") }
+{ sataa_kaatamalla1,  sataa_kaatamalla,@ frames: 1 (come down as if in sheets; "The rain was sheeting down during the monsoon") }
+{ huuhtoutua,  sataa_kaatamalla,@ frames: 1 (pour as if from a sluice; "An aggressive tide sluiced across the barrier reef") }
+{ jäätyä,  peittyä_jääkerrokseen,  peittyä_jäällä,  verb.change:muuttua,@ olla_pakkanen,* frames: 1 (become covered with a layer of ice; of a surface such as a window; "When the wings iced up, the pilot was forced to land his plane") }
+{ olla_pakkanen,   frames: 1 (be very cold, below the freezing point; "It is freezing in Kalamazoo") }
+{ sataa_lunta,  syöstä_alas,@ frames: 1 (fall as snow; "It was snowing all night") }
+{ sataa_rakeita,  syöstä_alas,@ frames: 1 (precipitate as small ice particles; "It hailed for an hour") }
+{ sataa_räntää,  syöstä_alas,@ frames: 1 (precipitate as a mixture of rain and snow; "If the temperature rises above freezing, it will probably sleet") }
+{ liekehtiä,  verb.change:palaa,@ frames: 1 (be in flames or aflame; "The sky seemed to flame in the Hawaiian sunset") }
+{ [ sytyttää, sammuttaa1,! noun.act:sytytys,+ noun.substance:sytytin,+ noun.process:syttyminen,+ noun.artifact:sytytin3,+ noun.artifact:sytkäri,+ himmentää,!]  saada_palamaan,  sytyttää_palamaan,  polttaa1,@ verb.change:palaa,> frames: 1 (cause to start burning; subject to fire or great heat; "Great heat can ignite almost any dry matter"; "Light a cigarette") }
+{ sytyttää_ilmiliekkeihin,  sytyttää_liekkeihin,  sytyttää_tuleen,  polttaa,  sytyttää1,  polttaa1,@ sytyttää,* frames: 1 (set fire to; cause to start burning; "Lightening set fire to the forest") }
+{ sytyttää_uudelleen,  sytyttää,@ frames: 1 (ignite anew, as of something burning; "The strong winds reignited the cooling embers") }
+{ sammuttaa,  sammuttaa1,@ frames: 1 (put out, as of a candle or a light; "Douse the lights") }
+{ [ syttyä, noun.act:sytytys,+ adj.all:syttyvä,+]  [ syttyä_tuleen, noun.act:sytytys,+ adj.all:syttyvä,+]  verb.change:kääntyä1,@ polttaa1,$ frames: 1 (start to burn or burst into flames; "Marsh gases ignited suddenly"; "The oily rags combusted spontaneously") }
+{ räjähtää,  syttyä,@ frames: 1 (erupt in an uncontrolled manner; "The oil well blew out") }
+{ syttyä1,  syttyä,@ frames: 1 (start burning; "The fire caught") }
+{ syttyä2,  syttyä,@ frames: 1 (start to burn with a bright flame; "The coal in the BBQ grill finally lit up") }
+{ sytyttää2,  sytyttää,@ frames: 1 (cause to start burning; "The setting sun kindled the sky with oranges and reds") }
+{ saada_uudelleen_syttymään,  sytyttää2,@ frames: 1 (kindle anew, as of a fire) }
+{ [ syttyä3, noun.act:sytyttäminen,+ noun.substance:sytykkeet,+]  leimahtaa1,@ frames: 1 (catch fire; "The dried grass of the prairie kindled, spreading the flames for miles") }
+{ [ sammuttaa1, sytyttää,! noun.act:sammuttaminen,+ noun.artifact:sammutin,+]  puhaltaa_sammuksiin,  [ himmentää, sytyttää,!]   frames: 1 (put out, as of fires, flames, or lights; "Too big to be extinguished at once, the forest fires at best could be contained"; "quench the flames"; "snuff out the candles") }
+{ hävittää,  mustata,  pyyhkiä_yli,  sammuttaa1,@ frames: 1 (obliterate or extinguish; "Some life-forms were obliterated by the radiation, others survived") }
+{ [ polttaa1, adj.all:syttyvä^poltettava,+]  kärventää,  verb.change:palaa,> syttyä,$ frames: 1 (cause to burn or combust; "The sun burned off the fog"; "We combust coal and other fossil fuels") }
+{ loimuta,  leimahtaa,  syttyä4,  palaa_kirkkaasti,  roihuta,  verb.change:palaa,@ frames: 1 (burn brightly; "Every star seemed to flare with new intensity") }
+{ loimuta1,  [ liekehtiä1, leimahtaa,^]  hohtaa1,@ frames: 1 (shine with a sudden light; "The night sky flared with the massive bombardment") }
+{ loistaa_kirkkaammin,  hohtaa1,@ frames: 1 (shine brighter than; "What star outshines the sun?") }
+{ paistaa,  hohtaa1,> frames: 1 (throw or flash the light of (a lamp); "Shine the light on that window, please") }
+{ [ hohtaa, noun.event:hohto,+]  [ kimmeltää, noun.event:kimmellys,+]  hohtaa1,@ frames: 1 (shine with a weak or fitful light; "Beech leaves shimmered in the moonlight") }
+{ lepattaa,  hohtaa1,@ frames: 1 (shine unsteadily; "The candle flickered") }
+{ hohtaa1,  paistaa1,  helottaa,   frames: 1 (emit light; be bright, as of the sun or a light; "The sun shone bright that day"; "The fire beamed on their faces") }
+{ syttyä5,  sytyttää,@ frames: 1 (ignite; "The sky lit up quickly above the raging volcano") }
+{ leimahtaa1,  sytyttää,@ frames: 1 (ignite quickly and suddenly, especially after having died down; "the fire flared up and died down once again") }
+{ [ roihuta1, syttyä4,^]  verb.change:palaa,@ frames: 1 (burn brightly and intensely; "The summer sun alone can cause a pine to blaze") }
+{ hehkua,  [ loistaa, noun.attribute:loisto4,+]  hohtaa1,@ frames: 1 (shine brightly and intensively; "Meteors blazed across the atmosphere") }
+{ [ välkkyä, noun.event:välke,+ noun.event:välkkyminen,+ noun.attribute:välkehdintä,+]  [ tuikkia, noun.event:tuike,+]  hohtaa1,@ noun.object:taivaankappale,;c kipunoida,$ frames: 1 (emit or reflect light in a flickering manner; "Does a constellation twinkle more brightly than a single star?") }
+{ heijastua,  heijastaa,@ frames: 1 (be sharply reflected; "The moon glared back at itself from the lake's surface") }
+{ [ opalisoida, noun.attribute:opalisointi,+ adj.all:kirkas2^opaalinhohtoinen,+]  heijastaa,@ frames: 1 (reflect light or colors like an opal; "Distant clouds opalesce like pale brocade"; "raindrops caught in a sunbeam seem to opalesce") }
+{ [ imeä_itseensä, säteillä2,! adj.all:imeytettävissä_oleva,+]  [ sulauttaa_itseensä, säteillä2,!]  imaista,  [ absorboida, säteillä2,!]   frames: 1 (suck or take up or in; "A black star absorbs all matter") }
+{ imaista1,  imeä_itseensä,@ frames: 1 (attract by using an inexorable force, inducement, etc.; "The current boom in the economy sucked many workers in from abroad") }
+{ [ heijastaa, adj.all:heijastava,+]  [ kiiltää, noun.object:kiilto,+]  säteillä2,@ frames: 1 (be bright by reflecting or casting light; "Drive carefully--the wet road reflects") }
+{ [ luminoida, noun.attribute:luminesenssi,+]  heijastaa,@ frames: 1 (be or become luminescent; exhibit luminescence) }
+{ [ säihkyä, noun.event:säihke,+ noun.attribute:säihke,+ adj.all:kirkas2^säihkyvä,+]  säteillä,  heijastaa,@ frames: 1 (reflect brightly; "Unquarried marble sparkled on the hillside") }
+{ [ kipinöidä, noun.object:kipinä,+ noun.phenomenon:kipinä,+ noun.event:kipinä,+]  [ säihkyä1, noun.event:säihke,+]  säkenöidä,  säteillä2,@ frames: 1 (emit or produce sparks; "A high tension wire, brought down by a storm, can continue to spark") }
+{ heijastaa1,  verb.perception:heijastua,@ frames: 1 (reflect as if in a mirror; "The smallest pond at night mirrors the firmament above") }
+{ [ säteillä1, noun.phenomenon:säteily,+]  säteillä2,@ frames: 1 (send out rays or waves; "The sun radiates heat") }
+{ [ säteillä2, imeä_itseensä,! sulauttaa_itseensä,! absorboida,!]   frames: 1 (give off, send forth, or discharge; as of light, heat, or radiation, vapor, etc.; "The ozone layer blocks some harmful rays which the sun emits") }
+{ kipunoida,  säteillä2,@ välkkyä,$ frames: 1 (give off; "the substance scintillated sparks and flashes") }
+{ savuttaa,  [ kärytä, noun.process:käry,+]  [ savuta, noun.phenomenon:savu1,+ noun.process:savu,+]  sauhuta,  säteillä2,@ frames: 1 (emit a cloud of fine particles; "The chimney was fuming") }
+{ höyrytä,  savuta1,  säteillä2,@ frames: 1 (give off smoke, fumes, warm vapour, steam, etc.; "Marshes reeking in the sun") }
+{ syöstä,  säteillä2,@ frames: 1 (emit (as light, flame, or fumes) suddenly and forcefully; "The dragon shot fumes and flames out of its mouth") }
+{ säteillä3,  säteillä2,@ frames: 1 (emit as rays; "That tower rays a laser beam for miles across the sky") }
+{ höyrytä1,  säteillä2,@ frames: 1 (emit steam; "The rain forest was literally steaming") }
+{ [ varjostaa, noun.state:varjo3,+ noun.location:varjo,+ noun.state:varjo2,+]  verb.change:pimentää,@ frames: 1 (cast a shadow over) }
+{ palaa,  [ hehkua1, noun.phenomenon:hehku2,+]  hohtaa1,@ frames: 1 (shine intensely, as if with heat; "The coals were glowing in the dark"; "The candles were burning") }
+{ lepattaa1,  palaa,@ frames: 1 (burn unsteadily, feebly, or low; flicker; "The cooling lava continued to gutter toward lower ground") }
+{ puhaltaa,   frames: 1 (be blowing or storming; "The wind blew from the West") }
+{ [ tuulahtaa, noun.phenomenon:tuulenvire,+ noun.phenomenon:tuulenviri,+]  puhaltaa,@ frames: 1 (blow gently and lightly; "It breezes most evenings at the shore") }
+{ alkaa,  tulla1,  puhaltaa,@ frames: 1 (blow toward the shore; "That gale could set in on us with the next high tide") }
+{ leuhahtaa,  puhaltaa,@ frames: 1 (blow gently; "A breeze wafted through the door") }
+{ [ myrskytä, noun.phenomenon:myrsky,+]  puhaltaa,@ frames: 1 (blow hard; "It was storming all night") }
+{ tuulla_vastaan,  puhaltaa,@ frames: 1 (blow in a squall; "When it squalls, a prudent sailor reefs his sails") }
+{ [ myrskytä1, noun.phenomenon:myrsky,+]  sataa,* frames: 1 (rain, hail, or snow hard and be very windy, often with thunder or lightning; "If it storms, we'll need shelter") }
+{ pauhata,  puhaltaa,@ frames: 1 (blow hard; be gusty, as of wind; "A southeaster blustered onshore"; "The flames blustered") }
+{ jyristä,  jyrähdellä,  jyrähtää,  myrskytä,* frames: 1 (be the case that thunder is being heard; "Whenever it thunders, my dog crawls under the bed") }
+{ [ peittää_pilveen, seljetä,!]  [ mennä_pilveen, pilvistyä,^ mennä_pilveen1,^]  [ olla_pilvistä, seljetä,!]  verb.change:pimentää,@ frames: 1 (make overcast or cloudy; "Fall weather often overcasts our beaches") }
+{ peittyä_pilviin,  mennä_pilveen1,  pilvistyä,  verb.change:pimetä1,@ frames: 1 (become covered with clouds; "The sky clouded over") }
+{ [ seljetä, peittää_pilveen,! olla_pilvistä,!]  kirkastua,  valjeta,  seestyä,   frames: 1 (become clear; "The sky cleared after the storm") }
+{ vahingoittaa,  pilata,  turmella,  verb.change:kiusata,@ frames: 1 (cause to suffer a blight; "Too much rain may blight the garden with mold") }
+{ peittää_alleen,  tulvia_yli,  täyttää,  verb.change:peittää1,@ frames: 1 (drench or submerge or be drenched or submerged; "The tsunami swamped every boat in the harbor") }
+{ kuivua,  kuivua_kokonaan,  ehtyä,  verb.change:kuivua1,@ frames: 1 (become empty of water; "The river runs dry in the summer") }
+{ huuruuntua,  peittää_pilveen,@ frames: 1 (get foggy; "The windshield fogged up") }
+{ polttaa_puuhiileksi,  [ hiiltää, noun.object:hiili,+ noun.substance:hiili2,+ noun.object:hiillos,+]  hiillyttää,  polttaa1,@ frames: 1 (burn to charcoal; "Without a drenching rain, the forest fire will char everything") }
+{ muuttua_utuiseksi,  peittää_pilveen,@ frames: 1 (become hazy, dull, or cloudy) }
+{ sytyttää_tuleen1,  polttaa1,@ frames: 1 (cause to burn rapidly and with great intensity; "care must be exercised when this substance is to be deflagrated") }

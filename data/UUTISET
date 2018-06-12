@@ -1,0 +1,53 @@
+
+FinnWordNet-uutisia
+-------------------
+
+* Versio 2.0 (2012-09-25)
+
+  - Uusi relaatiomuoto ensisijaisena datamuotona (hakemisto 'rels'),
+    joka korvaa osittain aiemman version listamuodon. Lisätietoja
+    tiedostossa rels/LUEMINUT_rels.
+
+  - Laajennettu Princeton WordNetin käännöksestä lisäämällä uusia
+    synonyymijoukkoja olemassa olevien synonyymijoukkojen
+    alakäsitteiksi (ilman selitteitä ja englanninkielisiä käännöksiä).
+    Uudet synonyymijoukot vastaavat yleisten suomenkielisten
+    yhdyssanojen merkityksiä.
+
+  - Lisätty tuhansia uusia sananmerkityksiä ja korjattu satoja
+    olemassa olleita.
+
+  - Muutostilastoja suhteessa edelliseen versioon (1.1.2):
+
+                                lisätty poistettu korjattu
+
+      synonyymijoukkoja          2 790       0       -
+      sananmerkityksiä          17 060     215     745
+      erilaisia sanoja          10 046     795       -
+      käännössuhteita           15 776   1 081       -
+
+    Muutoksia tuli kaikkiaan 14 626 olemassa olleeseen
+    synonyymijoukkoon.
+
+  - Koko verrattuna FinnWordNet 1.1.2:een ja Princeton WordNet
+    3.0:aan:
+
+                              2.0      1.1.2    lisäys   %     PWN 3.0
+                                                                      
+      synonyymijoukkoja       120 449  117 659   2 790   2,4   117 659
+      sananmerkityksiä        208 645  191 800  16 845   8,8   206 978
+      erilaisia sanoja        140 515  131 264   9 251   7,0   148 730
+      semanttisia suhteita    159 330  156 540   2 790   1,8   156 540
+      leksikaalisia suhteita   68 047   60 397   7 650  12,7    91 800
+      käännössuhteita         244 742  230 047  14 695   6,4      -   
+
+* Versio 1.1.2 (2011-07-01)
+
+  - Korjattu yli 1800 suomenkielistä käännöstä yli 1000
+    synonyymijoukossa: korjattu kirjoitusvirheitä ja virheellisiä
+    käännöksiä sekä lisätty käännösvaihtoehtoja ja muokattu, lisätty
+    ja poistettu kääntäjien kommentteja.
+
+* Versio 1.1.1 (2010-12-16)
+
+  - Ensimmäinen ladattavissa oleva FinnWordNetin versio.

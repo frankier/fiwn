@@ -1,0 +1,123 @@
+
+FinnWordNet - the Finnish WordNet
+=================================
+
+
+FinnWordNet
+-----------
+
+FinnWordNet is a wordnet for Finnish. For more information about
+FinnWordNet, please see the README file in the parent directory or
+visit the FinnWordNet project Web page
+
+    http://www.ling.helsinki.fi/en/lt/research/finnwordnet/
+
+The rest of this README file describes the contents of this directory.
+
+
+rels: FinnWordNet data as relations
+-----------------------------------
+
+The directory 'rels' contains the FinnWordNet data divided into five
+relations (in the sense of relational databases). The relations
+contain all the information in FinnWordNet, so they can be used, for
+example, to construct the lexicographer files.
+
+All relations are in TSV (tab-separated values) format, with fields
+separated by a tab and with no quotation marks around field values.
+
+The fields of each relation file are described in the following.
+
+Common field types:
+
+    Synset id: wordnet code (fi = FinnWordNet, en-3.0 = PWN 3.0) + ":"
+        + part-of-speech code (n = noun, v = verb, a = adjective, r =
+        adverb) + an eigth-digit number, originally the data file
+        offset of the synset in the Princeton WordNet (PWN), version
+        3.0. The FinnWordNet synset ids are intended to be persistent
+        from version 2.0 onwards.
+
+fiwn-synsets.tsv - The synonym sets of FinnWordNet
+
+    1. Synset id
+    2. Synset type (generally, the part of speech: n = noun, v = verb,
+       a = (head) adjective, s = satellite adjective, r = adverb)
+    3. Name of the lexicographer file containing the synset
+    4. Reserved for verb frame numbers common to all verbs of the
+       synset; empty for other parts of speech (currently empty in
+       FinnWordNet for all parts of speech)
+    5. Gloss and possible examples (directly from PWN)
+
+    Primary key: field 1
+
+fiwn-wsenses.tsv - The word senses in each synset of FinnWordNet
+
+    1. Synset id
+    2. Word (or multi-word expression)
+    3. Placeholder for the lexical id of the word in the FinnWordNet
+       lexicographer file (always 0)
+    4. Reserved for verb frame numbers; empty for other parts of
+       speech (currently empty in FinnWordNet for all parts of speech)
+    5. Possible notes on the word sense; may contain fixed tags as
+       well as free-form notes in XML notation (see below)
+
+    Primary key: fields 1 and 2
+
+    Currently the only note tag used in field 5 is the following:
+
+        <head>WORD</head> = the word WORD is the head of the
+            multi-word phrase (if the head of a verb phrase is not the
+            first word or the head of another phrase is not the last
+            word)
+
+fiwn-semrels.tsv - The semantic relations in FinnWordNet
+
+    1. Relation source synset id
+    2. Relation target synset id
+    3. Relation type (the pointer symbol used in PWN)
+    4. Relation name corresponding to the relation type (one of: also
+       see, attribute, cause, domain: region, domain: topic, domain:
+       usage, entailment, hypernym, instance hypernym, member holonym,
+       part holonym, similar to, substance holonym, verb group)
+
+    Primary key: fields 1 to 3
+
+fiwn-lexrels.tsv - The lexical relations in FinnWordNet (excluding
+synonymy)
+
+    1. Relation source synset id
+    2. Relation source word
+    3. Relation target synset id
+    4. Relation target word
+    5. Relation type (the pointer symbol used in PWN)
+    6. Relation name corresponding to the relation type (one of: also
+       see, antonym, derivationally related, domain: topic, domain:
+       usage, participle, pertainym, verb group)
+
+    Primary key: fields 1 to 5
+
+fiwn-transls.tsv - The translation relation between FinnWordNet and
+PWN
+
+    1. FinnWordNet synset id
+    2. FinnWordNet word (Finnish)
+    3. PWN synset id
+    4. PWN word (English)
+    5. Translation relation type (synonym, near_synonym, hyponym,
+       hypernym)
+    6. Possible notes on the translation; may contain fixed tags as
+       well as free-form notes in XML notation (see below)
+
+    Primary key: fields 1 to 4
+
+    The currently used note tags in field 6 are the following:
+
+        <unconfirmed/> = the Finnish word is an unconfirmed
+            translation of the English one
+        <gen/> = Finnish genitive noun corresponding to an English
+            adjective
+        <idiomatic_pos/> = other idiomatic part-of-speech difference
+            between the Finnish and English word
+        <cardinal_number/> = a cardinal number
+        <ordinal_number/> = an ordinal number
+        <note>...</note> = a free-form note

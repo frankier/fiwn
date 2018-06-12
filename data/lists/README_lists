@@ -1,0 +1,97 @@
+
+FinnWordNet - the Finnish WordNet
+=================================
+
+
+FinnWordNet
+-----------
+
+FinnWordNet is a wordnet for Finnish. For more information about
+FinnWordNet, please see the README file in the parent directory or
+visit the FinnWordNet project Web page
+
+    http://www.ling.helsinki.fi/en/lt/research/finnwordnet/
+
+The rest of this README file describes the contents of this directory.
+
+
+lists: Lists generated from FinnWordNet data
+--------------------------------------------
+
+The directory 'lists' contains lists generated from FinnWordNet data.
+All lists are in TSV (tab-separated values) format, with fields
+separated by a tab and with no quotation marks around field values.
+The lists are sorted.
+
+NOTE: As of FinnWordNet version 2.0, these lists only supplement the
+primary relational data in the directory 'rels': they combine
+information in multiple relations. These lists currently lack some of
+information present in the previous versions, most notably the sense
+numbers and lexical ids of the list fiwn-translations.tsv. If you need
+them, please inform us.
+
+The fields of each list are described in the following.
+
+Common field types:
+
+    Synset id: wordnet code (fi = FinnWordNet, en-3.0 = PWN 3.0) + ":"
+        + part-of-speech code (n = noun, v = verb, a = adjective, r =
+        adverb) + an eigth-digit number, originally the data file
+        offset of the synset in the Princeton WordNet (PWN), version
+        3.0. The FinnWordNet synset ids are intended to be persistent
+        from version 2.0 onwards.
+
+    Synonym list: A list of synonyms in a single field, separated by a
+        vertical bar surrounded by spaces. Word sense notes,
+        translation notes and translation relation types are attached
+        as XML tags.
+
+The currently used XML tags in synonyms are the following:
+
+    Word sense note tag:
+        <head>WORD</head> = the word WORD is the head of the
+            multi-word phrase (if the head of a verb phrase is not the
+            first word or the head of another phrase is not the last
+            word)
+
+    Translation relation type tags (default, synonymy, is not marked):
+        <approximate/> = The word is an approximate translation
+            (near-synonym) of the original English word in PWN
+        <broader/> = The word is a hypernym translation of (broader
+            than) the original English word
+        <narrower/> = The word is a hyponym translation of (narrower
+            than) the original English word
+
+    Translation note tags:
+        <unconfirmed/> = the Finnish word is an unconfirmed
+            translation of the English one
+        <gen/> = Finnish genitive noun corresponding to an English
+            adjective
+        <idiomatic_pos/> = other idiomatic part-of-speech difference
+            between the Finnish and English word
+        <cardinal_number/> = a cardinal number
+        <ordinal_number/> = an ordinal number
+        <note>...</note> = a free-form note
+
+fiwn-synsets-extra.tsv - The synonym sets of FinnWordNet
+
+    1. Synset id
+    2. Part of speech (N, V, A or Adv)
+    3. Synonym list of the synset in FinnWordNet
+    4. Gloss and examples (directly from PWN)
+    5. Synonym list of the synset in PWN
+    6. List of hypernym synsets: the synset id of the hypernym
+       followed by the first synonym of the synset; multiple hypernyms
+       separated by a vertical bar surrounded by spaces
+    7. Name of the lexicographer file containing the synset
+
+fiwn-semrels-extra.tsv - The semantic relations in FinnWordNet
+
+    1. Relation source synset id
+    2. Synonym list of the relation source synset
+    3. Relation name (one of: also see, attribute, cause, domain:
+       region, domain: topic, domain: usage, entailment, hypernym,
+       instance hypernym, member holonym, part holonym, similar to,
+       substance holonym, verb group)
+    4. Relation target synset id
+    5. Synonym list of the relation target synset

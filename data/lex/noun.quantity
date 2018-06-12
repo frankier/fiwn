@@ -1,0 +1,1298 @@
+{ perussuure,  perusmitta,  noun.Tops:mitta,@ (one of the four quantities that are the basis of systems of measurement) }
+{ määrätty_määrä,  noun.Tops:mitta,@ (a specific measure of amount) }
+{ epämääräinen_määrä,  noun.Tops:mitta,@ (an estimated quantity) }
+{ suhteellinen_määrä,  noun.Tops:mitta,@ (a quantity relative to some purpose) }
+{ mittausjärjestelmä,  metrijärjestelmä,  noun.Tops:mitta,@ (a system of related measures that facilitates the quantification of some particular characteristic) }
+{ mitta-_ja_painojärjestelmät,  mittausjärjestelmä,@ (system of measurement for length and weight and duration) }
+{ brittiläinen_yksikköjärjestelmä,  englantilainen_järjestelmä,  brittiläinen_järjestelmä,  mitta-_ja_painojärjestelmät,@ (a system of weights and measures based on the foot and pound and second and pint) }
+{ metrijärjestelmä1,  mitta-_ja_painojärjestelmät,@ (a decimal system of weights and measures based on the meter and the kilogram and the second) }
+{ cgs,  cgs-järjestelmä,  metrijärjestelmä1,@ (system of measurement based on centimeters and grams and seconds) }
+{ Systeme_International_d'Unites,  kansainvälinen_mittayksikköjärjestelmä,  SI-järjestelmä,  SI,  SI-yksikkö,  kansainvälinen_yksikköjärjestelmä,  metrijärjestelmä1,@ (a complete metric system of units of measurement for scientists; fundamental quantities are length (meter) and mass (kilogram) and time (second) and electric current (ampere) and temperature (kelvin) and amount of matter (mole) and luminous intensity (candela); "Today the United States is the only country in the world not totally committed to the Systeme International d'Unites") }
+{ Yhdysvaltain_yksikköjärjestelmä<unconfirmed/>,  mitta-_ja_painojärjestelmät,@ (the system of weights and measures based on the foot and pound and second and pint that dates back to colonial America but differs in some respects from the British Imperial System; today in the United States this system exists side by side with the SI system) }
+{ pistejärjestelmä,  mittausjärjestelmä,@ (a system of graduating sizes of type in multiples of the point) }
+{ informaation_mittaus<unconfirmed/>,  mittausjärjestelmä,@ (a system of measurement of information based on the probabilities of the events that convey information) }
+{ kaistanleveys,  siirtonopeus,  kaista,  informaation_mittaus<unconfirmed/>,@ (a data transmission rate; the maximum amount of information (bits/second) that can be transmitted along a channel) }
+{ baudi,  baudinopeus,  informaation_mittaus<unconfirmed/>,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a data transmission rate (bits/second) for modems) }
+{ sylimitta,  noun.Tops:mitta,@ (the amount of wood in an area as measured in cords) }
+{ oktaaniluku,  noun.Tops:mitta,@ (a measure of the antiknock properties of gasoline) }
+{ hyöty,  mittausjärjestelmä,@ noun.cognition:taloustiede,;c ((economics) a measure that is to be maximized in any situation involving choice) }
+{ rajahyöty,  hyöty,@ noun.cognition:taloustiede,;c ((economics) the amount that utility increases with an increase of one unit of an economic good or service) }
+{ tarpeeksi<idiomatic_pos/>,  [ riittävästi<idiomatic_pos/>, verb.stative:riittää1,+ adj.all:riittävä6,+]  suhteellinen_määrä,@ (an adequate quantity; a quantity that is large enough to achieve a purpose; "enough is as good as a feast"; "there is more than a sufficiency of lawyers in this country") }
+{ kylliksi<idiomatic_pos/>,  tarpeeksi1,  tarpeeksi<idiomatic_pos/>,@ (a quantity sufficient to satisfy; "he ate his fill of potatoes"; "she had heard her fill of gossip") }
+{ normaalisuus,  N,  suhteellinen_määrä,@ noun.substance:liuos,;c ((of a solution) concentration expressed in gram equivalents of solute per liter) }
+{ enemmistö,  yksinkertainen_enemmistö,  suhteellinen_määrä,@ noun.act:vaalit,;c ((elections) more than half of the votes) }
+{ enemmistö1,  suhteellinen_enemmistö,  suhteellinen_määrä,@ noun.act:vaalit,;c ((in an election with more than 2 options) the number of votes for the candidate or party receiving the greatest number (but less that half of the votes)) }
+{ absoluuttiarvo,  itseisarvo,  lukuarvo,  määrätty_määrä,@ (a real number regardless of its sign) }
+{ happoluku,  määrätty_määrä,@ noun.cognition:kemia,;c ((chemistry) the amount of free acid present in fat as measured by the milligrams of potassium hydroxide needed to neutralize it; "as the glycerides in fat slowly decompose the acid value increases") }
+{ kloridipitoisuus,  määrätty_määrä,@ (a measure of the quantity of chlorine or other halides in water (especially seawater)) }
+{ [ numero, verb.communication:numeroida1,+ adj.pert:numeerinen,+ verb.communication:numeroida,+]  määrätty_määrä,@ (a concept of quantity involving zero and units; "every number has a unique position in the sequence") }
+{ kirja,  määrätty_määrä,@ riisi,#p (a quantity of paper; 24 or 25 sheets) }
+{ riisi,  määrätty_määrä,@ (a quantity of paper; 480 or 500 sheets; one ream equals 20 quires) }
+{ [ liukoisuus, adj.all:-liukoinen,+ adj.all:liukeneva2,+]  määrätty_määrä,@ noun.substance:liuos,;c (the quantity of a particular substance that can dissolve in a particular solvent (yielding a saturated solution)) }
+{ [ myrkyllisyys, adj.all:myrkyllinen4,+]  määrätty_määrä,@ (the degree to which something is poisonous) }
+{ sytotoksisuus,  myrkyllisyys,@ (the degree to which something is toxic to living cells) }
+{ mittayksikkö,  yksikkö,  määrätty_määrä,@ (any division of quantity accepted as a standard of measurement or exchange; "the dollar is the United States unit of currency"; "a unit of wheat is a bushel"; "change per unit volume") }
+{ mittayksikkö1,  mittayksikkö,@ (a unit of measurement) }
+{ denier,  mittayksikkö,@ (a unit of measurement for the fineness of silk or nylon or rayon; "with an evening dress one wears 10 denier stockings") }
+{ diopteri,  mittayksikkö,@ (a unit of measurement of the refractive power of a lens which is equal to the reciprocal of the focal length measured in meters; used by oculists) }
+{ karaatti,  kt,  mittayksikkö,@ (the unit of measurement for the proportion of gold in an alloy; 18-karat gold is 75% gold; 24-karat gold is pure gold) }
+{ desimaaliluku,  numero,@ (a number in the decimal system) }
+{ vakio,  numero,@ (a number representing a quantity assumed to have a fixed value in a specified mathematical context; "the velocity of light is a constant") }
+{ Avogadron_vakio,  Avogadron_luku,  vakio,@ (the number of molecules in a mole of a substance (approximately 602,250,000,000,000,000,000,000)) }
+{ Boltsmannin_vakio,  vakio,@ (constant used in the calculation of the ideal gas constant) }
+{ kerroin,  vakio,@ (a constant number that serves as a measure of some property or characteristic) }
+{ absorptiokerroin,  absorptiosuhde,  kerroin,@ (a measure of the rate of decrease in the intensity of electromagnetic radiation (as light) as it passes through a given substance; the fraction of incident radiant energy absorbed per unit mass or thickness of an absorber; "absorptance equals 1 minus transmittance") }
+{ vastuskerroin,  ilmanvastuskerroin,  kerroin,@ (the ratio of the drag on a body moving through air to the product of the velocity and the surface area of the body) }
+{ kitkakerroin,  kerroin,@ (the ratio of the weight of an object being moved along a surface and the force that maintains contact between the object and the surface) }
+{ keskinäisinduktiokerroin,  keskinäisinduktanssi,  kerroin,@ (a measure of the induction between two circuits; the ratio of the electromotive force in a circuit to the corresponding change of current in a neighboring circuit; usually measured in henries) }
+{ itseinduktiokerroin,  itseinduktanssi,  kerroin,@ (the ratio of the electromotive force produced in a circuit by self-induction to the rate of change of current producing it, expressed in henries) }
+{ kerroin1,  kerroin,@ noun.cognition:fysiikka,;c ((physics) a coefficient that expresses how much of a specified property is possessed by a specified substance) }
+{ kimmokerroin,  kimmomoduuli,  kerroin1,@ noun.cognition:fysiikka,;c ((physics) the ratio of the applied stress to the change in shape of an elastic body) }
+{ tilavuuskimmokerroin,  kimmokerroin,@ (the ratio of the change in pressure acting on a volume to the fractional change in volume) }
+{ jäyhyyskimmomoduuli,  kimmokerroin,@ (the coefficient of elasticity for a shearing force) }
+{ kimmokerroin1,  elastiset_kertoimet<broader/>,  kimmokerroin,@ (a coefficient of elasticity applicable to the stretching of a wire) }
+{ laajenemiskerroin,  kerroin,@ (the fractional change in length or area or volume per unit change in temperature at a given constant pressure) }
+{ heijastuskerroin,  heijastussuhde,  kerroin,@ (the fraction of radiant energy that is reflected from a surface) }
+{ muuttuja<broader/>,  transmissio,  kerroin,@ (the fraction of radiant energy that passes through a substance) }
+{ viskositeettikerroin,  dynaaminen_viskositeetti,  kerroin,@ (a measure of the resistance to flow of a fluid under an applied force) }
+{ [ painoarvo, verb.cognition:painottaa1,+]  [ painokerroin, verb.cognition:painottaa1,+]  kerroin,@ noun.cognition:tilastotiede,;c ((statistics) a coefficient assigned to elements of a frequency distribution in order to represent their relative importance) }
+{ kosmologinen_vakio,  vakio,@ (an arbitrary constant in the equations of general relativity theory) }
+{ tasapainovakio,  vakio,@ noun.cognition:kemia,;c ((chemistry) the ratio of concentrations when equilibrium is reached in a reversible reaction (when the rate of the forward reaction equals the rate of the reverse reaction)) }
+{ dissosiaatiovakio,  hajoamisvakio,  tasapainovakio,@ (the equilibrium constant for a reversible dissociation) }
+{ kaasuvakio,  universaali_kaasuvakio,  R,  moolinen_kaasuvakio,  vakio,@ noun.cognition:fysiikka,;c ((physics) the universal constant in the gas equation: pressure times volume = R times temperature; equal to 8.3143 joules per kelvin per mole) }
+{ gravitaatiovakio,  painovoimavakio,  G,  vakio,@ noun.cognition:painovoimalaki,#p noun.cognition:fysiikka,;c ((physics) the universal constant relating force to mass and distance in Newton's law of gravitation) }
+{ Hubblen_vakio,  Hubblen_parametri,  Hubblen_laki,  vakio,@ noun.cognition:kosmologia,;c ((cosmology) the ratio of the speed of recession of a galaxy (due to the expansion of the universe) to its distance from the observer; the Hubble constant is not actually a constant, but is regarded as measuring the expansion rate today) }
+{ ionivaraus,  vakio,@ (the charge on an ion is equal to a constant charge e multiplied by an integer from 1 to 15) }
+{ Planckin_vakio,  h,  suhdeluku,@ (the constant of proportionality relating the energy of a photon to its frequency; approximately 6.626 x 10^-34 joule-second) }
+{ hapetusluku,  hapetustila,  numero,@ (the degree of oxidation of an atom or ion or molecule; for simple atoms or ions the oxidation number is equal to the ionic charge; "the oxidation number of hydrogen is +1 and of oxygen is -2") }
+{ kardinaliteetti,  mahtavuus,  numero,@ noun.cognition:matematiikka,;c ((mathematics) the number of elements in a set or group (considered as a property of that grouping)) }
+{ loppusumma,  määrä,  numero,@ (the total number counted; "a blood count") }
+{ täysi_määrä,  loppusumma,@ (a complete number or quantity; "a full complement") }
+{ verenkuva,  loppusumma,@ (the number of red and white corpuscles in a blood sample) }
+{ kaatuneiden_lukumäärä,  loppusumma,@ (a count of troops killed in an operation or time period; "the daily body count increased as the war went on") }
+{ levikki,  loppusumma,@ (number of copies of a newspaper or magazine that are sold; "by increasing its circulation the newspaper hoped to increase its advertising") }
+{ lainaustilasto,  loppusumma,@ noun.cognition:informatiikka1,;c ((library science) the count of books that are loaned by a library over a specified period) }
+{ pääluku,  määrä<broader/>1,  henkilömäärä,  luku,  loppusumma,@ (number of people in a particular group) }
+{ siitepölyn_määrä_ilmassa,  loppusumma,@ (the number of pollen grains (usually ragweed) in a standard volume of air over a twenty-four hour period and a specified time and place) }
+{ siittiöluku,  siittiötiheys,  loppusumma,@ (the number of sperm in an ejaculate; "the sperm count is used as an indicator of male fertility") }
+{ kerroin2,  tekijä,  numero,@ (any of the numbers (or symbols) that form a product when multiplied together) }
+{ muuntokerroin,  kerroin2,@ (factor by which a quantity that is expressed in one set of units must be multiplied in order to convert it into another set of units) }
+{ suhdeluku,  kerroin2,@ vakio,@ (the constant value of the ratio of two proportional quantities x and y; usually written y = kx, where k is the factor of proportionality) }
+{ Fibonaccin_luku,  numero,@ (a number in the Fibonacci sequence) }
+{ jaoton_luku,  numero,@ (a number that has no factor but itself and 1) }
+{ alkutekijä,  jakaja1,@ (the prime factors of a quantity are all of the prime quantities that will exactly divide the given quantity) }
+{ alkuluku,  jaoton_luku,@ (an integer that has no integral factors but itself and 1) }
+{ yhdistetty_luku,  jaollinen_luku,  numero,@ (an integer that is divisible without remainder by at least one positive integer other than itself and one) }
+{ pistetilanne,  numero,@ (a number that expresses the accomplishment of a team or an individual in a game or contest; "the score was 7 to 0") }
+{ lyönti,  pistetilanne,@ noun.act:golf,;c ((golf) the unit of scoring in golf is the act of hitting the ball with a club; "Nicklaus won by three strokes") }
+{ [ birdie, verb.contact:birdie,+]  pistetilanne,@ noun.act:golf,;c ((golf) a score of one stroke under par on a hole) }
+{ bogey,  pistetilanne,@ noun.act:golf,;c ((golf) a score of one stroke over par on a hole) }
+{ [ vajaus, kärki<unconfirmed/>,!]  pistetilanne,@ noun.act:urheilu,;c ((sports) the score by which a team or individual is losing) }
+{ tuplabogey,  pistetilanne,@ noun.act:golf,;c ((golf) a score of two strokes over par for a hole) }
+{ nolla_pistettä,  pistetilanne,@ noun.act:kriketti,;c ((cricket) a score of nothing by a batsman) }
+{ eagle<note>golf-termi</note>,  pistetilanne,@ noun.act:golf,;c ((golf) a score of two strokes under par on a hole) }
+{ double_eagle,  pistetilanne,@ noun.act:golf,;c ((golf) a score of three strokes under par on a hole) }
+{ peli,  pistetilanne,@ noun.act:peli1,;c ((games) the score at a particular point or the score needed to win; "the game is 6 all"; "he is serving for the game") }
+{ [ kärki<unconfirmed/>, vajaus,!]  pistetilanne,@ noun.act:urheilu,;c ((sports) the score by which a team or individual is winning) }
+{ nolla,  pistetilanne,@ (a score of zero in tennis or squash; "it was 40 love") }
+{ voittopistemäärä,  pistetilanne,@ (the score needed to win a match) }
+{ par,  pistetilanne,@ noun.act:golf,;c ((golf) the standard number of strokes set for each hole on a golf course, or for the entire course; "a par-5 hole"; "par for this course is 72") }
+{ saldo,  numero,@ (the number of wins versus losses and ties a team has had; "at 9-0 they have the best record in their league") }
+{ yhdistetty_luku1,  numero,@ (a quantity expressed in two different units; "one hour and ten minutes") }
+{ järjestysnumero,  [ järjestysluku, adj.all:järjestys-,+]  nro,  ordinaaliluku,  numero,@ (the number designating place in an ordered sequence) }
+{ ensimmäinen,  numero_yksi,  numero_1",  ykkönen,  järjestysnumero,@ (the first element in a countable series; "the first of the month") }
+{ kardinaaliluku,  perusluku,  numero,@ (the number of elements in a mathematical set; denotes a quantity but not the order) }
+{ kantaluku,  numero,@ noun.communication:numerojärjestelmä,;c ((numeration system) the positive integer that is equivalent to one in the next higher counting place; "10 is the radix of the decimal system") }
+{ liukuluku,  numero,@ (a number represented in floating-point notation) }
+{ kiintoluku,  numero,@ (a number represented in fixed-point notation) }
+{ frekvenssi,  absoluuttinen_frekvenssi,  kardinaaliluku,@ (the number of observations in a given statistical category) }
+{ googol,  kardinaaliluku,@ (a cardinal number represented as 1 followed by 100 zeros (ten raised to the power of a hundred)) }
+{ googolplex,  kardinaaliluku,@ (a cardinal number represented as 1 followed by a googol of zeros (ten raised to the power of a googol)) }
+{ atomin_järjestysluku,  atomiluku,  järjestysluku1,  numero,@ (the order of an element in Mendeleyev's table of the elements; equal to the number of protons in the nucleus or electrons in the neutral state of an atom of an element) }
+{ maaginen_luku,  atomin_järjestysluku,@ (the atomic number of an extra stable strongly bound atomic nucleus: 2, 8, 20, 28, 50, 82 or 126) }
+{ baryoniluku,  numero,@ (a number equal to the difference between the number of baryons and the number of antibaryons in any subatomic structure; it is conserved in all types of particle interactions) }
+{ kiintiö,  numero,@ (a prescribed number; "all the salesmen met their quota for the month") }
+{ pituusmitta,  lineaarinen_yksikkö,@ (a measure of length) }
+{ [ magnetoituma, verb.change:magnetoida,+]  noun.Tops:mitta,@ (the extent or degree to which something is magnetized) }
+{ magneettinen_voimavaikutus,  magnetoituma,@ (a measure of the strength of a magnetic field over a given area) }
+{ absorptioyksikkö,  mittayksikkö,@ (a unit for measuring absorption) }
+{ kiihtyvyyden_yksikkö,  mittayksikkö,@ (a unit for measuring acceleration) }
+{ kulmayksikkö,  mittayksikkö,@ (a unit of measurement for angles) }
+{ pinta-alayksikkö,  pintamitta,  mittayksikkö,@ (a system of units used to measure areas) }
+{ äänenvoimakkuusyksikkö,  tuotantokapasiteetin_yksikkö,  tilavuusmitta,  tilavuusyksikkö,  kuutiomitta,  kuutiotilavuuden_yksikkö,  kuutioyksikkö,  mittayksikkö,@ tilavuus,#p (a unit of measurement of volume or capacity) }
+{ kuutiotuuma,  äänenvoimakkuusyksikkö,@ (the volume equal to a cube one inch on each side) }
+{ kuutiojalka,  äänenvoimakkuusyksikkö,@ (the volume equal to a cube one foot on each side) }
+{ tietokoneen_muistiyksikkö,  mittayksikkö,@ (a unit for measuring computer memory) }
+{ syli,  äänenvoimakkuusyksikkö,@ (a unit of amount of wood cut for burning; 128 cubic feet) }
+{ sähkömagneettinen_yksikkö,  mittayksikkö,@ (any of various systems of units for measuring electricity and magnetism) }
+{ räjähdysvoiman_yksikkö,  mittayksikkö,@ (any unit for measuring the force of explosions) }
+{ voiman_yksikkö,  mittayksikkö,@ (a unit of measurement of physical force) }
+{ lineaarinen_yksikkö,  lineaarinen_mitta,  mittayksikkö,@ (a unit of measurement of length) }
+{ metrisen_järjestelmän_mitta,  metrijärjestelmä2,  mittayksikkö,@ (a decimal unit of measurement of the metric system (based on meters and kilograms and seconds); "convert all the measurements to metric units"; "it is easier to work in metric") }
+{ mailia_gallonaa_kohti,  mittayksikkö,@ (the distance traveled in a vehicle powered by one gallon of gasoline or diesel fuel) }
+{ rahayksikkö,  mittayksikkö,@ (a unit of money) }
+{ megaflop,  MFLOP,  million_floating_point_operations_per_second,  mittayksikkö,@ mittayksikkö<broader/>2,#p noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a unit for measuring the speed of a computer system) }
+{ mittayksikkö<broader/>2,  mittayksikkö,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a unit for measuring the speed of a computer system) }
+{ MIPS,  miljoona_käskynsuoritusta_sekunnissa<idiomatic_pos/>,  mittayksikkö,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a unit for measuring the execution speed of a computer's CPU (but not the whole system); "4 MIPS is 4,000,000 instructions per second") }
+{ kivun_yksikkö,  mittayksikkö,@ (a unit measuring the intensity of pain) }
+{ paineyksikkö,  mittayksikkö,@ (a unit measuring force per unit area) }
+{ tulostusyksikkö,  mittayksikkö,@ (a unit of measurement for printing) }
+{ äänen_yksikkö,  mittayksikkö,@ (any acoustic unit of measurement) }
+{ puheluyksikkö,  mittayksikkö,@ (a unit of measurement for telephone use) }
+{ lämpötilan_yksikkö,  mittayksikkö,@ (a unit of measurement for temperature) }
+{ painoyksikkö,  paino,  mittayksikkö,@ (a unit used to measure weight; "he placed two weights in the scale pan") }
+{ massayksikkö,  mittayksikkö,@ (a unit of measurement for mass) }
+{ viskositeetin_yksikkö,  mittayksikkö,@ (a unit of measurement for viscosity) }
+{ työn_mittayksikkö<approximate/>,  energiayksikkö,  mittayksikkö,@ (a unit of measurement for work) }
+{ langley,  mittayksikkö,@ (unit of solar radiation) }
+{ Brinellin_kovuustesti,  mittayksikkö,@ (measure of the hardness of a material) }
+{ Brix-asteikko,  mittausjärjestelmä,@ (a system for measuring the concentration of sugar solutions) }
+{ piste,  mittayksikkö,@ pistetilanne,#p (the unit of counting in scoring a game or contest; "he scored 20 points in the first half"; "a touchdown counts 6 points") }
+{ etu,  piste,@ noun.act:tennis,#p ((tennis) first point scored after deuce) }
+{ eräpallo,  piste,@ noun.act:tennis,#p ((tennis) the final point needed to win a set in tennis) }
+{ ottelupallo,  piste,@ noun.act:tennis,;c ((tennis) the final point needed to win a match (especially in tennis)) }
+{ sabin,  absorptioyksikkö,@ (a unit of acoustic absorption equivalent to the absorption by a square foot of a surface that absorbs all incident sound) }
+{ kaarimitta,  mittausjärjestelmä,@ (measurement of angles in radians) }
+{ mi,  kulmayksikkö,@ (an angular unit used in artillery; equal to 1/6400 of a complete revolution) }
+{ aste,  kaariaste,  kulmayksikkö,@ oktantti,#p sekstantti,#p (a measure for arcs and angles; "there are 360 degrees in a circle") }
+{ sekunti,  kaarisekunti,  kulmasekunti,  kulmayksikkö,@ kaariminuutti,#p (a 60th part of a minute of arc; "the treasure is 2 minutes and 45 seconds south of here") }
+{ kaariminuutti,  kulmaminuutti,  kulmayksikkö,@ aste,#p (a unit of angular distance equal to a 60th of a degree) }
+{ mikroradiaani,  kulmayksikkö,@ milliradiaani,#p (a unit of angular distance equal to one thousandth of a milliradian) }
+{ milliradiaani,  kulmayksikkö,@ radiaani,#p (a unit of angular distance equal to one thousandth of a radian) }
+{ radiaani,  rad,  kulmayksikkö,@ (the unit of plane angle adopted under the Systeme International d'Unites; equal to the angle at the center of a circle subtended by an arc equal in length to the radius (approximately 57.295 degrees)) }
+{ aste1,  kulmayksikkö,@ noun.shape:suorakulma,#p (one-hundredth of a right angle) }
+{ oktantti,  kulmayksikkö,@ (a unit of angular distance equal to half a quadrant) }
+{ sekstantti,  kulmayksikkö,@ noun.attribute:kehä1,#p (a unit of angular distance equal to 60 degrees) }
+{ suorakulma,  kulmayksikkö,@ noun.attribute:kehä1,#p (an angle of 180 degrees) }
+{ steradiaani,  sr,  kulmayksikkö,@ noun.shape:pallopinta,#p (the unit of solid angle adopted under the Systeme International d'Unites) }
+{ neliötuuma,  sq_in,  pinta-alayksikkö,@ (a unit of area equal to one inch by one inch square) }
+{ neliöjalka,  sq_ft,  pinta-alayksikkö,@ (a unit of area equal to one foot by one foot square) }
+{ neliöjaardi,  sq_yd,  pinta-alayksikkö,@ (a unit of area equal to one yard by one yard square) }
+{ neliömetri,  pinta-alayksikkö,@ (a centare is 1/100th of an are) }
+{ neliömaili,  pinta-alayksikkö,@ (an area of 640 acres) }
+{ neliömaili1,  neliömaili,@ (a land unit equal to 1 square mile) }
+{ 160"_eekkerin_alue,  pinta-alayksikkö,@ (a land unit equal to a quarter of a section (160 acres) and measuring 1/2 mile on a side) }
+{ eekkeri,  pinta-alayksikkö,@ (a unit of area (4840 square yards) used in English-speaking countries) }
+{ aari,  pinta-alayksikkö,@ hehtaari,#p (a unit of surface area equal to 100 square meters) }
+{ hehtaari,  pinta-alayksikkö,@ ((abbreviated `ha') a unit of surface area equal to 100 ares (or 10,000 square meters)) }
+{ arpent,  pinta-alayksikkö,@ (a former French unit of area; equal approximately to an acre) }
+{ barni,  b,  pinta-alayksikkö,@ noun.cognition:ydinfysiikka,;c ((physics) a unit of nuclear cross section; the effective circular area that one particle presents to another as a target for an encounter) }
+{ desjatiina,  pinta-alayksikkö,@ (a former Russian unit of area equal to 2.7 acres) }
+{ morgen,  pinta-alayksikkö,@ (a South African unit of measure equal to about 2 acres) }
+{ 22"\,41"_neliömetriä,  pinta-alayksikkö,@ (a square rod of land) }
+{ nesteyksikkö,  nesteen_mitta,  äänenvoimakkuusyksikkö,@ (a unit of capacity for liquids (for measuring the volumes of liquids or their containers)) }
+{ kuivan_aineen_yksikkö,  kuivan_aineen_mitta,  äänenvoimakkuusyksikkö,@ (a unit of capacity for dry commodities (as fruit or grain)) }
+{ Yhdysvaltojen_nesteyksikkö<unconfirmed/>,  nesteyksikkö,@ (a liquid unit officially adopted in the United States Customary System) }
+{ brittiläinen_tilavuusyksikkö,  nesteyksikkö,@ kuivan_aineen_yksikkö,@ (a unit of measure for capacity officially adopted in the British Imperial System; British units are both dry and wet) }
+{ tilavuusyksikkö<approximate/>1,  metrisen_järjestelmän_mitta,@ äänenvoimakkuusyksikkö,@ (a capacity unit defined in metric terms) }
+{ ardeb,  kuivan_aineen_yksikkö,@ (a unit of dry measure used in Egypt) }
+{ arroba,  nesteyksikkö,@ (a liquid measure (with different values) used in some Spanish speaking countries) }
+{ bath,  nesteyksikkö,@ homer<unconfirmed/>,#p (an ancient Hebrew liquid measure equal to about 10 gallons) }
+{ cran,  äänenvoimakkuusyksikkö,@ (a capacity unit used for measuring fresh herring) }
+{ vakka<approximate/>,  kuivan_aineen_yksikkö,@ homer<unconfirmed/>,#p (an ancient Hebrew unit of dry measure equal to about a bushel) }
+{ kenttäkapasiteetti,  äänenvoimakkuusyksikkö,@ (the maximum amount of water that a particular soil can hold) }
+{ homer<unconfirmed/>,  kor<unconfirmed/>,  äänenvoimakkuusyksikkö,@ (an ancient Hebrew unit of capacity equal to 10 baths or 10 ephahs) }
+{ hiin-mitta,  äänenvoimakkuusyksikkö,@ (ancient Hebrew unit of liquid measure = 1.5 gallons) }
+{ kuutiosyli,  äänenvoimakkuusyksikkö,@ noun.act:kaivostoiminta,;c ((mining) a unit of volume (equal to 6 cubic feet) used in measuring bodies of ore) }
+{ eekkerijalka,  äänenvoimakkuusyksikkö,@ (the volume of water that would cover 1 acre to a depth of 1 foot; 43,560 cubic feet or 1233.5 cubic meters) }
+{ eekkerituuma,  äänenvoimakkuusyksikkö,@ (one twelfth of an acre-foot) }
+{ mittajärjestelmä<broader/>,  mittausjärjestelmä,@ (a system of units for measuring lumber based on the board foot) }
+{ board_foot<unconfirmed/>,  äänenvoimakkuusyksikkö,@ (the volume of a piece of wood 1 foot square and 1 inch thick) }
+{ mittayksikkö<broader/>3,  standartti,  äänenvoimakkuusyksikkö,@ (a board measure = 1980 board feet) }
+{ kuutiojaardi,  äänenvoimakkuusyksikkö,@ (a unit of volume (as for sand or gravel)) }
+{ lästi,  äänenvoimakkuusyksikkö,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a unit of capacity for grain equal to 80 bushels) }
+{ mutchkin,  nesteyksikkö,@ (a Scottish unit of liquid measure equal to 0.9 United States pint) }
+{ oka,  nesteyksikkö,@ (a Turkish liquid unit equal to 1.3 pints) }
+{ tippa,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ nestedrakma,#p (a United States liquid unit equal to 1/60 fluidram) }
+{ nestedrakma,  drakma,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ nesteunssi,#p (a unit of capacity or volume in the apothecary system equal to one eighth of a fluid ounce) }
+{ nesteunssi,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ gill,#p (a United States unit of capacity or volume equal to 1.804 cubic inches) }
+{ gill,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ cup,#p (a United States liquid unit equal to 4 fluid ounces) }
+{ cup,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ 0"\,47"_l,#p (a United States liquid unit equal to 8 fluid ounces) }
+{ 0"\,47"_l,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ neljännesgallona,#p (a United States liquid unit equal to 16 fluid ounces; two pints equal one quart) }
+{ gallonan_viidesosa<unconfirmed/>,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ (a quantity of liquor equal to one fifth of a United States gallon) }
+{ neljännesgallona,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ amerikkalainen_gallona,#p (a United States liquid unit equal to 32 fluid ounces; four quarts equal one gallon) }
+{ amerikkalainen_gallona,  gal,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ barreli,#p (United States liquid unit equal to 4 quarts or 3.785 liters) }
+{ barreli,  tynnyri,  Yhdysvaltojen_nesteyksikkö<unconfirmed/>,@ brittiläinen_tilavuusyksikkö,@ tynnyri<broader/>1,#p (any of various units of capacity; "a barrel of beer is 31 gallons and a barrel of oil is 42 gallons") }
+{ Yhdysvaltojen_kuivayksikkö<unconfirmed/>,  kuivan_aineen_yksikkö,@ (a unit of measurement of capacity for dry substances officially adopted in the United States Customary System) }
+{ 0"\,55"_dm³,  0"\,55"_l,  pint,  kuiva_pint,  Yhdysvaltojen_kuivayksikkö<unconfirmed/>,@ 1"\,101"_dm³,#p (a United States dry unit equal to 0.5 quart or 33.6 cubic inches) }
+{ 1"\,101"_dm³,  1"\,101"_l,  1"/8"_peckiä,  Yhdysvaltojen_kuivayksikkö<unconfirmed/>,@ peck,#p (a United States dry unit equal to 2 pints or 67.2 cubic inches) }
+{ peck,  Yhdysvaltojen_kuivayksikkö<unconfirmed/>,@ busheli,#p (a United States dry measure equal to 8 quarts or 537.605 cubic inches) }
+{ busheli,  Yhdysvaltojen_kuivayksikkö<unconfirmed/>,@ (a United States dry measure equal to 4 pecks or 2152.42 cubic inches) }
+{ tippa1,  brittiläinen_tilavuusyksikkö,@ nestedrakma1,#p (a British imperial capacity measure (liquid or dry) equal to 1/60th fluid dram or 0.059194 cubic centimeters) }
+{ nestedrakma1,  drakma1,  brittiläinen_tilavuusyksikkö,@ nesteunssi1,#p (a British imperial capacity measure (liquid or dry) equal to 60 minims or 3.5516 cubic centimeters) }
+{ nesteunssi1,  brittiläinen_tilavuusyksikkö,@ gill1,#p (a British imperial unit of capacity or volume (liquid or dry) equal to 8 fluid drams or 28.416 cubic centimeters (1.734 cubic inches)) }
+{ gill1,  brittiläinen_tilavuusyksikkö,@ 0"\,57"_dm3",#p (a British imperial capacity unit (liquid or dry) equal to 5 fluid ounces or 142.066 cubic centimeters) }
+{ 0"\,57"_dm3",  0"\,57"_l,  brittiläinen_tilavuusyksikkö,@ 1"\,136"_dm³,#p (a British imperial capacity measure (liquid or dry) equal to 4 gills or 568.26 cubic centimeters) }
+{ 1"\,136"_dm³,  1"\,136"_l,  1"/8"_peckiä1,  brittiläinen_tilavuusyksikkö,@ gallona,#p (a British imperial capacity measure (liquid or dry) equal to 2 pints or 1.136 liters) }
+{ gallona,  brittiläinen_gallona,  congius-mitta,  brittiläinen_tilavuusyksikkö,@ barreli,#p busheli1,#p nelikko,#p (a British imperial capacity measure (liquid or dry) equal to 4 quarts or 4.545 liters) }
+{ peck1,  brittiläinen_tilavuusyksikkö,@ busheli1,#p (a British imperial capacity measure (liquid or dry) equal to 2 gallons) }
+{ busheli1,  brittiläinen_tilavuusyksikkö,@ neljännesnaula,#p (a British imperial capacity measure (liquid or dry) equal to 4 pecks) }
+{ nelikko,  brittiläinen_tilavuusyksikkö,@ kilderkin,#p (a British unit of capacity equal to 9 imperial gallons) }
+{ kilderkin,  brittiläinen_tilavuusyksikkö,@ (an obsolete British unit of capacity equal to 18 Imperial gallons) }
+{ neljännesnaula,  brittiläinen_tilavuusyksikkö,@ sentneri,#p noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a quarter of a hundredweight (28 pounds)) }
+{ tynnyri<broader/>1,  brittiläinen_tilavuusyksikkö,@ (a British unit of capacity for alcoholic beverages) }
+{ chaldron,  brittiläinen_tilavuusyksikkö,@ (a British imperial capacity measure (liquid or dry) equal to 36 bushels) }
+{ kuutiomillimetri,  tilavuusyksikkö<approximate/>1,@ millilitra,#p (a metric measure of volume or capacity equal to a cube 1 millimeter on each edge) }
+{ millilitra,  mil,  ml,  kuutiosenttimetri,  cc,  tilavuusyksikkö<approximate/>1,@ senttilitra,#p (a metric unit of volume equal to one thousandth of a liter) }
+{ senttilitra,  cl,  tilavuusyksikkö<approximate/>1,@ desilitra,#p (a metric unit of volume equal to one hundredth of a liter) }
+{ desilitra,  dl,  tilavuusyksikkö<approximate/>1,@ litra,#p (a metric unit of volume equal to one tenth of a liter) }
+{ litra,  l,  kuutiodesimetri,  tilavuusyksikkö<approximate/>1,@ dekalitra,#p (a metric unit of capacity, formerly defined as the volume of one kilogram of pure water under standard conditions; now equal to 1,000 cubic centimeters (or approximately 1.75 pints)) }
+{ dekalitra,  dkl,  tilavuusyksikkö<approximate/>1,@ hehtolitra,#p (a metric unit of volume or capacity equal to 10 liters) }
+{ hehtolitra,  100"_litraa,  hl,  tilavuusyksikkö<approximate/>1,@ kilolitra,#p (a metric unit of volume or capacity equal to 100 liters) }
+{ kilolitra,  kuutiometri,  tilavuusyksikkö<approximate/>1,@ kuutiokilometri,#p (a metric unit of volume or capacity equal to 1000 liters) }
+{ kuutiokilometri,  tilavuusyksikkö<approximate/>1,@ (a unit of capacity equal to the volume of a cube one kilometer on each edge) }
+{ bitti,  mittayksikkö,@ tavu,#p (a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states; "there are 8 bits in a byte") }
+{ pariteettibitti,  pariteetti,  tarkistusbitti,  bitti,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a bit that is used in an error detection procedure in which a 0 or 1 is added to each group of bits so that it will have either an odd number of 1's or an even number of 1's; e.g., if the parity is odd then any group of bits that arrives with an even number of 1's must contain an error) }
+{ puolitavu,  tietokoneen_muistiyksikkö,@ tavu,#p (a small byte) }
+{ tavu,  tietokoneen_muistiyksikkö,@ sana,#p (a sequence of 8 bits (enough to represent one character of alphanumeric data) processed as a single unit of information) }
+{ lohko,  tietokoneen_muistiyksikkö,@ allokointiyksikkö,#p lohko1,#p (the minimum track length that can be assigned to store information; unless otherwise specified a sector of data consists of 512 bytes) }
+{ lohko1,  tietokoneen_muistiyksikkö,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a sector or group of sectors that function as the smallest data unit permitted; "since blocks are often defined as a single sector, the terms `block' and `sector' are sometimes used interchangeably") }
+{ viallinen_lohko<approximate/>,  viallinen_sektori,  lohko1,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) a block (usually one sector) that cannot reliably hold data) }
+{ allokointiyksikkö,  varausyksikkö,  tietokoneen_muistiyksikkö,@ (a group of sectors on a magnetic disk that can be reserved for the use of a particular file) }
+{ osio,  tietokoneen_muistiyksikkö,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the part of a hard disk that is dedicated to a particular operating system or application and accessed as a single unit) }
+{ sana,  tietokoneen_muistiyksikkö,@ kilobitti,#p (a word is a string of bits stored in computer memory; "large computers use words up to 64 bits long") }
+{ kilobitti,  kibibitti,  K,  KB,  kB1,  KiB,  tietokoneen_muistiyksikkö,@ megatavu,#p (a unit of information equal to 1024 bytes) }
+{ kilobitti1,  K1,  KB2,  kB3,  tietokoneen_muistiyksikkö,@ megatavu1,#p (a unit of information equal to 1000 bytes) }
+{ kilobitti2,  kbit,  kb4,  tietokoneen_muistiyksikkö,@ megabitti,#p (a unit of information equal to 1000 bits) }
+{ kibibitti1,  kibitti,  tietokoneen_muistiyksikkö,@ mebibitti1,#p (a unit of information equal to 1024 bits) }
+{ megatavu,  mebibitti,  M,  MB,  MiB,  tietokoneen_muistiyksikkö,@ gigatavu,#p (a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes) }
+{ megatavu1,  M1,  MB1,  tietokoneen_muistiyksikkö,@ gigatavu1,#p (a unit of information equal to 1000 kilobytes or 10^6 (1,000,000) bytes) }
+{ megabitti,  Mbit,  Mb2,  tietokoneen_muistiyksikkö,@ gigabitti,#p (a unit of information equal to 1000 kilobits or 10^6 (1,000,000) bits) }
+{ mebibitti1,  Mibit,  tietokoneen_muistiyksikkö,@ gibibitti,#p (a unit of information equal to 1024 kibibits or 2^20 (1,048,576) bits) }
+{ gigatavu,  gibitavu,  G1,  GB,  GiB,  tietokoneen_muistiyksikkö,@ teratavu,#p (a unit of information equal to 1024 mebibytes or 2^30 (1,073,741,824) bytes) }
+{ gigatavu1,  G2,  GB1,  tietokoneen_muistiyksikkö,@ TB,#p (a unit of information equal to 1000 megabytes or 10^9 (1,000,000,000) bytes) }
+{ gigabitti,  Gbit,  Gb2,  tietokoneen_muistiyksikkö,@ terabitti,#p (a unit of information equal to 1000 megabits or 10^9 (1,000,000,000) bits) }
+{ gibibitti,  Gibit,  tietokoneen_muistiyksikkö,@ tebibit,#p (a unit of information equal to 1024 mebibits or 2^30 (1,073,741,824) bits) }
+{ teratavu,  tebitavu,  tietokoneen_muistiyksikkö,@ petatavu,#p (a unit of information equal to 1024 gibibytes or 2^40 (1,099,511,627,776) bytes) }
+{ TB,  teratavu1,  tietokoneen_muistiyksikkö,@ petatavu1,#p (a unit of information equal to 1000 gigabytes or 10^12 (1,000,000,000,000) bytes) }
+{ terabitti,  Tb1,  tietokoneen_muistiyksikkö,@ petabitti,#p (a unit of information equal to 1000 gigabits or 10^12 (1,000,000,000,000) bits) }
+{ tebibit,  Tibit,  tietokoneen_muistiyksikkö,@ pebibitti,#p (a unit of information equal to 1024 gibibits or 2^40 (1,099,511,627,776) bits) }
+{ petatavu,  pebitavu,  PB,  PiB,  tietokoneen_muistiyksikkö,@ eksatavu,#p (a unit of information equal to 1024 tebibytes or 2^50 bytes) }
+{ petatavu1,  PB1,  tietokoneen_muistiyksikkö,@ eksatavu1,#p (a unit of information equal to 1000 terabytes or 10^15 bytes) }
+{ petabitti,  Pbit,  Pb2,  tietokoneen_muistiyksikkö,@ eksabitti,#p (a unit of information equal to 1000 terabits or 10^15 bits) }
+{ pebibitti,  tietokoneen_muistiyksikkö,@ eksbibitti<unconfirmed/>,#p (a unit of information equal to 1024 tebibits or 2^50 bits) }
+{ eksatavu,  eksbitavu,  EB,  EiB,  tietokoneen_muistiyksikkö,@ tsettatavu,#p (a unit of information equal to 1024 pebibytes or 2^60 bytes) }
+{ eksatavu1,  EB1,  tietokoneen_muistiyksikkö,@ tsettatavu1,#p (a unit of information equal to 1000 petabytes or 10^18 bytes) }
+{ eksabitti,  Ebit,  Eb2,  tietokoneen_muistiyksikkö,@ tsettabitti,#p (a unit of information equal to 1000 petabits or 10^18 bits) }
+{ eksbibitti<unconfirmed/>,  Eibit,  tietokoneen_muistiyksikkö,@ tsebibitti,#p (a unit of information equal to 1024 pebibits or 2^60 bits) }
+{ tsettatavu,  zettatavu,  tsebitavu,  zebitavu,  ZB,  ZiB,  tietokoneen_muistiyksikkö,@ jottatavu,#p (a unit of information equal to 1024 exbibytes or 2^70 bytes) }
+{ tsettatavu1,  zettatavu1,  ZB1,  tietokoneen_muistiyksikkö,@ jottatavu1,#p (a unit of information equal to 1000 exabytes or 10^21 bytes) }
+{ tsettabitti,  zettabitti,  Zbit,  Zb2,  tietokoneen_muistiyksikkö,@ jottabitti,#p (a unit of information equal to 1000 exabits or 10^21 bits) }
+{ tsebibitti,  zebibitti,  Zibit,  tietokoneen_muistiyksikkö,@ jobibitti,#p (a unit of information equal to 1024 exbibits or 2^70 bits) }
+{ jottatavu,  yottatavu,  jobitavu,  yobitavu,  YB,  YiB,  tietokoneen_muistiyksikkö,@ (a unit of information equal to 1024 zebibytes or 2^80 bytes) }
+{ jottatavu1,  yottatavu1,  YB1,  tietokoneen_muistiyksikkö,@ (a unit of information equal to 1000 zettabytes or 10^24 bytes) }
+{ jottabitti,  yottabitti,  Ybit,  Yb2,  tietokoneen_muistiyksikkö,@ (a unit of information equal to 1000 zettabits or 10^24 bits) }
+{ jobibitti,  yobibitti,  Yibit,  tietokoneen_muistiyksikkö,@ (a unit of information equal to 1024 zebibits or 2^80 bits) }
+{ kapasitanssin_yksikkö,  sähkömagneettinen_yksikkö,@ (a measure of the capacity of a circuit component to store charge) }
+{ sähkövarauksen_yksikkö,  sähkömagneettinen_yksikkö,@ (a measure of the quantity of electricity (determined by the amount of an electric current and the time for which it flows)) }
+{ konduktanssin_yksikkö,  sähkömagneettinen_yksikkö,@ (a measure of a material's ability to conduct an electrical charge) }
+{ sähkövirtayksikkö,  sähkömagneettinen_yksikkö,@ (a measure of the amount of electric charge flowing past a circuit point at a specific time) }
+{ elastanssin_yksikkö,  sähkömagneettinen_yksikkö,@ (the reciprocal of capacitance) }
+{ kenttävoimakkuuden_yksikkö,  sähkömagneettinen_yksikkö,@ (an electromagnetic unit of magnetic intensity) }
+{ vuon_tiheyden_yksikkö,  sähkömagneettinen_yksikkö,@ (a measure of the amount of flux per unit of cross sectional area) }
+{ vuon_yksikkö,  magneettivuon_yksikkö,  magneettinen_voimavaikutus,@ (a measure of the strength of a magnetic field per unit area) }
+{ induktanssin_yksikkö,  sähkömagneettinen_yksikkö,@ (a measure of the property of an electric circuit by which an electromotive force is induced in it) }
+{ valoyksikkö,  sähkömagneettinen_yksikkö,@ (a measure of the visible electromagnetic radiation) }
+{ magnetomotorisen_voiman_yksikkö,  sähkömagneettinen_yksikkö,@ (a unit of measurement of magnetomotive force) }
+{ potentiaalin_yksikkö,  sähkömagneettinen_yksikkö,@ (a measure of the potential energy of a unit charge at a given point in a circuit relative to a reference point (ground)) }
+{ voiman_yksikkö1,  sähkömagneettinen_yksikkö,@ (a measure of electric power) }
+{ radioaktiivinen_yksikkö,  sähkömagneettinen_yksikkö,@ (a measure of radioactivity) }
+{ vastusyksikkö,  sähkömagneettinen_yksikkö,@ (the reciprocal of conductance) }
+{ sähköstaattinen_yksikkö,  mittayksikkö,@ (any of various units of electricity based on forces of interaction between electric charges) }
+{ pikofaradi,  kapasitanssin_yksikkö,@ mikrofaradi,#p (a unit of capacitance equal to one trillionth of a farad) }
+{ mikrofaradi,  kapasitanssin_yksikkö,@ millifaradi,#p (a unit of capacitance equal to one millionth of a farad) }
+{ millifaradi,  kapasitanssin_yksikkö,@ faradi,#p (a unit of capacitance equal to one thousandth of a farad) }
+{ faradi,  F,  kapasitanssin_yksikkö,@ abfaradi<unconfirmed/>,#p (the capacitance of a capacitor that has an equal and opposite charge of 1 coulomb on each plate and a voltage difference of 1 volt between the plates) }
+{ abfaradi<unconfirmed/>,  kapasitanssin_yksikkö,@ (a capacitance unit equal to one billion farads) }
+{ coulombi,  C,  ampeerisekunti,  sähkövarauksen_yksikkö,@ ampeeriminuutti,#p abcoulombi,#p (a unit of electrical charge equal to the amount of charge transferred by a current of 1 ampere in 1 second) }
+{ abcoulombi,  sähkövarauksen_yksikkö,@ (a unit of electrical charge equal to 10 coulombs) }
+{ ampeeriminuutti,  sähkövarauksen_yksikkö,@ ampeeritunti,#p (a unit of charge equal to 60 coulombs) }
+{ ampeeritunti,  sähkövarauksen_yksikkö,@ (a unit of charge equal to 3600 coulombs) }
+{ mho,  siemens,  käänteisohmi,  S,  konduktanssin_yksikkö,@ (a unit of conductance equal to the reciprocal of an ohm) }
+{ ampeeri,  A,  sähkövirtayksikkö,@ abampeeri,#p (the basic unit of electric current adopted under the Systeme International d'Unites; "a typical household circuit carries 15 to 50 amps") }
+{ milliampeeri,  mA,  sähkövirtayksikkö,@ ampeeri,#p (one thousandth of an ampere) }
+{ abampeeri,  sähkövirtayksikkö,@ (a unit of current equal to 10 amperes) }
+{ ampeeri1,  kansainvälinen_ampeeri,  sähkövirtayksikkö,@ (a former unit of electric current (slightly smaller than the SI ampere)) }
+{ daraf,  elastanssin_yksikkö,@ (a unit of elastance equal to the reciprocal of a farad) }
+{ gamma,  kenttävoimakkuuden_yksikkö,@ örsted,#p (a unit of magnetic field strength equal to one-hundred-thousandth of an oersted) }
+{ örsted,  kenttävoimakkuuden_yksikkö,@ (the magnetic field strength 1 cm from a unit magnetic pole) }
+{ maxwell,  Mx,  vuon_yksikkö,@ weber,#p (a cgs unit of magnetic flux equal to the flux perpendicular to an area of 1 square centimeter in a magnetic field of 1 gauss) }
+{ weber,  Wb,  vuon_yksikkö,@ (a unit of magnetic flux equal to 100,000,000 maxwells) }
+{ mikrogaussi<unconfirmed/>,  vuon_tiheyden_yksikkö,@ gaussi,#p (a unit of magnetic flux density equal to one millionth of a gauss) }
+{ gaussi,  vuon_tiheyden_yksikkö,@ tesla,#p (a unit of magnetic flux density equal to 1 maxwell per square centimeter) }
+{ tesla,  vuon_tiheyden_yksikkö,@ (a unit of magnetic flux density equal to one weber per square meter) }
+{ abhenry<unconfirmed/>,  induktanssin_yksikkö,@ henry,#p (a unit of inductance equal to one billionth of a henry) }
+{ millihenry,  induktanssin_yksikkö,@ henry,#p (a unit of inductance equal to one thousandth of a henry) }
+{ henry,  H1,  induktanssin_yksikkö,@ (a unit of inductance in which an induced electromotive force of one volt is produced when the current is varied at the rate of one ampere per second) }
+{ valon_yksikkö,  valoyksikkö,@ (a measure of illumination) }
+{ luminanssin_yksikkö,  valoyksikkö,@ (a measure of luminance) }
+{ valovirran_yksikkö,  valoyksikkö,@ (a measure of luminous flux per unit area) }
+{ valovoiman_yksikkö,  valoyksikkö,@ (a measure of luminous intensity) }
+{ valotus,  valoyksikkö,@ (the intensity of light falling on a photographic film or plate; "he used the wrong exposure") }
+{ lumenia_neliöjalalla<idiomatic_pos/>,  valon_yksikkö,@ (a unit of illuminance on a surface that is everywhere 1 foot from a point source of 1 candle) }
+{ lambert,  L1,  valon_yksikkö,@ (a cgs unit of illumination equal to the brightness of a perfectly diffusing surface that emits or reflects one lumen per square centimeter) }
+{ luksi,  lx,  valon_yksikkö,@ fot,#p (a unit of illumination equal to 1 lumen per square meter; 0.0929 foot candle) }
+{ fot,  valon_yksikkö,@ (a unit of illumination equal to 1 lumen per square centimeter; 10,000 phots equal 1 lux) }
+{ niti,  luminanssin_yksikkö,@ (a luminance unit equal to 1 candle per square meter measured perpendicular to the rays from the source) }
+{ lambertia_neliöjalalla<unconfirmed/>,  ft-L,  luminanssin_yksikkö,@ (a former luminance unit equal to one lumen per square foot) }
+{ lumen,  lm,  valovirran_yksikkö,@ (a unit of luminous flux equal to the amount of light given out through a solid angle of 1 steradian by a point source of 1 candela intensity radiating uniformly in all directions) }
+{ kandela,  cd,  valovoiman_yksikkö,@ (the basic unit of luminous intensity adopted under the Systeme International d'Unites; equal to 1/60 of the luminous intensity per square centimeter of a black body radiating at the temperature of 2,046 degrees Kelvin) }
+{ lumen_per_neliötuuma,  valovoiman_yksikkö,@ (a former international unit of luminous intensity; now replaced by the candela) }
+{ gilbert,  Gb3,  Gi,  magnetomotorisen_voiman_yksikkö,@ (a unit of magnetomotive force equal to 0.7958 ampere-turns) }
+{ ampeerikierros,  magnetomotorisen_voiman_yksikkö,@ (a unit of magnetomotive force equal to the magnetomotive force produced by the passage of 1 ampere through 1 complete turn of a coil; equal to 1.257 gilberts) }
+{ magnetoni,  magnetomotorisen_voiman_yksikkö,@ (a unit of magnetic moment of a molecular or atomic or subatomic particle) }
+{ abvoltti<unconfirmed/>,  potentiaalin_yksikkö,@ voltti,#p (a unit of potential equal to one-hundred-millionth of a volt) }
+{ millivoltti,  mV,  potentiaalin_yksikkö,@ voltti,#p (a unit of potential equal to one thousandth of a volt) }
+{ mikrovoltti,  potentiaalin_yksikkö,@ voltti,#p (a unit of potential equal to one millionth of a volt) }
+{ nanovoltti,  potentiaalin_yksikkö,@ voltti,#p (a unit of potential equal to one billionth of a volt) }
+{ pikovoltti,  potentiaalin_yksikkö,@ voltti,#p (a unit of potential equal to one trillionth of a volt) }
+{ femtovoltti,  potentiaalin_yksikkö,@ voltti,#p (a unit of potential equal to one quadrillionth of a volt (or one thousandth of a nanosecond)) }
+{ voltti,  V,  potentiaalin_yksikkö,@ kilovoltti,#p (a unit of potential equal to the potential difference between two points on a conductor carrying a current of 1 ampere when the power dissipated between the two points is 1 watt; equivalent to the potential difference across a resistance of 1 ohm when 1 ampere of current flows through it) }
+{ kilovoltti,  kV,  potentiaalin_yksikkö,@ (a unit of potential equal to a thousand volts) }
+{ rydberg,  Rydbergin_vakio,  Rydbergin_yksikkö,  aaltoluku,@ (a wave number characteristic of the wave spectrum of each element) }
+{ aaltoluku,  noun.time:frekvenssi,@ (the reciprocal of the wavelength of a wave) }
+{ abwatti<unconfirmed/>,  voiman_yksikkö1,@ milliwatti,#p (a power unit equal to the power dissipated when 1 abampere flows across a potential difference of 1 abvolt (one ten-thousandth of a milliwatt)) }
+{ milliwatti,  voiman_yksikkö1,@ watti,#p (a unit of power equal to one thousandth of a watt) }
+{ watti,  W,  voiman_yksikkö1,@ hevosvoima,#p kilowatti,#p (a unit of power equal to 1 joule per second; the power dissipated by a current of 1 ampere flowing across a resistance of 1 ohm) }
+{ kilowatti,  kW,  voiman_yksikkö1,@ megawatti,#p (a unit of power equal to 1000 watts) }
+{ megawatti,  voiman_yksikkö1,@ (a unit of power equal to one million watts) }
+{ hevosvoima,  hv,  voiman_yksikkö1,@ (a unit of power equal to 746 watts) }
+{ volttiampeeri,  vari,  voiman_yksikkö1,@ kilovolttiampeeri,#p (a unit of electrical power in an AC circuit equal to the power dissipated when 1 volt produces a current of 1 ampere) }
+{ kilovolttiampeeri,  voiman_yksikkö1,@ (a unit of electrical power equal to 1000 volt-amperes) }
+{ millicurie,  radioaktiivinen_yksikkö,@ curie,#p (a unit of radioactivity equal to one thousandth of a curie) }
+{ curie,  Ci,  radioaktiivinen_yksikkö,@ (a unit of radioactivity equal to the amount of a radioactive isotope that decays at the rate of 37,000,000,000 disintegrations per second) }
+{ gray,  Gy,  radioaktiivinen_yksikkö,@ (the SI unit of energy absorbed from ionizing radiation; equal to the absorption of one joule of radiation energy by one kilogram of matter; one gray equals 100 rad) }
+{ röntgen,  R1,  radioaktiivinen_yksikkö,@ (a unit of radiation exposure; the dose of ionizing radiation that will produce 1 electrostatic unit of electricity in 1 cc of dry air) }
+{ rutherford,  radioaktiivinen_yksikkö,@ (a unit strength of a radioactive source equal to one million disintegrations per second) }
+{ REM,  radioaktiivinen_yksikkö,@ ((Roentgen Equivalent Man) the dosage of ionizing radiation that will cause the same amount of injury to human tissue as 1 roentgen of X-rays) }
+{ rad1,  radioaktiivinen_yksikkö,@ (a unit of absorbed ionizing radiation equal to 100 ergs per gram of irradiated material) }
+{ abohmi,  vastusyksikkö,@ ohmi,#p (a unit of resistance equal to a billionth of an ohm) }
+{ [ ohmi, adj.pert:ohminen,+]  vastusyksikkö,@ megaohmi,#p (a unit of electrical resistance equal to the resistance between two points on a conductor when a potential difference of one volt between them produces a current of one ampere) }
+{ megaohmi,  vastusyksikkö,@ (a unit of resistance equal to one million ohms) }
+{ kilotonni<unconfirmed/>,  räjähdysvoiman_yksikkö,@ (a measure of explosive power (of an atomic weapon) equal to that of 1000 tons of TNT) }
+{ megatonni,  räjähdysvoiman_yksikkö,@ (a measure of explosive power (of an atomic weapon) equal to that of one million tons of TNT) }
+{ dyne,  voiman_yksikkö,@ newton,#p (a unit of force equal to the force that imparts an acceleration of 1 cm/sec/sec to a mass of 1 gram) }
+{ newton,  N1,  voiman_yksikkö,@ tukivoima<broader/>,#p (a unit of force equal to the force that imparts an acceleration of 1 m/sec/sec to a mass of 1 kilogram; equal to 100,000 dynes) }
+{ tukivoima<broader/>,  voiman_yksikkö,@ (a unit of force equal to 1000 newtons) }
+{ poundaali,  pdl,  voiman_yksikkö,@ (a unit of force equal to the force that imparts an acceleration of 1 foot/sec/sec to a mass of 1 pound; equal to 0.1382 newtons) }
+{ pauna,  lbf.,  voiman_yksikkö,@ (a nontechnical unit of force equal to the mass of 1 pound with an acceleration of free fall equal to 32 feet/sec/sec) }
+{ -naulainen,  voiman_yksikkö,@ noun.communication:yhdyssanamuoto,;u ((used only in combination) something weighing a given number of pounds; "the fisherman caught a 10-pounder"; "their linemen are all 300-pounders") }
+{ g3,  painovoimavakio<unconfirmed/>1,  g-voima,  voiman_yksikkö,@ (a unit of force equal to the force exerted by gravity; used to indicate the force to which a body is subjected when it is accelerated) }
+{ Gal1,  kiihtyvyyden_yksikkö,@ (a unit of gravitational acceleration equal to one centimeter per second per second (named after Galileo)) }
+{ boforiasteikko,  mittausjärjestelmä,@ (a scale from 0 to 12 for the force of the wind) }
+{ astronominen_yksikkö,  lineaarinen_yksikkö,@ (a linear unit used for astronomical distances) }
+{ metrinen_pituusyksikkö,  metrisen_järjestelmän_mitta,@ lineaarinen_yksikkö,@ (a linear unit of distance in metric terms) }
+{ merilineaariyksikkö<unconfirmed/>,  lineaarinen_yksikkö,@ (a linear unit of distance used in navigation) }
+{ tuuma,  \",  lineaarinen_yksikkö,@ jalka,#p noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r noun.location:Yhdysvallat,;r (a unit of length equal to one twelfth of a foot) }
+{ jalka,  lineaarinen_yksikkö,@ jaardi,#p (a linear unit of length equal to 12 inches or a third of a yard; "he is six feet tall") }
+{ n_jalan_mittainen,  lineaarinen_yksikkö,@ noun.communication:yhdyssanamuoto,;u ((used only in combinations) the height or length of something in feet; "he is a six-footer"; "the golfer sank a 40-footer"; "his yacht is a 60-footer") }
+{ jaardi,  askelmitta<approximate/>,  lineaarinen_yksikkö,@ vyyhti<unconfirmed/>,#p chain,#p syli1,#p 5"\,03"_metriä,#p (a unit of length equal to 3 feet; defined as 91.44 centimeters; originally taken to be the average length of a stride) }
+{ -jaardinen,  lineaarinen_yksikkö,@ noun.communication:yhdyssanamuoto,;u ((used only in combinations) the height or length of something in yards; "the golfer hit a 300-yarder to the green") }
+{ 5"\,03"_metriä,  lineaarinen_yksikkö,@ 201"\,2"_metriä,#p noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a linear measure of 16.5 feet) }
+{ 201"\,2"_metriä,  lineaarinen_yksikkö,@ maili,#p (a unit of length equal to 220 yards) }
+{ [ maili, -mailinen,+ noun.person:maileri,+]  maamaili,  kansainvälinen_maili,  mi1,  lineaarinen_yksikkö,@ league,#p (a unit of length equal to 1,760 yards or 5,280 feet; exactly 1609.344 meters) }
+{ [ -mailinen, maili1,+ maili3,+ maili2,+ noun.event:maili,+ maili,+]  lineaarinen_yksikkö,@ noun.communication:yhdyssanamuoto,;u ((used only in combinations) the length of something in miles; "the race was a 30-miler") }
+{ puolikas_maili,  880"_jaardia,  lineaarinen_yksikkö,@ maili,#p (a unit of length equal to half of 1 mile) }
+{ neljännesmaili,  440"_jaardia,  lineaarinen_yksikkö,@ maili,#p (a unit of length equal to a quarter of 1 mile) }
+{ league,  lineaarinen_yksikkö,@ (an obsolete unit of distance of variable length (usually 3 miles)) }
+{ ligne,  lineaarinen_yksikkö,@ tuuma,#p (a linear unit (1/40 inch) used to measure diameter of buttons) }
+{ kuudestoistaosa<approximate/>,  lineaarinen_yksikkö,@ (a former unit of length for cloth equal to 1/16 of a yard) }
+{ arsina,  lineaarinen_yksikkö,@ (a Russian unit of length (71 cm)) }
+{ kos,  lineaarinen_yksikkö,@ ((in India) a unit of length having different values in different localities) }
+{ vara,  lineaarinen_yksikkö,@ (a Spanish unit of length (about a yard) having different values in different localities) }
+{ virsta,  lineaarinen_yksikkö,@ (a Russian unit of length (1.067 km)) }
+{ kaapelinmitta,  lineaarinen_yksikkö,@ (a nautical unit of depth) }
+{ chain,  lineaarinen_yksikkö,@ (a unit of length) }
+{ Gunter's_chain,  chain,@ 201"\,2"_metriä,#p (a unit of length (22 yards)) }
+{ 100"_jalkaa,  chain,@ (a unit of length (100 ft)) }
+{ kyynärä,  lineaarinen_yksikkö,@ (an ancient unit of length based on the length of the forearm) }
+{ sormenleveys,  lineaarinen_yksikkö,@ (the length of breadth of a finger used as a linear measure) }
+{ nyrkin_levyinen<narrower/>,  vaaksa<unconfirmed/>,  lineaarinen_yksikkö,@ (about seven inches; the breadth of a fist with the thumb stuck out (used especially in archery to give the correct distance of the string from the bow)) }
+{ kehon_pituus,  lineaarinen_yksikkö,@ (the length of your body) }
+{ ääripiste,  huippu,  maksimipiste,  rajoitus,@ (the most extreme possible amount or value; "voltage peak") }
+{ kämmenenleveys,  kämmenenleveys1,@ (a unit of length equal to 4 inches; used in measuring horses; "the horse stood 20 hands") }
+{ kämmenenleveys1,  lineaarinen_yksikkö,@ (any unit of length based on the breadth of the human hand) }
+{ päänmitta,  lineaarinen_yksikkö,@ (the length or height based on the size of a human or animal head; "he is two heads taller than his little sister"; "his horse won by a head") }
+{ vyyhti<unconfirmed/>,  lineaarinen_yksikkö,@ (a unit of length of thread or yarn) }
+{ li,  lineaarinen_yksikkö,@ (Chinese distance measure; approximately 0.5 kilometers) }
+{ linkki,  lineaarinen_yksikkö,@ chain,#p (a unit of length equal to 1/100 of a chain) }
+{ silmukka,  lineaarinen_yksikkö,@ tuuma,#p (the number of openings per linear inch of a screen; measures size of particles; "a 100 mesh screen"; "100 mesh powdered cellulose") }
+{ mil1,  lineaarinen_yksikkö,@ tuuma,#p (a unit of length equal to one thousandth of an inch; used to specify thickness (e.g., of sheets or wire)) }
+{ peninkulma,  mil2,  ruotsalainen_maili,  lineaarinen_yksikkö,@ (a Swedish unit of length equivalent to 10 km) }
+{ [ maili1, -mailinen,+ noun.person:maileri,+]  roomalainen_maili,  lineaarinen_yksikkö,@ (an ancient Roman unit of length equivalent to 1620 yards) }
+{ roomalainen_askelmitta,  lineaarinen_yksikkö,@ (an ancient Roman unit of length (4.85 English feet) measured as the distance from the heel of one foot to the heel of the same foot when next it touches the ground) }
+{ geometrinen_askel<unconfirmed/>,  lineaarinen_yksikkö,@ (a modern version of the Roman pace now taken to be 5 feet) }
+{ marssiaskel,  lineaarinen_yksikkö,@ (the length of a single step in marching (taken to be 30 inches for quick time or 36 inches for double time)) }
+{ kämmenenleveys2,  lineaarinen_yksikkö,@ (a linear unit based on the length or width of the human hand) }
+{ vaaksa1,  lineaarinen_yksikkö,@ (a unit of length based on the width of the expanded human hand (usually taken as 9 inches)) }
+{ survey_mile,  lineaarinen_yksikkö,@ (a U.S. unit of measure equal to 1609.347 meters; derived from the use of 39.37 inches as the conversion for one meter) }
+{ valovuosi,  astronominen_yksikkö,@ (the distance that light travels in a vacuum in 1 year; 5.88 trillion miles or 9.46 trillion kilometers) }
+{ valotunti,  astronominen_yksikkö,@ valovuosi,#p (the distance light travels in a vacuum in one hour; approximately one billion kilometers) }
+{ valominuutti,  astronominen_yksikkö,@ valovuosi,#p (the distance light travels in a vacuum in one minute; approximately 18 million kilometers) }
+{ valosekunti,  astronominen_yksikkö,@ valovuosi,#p (the distance light travels in a vacuum in one second; approximately 300,000 kilometers) }
+{ astronominen_yksikkö1,  tähtitieteellinen_yksikkö,  AU,  astronominen_yksikkö,@ (a unit of length used for distances within the solar system; equal to the mean distance between the Earth and the Sun (approximately 93 million miles or 150 million kilometers)) }
+{ parsek,  astronominen_yksikkö,@ (a unit of astronomical length based on the distance from Earth at which stellar parallax is 1 second of arc; equivalent to 3.262 light years) }
+{ femtometri,  fermi,  metrinen_pituusyksikkö,@ pikometri,#p (a metric unit of length equal to one quadrillionth of a meter) }
+{ pikometri,  mikromillimetri,  metrinen_pituusyksikkö,@ ångström,#p (a metric unit of length equal to one trillionth of a meter) }
+{ ångström,  Ångströmin_yksikkö,  Å,  metrinen_pituusyksikkö,@ nanometri,#p (a metric unit of length equal to one ten billionth of a meter (or 0.0001 micron); used to specify wavelengths of electromagnetic radiation) }
+{ nanometri,  nm,  millimikroni,  mikromillimetri1,  metrinen_pituusyksikkö,@ mikroni,#p (a metric unit of length equal to one billionth of a meter) }
+{ mikroni,  mikrometri,  metrinen_pituusyksikkö,@ millimetri,#p (a metric unit of length equal to one millionth of a meter) }
+{ millimetri,  mm,  milli,  metrinen_pituusyksikkö,@ senttimetri,#p (a metric unit of length equal to one thousandth of a meter) }
+{ senttimetri,  cm,  sentti,  metrinen_pituusyksikkö,@ desimetri,#p (a metric unit of length equal to one hundredth of a meter) }
+{ desimetri,  dm,  metrinen_pituusyksikkö,@ metri,#p (a metric unit of length equal to one tenth of a meter) }
+{ [ metri, adj.pert:metri-,+ adj.pert:metrinen,+]  m2,  metrinen_pituusyksikkö,@ dekametri,#p (the basic unit of length adopted under the Systeme International d'Unites (approximately 1.094 yards)) }
+{ dekametri,  dkm,  metrinen_pituusyksikkö,@ hehtometri,#p (a metric unit of length equal to ten meters) }
+{ hehtometri,  100"_metriä,  hm,  metrinen_pituusyksikkö,@ kilometri,#p (a metric unit of length equal to 100 meters) }
+{ kilometri,  kilometri<broader/>1,  km,  metrinen_pituusyksikkö,@ peninkulma1,#p (a metric unit of length equal to 1000 meters (or 0.621371 miles)) }
+{ peninkulma1,  mym,  metrinen_pituusyksikkö,@ (a metric unit of length equal to 10,000 meters) }
+{ nautical_chain,  chain,@ (a nautical unit of length (15 ft)) }
+{ syli1,  lineaarinen_yksikkö,@ (a linear unit of measurement (equal to 6 feet) for water depth) }
+{ merimaili,  mi2,  solmu,  kansainvälinen_merimaili,  ilmamaili,  merilineaariyksikkö<unconfirmed/>,@ (a unit of length used in navigation; exactly 1,852 meters; historically based on the distance spanned by one minute of arc in latitude) }
+{ meripeninkulma,  mpk,  [ maili2, -mailinen,+]  kaariminuutin_pituus,  merilineaariyksikkö<unconfirmed/>,@ (a former British unit of length equivalent to 6,080 feet (1,853.184 meters); 800 feet longer than a statute mile) }
+{ merimaili1,  [ maili3, -mailinen,+]  merilineaariyksikkö<unconfirmed/>,@ (a former British unit of length once used in navigation; equivalent to 6,000 feet (1828.8 meters)) }
+{ puolen_pennyn_arvo,  arvo,@ (the amount that can be bought for a halfpenny) }
+{ pennyn_edestä<idiomatic_pos/>,  pennyllä<idiomatic_pos/>,  arvo,@ (the amount that can be bought for a penny) }
+{ dollari,  rahayksikkö,@ (the basic monetary unit in many countries; equal to 100 cents) }
+{ euro,  rahayksikkö,@ (the basic monetary unit of most members of the European Union (introduced in 1999); in 2002 twelve European nations (Germany, France, Belgium, Luxembourg, the Netherlands, Italy, Spain, Portugal, Ireland, Greece, Austria, Finland) adopted the euro as their basic unit of money and abandoned their traditional currencies) }
+{ frangi,  rahayksikkö,@ (the basic monetary unit in many countries; equal to 100 centimes) }
+{ rahayksikön_alayksikkö,  alayksikkö,  rahayksikkö,@ (a monetary unit that is valued at a fraction (usually one hundredth) of the basic monetary unit) }
+{ Afganistanin_rahayksikkö,  rahayksikkö,@ (monetary unit in the Islamic State of Afghanistan) }
+{ afgaani,  Afganistanin_rahayksikkö,@ (the basic unit of money in Afghanistan) }
+{ pul,  Afganistanin_rahayksikkö,@ afgaani,#p (100 puls equal 1 afghani in Afghanistan) }
+{ Argentiinan_rahayksikkö,  rahayksikkö,@ (monetary unit in Argentina) }
+{ austral,  Argentiinan_rahayksikkö,@ (the basic unit of money in Argentina; equal to 100 centavos) }
+{ Thaimaan_rahayksikkö,  rahayksikkö,@ (monetary unit in Thailand) }
+{ Baht,  tical,  Thaimaan_rahayksikkö,@ (the basic unit of money in Thailand) }
+{ satang,  Thaimaan_rahayksikkö,@ Baht,#p (100 satangs equal 1 baht in Thailand) }
+{ Panaman_rahayksikkö,  rahayksikkö,@ (monetary unit in Panama) }
+{ balboa,  Panaman_rahayksikkö,@ (the basic unit of money in Panama; equal to 100 centesimos) }
+{ Etiopian_rahayksikkö,  rahayksikkö,@ (monetary unit in Ethiopia) }
+{ birr,  Etiopian_rahayksikkö,@ (the basic unit of money in Ethiopia; equal to 100 cents) }
+{ sentti1,  rahayksikön_alayksikkö,@ Sri_Lankan_rupia,@ birr,#p lilangeni,#p Mauritiuksen_rupia,#p dollari,#p leone,#p Seychellien_rupia,#p randi,#p Ison-Britannian_šillinki,#p guldeni,#p (a fractional monetary unit of several countries) }
+{ centesimo,  rahayksikön_alayksikkö,@ Uruguayn_peso,#p liira,#p Chilen_peso,#p balboa,#p (a fractional monetary unit of several countries: Panama and Italy and Uruguay and Chile) }
+{ centimo,  rahayksikön_alayksikkö,@ colon,#p bolivar,#p guaraní,#p peseta,#p (a fractional monetary unit of Venezuela and Costa Rica and Equatorial Guinea and Paraguay and Spain) }
+{ centavo,  rahayksikön_alayksikkö,@ Portugalin_escudo,#p colon1,#p Dominikaanisen_tasavallan_peso,#p lempira,#p Kolumbian_peso,#p quetzal,#p Meksikon_peso,#p austral,#p Guinea-Bissaun_peso,#p Filippiinien_peso,#p metical,#p Uruguayn_peso,#p Yhdysvaltain_dollari<note>ei_ole_sucre_vaan</note>,#p dobra,#p real,#p boliviano,#p cordoba,#p Kap_Verden_escudo,#p Kuuban_peso,#p (a fractional monetary unit of several countries: El Salvador and Sao Tome and Principe and Brazil and Argentina and Bolivia and Colombia and Cuba and the Dominican Republic and Ecuador and El Salvador and Guatemala and Honduras and Mexico and Nicaragua and Peru and the Philippines and Portugal) }
+{ centime,  rahayksikön_alayksikkö,@ CFA-frangi3,#p Malin_frangi,#p CFA-frangi2,#p Burkina_Fason_frangi,#p Burundin_frangi,#p Sveitsin_frangi,#p Belgian_frangi,#p Algerian_dinaari,#p Kamerunin_frangi,#p CFA-frangi1,#p Luxemburgin_frangi,#p Ruandan_frangi,#p frangi1,#p frangi,#p Gabonin_CFA-frangi,#p Nigerin_frangi,#p Länsi-Afrikan_frangi,#p Marokon_dirhami,#p (a fractional monetary unit of several countries: France and Algeria and Belgium and Burkina Faso and Burundi and Cameroon and Chad and the Congo and Gabon and Haiti and the Ivory Coast and Luxembourg and Mali and Morocco and Niger and Rwanda and Senegal and Switzerland and Togo) }
+{ Venezuelan_rahayksikkö,  rahayksikkö,@ (monetary unit of Venezuela) }
+{ bolivar,  Venezuelan_rahayksikkö,@ (the basic unit of money in Venezuela; equal to 100 centimos) }
+{ Ghanan_rahayksikkö,  rahayksikkö,@ (monetary unit of Ghana) }
+{ cedi,  Ghanan_rahayksikkö,@ (the basic unit of money in Ghana) }
+{ pesewa,  Ghanan_rahayksikkö,@ cedi,#p (100 pesewas equal 1 cedi in Ghana) }
+{ Costa_Rican_rahayksikkö,  rahayksikkö,@ (monetary unit in Costa Rica) }
+{ colon,  Costa_Rican_colon,  Costa_Rican_rahayksikkö,@ (the basic unit of money in Costa Rica; equal to 100 centimos) }
+{ El_Salvadorin_rahayksikkö,  rahayksikkö,@ (monetary unit in El Salvador) }
+{ colon1,  El_Salvadorin_colon,  El_Salvadorin_rahayksikkö,@ (the basic unit of money in El Salvador; equal to 100 centavos) }
+{ Brasilian_rahayksikkö,  rahayksikkö,@ (monetary unit in Brazil) }
+{ real,  Brasilian_rahayksikkö,@ (the basic unit of money in Brazil; equal to 100 centavos) }
+{ Gambian_rahayksikkö,  rahayksikkö,@ (monetary unit in Gambia) }
+{ dalasi,  Gambian_rahayksikkö,@ (the basic unit of money in Gambia) }
+{ butut,  butat,  Gambian_rahayksikkö,@ dalasi,#p (100 bututs equal 1 dalasi in Gambia) }
+{ Algerian_rahayksikkö,  rahayksikkö,@ (monetary unit in Algeria) }
+{ Algerian_dinaari,  dinaari,  Algerian_rahayksikkö,@ (the basic unit of money in Algeria) }
+{ Algerian_centime,  centime,@ Algerian_dinaari,#p (100 centimes equal 1 dinar in Algeria) }
+{ Bahrainin_rahayksikkö,  rahayksikkö,@ (monetary unit in Bahrain) }
+{ Bahrainin_dinaari,  dinaari1,  Bahrainin_rahayksikkö,@ (the basic unit of money in Bahrain; equal to 1,000 fils) }
+{ fils,  rahayksikön_alayksikkö,@ Irakin_dinaari,#p Bahrainin_dinaari,#p Jordanian_dinaari,#p Kuwaitin_dinaari1,#p (a fractional monetary unit in Bahrain and Iraq and Jordan and Kuwait; equal to one thousandth of a dinar) }
+{ Irakin_rahayksikkö,  rahayksikkö,@ (monetary unit in Iraq) }
+{ Irakin_dinaari,  dinaari2,  Irakin_rahayksikkö,@ (the basic unit of money in Iraq; equal to 1,000 fils) }
+{ Jordanian_rahayksikkö,  rahayksikkö,@ (monetary unit in Jordan) }
+{ Jordanian_dinaari,  dinaari3,  Jordanian_rahayksikkö,@ (the basic unit of money in Jordan; equal to 1,000 fils) }
+{ Kuwaitin_rahayksikkö,  rahayksikkö,@ (monetary unit in Kuwait) }
+{ Kuwaitin_dinaari,  dinaari4,  Kuwaitin_rahayksikkö,@ (the basic unit of money in Kuwait; equal 1,000 fils) }
+{ Kuwaitin_dinaari1,  dinaari5,  Kuwaitin_rahayksikkö,@ Kuwaitin_dinaari,#p (worth one tenth of a Kuwaiti dinar; equal 100 fils) }
+{ Libyan_rahayksikkö,  rahayksikkö,@ (monetary unit in Libya) }
+{ Libyan_dinaari,  dinaari6,  Libyan_rahayksikkö,@ (the basic unit of money in Libya) }
+{ Libyan_dinaari1,  dinaari7,  Libyan_rahayksikkö,@ Libyan_dinaari,#p (100 dirhams equal 1 dinar in Libya) }
+{ Tunisian_rahayksikkö,  rahayksikkö,@ (monetary unit in Tunisia) }
+{ Tunisian_dinaari,  dinaari8,  Tunisian_rahayksikkö,@ (the basic unit of money in Tunisia) }
+{ Tunisian_dinaari1,  dinaari9,  Tunisian_rahayksikkö,@ Tunisian_dinaari,#p (100 dirhams equal 1 dinar in Tunisia) }
+{ millime,  Tunisian_rahayksikkö,@ Tunisian_dinaari1,#p (1,000 millimes equal 1 dinar in Tunisia) }
+{ Jugoslavian_rahayksikkö,  rahayksikkö,@ (monetary unit in Yugoslavia) }
+{ Jugoslavian_dinaari,  dinaari10,  Jugoslavian_rahayksikkö,@ (the basic unit of money in Yugoslavia) }
+{ para,  Jugoslavian_rahayksikkö,@ Jugoslavian_dinaari,#p (100 para equal 1 dinar in Yugoslavia) }
+{ Marokon_rahayksikkö,  rahayksikkö,@ (monetary unit in Morocco) }
+{ Marokon_dirhami,  dirhami,  Marokon_dirham,  Marokon_rahayksikkö,@ (the basic unit of money in Morocco; equal to 100 centimes) }
+{ rahayksikkö<broader/>1,  rahayksikkö,@ (monetary unit in the United Arab Emirates) }
+{ dinaari11,  dirhami1,  rahayksikkö<broader/>1,@ (the basic unit of money in the United Arab Emirates; equal to 1,000 fils) }
+{ Australian_dollari,  dollari,@ (the basic unit of money in Australia and Nauru) }
+{ Bahaman_dollari,  dollari,@ (the basic unit of money in the Bahamas) }
+{ Barbadosin_dollari,  dollari,@ (the basic unit of money in Barbados) }
+{ Belizen_dollari,  dollari,@ (the basic unit of money in Belize) }
+{ Bermudan_dollari,  dollari,@ (the basic unit of money in Bermuda) }
+{ Brunein_dollari,  dollari,@ (the basic unit of money in Brunei) }
+{ sen,  rahayksikön_alayksikkö,@ ringgit,#p jeni,#p riel,#p rupia6,#p (a fractional monetary unit of Japan and Indonesia and Cambodia; equal to one hundredth of a yen or rupiah or riel) }
+{ Kanadan_dollari,  dollari,@ (the basic unit of money in Canada; "the Canadian dollar has the image of loon on one side of the coin") }
+{ Caymansaarten_dollari,  dollari,@ (the basic unit of money in the Cayman Islands) }
+{ Dominican_dollari,  dollari,@ (the basic unit of money in Dominica) }
+{ Fidžin_dollari,  dollari,@ (the basic unit of money in Fiji) }
+{ Grenadan_dollari<unconfirmed/>,  Itä-Karibian_dollari<unconfirmed/>,  dollari,@ (the basic unit of money in Grenada) }
+{ Guyanan_dollari,  dollari,@ (the basic unit of money in Guyana) }
+{ Hongkongin_dollari,  dollari,@ (the basic unit of money in Hong Kong) }
+{ Jamaikan_dollari,  dollari,@ (the basic unit of money in Jamaica) }
+{ Kiribatin_dollari,  dollari,@ (the basic unit of money in Kiribati) }
+{ Liberian_dollari,  dollari,@ (the basic unit of money in Liberia) }
+{ Uuden-Seelannin_dollari,  dollari,@ (the basic unit of money in New Zealand) }
+{ Singaporen_dollari,  dollari,@ (the basic unit of money in Singapore) }
+{ Taiwanin_dollari,  yuan,  dollari,@ (the basic unit of money in Taiwan) }
+{ Tridinadin_ja_Tobagon_dollari,  Trinidad_ja_Tobagon_dollari,  dollari,@ (the basic unit of money in Trinidad and Tobago) }
+{ Tuvalun_dollari,  dollari,@ (the basic unit of money in Tuvalu) }
+{ Yhdysvaltojen_dollari,  dollari,@ (the basic unit of money in the United States) }
+{ eurodollari,  Yhdysvaltojen_dollari,@ noun.possession:eurovaluutta,@ (a United States dollar deposited in a European bank and used as an international currency to finance trade) }
+{ Zimbabwen_dollari,  dollari,@ (the basic unit of money in Zimbabwe) }
+{ Vietnamin_rahayksikkö,  rahayksikkö,@ (monetary unit in Vietnam) }
+{ dong,  Vietnamin_rahayksikkö,@ (the basic unit of money in Vietnam) }
+{ hao,  Vietnamin_rahayksikkö,@ dong,#p (10 hao equal 1 dong in Vietnam) }
+{ Kreikan_rahayksikkö,  rahayksikkö,@ (monetary unit in Greece) }
+{ drakma2,  Kreikan_drakma,  Kreikan_rahayksikkö,@ (formerly the basic unit of money in Greece) }
+{ leptoni,  Kreikan_rahayksikkö,@ drakma2,#p (100 lepta equal 1 drachma in Greece) }
+{ São_Tomén_ja_Príncipen_rahayksikkö,  rahayksikkö,@ (monetary unit on Sao Tome e Principe) }
+{ dobra,  São_Tomén_ja_Príncipen_rahayksikkö,@ (the basic unit of money on Sao Tome e Principe) }
+{ Kap_Verden_rahayksikkö,  rahayksikkö,@ (monetary unit on Cape Verde) }
+{ Kap_Verden_escudo,  escudo,  Kap_Verden_rahayksikkö,@ (the basic unit of money on Cape Verde; equal to 100 centavos) }
+{ Portugalin_rahayksikkö,  rahayksikkö,@ (monetary unit in Portugal) }
+{ Portugalin_escudo,  escudo1,  Portugalin_rahayksikkö,@ conto,#p (formerly the basic monetary unit of Portugal; equal to 100 centavo) }
+{ conto,  Portugalin_rahayksikkö,@ (1 conto equals 1,000 escudos in Portugal) }
+{ Unkarin_rahayksikkö,  rahayksikkö,@ (monetary unit in Hungary) }
+{ forintti,  Unkarin_rahayksikkö,@ (the basic unit of money in Hungary) }
+{ filler,  Unkarin_rahayksikkö,@ forintti,#p (100 filler equal 1 forint in Hungary) }
+{ pengo,  Unkarin_rahayksikkö,@ (formerly the basic unit of money in Hungary until it was replaced by the forint in 1946) }
+{ Belgian_frangi,  frangi,@ (formerly the basic unit of money in Belgium) }
+{ Beninin_frangi,  frangi,@ (the basic unit of money in Benin) }
+{ Burundin_frangi,  frangi,@ (the basic unit of money in Burundi) }
+{ Kamerunin_frangi,  frangi,@ (the basic unit of money in Cameroon) }
+{ CFA-frangi,  frangi,@ (the basic unit of money in the Central African Republic) }
+{ CFA-frangi1,  frangi,@ (the basic unit of money in Chad) }
+{ CFA-frangi2,  frangi,@ (the basic unit of money in the Congo) }
+{ Djiboutin_frangi,  frangi,@ (the basic unit of money in Djibouti) }
+{ Ranskan_frangi,  frangi,@ (formerly the basic unit of money in France) }
+{ Gabonin_CFA-frangi,  frangi,@ (the basic unit of money in Gabon) }
+{ Länsi-Afrikan_frangi,  frangi,@ (the basic unit of money in the Ivory Coast) }
+{ Luxemburgin_frangi,  frangi,@ (formerly the basic unit of money in Luxembourg) }
+{ Madagaskarin_frangi,  frangi,@ (the basic unit of money in Madagascar) }
+{ Malin_frangi,  frangi,@ (the basic unit of money in Mali) }
+{ Nigerin_frangi,  frangi,@ (the basic unit of money in Niger) }
+{ Ruandan_frangi,  frangi,@ (the basic unit of money in Rwanda) }
+{ CFA-frangi3,  frangi,@ (the basic unit of money in Senegal) }
+{ Sveitsin_frangi,  frangi,@ (the basic unit of money in Switzerland) }
+{ frangi1,  frangi,@ (the basic unit of money in Togo) }
+{ Burkina_Fason_frangi,  frangi,@ (the basic unit of money in Burkina Faso) }
+{ Haitin_rahayksikkö,  rahayksikkö,@ (the monetary unit in Haiti) }
+{ Haitin_gourde,  Haitin_rahayksikkö,@ (the basic unit of money in Haiti) }
+{ Haitin_sentiimi,  centime,@ Haitin_gourde,#p (100 centimes equal 1 gourde in Haiti) }
+{ Paraguayn_rahayksikkö,  rahayksikkö,@ (monetary unit in Paraguay) }
+{ guaraní,  Paraguayn_rahayksikkö,@ (the basic unit of money in Paraguay; equal to 100 centimos) }
+{ Alankomaiden_rahayksikkö,  rahayksikkö,@ (monetary unit in the Netherlands) }
+{ guldeni,  floriini,  Hollannin_floriini,  Alankomaiden_rahayksikkö,@ (formerly the basic unit of money in the Netherlands; equal to 100 cents) }
+{ Surinamen_rahayksikkö,  rahayksikkö,@ (monetary unit in Suriname) }
+{ guldeni1,  floriini1,  Surinamen_rahayksikkö,@ (the basic unit of money in Suriname; equal to 100 cents) }
+{ Perun_rahayksikkö,  rahayksikkö,@ (monetary unit in Peru) }
+{ inti,  Perun_rahayksikkö,@ (the basic unit of money in Peru) }
+{ Papuan_rahayksikkö,  rahayksikkö,@ (monetary unit in Papua New Guinea) }
+{ kina,  Papuan_rahayksikkö,@ (the basic unit of money in Papua New Guinea) }
+{ kina1,  Papuan_rahayksikkö,@ kina,#p (100 toea equal 1 kina in Papua New Guinea) }
+{ Laosin_rahayksikkö,  rahayksikkö,@ (monetary unit in Laos) }
+{ kip,  Laosin_rahayksikkö,@ (the basic unit of money in Laos) }
+{ kip1,  Laosin_rahayksikkö,@ kip,#p (100 at equal 1 kip in Laos) }
+{ Tšekin_rahayksikkö,  rahayksikkö,@ (monetary unit in Czech Republic) }
+{ koruna,  Tšekin_rahayksikkö,@ (the basic unit of money in Czech Republic) }
+{ haler,  heller,  Tšekin_rahayksikkö,@ koruna,#p (100 halers equal 1 koruna in Czech Republic) }
+{ Slovakian_rahayksikkö,  rahayksikkö,@ (monetary unit in Slovakia) }
+{ koruna1,  Slovakian_rahayksikkö,@ (the basic unit of money in Slovakia) }
+{ haler1,  heller1,  Slovakian_rahayksikkö,@ koruna,#p (100 halers equal 1 koruna Slovakia) }
+{ Islannin_rahayksikkö,  rahayksikkö,@ (monetary unit in Iceland) }
+{ Islannin_kruunu,  kruunu,  Islannin_rahayksikkö,@ (the basic unit of money in Iceland) }
+{ äyri,  Islannin_rahayksikkö,@ Islannin_kruunu,#p (100 aurar equal 1 krona in Iceland) }
+{ Ruotsin_rahayksikkö,  rahayksikkö,@ (monetary unit in Sweden) }
+{ Ruotsin_kruunu,  kruunu1,  Ruotsin_rahayksikkö,@ (the basic unit of money in Sweden) }
+{ äyri1,  rahayksikön_alayksikkö,@ Tanskan_kruunu,#p kruunu3,#p Ruotsin_kruunu,#p (a monetary subunit in Denmark and Norway and Sweden; 100 ore equal 1 krona) }
+{ Tanskan_rahayksikkö,  rahayksikkö,@ (monetary unit in Denmark) }
+{ Tanskan_kruunu,  kruunu2,  Tanskan_rahayksikkö,@ (the basic unit of money in Denmark) }
+{ Norjan_rahayksikkö,  rahayksikkö,@ (monetary unit in Norway) }
+{ kruunu3,  Norjan_kruunu,  Norjan_rahayksikkö,@ (the basic unit of money in Norway) }
+{ Malawian_rahayksikkö,  rahayksikkö,@ (monetary unit in Malawi) }
+{ Malawin_kwacha,  kwacha,  Malawian_rahayksikkö,@ (the basic unit of money in Malawi) }
+{ tambala,  Malawian_rahayksikkö,@ Malawin_kwacha,#p (100 tambala equal 1 kwacha in Malawi) }
+{ Sambian_rahayksikkö,  rahayksikkö,@ (monetary unit in Zambia) }
+{ Sambian_kwacha,  kwacha1,  Sambian_rahayksikkö,@ (the basic unit of money in Zambia) }
+{ ngwee,  Sambian_rahayksikkö,@ Sambian_kwacha,#p (100 ngwee equal 1 kwacha in Zambia) }
+{ Angolan_rahayksikkö,  rahayksikkö,@ (monetary unit in Angola) }
+{ kwanza,  Angolan_rahayksikkö,@ (the basic unit of money in Angola) }
+{ lwei,  Angolan_rahayksikkö,@ kwanza,#p (100 lwei equal 1 kwanza in Angola) }
+{ Myanmarin_rahayksikkö,  rahayksikkö,@ noun.location:Myanmar,;r (monetary unit in the Union of Burma) }
+{ kyat,  Myanmarin_rahayksikkö,@ (the basic unit of money in Myanmar) }
+{ pya,  Myanmarin_rahayksikkö,@ kyat,#p (100 pyas equal 1 kyat in Myanmar) }
+{ Albanian_rahayksikkö,  rahayksikkö,@ (monetary unit in Albania) }
+{ lek,  Albanian_rahayksikkö,@ (the basic unit of money in Albania) }
+{ qindarka,  qintar,  Albanian_rahayksikkö,@ lek,#p (100 qindarka equal 1 lek in Albania) }
+{ Hondurasin_rahayksikkö,  rahayksikkö,@ (monetary unit in Honduras) }
+{ lempira,  Hondurasin_rahayksikkö,@ (the basic unit of money in Honduras; equal to 100 centavos) }
+{ Sierra_Leonen_rahayksikkö,  rahayksikkö,@ (monetary unit in Sierra Leone) }
+{ leone,  Sierra_Leonen_rahayksikkö,@ (the basic unit of money in Sierra Leone; equal to 100 cents) }
+{ Romanian_rahayksikkö,  rahayksikkö,@ (monetary unit in Romania) }
+{ leu,  Romanian_rahayksikkö,@ (the basic unit of money in Romania) }
+{ ban,  Romanian_rahayksikkö,@ leu,#p (100 bani equal 1 leu in Romania) }
+{ Bulgarian_rahayksikkö,  rahayksikkö,@ (monetary unit in Bulgaria) }
+{ leva,  Bulgarian_rahayksikkö,@ (the basic unit of money in Bulgaria) }
+{ stotinka,  Bulgarian_rahayksikkö,@ leva,#p (100 stotinka equal 1 lev in Bulgaria) }
+{ Swazimaan_rahayksikkö,  rahayksikkö,@ (monetary unit in Swaziland) }
+{ lilangeni,  Swazimaan_rahayksikkö,@ (the basic unit of money in Swaziland; equal to 100 cents) }
+{ Italian_rahayksikkö,  rahayksikkö,@ (monetary unit in Italy) }
+{ liira,  Italian_liira,  Italian_rahayksikkö,@ (formerly the basic unit of money in Italy; equal to 100 centesimi) }
+{ Ison-Britannian_rahayksikkö,  rahayksikkö,@ (monetary unit in Great Britain) }
+{ Englannin_punta,  punta,  Ison-Britannian_rahayksikkö,@ (the basic unit of money in Great Britain and Northern Ireland; equal to 100 pence) }
+{ Ison-Britannian_šillinki,  šillinki,  Ison-Britannian_rahayksikkö,@ (a former monetary unit in Great Britain) }
+{ Turkin_rahayksikkö,  rahayksikkö,@ (monetary unit in Turkey) }
+{ liira1,  Turkin_liira,  Turkin_rahayksikkö,@ (the basic unit of money in Turkey) }
+{ kuruş,  piasteri,  Turkin_rahayksikkö,@ liira1,#p (100 kurus equal 1 lira in Turkey) }
+{ Akçe,  Turkin_rahayksikkö,@ kuruş,#p (20 aspers equal 1 kurus in Turkey) }
+{ Lesothon_rahayksikkö,  rahayksikkö,@ (monetary unit in Lesotho) }
+{ loti,  Lesothon_rahayksikkö,@ (the basic unit of money in Lesotho) }
+{ sente,  Lesothon_rahayksikkö,@ loti,#p (100 lisente equal 1 loti in Lesotho; one sente is worth one-hundredth of a loti) }
+{ Saksan_rahayksikkö,  rahayksikkö,@ (monetary unit in Germany) }
+{ markka,  Saksan_markka,  Deutsche_Mark,  D-markka,  saksanmarkka,  Saksan_rahayksikkö,@ (formerly the basic unit of money in Germany) }
+{ pfennig,  Saksan_rahayksikkö,@ markka,#p (100 pfennigs formerly equaled 1 Deutsche Mark in Germany) }
+{ Suomen_rahayksikkö,  rahayksikkö,@ (monetary unit in Finland) }
+{ markka1,  Suomen_markka,  Suomen_rahayksikkö,@ (formerly the basic unit of money in Finland) }
+{ penni,  Suomen_rahayksikkö,@ markka1,#p (100 pennia formerly equaled 1 markka in Finland) }
+{ Mosambikin_rahayksikkö,  rahayksikkö,@ (monetary unit in Mozambique) }
+{ metical,  Mosambikin_rahayksikkö,@ (the basic unit of money in Mozambique; equal to 100 centavos) }
+{ Nigerian_rahayksikkö,  rahayksikkö,@ (monetary unit in Nigeria) }
+{ naira,  Nigerian_rahayksikkö,@ (the basic unit of money in Nigeria) }
+{ kobo,  Nigerian_rahayksikkö,@ naira,#p (100 kobos equal 1 naira in Nigeria) }
+{ Bhutanin_rahayksikkö,  rahayksikkö,@ (monetary unit in Bhutan) }
+{ ngultrum,  Bhutanin_rahayksikkö,@ (the basic unit of money in Bhutan) }
+{ chetrum,  Bhutanin_rahayksikkö,@ ngultrum,#p (100 chetrums equal 1 ngultrum in Bhutan) }
+{ Mauritanian_rahayksikkö,  rahayksikkö,@ (monetary unit in Mauritania) }
+{ ouguiya,  Mauritanian_rahayksikkö,@ (the basic unit of money in Mauritania) }
+{ khoum,  Mauritanian_rahayksikkö,@ ouguiya,#p (5 khoums equal 1 ouguiya in Mauritania) }
+{ Tongan_rahajärjestelmä,  rahayksikkö,@ (monetary unit in Tonga) }
+{ pa'anga,  Tongan_rahajärjestelmä,@ (the basic unit of money in Tonga) }
+{ seniti,  Tongan_rahajärjestelmä,@ pa'anga,#p (100 seniti equal 1 pa'anga in Tonga) }
+{ Macaon_rahayksikkö,  rahayksikkö,@ (monetary unit in Macao) }
+{ pataca,  Macaon_rahayksikkö,@ (the basic unit of money in Macao) }
+{ avo,  Macaon_rahayksikkö,@ pataca,#p (100 avos equal 1 pataca in Macao) }
+{ Espanjan_rahayksikkö,  rahayksikkö,@ (monetary unit in Spain) }
+{ peseta,  Espanjan_peseta,  Espanjan_rahayksikkö,@ (formerly the basic unit of money in Spain; equal to 100 centimos) }
+{ Bolivian_rahayksikkö,  rahayksikkö,@ (monetary unit in Bolivia) }
+{ boliviano,  Bolivian_rahayksikkö,@ (the basic unit of money in Bolivia; equal to 100 centavos) }
+{ Nicaraguan_rahayksikkö,  rahayksikkö,@ (monetary unit in Nicaragua) }
+{ cordoba,  Nicaraguan_rahayksikkö,@ (the basic unit of money in Nicaragua; equal to 100 centavos) }
+{ Chilen_rahayksikkö,  rahayksikkö,@ (monetary unit in Chile) }
+{ Chilen_peso,  peso,  Chilen_rahayksikkö,@ (the basic unit of money in Chile; equal to 100 centesimos) }
+{ Kolumbian_rahayksikkö,  rahayksikkö,@ (monetary unit in Colombia) }
+{ Kolumbian_peso,  peso1,  Kolumbian_rahayksikkö,@ (the basic unit of money in Colombia; equal to 100 centavos) }
+{ Kuuban_rahayksikkö,  rahayksikkö,@ (monetary unit in Cuba) }
+{ Kuuban_peso,  peso2,  Kuuban_rahayksikkö,@ (the basic unit of money in Cuba; equal to 100 centavos) }
+{ Dominican_rahayksikkö,  rahayksikkö,@ (monetary unit in the Dominican Republic) }
+{ Dominikaanisen_tasavallan_peso,  peso3,  Dominican_rahayksikkö,@ (the basic unit of money in the Dominican Republic; equal to 100 centavos) }
+{ Guinea-Bissaun_rahayksikkö,  rahayksikkö,@ (monetary unit in Guinea-Bissau) }
+{ Guinea-Bissaun_peso,  peso4,  Guinea-Bissaun_rahayksikkö,@ (the basic unit of money in Guinea-Bissau; equal to 100 centavos) }
+{ Meksikon_rahayksikkö,  rahayksikkö,@ (monetary unit in Mexico) }
+{ Meksikon_peso,  peso5,  Meksikon_rahayksikkö,@ (the basic unit of money in Mexico; equal to 100 centavos) }
+{ Filippiinien_rahayksikkö,  rahayksikkö,@ (monetary unit in the Philippines) }
+{ Filippiinien_peso,  peso6,  Filippiinien_rahayksikkö,@ (the basic unit of money in the Philippines; equal to 100 centavos) }
+{ Uruguayn_rahayksikkö,  rahayksikkö,@ (monetary unit in Uruguay) }
+{ Uruguayn_peso,  peso7,  Uruguayn_rahayksikkö,@ (the basic unit of money in Uruguay; equal to 100 centesimos) }
+{ Kyproksen_rahayksikkö,  rahayksikkö,@ (monetary unit in Cyprus) }
+{ Kyproksen_punta<note>nyk._euro</note>,  punta1,  Kyproksen_rahayksikkö,@ (the basic unit of money in Cyprus; equal to 100 cents) }
+{ mil3,  Kyproksen_rahayksikkö,@ Kyproksen_punta<note>nyk._euro</note>,#p (a Cypriot monetary unit equal to one thousandth of a pound) }
+{ Egyptin_rahayksikkö,  rahayksikkö,@ (monetary unit in Egypt) }
+{ Egyptin_punta,  punta2,  Egyptin_rahayksikkö,@ (the basic unit of money in Egypt; equal to 100 piasters) }
+{ piasteri1,  rahayksikön_alayksikkö,@ Sudanin_punta,#p Libanonin_punta,#p Syyrian_punta,#p Egyptin_punta,#p (a fractional monetary unit in Egypt and Lebanon and Sudan and Syria) }
+{ penny,  rahayksikön_alayksikkö,@ Englannin_punta,#p Irlannin_punta,#p (a fractional monetary unit of Ireland and the United Kingdom; equal to one hundredth of a pound) }
+{ Irlannin_rahayksikkö,  rahayksikkö,@ (monetary unit in Eire) }
+{ Irlannin_punta,  punta3,  Irlannin_rahayksikkö,@ (formerly the basic unit of money in Ireland; equal to 100 pence) }
+{ Libanonin_rahayksikkö,  rahayksikkö,@ (monetary unit in Lebanon) }
+{ Libanonin_punta,  punta4,  Libanonin_rahayksikkö,@ (the basic unit of money in Lebanon; equal to 100 piasters) }
+{ Maltan_rahayksikkö,  rahayksikkö,@ (monetary unit on Malta) }
+{ liira2,  Maltan_liira,  Maltan_rahayksikkö,@ (the basic unit of money on Malta; equal to 100 cents) }
+{ Sudanin_rahayksikkö,  rahayksikkö,@ (monetary unit in the Sudan) }
+{ Sudanin_punta,  punta5,  Sudanin_rahayksikkö,@ (the basic unit of money in the Sudan; equal to 100 piasters) }
+{ Syyrian_rahayksikkö,  rahayksikkö,@ (monetary unit in Syria) }
+{ Syyrian_punta,  punta6,  Syyrian_rahayksikkö,@ (the basic unit of money in Syria; equal to 100 piasters) }
+{ Botswanan_rahayksikkö,  rahayksikkö,@ (monetary unit in Botswana) }
+{ pula,  Botswanan_rahayksikkö,@ (the basic unit of money in Botswana) }
+{ thebe,  Botswanan_rahayksikkö,@ pula,#p (100 thebe equal 1 pula in Botswana) }
+{ Guatemalan_rahayksikkö,  rahayksikkö,@ (monetary unit in Guatemala) }
+{ quetzal,  Guatemalan_rahayksikkö,@ (the basic unit of money in Guatemala; equal to 100 centavos) }
+{ Etelä-Afrikan_rahayksikkö,  rahayksikkö,@ (monetary unit in South Africa) }
+{ randi,  Etelä-Afrikan_rahayksikkö,@ (the basic unit of money in South Africa; equal to 100 cents) }
+{ Iranin_rahayksikkö,  rahayksikkö,@ (monetary unit in Iran) }
+{ Iranin_rial,  rial,  Iranin_rahayksikkö,@ (the basic unit of money in Iran) }
+{ Iranin_dinaari,  dinaari12,  Iranin_rahayksikkö,@ Iranin_rial,#p (100 dinars equal 1 rial in Iran) }
+{ Omanin_rahayksikkö,  rahayksikkö,@ (monetary unit in Oman) }
+{ Omanin_rial,  rial1,  Omanin_rahayksikkö,@ (the basic unit of money in Oman) }
+{ baisa,  Omanin_rahayksikkö,@ Omanin_rial,#p (1,000 baiza equal 1 riyal-omani in Oman) }
+{ Jemenin_rahayksikkö,  rahayksikkö,@ (monetary unit in Yemen) }
+{ Jemenin_rial,  rial2,  Jemenin_rahayksikkö,@ (the basic unit of money in Yemen; equal to 100 fils) }
+{ Jemenin_fils,  fils1,  Jemenin_rahayksikkö,@ (100 Yemeni fils are worth one Yemeni rial) }
+{ Kambodžan_rahayksikkö,  rahayksikkö,@ (monetary unit in Cambodia) }
+{ riel,  Kambodžan_rahayksikkö,@ (the basic unit of money in Cambodia; equal to 100 sen) }
+{ Malesian_rahayksikkö,  rahayksikkö,@ (monetary unit is Malaysia) }
+{ ringgit,  Malesian_rahayksikkö,@ (the basic unit of money in Malaysia; equal to 100 sen) }
+{ Qatarin_rahayksikkö,  rahayksikkö,@ (monetary unit in Qatar) }
+{ Qatarin_rial,  rial3,  Qatarin_rahayksikkö,@ (the basic unit of money in Qatar) }
+{ Qatarin_dirhami,  dirhami2,  Qatarin_rahayksikkö,@ Qatarin_rial,#p (100 dirhams equal 1 riyal in Qatar) }
+{ Saudi-Arabian_rahayksikkö,  rahayksikkö,@ (monetary unit in Saudi Arabia) }
+{ Saudi-Arabian_rial,  rial4,  Saudi-Arabian_rahayksikkö,@ (the basic unit of money in Saudi Arabia) }
+{ qurush,  Saudi-Arabian_rahayksikkö,@ Saudi-Arabian_rial,#p (20 qurush equal 1 riyal in Saudi Arabia) }
+{ Venäjän_rahayksikkö,  rahayksikkö,@ (monetary unit in Russia) }
+{ rupla,  Venäjän_rahayksikkö,@ (the basic unit of money in Russia) }
+{ kopeekka,  Venäjän_rahayksikkö,@ rupla,#p (100 kopecks equal 1 ruble in Russia) }
+{ Armenian_rahayksikkö,  rahayksikkö,@ (monetary unit in Armenia) }
+{ dram,  Armenian_rahayksikkö,@ (the basic unit of money in Armenia) }
+{ lumma,  Armenian_rahayksikkö,@ (100 lumma equal 1 dram in Armenia) }
+{ Azerbaidžanin_rahayksikkö,  rahayksikkö,@ (monetary unit in Azerbaijan) }
+{ manat,  Azerbaidžanin_rahayksikkö,@ (the basic unit of money in Azerbaijan) }
+{ kepik,  qepiq,  Azerbaidžanin_rahayksikkö,@ (100 qepiq equal 1 manat in Azerbaijan) }
+{ Valko-Venäjän_rahayksikkö,  rahayksikkö,@ (monetary unit in Belarus) }
+{ rupla1,  Valko-Venäjän_rahayksikkö,@ (the basic unit of money in Belarus) }
+{ kapeika,  Valko-Venäjän_rahayksikkö,@ (100 kapeikas equal 1 rubel in Belarus) }
+{ Viron_rahayksikkö,  rahayksikkö,@ (monetary unit in Estonia) }
+{ kruunu4,  Viron_rahayksikkö,@ (the basic unit of money in Estonia) }
+{ sentti2,  Viron_rahayksikkö,@ (100 senti equal 1 kroon in Estonia) }
+{ Georgian_rahayksikkö,  rahayksikkö,@ (monetary unit in Georgia) }
+{ lari,  Georgian_rahayksikkö,@ (the basic unit of money in Georgia) }
+{ tetri,  Georgian_rahayksikkö,@ lari,#p (100 tetri equal 1 lari in Georgia) }
+{ Kazakstanin_rahayksikkö,  rahayksikkö,@ (monetary unit in Kazakhstan) }
+{ tenge,  Kazakstanin_rahayksikkö,@ (the basic unit of money in Kazakhstan) }
+{ tenge1,  Kazakstanin_rahayksikkö,@ (100 tiyin equal 1 tenge in Kazakhstan) }
+{ Latvian_rahayksikkö,  rahayksikkö,@ (monetary unit in Latvia) }
+{ lati,  Latvian_rahayksikkö,@ (the basic unit of money in Latvia) }
+{ santims,  Latvian_rahayksikkö,@ (100 santimi equal 1 lats in Latvia) }
+{ Liettuan_rahayksikkö,  rahayksikkö,@ (monetary unit in Lithuania) }
+{ liti,  Liettuan_rahayksikkö,@ (the basic unit of money in Lithuania) }
+{ centas,  Liettuan_rahayksikkö,@ (100 centas equal 1 litas in Lithuania) }
+{ Kirgisian_rahayksikkö,  rahayksikkö,@ (monetary unit in Kyrgyzstan) }
+{ som,  Kirgisian_rahayksikkö,@ (the basic unit of money in Kyrgyzstan) }
+{ som1,  Kirgisian_rahayksikkö,@ (100 tyiyn equal 1 som in Kyrgyzstan) }
+{ Moldovan_rahayksikkö,  rahayksikkö,@ (monetary unit in Moldova) }
+{ leu1,  Moldovan_rahayksikkö,@ (the basic unit of money in Moldova) }
+{ ban1,  Moldovan_rahayksikkö,@ (100 bani equal 1 leu in Moldova) }
+{ Tadžikistanin_rahayksikkö,  Tadžikistanin_valuutta,  somoni,  rahayksikkö,@ (monetary unit in Tajikistan) }
+{ rupla2,  Tadžikistanin_rahayksikkö,@ (the basic unit of money in Tajikistan) }
+{ tanga,  Tadžikistanin_rahayksikkö,@ (100 tanga equal 1 Tajikistani ruble) }
+{ Turkin_rahayksikkö1,  rahayksikkö,@ (monetary unit in Turkmenistan) }
+{ manat1,  Turkin_rahayksikkö1,@ (the basic unit of money in Turkmenistan) }
+{ tenge2,  Turkin_rahayksikkö1,@ (100 tenge equal 1 manat in Turkmenistan) }
+{ Ukrainan_rahayksikkö,  rahayksikkö,@ (monetary unit in Ukraine) }
+{ hryvnia,  grivna,  Ukrainan_rahayksikkö,@ (the basic unit of money in Ukraine) }
+{ kopeekka1,  Ukrainan_rahayksikkö,@ hryvnia,#p (100 kopiykas equal 1 hryvnia in Ukraine) }
+{ Uzbekistanin_rahayksikkö,  rahayksikkö,@ (monetary unit in Uzbekistan) }
+{ som2,  Uzbekistanin_rahayksikkö,@ (the basic unit of money in Uzbekistan) }
+{ tenge3,  Uzbekistanin_rahayksikkö,@ (100 tiyin equal 1 som in Uzbekistan) }
+{ Intian_rahayksikkö,  rahayksikkö,@ (monetary unit in India) }
+{ Intian_rupia,  rupia,  Intian_rahayksikkö,@ (the basic unit of money in India; equal to 100 paise) }
+{ paisa,  rahayksikön_alayksikkö,@ Intian_rupia,#p taka,#p Pakistanin_rupia,#p rupia3,#p (a fractional monetary unit in Bangladesh and India and Nepal and Pakistan) }
+{ Pakistanin_rahayksikkö,  rahayksikkö,@ (monetary unit in Pakistan) }
+{ Pakistanin_rupia,  rupia1,  Pakistanin_rahayksikkö,@ (the basic unit of money in Pakistan; equal to 100 paisa) }
+{ anna,  Pakistanin_rahayksikkö,@ Intian_rahayksikkö,@ (a former copper coin of Pakistan and India) }
+{ Mauritiuksen_rahayksikkö,  rahayksikkö,@ (monetary unit in Mauritius) }
+{ Mauritiuksen_rupia,  rupia2,  Mauritiuksen_rahayksikkö,@ (the basic unit of money in Mauritius; equal to 100 cents) }
+{ Nepalin_rahayksikkö,  rahayksikkö,@ (monetary unit in Nepal) }
+{ rupia3,  Nepalin_rupia,  Nepalin_rahayksikkö,@ (the basic unit of money in Nepal; equal to 100 paisa) }
+{ Seychellien_rahayksikkö,  rahayksikkö,@ (monetary unit in Seychelles) }
+{ Seychellien_rupia,  rupia4,  Seychellien_rahayksikkö,@ (the basic unit of money in Seychelles; equal to 100 cents) }
+{ Sri_Lankan_rahayksikkö,  rahayksikkö,@ (monetary unit in Sri Lanka) }
+{ Sri_Lankan_rupia,  rupia5,  Sri_Lankan_rahayksikkö,@ (the basic unit of money in Sri Lanka; equal to 100 cents) }
+{ Indonesian_rahayksikkö,  rahayksikkö,@ (monetary unit in Indonesia) }
+{ rupia6,  Indonesian_rahayksikkö,@ (the basic unit of money in Indonesia; equal to 100 sen) }
+{ Itävallan_rahayksikkö,  rahayksikkö,@ (monetary unit in Austria) }
+{ šillinki1,  Itävallan_šillinki,  Itävallan_rahayksikkö,@ (formerly the basic unit of money in Austria) }
+{ groschen,  Itävallan_rahayksikkö,@ šillinki1,#p (100 groschen equal 1 schilling in Austria) }
+{ Israelin_rahayksikkö,  rahayksikkö,@ (monetary unit in Israel) }
+{ sekeli,  Israelin_rahayksikkö,@ (the basic unit of money in Israel) }
+{ agora,  Israelin_rahayksikkö,@ sekeli,#p (100 agorot equal 1 shekel in Israel) }
+{ Kenian_rahayksikkö,  rahayksikkö,@ (monetary unit in Kenya) }
+{ Kenian_shillinki,  shillinki,  Kenian_šillinki,  Kenian_rahayksikkö,@ (the basic unit of money in Kenya; equal to 100 cents) }
+{ Somalian_rahayksikkö,  rahayksikkö,@ (monetary unit in Somalia) }
+{ Somalian_shillinki,  šillinki2,  Somalian_rahayksikkö,@ (the basic unit of money in Somalia; equal to 100 cents) }
+{ Tansanian_rahayksikkö,  rahayksikkö,@ (monetary unit in Tanzania) }
+{ Tansanian_šillinki,  šillinki3,  Tansanian_rahayksikkö,@ (the basic unit of money in Tanzania; equal to 100 cents) }
+{ Ugandan_rahayksikkö,  rahayksikkö,@ (monetary unit in Uganda) }
+{ Ugandan_shillinki,  shillinki1,  Ugandan_šillinki,  Ugandan_rahayksikkö,@ (the basic unit of money in Uganda; equal to 100 cents) }
+{ Ecuadorin_rahayksikkö,  rahayksikkö,@ (monetary unit in Ecuador) }
+{ Yhdysvaltain_dollari<note>ei_ole_sucre_vaan</note>,  Ecuadorin_rahayksikkö,@ (the basic unit of money in Ecuador; equal to 100 centavos) }
+{ Guinean_rahayksikkö,  rahayksikkö,@ (monetary unit in Guinea) }
+{ Guinean_frangi,  frangi,@ (the basic unit of money in Guinea) }
+{ Bangladeshin_rahayksikkö,  rahayksikkö,@ (monetary unit in Bangladesh) }
+{ taka,  Bangladeshin_rahayksikkö,@ (the basic unit of money in Bangladesh; equal to 100 paisa) }
+{ Länsi-Samoan_rahayksikkö,  rahayksikkö,@ (monetary unit in Western Samoa) }
+{ tala,  Länsi-Samoan_rahayksikkö,@ (the basic unit of money in Western Samoa) }
+{ sene,  Länsi-Samoan_rahayksikkö,@ tala,#p (100 sene equal 1 tala in Western Samoa) }
+{ Mongolian_rahayksikkö,  rahayksikkö,@ (monetary unit in Mongolia) }
+{ tugrik,  tugrug,  Mongolian_rahayksikkö,@ (the basic unit of money in Mongolia) }
+{ mongo,  Mongolian_rahayksikkö,@ tugrik,#p (100 mongo equal 1 tugrik in Mongolia) }
+{ Pohjois-Korean_rahayksikkö,  rahayksikkö,@ (monetary unit in North Korea) }
+{ won,  Pohjois-Korean_won,  Pohjois-Korean_rahayksikkö,@ (the basic unit of money in North Korea) }
+{ chon,  Pohjois-Korean_rahayksikkö,@ won,#p (100 chon equal 1 won in North Korea) }
+{ Etelä-Korean_rahayksikkö,  rahayksikkö,@ (monetary unit in South Korea) }
+{ Etelä-Korean_won,  won1,  Etelä-Korean_rahayksikkö,@ (the basic unit of money in South Korea) }
+{ chon1,  Etelä-Korean_rahayksikkö,@ Etelä-Korean_won,#p (100 chon equal 1 won in South Korea) }
+{ Japanin_rahayksikkö,  rahayksikkö,@ (monetary unit in Japan) }
+{ jeni,  Japanin_rahayksikkö,@ (the basic unit of money in Japan; equal to 100 sen) }
+{ Kiinan_rahayksikkö,  rahayksikkö,@ (the monetary unit in the People's Republic of China) }
+{ yuan1,  kwai,  juan,  Kiinan_rahayksikkö,@ (the basic unit of money in China) }
+{ jiao,  Kiinan_rahayksikkö,@ yuan1,#p (10 jiao equal 1 yuan in China) }
+{ fen,  Kiinan_rahayksikkö,@ jiao,#p (100 fen equal 1 yuan in China) }
+{ Zairen_rahayksikkö,  rahayksikkö,@ (monetary unit in Zaire) }
+{ zaire,  Zairen_rahayksikkö,@ (the basic unit of money in Zaire) }
+{ makuta<unconfirmed/>,  Zairen_rahayksikkö,@ zaire,#p (100 makuta equal 1 zaire in Zaire) }
+{ Puolan_rahayksikkö,  rahayksikkö,@ (monetary unit in Poland) }
+{ zloty,  Puolan_rahayksikkö,@ (the basic unit of money in Poland) }
+{ grosz,  Puolan_rahayksikkö,@ zloty,#p (100 groszy equal 1 zloty in Poland) }
+{ kivun_voimakkuuden_yksikkö<unconfirmed/>,  kivun_yksikkö,@ (a unit of pain intensity) }
+{ normaali-ilmakehä,  standardi-ilmakehä,  ilmanpaine,  ilmakehän_paine,  normaalipaine,  paineyksikkö,@ (a unit of pressure: the pressure that will support a column of mercury 760 mm high at sea level and 0 degrees centigrade) }
+{ pascal,  Pa,  paineyksikkö,@ (a unit of pressure equal to one newton per square meter) }
+{ torri,  elohopeamillimetri,  mm_Hg,  paineyksikkö,@ (a unit of pressure equal to 0.001316 atmosphere; named after Torricelli) }
+{ paunaa_per_neliötuuma,  psi,  paineyksikkö,@ (a unit of pressure) }
+{ millibaari,  paineyksikkö,@ baari,#p (a unit of atmospheric pressure equal to one thousandth of a bar; "atmospheric pressure at sea level is 1013 millibars") }
+{ baari,  paineyksikkö,@ noun.cognition:meteorologia,;c ((meteorology) a unit of pressure equal to a million dynes per square centimeter; "unfortunately some writers have used bar for one dyne per square centimeter") }
+{ mikrobaari,  paineyksikkö,@ baari,#p (the absolute unit of pressure equal to one dyne per square centimeter) }
+{ piste1,  lineaarinen_yksikkö,@ neliö,#p (a linear unit used to measure the size of type; approximately 1/72 inch) }
+{ neliö,  pica,  lineaarinen_yksikkö,@ tuuma,#p (a linear unit (1/6 inch) used in printing) }
+{ n-ajatusviiva,  puolitasava<unconfirmed/>,  puolikas,  lineaarinen_yksikkö,@ neliö,#p (half the width of an em) }
+{ neliö1,  tasava,  pinta-alayksikkö,@ (a quad with a square body; "since `em quad' is hard to distinguish from `en quad', printers sometimes called it a `mutton quad'") }
+{ cicero,  lineaarinen_yksikkö,@ (a linear unit of the size of type slightly larger than an em) }
+{ ilmoituskoon_mitta,  pinta-alayksikkö,@ (space for one line of print (one column wide and 1/14 inch deep) used to measure advertising) }
+{ milliini<unconfirmed/>,  tulostusyksikkö,@ (an advertising measure; one agate line appearing in one million copies of a publication) }
+{ mainostila<broader/>,  tuuma<approximate/>1,  palstamillimetri,  pinta-alayksikkö,@ (a unit of measurement for advertising space) }
+{ linage<approximate/>,  lineage<approximate/>,  numero,@ (the number of lines in a piece of printed material) }
+{ beli,  B1,  äänen_yksikkö,@ (a logarithmic unit of sound intensity equal to 10 decibels) }
+{ desibeli,  dB,  äänen_yksikkö,@ (a logarithmic unit of sound intensity; 10 times the logarithm of the ratio of the sound intensity to some reference intensity) }
+{ soni,  sooni,  äänen_yksikkö,@ foni,#p (a unit of perceived loudness equal to the loudness of a 1000-hertz tone at 40 dB above threshold) }
+{ foni,  äänen_yksikkö,@ (a unit of subjective loudness) }
+{ Erlang,  puheluyksikkö,@ (a unit of traffic intensity in a telephone system) }
+{ aste2,  lämpötilan_yksikkö,@ (a unit of temperature on a specified scale; "the game was played in spite of the 40-degree temperature") }
+{ milliaste,  lämpötilan_yksikkö,@ (a unit of temperature equal to one-thousandth of a degree) }
+{ celsiusaste,  C1,  aste2,@ (a degree on the centigrade scale of temperature) }
+{ Fahrenheit-aste,  F1,  aste2,@ (a degree on the Fahrenheit scale of temperature) }
+{ kelvin,  K2,  lämpötilan_yksikkö,@ (the basic unit of thermodynamic temperature adopted under the Systeme International d'Unites) }
+{ Rankine,  lämpötilan_yksikkö,@ (a unit of temperature on the Rankine scale) }
+{ astepäiväluku,  lämpötilan_yksikkö,@ (a unit used in estimating fuel requirements for heating a building) }
+{ nollapiste,  celsiusaste,@ (exactly zero degrees centigrade) }
+{ poisi,  viskositeetin_yksikkö,@ (a cgs unit of dynamic viscosity equal to one dyne-second per square centimeter; the viscosity of a fluid in which a force of one dyne per square centimeter maintains a velocity of 1 centimeter per second) }
+{ atomimassayksikkö,  massayksikkö,@ (unit of mass for expressing masses of atoms or molecules) }
+{ massaluku,  nukleoniluku,  massayksikkö,@ (the sum of the number of neutrons and protons in an atomic nucleus) }
+{ painojärjestelmä,  mittausjärjestelmä,@ (a system of units used to express the weight of something) }
+{ avoirdupois,  avoirdupois-paino,  painojärjestelmä,@ (a system of weights based on the 16-ounce pound (or 7,000 grains)) }
+{ avoirdupois-yksikkö,  massayksikkö,@ brittiläinen_yksikköjärjestelmä,#p avoirdupois,#p (any of the units of the avoirdupois system of weights) }
+{ troy-painomittajärjestelmä,  painojärjestelmä,@ (a system of weights used for precious metals and gemstones; based on a 12-ounce pound and an ounce of 480 grains) }
+{ troy-yksikkö,  painoyksikkö,@ troy-painomittajärjestelmä,#p (any of the unit of the troy system of weights) }
+{ apteekkipainomitta,  apteekkipaino,  painoyksikkö,@ (any weight unit used in pharmacy; an ounce is equal to 480 grains and a pound is equal to 12 ounces) }
+{ metrinen_painoyksikkö,  painoyksikkö1,  metrisen_järjestelmän_mitta,@ massayksikkö,@ metrijärjestelmä1,#p (a decimal unit of weight based on the gram) }
+{ arroba1,  painoyksikkö,@ (a unit of weight used in some Spanish speaking countries) }
+{ catty,  jin,  naula,  pauna<approximate/>1,  painoyksikkö,@ noun.location:Kiina,;r (any of various units of weight used in southeastern Asia (especially a Chinese measure equal to 500 grams)) }
+{ 0"\,9"_g,  crith,  vetylitran_paino,  painoyksikkö,@ (the weight of a liter of hydrogen (at 0 centigrade and 760 millimeters pressure)) }
+{ 22"\,7"_kg,  painoyksikkö,@ (the weight of a frail (basket) full of raisins or figs; between 50 and 75 pounds) }
+{ lästi1,  painoyksikkö,@ (a unit of weight equal to 4,000 pounds) }
+{ maund,  painoyksikkö,@ (a unit of weight used in Asia; has different values in different countries; "the official maund in India is 82.6 pounds avoirdupois") }
+{ oboli,  painoyksikkö,@ gramma,#p (a Greek unit of weight equal to one tenth of a gram) }
+{ oka1,  painoyksikkö,@ (a Turkish unit of weight equal to about 2.75 pounds) }
+{ pikul,  painoyksikkö,@ (a unit of weight used in some parts of Asia; approximately equal to 133 pounds (the load a grown man can carry)) }
+{ puuta,  painoyksikkö,@ (a Russian unit of weight equal to approximately 36 pounds) }
+{ rotl,  painoyksikkö,@ (a unit of weight used in some Moslem countries near the Mediterranean; varies between one and five pounds) }
+{ slug,  massayksikkö,@ (a unit of mass equal to the mass that accelerates at 1 foot/sec/sec when acted upon by a force of 1 pound; approximately 14.5939 kilograms) }
+{ tael,  painoyksikkö,@ (a unit of weight used in east Asia approximately equal to 1.3 ounces) }
+{ painomitta,  painoyksikkö,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a unit of weight for wool equal to about 28 pounds) }
+{ 12"_kg<approximate/>,  painoyksikkö,@ (a weight of 28 pounds; sometimes imposed as a handicap in a horse race (such as a steeplechase)) }
+{ graani,  avoirdupois-yksikkö,@ 1"\,771"_gramman_apteekkimitta,#p (1/7000 pound; equals a troy grain or 64.799 milligrams) }
+{ 1"\,771"_gramman_apteekkimitta,  1"/16"_unssin_apteekkimitta,  avoirdupois-yksikkö,@ unssi,#p (1/16 ounce or 1.771 grams) }
+{ unssi,  oz,  avoirdupois-yksikkö,@ naula1,#p (a unit of weight equal to one sixteenth of a pound or 16 drams or 28.349 grams) }
+{ naula1,  pauna2,  lb,  avoirdupois-yksikkö,@ neljännesnaula2,#p painomitta<broader/>1,#p (16 ounces avoirdupois; "he got a hernia when he tried to lift 100 pounds") }
+{ troy-pauna,  voiman_yksikkö,@ (a unit of apothecary weight equal to 12 ounces troy) }
+{ puolikas_pauna,  avoirdupois-yksikkö,@ naula1,#p (8 ounces avoirdupois) }
+{ neljännesnaula1,  avoirdupois-yksikkö,@ pauna,#p (4 ounces avoirdupois) }
+{ painomitta<broader/>1,  avoirdupois-yksikkö,@ neljännesnaula2,#p noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (an avoirdupois unit used to measure the weight of a human body; equal to 14 pounds; "a heavy chap who must have weighed more than twenty stone") }
+{ neljännesnaula2,  avoirdupois-yksikkö,@ sentneri1,#p (a quarter of a hundredweight (25 pounds)) }
+{ sentneri,  cwt,  pitkä_sentneri,  avoirdupois-yksikkö,@ pitkä_tonni,#p (a British unit of weight equivalent to 112 pounds) }
+{ sentneri1,  cwt1,  lyhyt_sentneri,  senttaali,  kvintaali,  avoirdupois-yksikkö,@ painomitta2,#p (a United States unit of weight equivalent to 100 pounds) }
+{ pitkä_tonni,  tonni,  avoirdupois-yksikkö,@ (a British unit of weight equivalent to 2240 pounds) }
+{ painomitta2,  painomitta<broader/>3,  avoirdupois-yksikkö,@ kilotonni1,#p (a United States unit of weight equivalent to 2000 pounds) }
+{ kilotonni1,  avoirdupois-yksikkö,@ megatonni1,#p (one thousand tons) }
+{ megatonni1,  avoirdupois-yksikkö,@ (one million tons) }
+{ graani1,  troy-yksikkö,@ apteekkipainomitta,@ apteekkarin_mitta,#p 1"/20"_unssia,#p (1/60 dram; equals an avoirdupois grain or 64.799 milligrams) }
+{ apteekkarin_mitta,  apteekkipainomitta,@ 1"/8"_unssin_apteekkimitta,#p (a unit of apothecary weight equal to 20 grains) }
+{ 1"/20"_unssia,  troy-yksikkö,@ unssi1,#p (a unit of apothecary weight equal to 24 grains) }
+{ 1"/8"_unssin_apteekkimitta,  drakhma,  apteekkipainomitta,@ unssi1,#p (a unit of apothecary weight equal to an eighth of an ounce or to 60 grains) }
+{ unssi1,  troy-unssi,  apteekkarin_unssi,  apteekkipainomitta,@ troy-yksikkö,@ troy-unssi1,#p (a unit of apothecary weight equal to 480 grains or one twelfth of a pound) }
+{ troy-unssi1,  apteekkarin_unssi<unconfirmed/>1,  apteekkipainomitta,@ troy-yksikkö,@ (an apothecary weight equal to 12 ounces or 373.242 grams) }
+{ mikrogramma,  mcg,  metrinen_painoyksikkö,@ milligramma,#p (one millionth (1/1,000,000) gram) }
+{ milligramma,  mg,  metrinen_painoyksikkö,@ graani2,#p (one thousandth (1/1,000) gram) }
+{ nanogramma,  ng,  metrinen_painoyksikkö,@ mikrogramma,#p (one billionth (1/1,000,000,000) gram) }
+{ graani2,  graani<unconfirmed/>3,  metrinen_painoyksikkö,@ desigramma,#p (a weight unit used for pearls or diamonds: 50 mg or 1/4 carat) }
+{ desigramma,  dg,  metrinen_painoyksikkö,@ karaatti1,#p (1/10 gram) }
+{ karaatti1,  metrinen_painoyksikkö,@ gramma,#p (a unit of weight for precious stones = 200 mg) }
+{ gramma,  g4,  metrinen_painoyksikkö,@ dekagramma,#p (a metric unit of weight equal to one thousandth of a kilogram) }
+{ gramma-atomi,  gramma-atomipaino,  metrinen_painoyksikkö,@ (the quantity of an element whose weight in grams is numerically equal to the atomic weight of the element) }
+{ grammamolekyyli,  mol,  mooli,  metrinen_painoyksikkö,@ (the molecular weight of a substance expressed in grams; the basic unit of amount of substance adopted under the Systeme International d'Unites) }
+{ dekagramma,  dkg,  metrinen_painoyksikkö,@ hehtogramma,#p (10 grams) }
+{ hehtogramma,  hg,  metrinen_painoyksikkö,@ kilo,#p (100 grams) }
+{ kilo,  kilogramma,  kg,  metrinen_painoyksikkö,@ myriagram,#p (one thousand grams; the basic unit of mass adopted under the Systeme International d'Unites; "a kilogram is approximately 2.2 pounds") }
+{ kilo1,  kilo,@ noun.communication:slangi,;u (a kilogram of a narcotic drug; "they were carrying two keys of heroin") }
+{ myriagram,  myg,  metrinen_painoyksikkö,@ sentneri2,#p (one ten thousandth of a centner) }
+{ sentneri2,  metrinen_painoyksikkö,@ 100"_kiloa,#p (in some European countries: a unit of weight equivalent to 50 kilograms) }
+{ 100"_kiloa,  sata_kilogrammaa,  doppelzentner<approximate/>,  sentneri3,  metrinen_painoyksikkö,@ kvintaali1,#p (a unit of weight equal to 100 kilograms) }
+{ kvintaali1,  metrinen_painoyksikkö,@ tonni1,#p (a unit of weight equal to 100 kilograms) }
+{ tonni1,  MT,  t,  metrinen_painoyksikkö,@ (a unit of weight equivalent to 1000 kilograms) }
+{ ergi,  työn_mittayksikkö<approximate/>,@ joule,#p (a cgs unit of work or energy; the work done by a force of one dyne acting over a distance of one centimeter) }
+{ elektronivoltti,  eV,  työn_mittayksikkö<approximate/>,@ (a unit of energy equal to the work done by an electron accelerated through a potential difference of 1 volt) }
+{ joule,  J,  wattisekunti,  työn_mittayksikkö<approximate/>,@ (a unit of electrical energy equal to the work done when a current of one ampere passes through a resistance of one ohm for one second) }
+{ kalori,  grammakalori,  työn_mittayksikkö<approximate/>,@ kalori1,#p (unit of heat defined as the quantity of heat required to raise the temperature of 1 gram of water by 1 degree centigrade at atmospheric pressure) }
+{ [ kalori1, adj.pert:kalori-,+]  kilogrammakalori,  kilokalori,  työn_mittayksikkö<approximate/>,@ (a unit of heat equal to the amount of heat required to raise the temperature of one kilogram of water by one degree at one atmosphere pressure; used by nutritionists to characterize the energy-producing potential in food) }
+{ brittiläinen_terminen_yksikkö,  BTU,  brittiläinen_lämpöyksikkö,  työn_mittayksikkö<approximate/>,@ kilokalori1,#p (a unit of heat equal to the amount of heat required to raise one pound of water one degree Fahrenheit at one atmosphere pressure; equivalent to 251.997 calories) }
+{ kilokalori1,  työn_mittayksikkö<approximate/>,@ (a unit of heat equal to 100,000 British thermal units) }
+{ wattitunti,  työn_mittayksikkö<approximate/>,@ kilowattitunti,#p (a unit of energy equal to the power of one watt operating for one hour) }
+{ kilowattitunti,  kWh,  kWh<approximate/>1,  työn_mittayksikkö<approximate/>,@ (a unit of energy equal to the work done by a power of 1000 watts operating for one hour) }
+{ jalkanaula,  työn_mittayksikkö<approximate/>,@ jalkatonni<unconfirmed/>,#p (a unit of work equal to a force of one pound moving through a distance of one foot) }
+{ jalkatonni<unconfirmed/>,  työn_mittayksikkö<approximate/>,@ (2240 foot-pounds) }
+{ jalkapoundaali<unconfirmed/>,  työn_mittayksikkö<approximate/>,@ (a unit of work equal to a force of one poundal moving through a distance of one foot) }
+{ hevosvoimatunti,  työn_mittayksikkö<approximate/>,@ (a unit of work equal to the work done by one horsepower in one hour) }
+{ kilogrammametri,  työn_mittayksikkö<approximate/>,@ (a unit of work equal to the work done by a one kilogram force operating through a distance of one meter) }
+{ luonnollinen_luku,  ei-negatiivinen_kokonaisluku,  numero,@ (the number 1 and any other number obtained by adding 1 to it repeatedly) }
+{ kokonaisluku,  numero,@ (any of the natural numbers (positive or negative) or zero; "an integer is a number that is not a fraction") }
+{ lisättävä,  yhteenlaskettava,  numero,@ (a number that is added to another number (the augend)) }
+{ yhteenlaskettava1,  numero,@ (a number to which another number (the addend) is added) }
+{ vähennettävä,  numero,@ (the number from which the subtrahend is subtracted) }
+{ vähentäjä,  numero,@ (the number to be subtracted from the minuend) }
+{ jäännös,  erotus,  numero,@ (the number that remains after subtraction; the number that when added to the subtrahend gives the minuend) }
+{ kompleksiluku,  imaginääriluku,  imaginaariluku,  numero,@ noun.cognition:matematiikka,;c ((mathematics) a number of the form a+bi where a and b are real numbers and i is the square root of -1) }
+{ kompleksikonjugaatit,  liittoluku,  kompleksiluku,@ (either of two complex numbers whose real parts are identical and whose imaginary parts differ only in sign) }
+{ reaaliluku,  kompleksiluku,@ (any rational or irrational number) }
+{ puhdas_imaginaariluku,  kompleksiluku,@ (an imaginary number of the form a+bi where a is 0) }
+{ imaginaariosa,  kompleksiluvun_imaginaariosa,  puhdas_imaginaariluku,@ kompleksiluku,#p (the part of a complex number that has the square root of -1 as a factor) }
+{ itseisarvo1,  absoluuttiarvo,@ (the absolute value of a complex number) }
+{ rationaaliluku,  reaaliluku,@ (an integer or a fraction) }
+{ irrationaaliluku,  irrationaali-,  reaaliluku,@ (a real number that cannot be expressed as a rational number) }
+{ transsendenttiluku,  irrationaaliluku,@ (an irrational number that is not algebraic) }
+{ algebrallinen_luku,  irrationaaliluku,@ (root of an algebraic equation with rational coefficients) }
+{ neliö2,  toinen_potenssi,  numero,@ (the product of two equal terms; "nine is the second power of three"; "gravity is inversely proportional to the square of the distance") }
+{ kolmas_potenssi,  numero,@ (the product of three equal terms) }
+{ [ neljäs_aste, adj.pert:neljännen_asteen<gen/>,+]  [ neljännen_asteen, adj.pert:neljännen_asteen<gen/>,+]  numero,@ (an algebraic equation of the fourth degree) }
+{ juuri,  radikaali,  noun.Tops:mitta,@ noun.cognition:matematiikka,;c ((mathematics) a quantity expressed as the root of another quantity) }
+{ juuri1,  numero,@ (a number that, when multiplied by itself some number of times, equals a given number) }
+{ neliöjuuri,  juuri1,@ (a number that when multiplied by itself equals a given number) }
+{ kuutiojuuri,  juuri1,@ (a number that when multiplied three times equals a given number) }
+{ murtoluku,  rationaaliluku,@ (the quotient of two rational numbers) }
+{ murtoluku1,  murtoluku,@ (the quotient of two integers) }
+{ osoittaja,  jaettava,@ (the dividend of a fraction) }
+{ jaettava,  numero,@ (a number to be divided by another number) }
+{ nimittäjä,  jakaja,@ (the divisor of a fraction) }
+{ jakaja,  numero,@ (the number by which a dividend is divided) }
+{ osamäärä,  numero,@ (the number obtained by division) }
+{ jakaja1,  tekijä1,  kokonaisluku,@ (one of two or more integers that can be exactly divided into another integer; "what are the 4 factors of 6?") }
+{ jakojäännös,  numero,@ (the part of the dividend that is left over when the dividend is not evenly divisible by the divisor) }
+{ [ kertoja, verb.cognition:kertoa1,+]  numero,@ (the number by which a multiplicand is multiplied) }
+{ kerrottava,  numero,@ (the number that is multiplied by the multiplier) }
+{ kerroin3,  skaalatekijä,  kertoja,@ (a number used as a multiplier in scaling) }
+{ vasteaika,  kerroin3,@ noun.cognition:simulointi,;c (the ratio of the simulation time to the time of the real process) }
+{ vastaavan_binääriluvun_tekijä<unconfirmed/>,  jakaja1,@ (the average number of binary digits needed to express one radix digit in a numeration system that is not binary; on the average a number that can be expressed in N decimal digits takes 3.3N binary digits) }
+{ [ tasan_menevä_luku, luku\,_joka_ei_mene_tasan_toiseen,!]  jakaja,@ (an integer that is an exact divisor of some quantity; "4 is an aliquot part of 12") }
+{ [ luku\,_joka_ei_mene_tasan_toiseen, tasan_menevä_luku,!]  jakaja,@ (an integer that is not an exact divisor of some quantity; "5 is an aliquant part of 12") }
+{ yhteinen_tekijä,  jakaja1,@ (an integer that divides two (or more) other integers evenly) }
+{ suurin_yhteinen_tekijä,  yhteinen_tekijä,@ (the largest integer that divides without remainder into a set of integers) }
+{ yhteinen_kerrannainen,  yhteinen_jaettava,  kokonaisluku,@ (an integer that is a multiple of two or more other integers) }
+{ yhteinen_nimittäjä,  nimittäjä,@ (an integer that is a common multiple of the denominators of two or more fractions) }
+{ kokonaisluku1,  kokonaisluku,@ (an integer that can be divided without remainder into the difference between two other integers; "2 is a modulus of 5 and 9") }
+{ epämurtoluku,  murtoluku,@ (a fraction whose numerator is larger than the denominator) }
+{ aito_murtoluku,  murtoluku,@ (a fraction with a numerator smaller than the denominator) }
+{ murtoluvun_murtoluku,  murtoluku,@ (a fraction with fractions in the numerator or denominator) }
+{ kymmenmurtoluku,  kymmenys,  desimaali,  aito_murtoluku,@ (a proper fraction whose denominator is a power of 10) }
+{ jaksollinen_desimaaliluku,  päättymätön_desimaaliluku,  kymmenmurtoluku,@ (a decimal with a sequence of digits that repeats itself indefinitely) }
+{ ketjumurtoluku,  murtoluku,@ (a fraction whose numerator is an integer and whose denominator is an integer plus a fraction whose numerator is an integer and whose denominator is an integer plus a fraction and so on) }
+{ puolikas1,  puolisko,  puolet,  puoli,  murtoluku1,@ (one of two equal parts of a divisible whole; "half a loaf"; "half an hour"; "a century and one half") }
+{ viisikymmentä_prosenttia,  puolikas1,@ (a half expressed as a percentage) }
+{ puolisko1,  puolikas2,  puolikas1,@ (one of two (approximately) equal parts) }
+{ kolmasosa,  kolmannes,  murtoluku1,@ (one of three equal parts of a divisible whole; "it contains approximately a third of the minimum daily requirement") }
+{ kaksi_kolmasosaa,  murtoluku1,@ (two of three equal parts of a divisible whole) }
+{ neljäsosa,  neljännes-,  kaksikymmentäviisi_prosenttia,  murtoluku1,@ (one of four equal parts; "a quarter of a pound") }
+{ kolme_neljäsosaa,  murtoluku1,@ (three of four equal parts; "three-fourths of a pound") }
+{ viidesosa,  viidennes,  kaksikymmentä_prosenttia,  murtoluku1,@ (one part in five equal parts) }
+{ kuudesosa,  kuudennes,  murtoluku1,@ (one part in six equal parts) }
+{ seitsemäsosa,  seitsemännes,  murtoluku1,@ (one part in seven equal parts) }
+{ kahdeksasosa,  kahdeksannes,  murtoluku1,@ (one part in eight equal parts) }
+{ yhdeksäsosa,  yhdeksännes,  murtoluku1,@ (one part in nine equal parts) }
+{ kymmenesosa,  kymmenennes,  murtoluku1,@ (a tenth part; one part in ten equal parts) }
+{ kahdestoistaosa,  murtoluku1,@ (one part in twelve equal parts) }
+{ kuudestoistaosa1,  murtoluku1,@ (one part in sixteen equal parts) }
+{ kolmaskymmeneskahdesosa,  murtoluku1,@ (one part in thirty-two equal parts) }
+{ kuudeskymmenesosa,  murtoluku1,@ (one part in sixty equal parts) }
+{ kuudeskymmenesneljäsosa,  murtoluku1,@ (one part in sixty-four equal parts) }
+{ sadasosa,  sentti-,  prosentti,  murtoluku1,@ (one part in a hundred equal parts) }
+{ tuhannesosa,  milli-,  murtoluku1,@ (one part in a thousand equal parts) }
+{ kymmenestuhannesosa,  murtoluku1,@ (one part in ten thousand equal parts) }
+{ sadastuhannesosa,  murtoluku1,@ (one part in a hundred thousand equal parts) }
+{ miljoonasosa,  mikro-,  murtoluku1,@ (one part in a million equal parts) }
+{ sadasmiljoonasosa,  murtoluku1,@ (one part in a hundred million equal parts) }
+{ miljardisosa,  nano-,  murtoluku1,@ (one part in a billion equal parts) }
+{ biljoonasosa,  piko-,  murtoluku1,@ (one part in a trillion equal parts) }
+{ tuhannesbiljoonasosa,  femto-,  murtoluku1,@ (one part in a quadrillion equal parts) }
+{ triljoonasosa,  atto-,  murtoluku1,@ (one part in a quintillion equal parts) }
+{ tyhjyys,  ei_yhtään,  ei_mitään,  [ nolla1, verb.change:nollata,+]  ei_mikään,  ei_yhtään_mitään,  ei-mikään,  suhteellinen_määrä,@ (a quantity of no importance; "it looked like nothing I had ever seen before"; "reduced to nil all the work we had done"; "we racked up a pathetic goose egg"; "it was all for naught"; "I didn't hear zilch about it") }
+{ nihil,  tyhjyys,@ noun.communication:latina,;c ((Latin) nil; nothing (as used by a sheriff after an unsuccessful effort to serve a writ); "nihil habet") }
+{ ei_yhtään1,  ei_yhtään_mitään1,  ei_yhtikäs_mitään,  ei_tuon_taivaallista,  tyhjyys,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r noun.communication:ruokottomuus,;u (little or nothing at all; "I asked for a raise and they gave me bugger-all"; "I know sweet Fanny Adams about surgery") }
+{ luku1,  numero1,  kokonaisluku,@ (one of the elements that collectively form a system of numeration; "0 and 1 are digits") }
+{ binaariluku,  binaarinumero,  kaksijärjestelmän_numero,  luku1,@ (either 0 or 1 in binary notation) }
+{ oktaaliluku,  luku1,@ (a digit from 0 to 7 in octal notation) }
+{ desimaaliluku1,  luku1,@ (a digit from 0 to 9 in decimal notation) }
+{ duodesimaaliluku,  luku1,@ (a digit from 0 to 11 in duodecimal notation) }
+{ heksadesimaalinen_luku,  heksadesimaaliluku,  luku1,@ (a digit from 0 to 15 in hexadecimal notation) }
+{ merkitsevä_numero,  luku1,@ (any digit of a number that is known with certainty; any digit of a number beginning with the leftmost non-zero digit and ending with the rightmost non-zero digit (or a zero considered to be the exact value); "he calculated the answer to four significant figures") }
+{ [ nolla2, verb.change:nollata,+]  0",  luku1,@ (a mathematical element that when added to another number yields the same number) }
+{ yksi,  1",  I,  ykkönen1,  luku1,@ (the smallest whole number or a numeral representing this number; "he has the one but will need a two and three to go with it"; "they had lunch at one") }
+{ yksikkö1,  yksi,@ (a singular metaphysical entity from which material properties are said to derive) }
+{ ainokainen,  yksi,@ (a single object (as distinguished from a pair)) }
+{ pari,  ainokainen,@ pari1,#p (one of a pair; "he lost the mate to his shoe"; "one eye was blue but its fellow was brown") }
+{ kaksi,  2",  II,  luku1,@ (the cardinal number that is the sum of one and one or a numeral representing this number) }
+{ tuplaykkönen_noppapelissä<unconfirmed/>,  kaksi,@ (expressions used when when two dice are thrown and both come up showing one spot) }
+{ pari1,  pari<note>ei_löydy_sanakirjoista</note>2,  kaksikko,  parivaljakko,  härkäpari,  säepari,  distikon,  duo,  duetto,  dyadi,  kaksi,@ (two items of the same kind) }
+{ dubleton,  dubbeli,  pari1,@ noun.act:bridge,;c ((bridge) a pair of playing cards that are the only cards in their suit in the hand dealt to a player) }
+{ kolme,  kolme<unconfirmed/>1,  3",  III,  trio,  troikka,  triadi,  kolmikko,  kolminaisuus,  tertsiini,  tertsetti,  kolmonen,  ässä,  luku1,@ (the cardinal number that is the sum of one and one and one) }
+{ neljä,  4",  IV,  kvaternio,  neli-,  neljän_ryhmä,  kvartetti,  neloset,  nelikko1,  luku1,@ (the cardinal number that is the sum of three and one) }
+{ viisi,  5",  V1,  luku1,@ (the cardinal number that is the sum of four and one) }
+{ kuusi,  6",  VI,  kuutonen,  Captain_Hicks,  puoli_tusinaa,  sekstetti,  kuusikko,  heksa,  luku1,@ (the cardinal number that is the sum of five and one) }
+{ [ seitsemän, adj.all:kardinaali-1^seitsemän<cardinal_number/>,+]  7",  VII,  seitsikko,  heptadi,  septetti,  seitsemäinen,  luku1,@ (the cardinal number that is the sum of six and one) }
+{ kahdeksan,  8",  VIII,  kahdeksikko,  kasi,  luku1,@ (the cardinal number that is the sum of seven and one) }
+{ yhdeksän,  9",  IX,  yhdeksikkö,  luku1,@ (the cardinal number that is the sum of eight and one) }
+{ suuri_kokonaisluku,  kokonaisluku,@ (an integer equal to or greater than ten) }
+{ kaksinumeroinen_luku,  kokonaisluku,@ (a two-digit integer; from 10 to 99) }
+{ kymmenen,  10",  X,  kybä,  kymppi,  kypä,  dekadi,  suuri_kokonaisluku,@ (the cardinal number that is the sum of nine and one; the base of the decimal system) }
+{ yksitoista,  11",  XI,  suuri_kokonaisluku,@ (the cardinal number that is the sum of ten and one) }
+{ kaksitoista,  12",  XII,  [ tusina, adj.all:kardinaali-1^tusina-1,+]  suuri_kokonaisluku,@ (the cardinal number that is the sum of eleven and one) }
+{ tusina<approximate/>1,  kaksitoista,@ noun.communication:monikko,;u ((usually plural) an expression used when two dice are thrown and both come up showing six spots) }
+{ kymmenluku,  suuri_kokonaisluku,@ (all the numbers that end in -teen) }
+{ kolmetoista,  13",  Porvoon_mitalla<idiomatic_pos/>,  piruntusina,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twelve and one) }
+{ neljätoista,  14",  XIV,  suuri_kokonaisluku,@ (the cardinal number that is the sum of thirteen and one) }
+{ [ viisitoista, adj.all:kardinaali-1^viisitoista-,+]  15",  XV,  suuri_kokonaisluku,@ (the cardinal number that is the sum of fourteen and one) }
+{ kuusitoista,  16",  XVI,  suuri_kokonaisluku,@ (the cardinal number that is the sum of fifteen and one) }
+{ [ seitsemäntoista, adj.all:kardinaali-1^seitsemäntoista<cardinal_number/>,+]  17",  XVII,  suuri_kokonaisluku,@ (the cardinal number that is the sum of sixteen and one) }
+{ kahdeksantoista,  18",  XVIII,  suuri_kokonaisluku,@ (the cardinal number that is the sum of seventeen and one) }
+{ [ yhdeksäntoista, adj.all:kardinaali-1^yhdeksäntoista-,+]  19",  XIX,  suuri_kokonaisluku,@ (the cardinal number that is the sum of eighteen and one) }
+{ kaksikymmentä,  20",  XX,  suuri_kokonaisluku,@ (the cardinal number that is the sum of nineteen and one) }
+{ kaksikymmentäyksi,  21",  XXI,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty and one) }
+{ kaksikymmentäkaksi,  22",  XXII,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty-one and one) }
+{ kaksikymmentäkolme,  23",  XXIII,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty-two and one) }
+{ kaksikymmentäneljä,  24",  XXIV,  kaksi_tusinaa,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty-three and one) }
+{ kaksikymmentäviisi,  25",  XXV,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty-four and one) }
+{ kaksikymmentäkuusi,  26",  XXVI,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty-five and one) }
+{ kaksikymmentäseitsemän,  27",  XXVII,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty-six and one) }
+{ kaksikymmentäkahdeksan,  28",  XXVIII,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty-seven and one) }
+{ kaksikymmentäyhdeksän,  29",  XXIX,  suuri_kokonaisluku,@ (the cardinal number that is the sum of twenty-eight and one) }
+{ kolmekymmentä,  30",  XXX,  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and three) }
+{ neljäkymmentä,  40",  XL,  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and four) }
+{ [ viisikymmentä, adj.all:kardinaali-1^viisikymmentä<cardinal_number/>,+]  50",  L2,  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and five) }
+{ kuusikymmentä,  60",  LX1,  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and six) }
+{ [ seitsemänkymmentä, adj.all:kardinaali-1^seitsemänkymmentä-,+]  70",  LXX,  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and seven) }
+{ seitsemänkymmentäkahdeksan,  78",  LXXVIII,  suuri_kokonaisluku,@ (the cardinal number that is the sum of seventy and eight) }
+{ kahdeksankymmentä,  80",  LXXX,  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and eight) }
+{ yhdeksänkymmentä,  90",  XC,  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and nine) }
+{ sata,  sata<note>juoksuja_kriketissä</note>1,  100",  C2,  yksi_C,  suuri_kokonaisluku,@ (ten 10s) }
+{ krossi,  144",  suuri_kokonaisluku,@ (twelve dozen) }
+{ isosata,  120",  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and twelve) }
+{ viisisataa,  500",  D,  suuri_kokonaisluku,@ (the cardinal number that is the product of one hundred and five) }
+{ tuhat,  yksi_tuhat,  1000",  M3,  K3,  tuhatluku,  G5,  tuhat_dollaria,  jaardi1,  tonni2,  suuri_kokonaisluku,@ (the cardinal number that is the product of 10 and 100) }
+{ tuhat1,  tuhat,@ (a sum or aggregate of one thousand (especially one thousand years)) }
+{ krossi1,  1728",  suuri_kokonaisluku,@ (a cardinal number equal to one dozen gross) }
+{ kymmenentuhatta,  10000",  suuri_kokonaisluku,@ (the cardinal number that is the product of ten and one thousand) }
+{ satatuhatta,  100000",  suuri_kokonaisluku,@ (the cardinal number that is the fifth power of ten) }
+{ miljoona,  1000000",  tuhat_tuhatta,  meg,  suuri_kokonaisluku,@ (the number that is represented as a one followed by 6 zeros) }
+{ kymmenen_miljoonaa,  suuri_kokonaisluku,@ noun.location:Intia,;r (the number that is represented as a one followed by 7 zeros; ten million) }
+{ [ miljardi, adj.all:kardinaali-1^miljardi<cardinal_number/>,+]  tuhat_miljoonaa,  1000000000",  suuri_kokonaisluku,@ noun.location:Yhdysvallat,;r (the number that is represented as a one followed by 9 zeros) }
+{ miljardi1,  miljardi,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (a billion; "in England they call one thousand million a milliard") }
+{ [ biljoona, adj.all:kardinaali-1^biljoona<cardinal_number/>,+]  miljoona_miljoonaa,  1000000000000",  suuri_kokonaisluku,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (the number that is represented as a one followed by 12 zeros; in the United Kingdom the usage followed in the United States is frequently seen) }
+{ triljoona,  1000000000000"1,  suuri_kokonaisluku,@ noun.location:Yhdysvallat,;r noun.location:Ranska,;r (the number that is represented as a one followed by 12 zeros; "in England they call a trillion a billion") }
+{ triljoona1,  suuri_kokonaisluku,@ noun.location:Saksa,;r noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (the number that is represented as a one followed by 18 zeros; "in England they call a quintillion a trillion") }
+{ kvadriljoona,  suuri_kokonaisluku,@ noun.location:Yhdysvallat,;r noun.location:Ranska,;r (the number that is represented as a one followed by 15 zeros) }
+{ kvadriljoona1,  suuri_kokonaisluku,@ noun.location:Saksa,;r noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (the number that is represented as a one followed by 24 zeros; "in England they call a septillion a quadrillion") }
+{ triljoona2,  suuri_kokonaisluku,@ noun.location:Yhdysvallat,;r noun.location:Ranska,;r (the number that is represented as a one followed by 18 zeros) }
+{ sekstiljoona,  tuhat_triljoonaa,  suuri_kokonaisluku,@ noun.location:Yhdysvallat,;r noun.location:Ranska,;r (the number that is represented as a one followed by 21 zeros) }
+{ kvadriljoona2,  suuri_kokonaisluku,@ noun.location:Yhdysvallat,;r noun.location:Ranska,;r (the number that is represented as a one followed by 24 zeros) }
+{ oktiljoona<note>Suomessa_ja_osin_Britanniassa_10"^48"\,_Amerikassa_10"^27"._Suomessa_ei_ole_nimeä_luvulle_10"^27"</note>,  suuri_kokonaisluku,@ noun.location:Yhdysvallat,;r noun.location:Ranska,;r (the number that is represented as a one followed by 27 zeros) }
+{ alef-nolla,  suuri_kokonaisluku,@ (the smallest infinite integer) }
+{ pii,  transsendenttiluku,@ (the ratio of the circumference to the diameter of a circle; approximately equal to 3.14159265358979323846...) }
+{ e,  transsendenttiluku,@ (the base of the natural system of logarithms; approximately equal to 2.718282...) }
+{ lisä,  [ korotus, verb.change:korottaa,+]  lisäys,  epämääräinen_määrä,@ (a quantity that is added; "there was an addition to property taxes this year"; "they recorded the cattle's gain in weight over a period of weeks") }
+{ [ lisäkasvu, adj.all:nouseva9^lisäkasvu-,+ adj.all:nouseva9^lisääntymis-1,+]  lisä,@ (something contributing to growth or increase; "he scraped away the accretions of paint"; "the central city surrounded by recent accretions") }
+{ [ saalis, verb.contact:saada_saalista,+ verb.contact:saada2,+]  epämääräinen_määrä,@ (the quantity of game taken in a particular period (usually by one person); "his bag included two deer") }
+{ särkyminen,  epämääräinen_määrä,@ (the quantity broken; "the total breakage was huge") }
+{ muistikapasiteetti,  epämääräinen_määrä,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the amount of information (in bytes) that can be stored on a disk drive; "the capacity of a hard disk drive is usually expressed in megabytes") }
+{ alustettu_kapasiteetti,  muistikapasiteetti,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the usable capacity of a disk drive; the amount of space that is left after the sector headings and boundary definitions and timing information have been added by formatting the disk) }
+{ levytila<approximate/>,  muistikapasiteetti,@ noun.cognition:tietojenkäsittelyoppi,;c ((computer science) the total number of bytes on a disk including the space that will be required to format it) }
+{ saalis1,  apaja,  epämääräinen_määrä,@ (the quantity that was caught; "the catch was only 10 fish") }
+{ korjaus,  epämääräinen_määrä,@ (a quantity that is added or subtracted in order to increase the accuracy of a scientific measure) }
+{ kontillinen,  epämääräinen_määrä,@ (the quantity that a container will hold) }
+{ askel,  askelmitta1,  epämääräinen_määrä,@ (the distance covered by a step; "he stepped off ten paces from the old tree and began to dig") }
+{ kaasutila,  epämääräinen_määrä,@ (the volume left at the top of a filled container (bottle or jar or tin) before sealing) }
+{ keskimääräistä_suurempi<approximate/><idiomatic_pos/>,  epämääräinen_määrä,@ (an indefinite quantity that is above the average in size or magnitude) }
+{ melkoinen_määrä,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a substantial amount; "we won a chunk of money") }
+{ rajoitus,  epämääräinen_määrä,@ (the greatest amount of something that is possible or allowed; "there are limits on the amount you can bet"; "it is growing rapidly with no limitation in sight") }
+{ raja-arvo,  kasautumispiste,  epämääräinen_määrä,@ (the mathematical value toward which a function goes as the independent variable approaches infinity) }
+{ tuotantoteho,  [ tuotto, verb.possession:tuottaa3,+ verb.creation:tuottaa6,+]  tuotanto,  epämääräinen_määrä,@ (the quantity of something (as a commodity) that is created (usually within a given period of time); "production was up in the second quarter") }
+{ katkaisuraja,  rajoitus,@ (a designated limit beyond which something cannot function or must be terminated) }
+{ seutuvilla<idiomatic_pos/>,  nurkilla<idiomatic_pos/>,  epämääräinen_määrä,@ (the approximate amount of something (usually used prepositionally as in `in the region of'); "it was going to take in the region of two or three months to finish the job"; "the price is in the neighborhood of $100") }
+{ hävikki,  epämääräinen_määrä,@ (the amount of something (as whiskey or oil) lost in storage or transportation) }
+{ saalis2,  tuotantoteho,@ (the quantity of a crop that is harvested; "he sent the first picking of berries to the market"; "it was the biggest peach pick in years") }
+{ varastot,  epämääräinen_määrä,@ noun.cognition:lääketiede,;c ((medicine) potential capacity to respond in order to maintain vital functions) }
+{ keuhkotilavuus<broader/>,  varastot,@ (the additional volume of air that the lungs can inhale and exhale when breathing to the limit of capacity in times of stress) }
+{ määrä<approximate/>2,  epämääräinen_määrä,@ (the production achieved during a continuous period of operation (of a machine or factory etc.); "a daily run of 100,000 gallons of paint") }
+{ vähäinen_määrä,  epämääräinen_määrä,@ (an indefinite quantity that is below average size or magnitude) }
+{ murunen,  vähäinen_määrä,@ (a very small quantity of something; "he gave only a crumb of information about his plans"; "there were few crumbs of comfort in the report") }
+{ hitunen,  tilkka,  roiske,  nokare,  tippa2,  vähäinen_määrä,@ (a small quantity of something moist or liquid; "a dab of paint"; "a splatter of mud"; "just a splash of whiskey") }
+{ hitunen1,  murunen1,  pisara,  tilkka1,  hieman<idiomatic_pos/>,  hiukkasen<idiomatic_pos/>,  vähän<idiomatic_pos/>,  vähäinen_määrä,@ (a small piece or quantity of something; "a spot of tea"; "a bit of paper"; "a bit of lint"; "I gave him a bit of my mind") }
+{ hiuksenhienosti<idiomatic_pos/>,  hiuskarva,  vähäinen_määrä,@ (a very small distance or space; "they escaped by a hair's-breadth"; "they lost the election by a whisker") }
+{ hiukkanen,  vähäinen_määrä,@ (a small or moderate or token amount; "England still expects a modicum of eccentricity in its artists"- Ian Jack") }
+{ kourallinen,  pieni_määrä,  hitunen2,  jokunen<idiomatic_pos/>,  pikkuisen<idiomatic_pos/>,  vähäinen_määrä,@ (a small number (of something) dispersed haphazardly; "the first scatterings of green"; "a sprinkling of grey at his temples") }
+{ mitättömän_pieni_summa,  niukka_budjetti,  vähäinen_määrä,@ (a small amount of money; "he managed it on a shoestring") }
+{ suihku,  sade,  vähäinen_määrä,@ (a quantity of small objects flying through the air; "a spray of bullets") }
+{ turvanmitta,  vähäinen_määrä,@ (a small distance; "my horse lost the race by a nose") }
+{ askel1,  kivenheitto,  kukonaskel,  vähäinen_määrä,@ (a short distance; "it's only a step to the drugstore") }
+{ vähän<idiomatic_pos/>1,  vähäinen_määrä,@ (a small amount or duration; "he accepted the little they gave him") }
+{ shtik,  shtick,  schtik,  schtick,  vähäinen_määrä,@ noun.communication:Jiddiš,;c ((Yiddish) a little; a piece; "give him a shtik cake"; "he's a shtik crazy"; "he played a shtik Beethoven") }
+{ shtikl,  shtickl,  schtikl,  schtickl,  shtik,@ (a really little shtik; "have a shtikl cake") }
+{ hiukan<idiomatic_pos/>,  hieman<idiomatic_pos/>1,  vähäinen_määrä,@ (a slight amount or degree of difference; "a tad too expensive"; "not a tad of difference"; "the new model is a shade better than the old one") }
+{ [ vähimmäismäärä, maksimi,! verb.communication:vähätellä,+ verb.communication:vähätellä3,+]  alaraja,  [ minimi, maksimi,!]  vähäinen_määrä,@ ääripiste,@ (the smallest possible quantity) }
+{ luuranko,  vähimmäismäärä,@ (something reduced to its minimal form; "the battalion was a mere skeleton of its former self"; "the bare skeleton of a novel") }
+{ vuoto,  epämääräinen_määrä,@ (the amount that has spilled) }
+{ pilaantunut_tavara,  epämääräinen_määrä,@ (the amount that has spoiled) }
+{ säiliön_tilavuus,  epämääräinen_määrä,@ (the quantity contained in (or the capacity of) a tank or tanks) }
+{ vaje,  epämääräinen_määrä,@ (the amount that a container (as a wine bottle or tank) lacks of being full) }
+{ ylijäämä,  epämääräinen_määrä,@ noun.location:Ison-Britannian_ja_Pohjois-Irlannin_yhdistynyt_kuningaskunta,;r (an amount needed to restore something to its former level) }
+{ [ arvo, adj.all:arvokas6^arvoinen,+]  epämääräinen_määrä,@ (an indefinite quantity of something having a specified value; "10 dollars worth of gasoline") }
+{ sylillinen,  sylys,  kontillinen,@ (the quantity that can be contained in the arms) }
+{ kassillinen,  pussillinen,  säkillinen,  kontillinen,@ (the quantity that a bag will hold; "he ate a large bag of popcorn") }
+{ tynnyrillinen,  kontillinen,@ (the quantity that a barrel (of any size) will hold) }
+{ kottikärryllinen,  kontillinen,@ (the quantity that a barrow will hold) }
+{ ladollinen,  kontillinen,@ (the quantity that a barn will hold) }
+{ kulhollinen,  maljallinen,  vuoallinen,  kontillinen,@ (the quantity that a basin will hold; "a basinful of water") }
+{ kopallinen,  korillinen,  kontillinen,@ (the quantity contained in a basket) }
+{ astiallinen,  laatikollinen,  säiliöllinen,  kontillinen,@ (the quantity contained in a bin) }
+{ [ pullollinen, verb.contact:pullottaa,+]  kontillinen,@ (the quantity contained in a bottle) }
+{ kulhollinen1,  maljallinen1,  kontillinen,@ (the quantity contained in a bowl) }
+{ laatikollinen1,  askillinen,  rasiallinen,  kontillinen,@ (the quantity contained in a box; "he gave her a box of chocolates") }
+{ ämpärillinen,  saavillinen,  sangollinen,  kontillinen,@ (the quantity contained in a bucket) }
+{ bussilastillinen,  bussillinen,  linja-autollinen,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (the quantity of cargo or the number of passengers that a bus can carry) }
+{ purkillinen,  tölkillinen,  kontillinen,@ (the quantity contained in a can) }
+{ korkillinen,  kontillinen,@ (the quantity that a cap will hold) }
+{ autollinen,  kontillinen,@ (the quantity that a car will hold) }
+{ kärryllinen,  kontillinen,@ (the quantity that a cart holds) }
+{ tölkillinen1,  rasiallinen1,  kontillinen,@ (the quantity contained in a carton) }
+{ rasiallinen2,  laatikollinen2,  kontillinen,@ (the quantity contained in a case) }
+{ tynnyrillinen1,  kontillinen,@ (the quantity a cask will hold) }
+{ sälelaatikollinen,  kontillinen,@ (the quantity contained in a crate) }
+{ kupillinen,  kontillinen,@ (the quantity a cup will hold; "he drank a cup of coffee"; "he borrowed a cup of sugar") }
+{ astiallinen<approximate/>1,  lautasellinen<approximate/>,  vadillinen,  kontillinen,@ (the quantity that a dish will hold; "they served me a dish of rice") }
+{ rikkalapiollinen,  kontillinen,@ (the quantity that a dustpan will hold) }
+{ pullollinen1,  kontillinen,@ (the quantity a flask will hold) }
+{ lasi,  lasillinen,  juomalasillinen,  kontillinen,@ (the quantity a glass will hold) }
+{ kourallinen1,  kontillinen,@ (the quantity that can be held in the hand) }
+{ hatullinen,  kontillinen,@ (as many or as much as a hat will hold) }
+{ pää_täynnä<idiomatic_pos/>,  kontillinen,@ (the quantity of information that a head will hold; "he has a headful of baseball statistics") }
+{ talollinen,  kontillinen,@ (as many as a house will accommodate; "they entertained a houseful of guests") }
+{ tölkillinen2,  kontillinen,@ (the quantity contained in a jar; "he drank a jar of beer") }
+{ kannullinen,  kontillinen,@ (the quantity contained in a jug) }
+{ tynnyrillinen2,  kontillinen,@ (the quantity contained in a keg) }
+{ kattilallinen,  pannullinen,  kontillinen,@ (the quantity a kettle will hold) }
+{ sylillinen1,  kontillinen,@ (the quantity that can be held in the lap) }
+{ suuntäysi,  kontillinen,@ (the quantity that can be held in the mouth) }
+{ muki,  mukillinen,  kontillinen,@ (the quantity that can be held in a mug) }
+{ sangollinen1,  ämpärillinen1,  kontillinen,@ (the quantity contained in a pail) }
+{ pesällinen,  piipullinen,  kontillinen,@ (the quantity of tobacco that can be smoked in a pipe at one time) }
+{ kannullinen1,  kontillinen,@ (the quantity contained in a pitcher) }
+{ lautasellinen1,  kontillinen,@ (the quantity contained in a plate) }
+{ taskuntäysi,  kontillinen,@ (the quantity a pocket will hold) }
+{ astiallinen2,  kontillinen,@ (the quantity contained in a pot) }
+{ huoneellinen<unconfirmed/>,  kontillinen,@ (the quantity a room will hold) }
+{ säkillinen1,  kontillinen,@ (the quantity contained in a sack) }
+{ [ kauhallinen, verb.contact:kauhoa,+]  kontillinen,@ (the quantity a scoop will hold) }
+{ hyllyllinen,  kontillinen,@ (the amount that a shelf will hold; "he bought a shelfful of books") }
+{ kengäntäysi,  kontillinen,@ (the amount that a shoe will hold; "he emptied out a shoeful of water") }
+{ kuppi_liikaa<idiomatic_pos/>,  epämääräinen_määrä,@ noun.communication:slangi,;u (a quantity of alcoholic drink sufficient to make you drunk; "someone had to drive me home last night because I had a skinful") }
+{ [ lapiollinen, verb.contact:lapioida1,+]  kontillinen,@ (the quantity a shovel can hold) }
+{ kopallinen1,  kontillinen,@ (the quantity a skep can hold) }
+{ puolipullo,  pullollinen,@ (a bottle containing half the usual amount) }
+{ [ lusikka, verb.contact:lusikoida,+]  lusikallinen,  kontillinen,@ (as much as a spoon will hold; "he added two spoons of sugar") }
+{ ruokalusikka,  ruokalusikallinen,  kontillinen,@ (as much as a tablespoon will hold) }
+{ jälkiruokalusikallinen,  kontillinen,@ (as much as a dessert spoon will hold) }
+{ [ tankki, verb.possession:tankata2,+]  tankillinen,  tankintäysi,  kontillinen,@ (as much as a tank will hold) }
+{ teekupillinen,  kontillinen,@ (as much as a teacup will hold) }
+{ teelusikka,  teelusikallinen,  kontillinen,@ (as much as a teaspoon will hold) }
+{ sormustimellinen,  kontillinen,@ (as much as a thimble will hold) }
+{ saavillinen1,  kontillinen,@ (the amount that a tub will hold; "a tub of water") }
+{ hitunen3,  muru,  vähäinen_määrä,@ (a small quantity of anything; "a morsel of paper was all he needed") }
+{ kourallinen2,  hitunen4,  vähäinen_määrä,@ (a small number or amount; "only a handful of responses were received") }
+{ pari_kolme,  vähäinen_määrä,@ (a small indefinite number; "he's coming for a couple of days") }
+{ tippa3,  tilkka2,  pisara1,  vähäinen_määrä,@ (a small indefinite quantity (especially of a liquid); "he had a drop too much to drink"; "a drop of each sample was analyzed"; "there is not a drop of pity in that man"; "years afterward, they would pay the blood-money, driblet by driblet"--Kipling") }
+{ pieni_pisara,  pisara2,  tippa4,  tippa3,@ (a tiny drop) }
+{ silmätippa,  tippa3,@ (a drop from an eye dropper) }
+{ kauhallinen1,  lusikallinen1,  vähäinen_määrä,@ (a small measure (usually of food)) }
+{ annostus,  annos,  epämääräinen_määrä,@ (the quantity of an active agent (substance or radiation) taken in or absorbed at any one time) }
+{ jännite,  epämääräinen_määrä,@ noun.communication:puhekielen_ilmaus,;u (an amount of alcohol sufficient to intoxicate; "he got a load on and started a brawl") }
+{ kuorma,  lasti,  kuormitus,  epämääräinen_määrä,@ (a quantity that can be processed or transported at one time; "the system broke down under excessive loads") }
+{ sademäärä,  epämääräinen_määrä,@ (the quantity of water falling to earth at a specific place within a specified period of time; "the storm brought several inches of precipitation") }
+{ junalasti,  kuorma,@ (quantity that can be carried by a train) }
+{ sakka,  vähäinen_määrä,@ (a small amount of residue) }
+{ juuri_mitään<idiomatic_pos/>,  mitään<idiomatic_pos/>,  vähäinen_määrä,@ (a small worthless amount; "you don't know jack") }
+{ naukku,  ryyppy,  paukku,  vähäinen_määrä,@ (a small drink of liquor; "he poured a shot of whiskey") }
+{ häivähdys,  vähäinen_määrä,@ (a just detectable amount; "he speaks French with a trace of an accent") }
+{ kipinä,  pilkahdus,  häivähdys,@ (a small but noticeable trace of some quality that might become stronger; "a spark of interest"; "a spark of decency") }
+{ hitunen5,  häivä,  rahtunen,  rahtu,  hippunen,  hiukkanen1,  hyppysellinen,  hiukka,  hieman<idiomatic_pos/>2,  hiven,  vähäinen_määrä,@ (a tiny or scarcely detectable amount) }
+{ tilkka3,  tilkkanen,  vähäinen_määrä,@ (a small amount (especially of a drink); "a tot of rum") }
+{ nuuskaus,  ripaus,@ (a pinch of smokeless tobacco inhaled at a single time) }
+{ ripaus,  sipaus,  häivähdys1,  muru<unconfirmed/>1,  hyppysellinen1,  hitunen6,  piste2,  hiven1,  aavistus,  vähäinen_määrä,@ (a slight but appreciable amount; "this dish could use a touch of garlic") }
+{ barreli1,  tynnyri2,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (the amount that many barrels might hold) }
+{ nippu,  paljon<idiomatic_pos/>,  parvi,  [ runsaasti<idiomatic_pos/>, adj.all:runsas^runsas1,+]  huomattavasti<idiomatic_pos/>,  hatullinen<unconfirmed/>1,  läjä,  suuri_määrä,  iso,  vuori,  kasapäin<idiomatic_pos/>,  röykkiö,  iso_kasa,  aikamoisesti<idiomatic_pos/>,  liuta,  koko_joukko,  tukku,  läjäpäin,  kasa,  kasoittain,  keko,  roppakaupalla,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ ((often followed by `of') a large number or amount or extent; "a batch of letters"; "a deal of trouble"; "a lot of money"; "he made a mint on the stock market"; "see the rest of the winners in our huge passel of photos"; "it must have cost plenty"; "a slew of journalists"; "a wad of money") }
+{ lauma,  ryhmä,  suuri_määrä1,  lukuisuus,  joukko,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a large indefinite number; "a battalion of ants"; "a multitude of TV antennas"; "a plurality of religions") }
+{ hurjasti<idiomatic_pos/>,  vimmatusti<idiomatic_pos/>,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (an unimaginably large amount; "British say `it rained like billyo' where Americans say `it rained like all get out'") }
+{ venelasti,  laivalasti,  vaunulasti,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (the amount of cargo that can be held by a boat or ship or a freight car; "he imported wine by the boatload") }
+{ [ tulva, verb.contact:tulvia,+]  vedenpaisumus,  ryöppy,  vyöry,  nippu,@ (an overwhelming number or amount; "a flood of requests"; "a torrent of abuse") }
+{ heinäpaali<approximate/>,  nippu,@ (a mass of hay piled up in a barn for preservation) }
+{ äärettömyys,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (an infinite quantity) }
+{ [ maksimi, vähimmäismäärä,! verb.change:maksimoida,+ verb.change:maksimoida1,+ minimi,!]  yläraja,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ ääripiste,@ (the largest possible quantity) }
+{ paljon<idiomatic_pos/>1,  selvästi<idiomatic_pos/>,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a large distance; "he missed by a mile") }
+{ miljoona1,  miljardi2,  triljoona3,  valtavan_paljon<idiomatic_pos/>,  äärettömästi<idiomatic_pos/>,  lukematon,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a very large indefinite number (usually hyperbole); "there were millions of flies") }
+{ paljon<idiomatic_pos/>2,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a great amount or extent; "they did much for humanity") }
+{ suunnaton_määrä,  lukematon_määrä,  myriadi,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a large indefinite number; "he faced a myriad of details") }
+{ reservi,  hankinta,@ (a large or extra supply of something; "a reservoir of talent") }
+{ [ valtameri, adj.all:rajoittamaton4^valtava16,+]  meri,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (anything apparently limitless in quantity or volume) }
+{ kilokaupalla<idiomatic_pos/>,  metrikaupalla<idiomatic_pos/>,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a large quantity of written matter; "he wrote reams and reams") }
+{ pieni_omaisuus,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a large sum of money; "he made a small fortune in the commodities market") }
+{ [ hankinta, verb.consumption:hankkia,+]  [ jakelu, verb.social:jakaa2,+]  epämääräinen_määrä,@ (an amount of something available for use) }
+{ vaikka_kuinka_paljon<broader/><idiomatic_pos/>,  tusinoittain<idiomatic_pos/>,  kasoittain<idiomatic_pos/>1,  paljon<idiomatic_pos/>3,  paljon<broader/><idiomatic_pos/>4,  vaikka_millä_mitalla<broader/><idiomatic_pos/>,  joukoittain<idiomatic_pos/>,  läjittäin<idiomatic_pos/>,  runsaasti<idiomatic_pos/>1,  tukuittain<idiomatic_pos/>,  älyttömän_paljon<idiomatic_pos/>,  roppakaupalla<idiomatic_pos/>1,  keskimääräistä_suurempi<approximate/><idiomatic_pos/>,@ (a large number or amount; "made lots of new friends"; "she amassed stacks of newspapers") }
+{ [ tila, adj.all:tilava^tilava1,+]  tie,  liikkumatila,  noun.attribute:sijainti,@ (space for movement; "room to pass"; "make way for"; "hardly enough elbow room to turn around") }
+{ hengitystila,  hengitystilaa,  tila,@ (sufficient room for easy breathing or movement; "moved to the country to find breathing room") }
+{ alikulkukorkeus,  avokorkeus,  vapaa_tila,  vapaa_korkeus,  varoetäisyys,  pelivara,  tila,@ (vertical space available to allow easy passage under something) }
+{ asuintila,  tila,@ (space for accommodation in a house; "I wouldn't give that table houseroom") }
+{ elintila,  tila,@ (space sought for occupation by a nation whose population is expanding) }
+{ [ pysäköintitila, verb.contact:pysäköidä,+]  [ pysäköintipaikka, verb.contact:pysäköidä,+]  tila,@ (space in which vehicles can be parked; "there is plenty of parking behind the store") }
+{ liikkumavara,  tila,@ (space for maneuver at sea) }
+{ luoko,  niitos,  noun.shape:tyhjä_tila1,@ (the space created by the swing of a scythe or the cut of a mowing machine) }
+{ [ tilavuus, adj.all:iso1^tilaa_vievä,+]  noun.Tops:mitta,@ (the amount of 3-dimensional space occupied by an object; "the gas expanded to twice its original volume") }
+{ osa,  noun.Tops:mitta,@ (a relative amount; "mix one volume of the solution with ten volumes of water") }
+{ kapasiteetti,  vetoisuus,  tilavuus1,  vetävyys,  tilavuus,@ (the amount that can be contained; "the gas tank has a capacity of 12 gallons") }
+{ vitaalikapasiteetti,  noun.cognition:taudinmäärityskoe,@ kapasiteetti,@ (the maximum amount of air that can be exhaled after a maximum inhalation (usually tested with a spirometer); used to determine the condition of lung tissue) }
+{ väestö,  asukasluku,  väkiluku,  kokonaisluku,@ (the number of inhabitants (either the total number or the number of a particular race or class) in a given place (country or city etc.); "people come and go, but the population of this town has remained approximately constant for the past decade"; "the African-American population of Salt Lake City has been increasing") }
+{ alkoholipitoisuus,  noun.Tops:mitta,@ (a measure of alcoholic strength expressed as an integer twice the percentage of alcohol present (by volume)) }
+{ STP,  s.t.p.,  nollapiste,@ normaali-ilmakehä,@ (standard temperature and pressure) }
+{ aikuisväestö,  väestö,@ ([empty]) }
+{ alkupuoli,  puolikas1,@ ([empty]) }
+{ alkupuolisko,  puolikas1,@ ([empty]) }
+{ jälkipuolisko,  puolikas1,@ ([empty]) }
+{ kärkikaksikko,  pari1,@ ([empty]) }
+{ kerrosneliömetri,  neliömetri,@ ([empty]) }
+{ lisätila,  tila,@ ([empty]) }
+{ loppupuoli,  puolikas1,@ ([empty]) }
+{ määräenemmistö,  enemmistö,@ ([empty]) }
+{ maitokiintiö,  kiintiö,@ ([empty]) }
+{ neljännesmiljoona,  miljoona,@ ([empty]) }
+{ osake-enemmistö,  enemmistö,@ ([empty]) }
+{ pakkasaste,  aste2,@ ([empty]) }
+{ sarjapiste,  piste,@ ([empty]) }
+{ siviiliväestö,  väestö,@ ([empty]) }
+{ syöttöpiste,  piste,@ ([empty]) }
+{ tasapiste,  piste,@ ([empty]) }
+{ tehopiste,  piste,@ ([empty]) }
+{ työpari,  pari,@ ([empty]) }
+{ työväestö,  väestö,@ ([empty]) }
+{ valtaväestö,  väestö,@ ([empty]) }
+{ vuosipuolisko,  puolikas1,@ ([empty]) }
+{ yhteispiste,  piste,@ ([empty]) }

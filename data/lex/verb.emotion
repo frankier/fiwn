@@ -1,0 +1,343 @@
+{ herättää,  paljastaa,  saada_aikaan,  innoittaa,  nostattaa,  synnyttää,  verb.creation:saada_aikaan,@ frames: 1 (call forth (emotions, feelings, and responses); "arouse pity"; "raise a smile"; "evoke sympathy") }
+{ koskettaa,  herättää,@ frames: 1 (evoke a reaction, response, or emotion; "this writer strikes a chord with young women"; "The storyteller touched a chord") }
+{ kerjätä,  kysyä,  herättää,@ frames: 1 (increase the likelihood of; "ask for trouble"; "invite criticism") }
+{ saada_aikaan1,  herättää,@ verb.possession:saada5,$ frames: 1 (elicit responses, such as objections, criticism, applause, etc.; "The President's comments drew sharp criticism from the Republicans"; "The comedian drew a lot of laughter") }
+{ sytyttää_uudestaan,  herättää,@ frames: 1 (arouse again; "rekindle hopes"; "rekindle her love") }
+{ [ hullaannuttaa, noun.feeling:hullaantuminen,+ noun.cognition:hullaantumisen_kohde,+]  herättää,@ frames: 1 (arouse unreasoning love or passion in and cause to behave in an irrational way; "His new car has infatuated him"; "love has infatuated her") }
+{ kirvellä,  herättää,@ frames: 1 (to cause a sharp emotional pain; "The thought of her unhappiness pricked his conscience") }
+{ [ kiihottaa, adj.all:provosoiva^kiihottava1,+]  lietsoa,  nostattaa1,  herättää1,  saada_aikaan2,  herättää,@ frames: 1 (arouse or excite feelings and passions; "The ostentatious way of living of the rich ignites the hatred of the poor"; "The refugees' fate stirred up compassion around the world"; "Wake old feelings of hatred") }
+{ kuohuttaa,  kiihottaa,@ frames: 1 (work up into agitation or excitement; "Islam is fermenting Africa") }
+{ [ hämmentää, verb.social:herättää,^ verb.social:nostattaa,^ verb.social:sekoittaa1,^]  [ järkyttää, verb.social:herättää,^ verb.social:nostattaa,^ verb.social:sekoittaa1,^]  herättää,@ frames: 1 (stir the feelings, emotions, or peace of; "These stories shook the community"; "the civil war shook the country") }
+{ lietsoa1,  ruokkia,  hämmentää,@ frames: 1 (stimulate; "fuel the debate on creationism") }
+{ herättää2,  kiihottaa1,  kiihdyttää,  sytyttää,  innostaa,  hämmentää,@ frames: 1 (stimulate sexually; "This movie usually arouses the male audience") }
+{ [ agitoida, tyynnyttää,!]  [ kiihottaa2, tyynnyttää,! noun.cognition:kiihotus,+ adj.all:stimuloiva^kiihottava5,+]  yllyttää,  innostaa1,  innostaa<unconfirmed/>2,  kannustaa,  [ kiihdyttää1, adj.all:stimuloiva^kiihottava5,+]  sytyttää1,  virittää,  saada_innostumaan,  liikuttaa1,@ frames: 1 (cause to be agitated, excited, or roused; "The speaker charged up the crowd with his inflammatory remarks") }
+{ hätkähdyttää,  järkyttää1,  liikuttaa1,@ frames: 1 (disturb (someone's) composure; "The audience was jolted by the play") }
+{ pulputa,  tulvia,  pursuta,  kihistä,@ frames: 1 (overflow with a certain feeling; "The children bubbled over with joy"; "My boss was bubbling over with anger") }
+{ kuohua,  kihistä,@ frames: 1 (be in an agitated or excited state; "The Middle East is fermenting"; "Her mind ferments") }
+{ innostua,  kiihtyä,  agitoida,@ frames: 1 (get excited or stimulated; "The children were all psyched up after the movie") }
+{ tuudittaa,  tyynnyttää,@ frames: 1 (calm by deception; "Don't let yourself be lulled into a false state of security") }
+{ tasaantua,  rauhoittua,  tyyntyä,  laantua,  rentoutua,  verb.change:kääntyä1,@ frames: 1 (become quiet or calm, especially after a state of agitation; "After the fight both men need to cool off."; "It took a while after the baby was born for things to settle down again.") }
+{ huolestua,  liikuttaa1,@ frames: 1 (disturb in mind or make uneasy or cause to be worried or alarmed; "She was rather perturbed by the news that her father was seriously ill") }
+{ järkkyä,  tehdä_hulluksi,  tehdä_hulluksi1,@ frames: 1 (derange mentally, throw out of mental balance; make insane; "The death of his parents unbalanced him") }
+{ [ tyynnyttää, agitoida,! kiihottaa2,!]  rauhoittaa,  hiljentää,  hyssyttää,  tuudittaa1,  vaientaa,  tyynnytellä,  antaa_tukea,@ frames: 1 (make calm or still; "quiet the dragons of worry and fear") }
+{ [ tyynnyttää1, noun.attribute:tyyneys2,+]  tyynnyttää,@ frames: 1 (calm (someone, especially oneself); make quiet; "She had to compose herself before she could reply to this terrible insult") }
+{ tyynnyttää2,  lievittää,  [ sovittaa, noun.act:sovittelu1,+ adj.all:sovinnollinen1,+ noun.person:sovittelija4,+ noun.state:sovinto,+]  tyydyttää,  [ lepyttää, adj.all:lauhkea2^lepytettävissä_oleva,+ noun.act:lepyttely,+]  rauhoittaa1,  kesyttää,  tyynnyttää,@ frames: 1 (cause to be more favorably inclined; gain the good will of; "She managed to mollify the angry customer") }
+{ [ huolestuttaa, vakuutella,! noun.cognition:huoli1,+ tyynnytellä1,!]  kiusata,  [ tehdä_huolestuneeksi, vakuutella,! tyynnytellä1,!]  [ ahdistaa, vakuutella,! tyynnytellä1,!]  huolestua,@ murehtia,> murehtia,$ frames: 1 (disturb the peace of mind of; afflict with mental agitation or distress; "I cannot sleep--my daughter's health is worrying me") }
+{ kiusata1,  vaivata,  huolestuttaa,@ frames: 1 (worry or cause anxiety in a persistent way; "What's eating you?") }
+{ [ vakuutella, huolestuttaa,! tehdä_huolestuneeksi,! ahdistaa,!]  rauhoitella,  [ tyynnytellä1, huolestuttaa,! tehdä_huolestuneeksi,! ahdistaa,!]  tyynnyttää,@ frames: 1 (cause to feel sure; give reassurance to; "The airline tried to reassure the customers that the planes were safe") }
+{ kalvaa,  huolestuttaa,@ frames: 1 (worry persistently; "nagging concerns and doubts") }
+{ olla_huolissaan,  välittää,  huolia,  huolehtia,  verb.cognition:ajatella8,@ frames: 1 (be concerned with; "I worry about my grades") }
+{ vetäytyä,  verb.body:kyllästyä,@ verb.social:päättää_ura,$ frames: 1 (lose interest; "he retired from life when his wife died") }
+{ [ murehtia, noun.person:murehtija1,+]  huolia1,  huolehtia1,  huolestuttaa,$ frames: 1 (be worried, concerned, anxious, troubled, or uneasy; "I worry about my job") }
+{ harmitella,  hermoilla,  murehtia,@ frames: 1 (be agitated or irritated; "don't fret over these small details") }
+{ kihistä,  pihistä,  verb.stative:olla1,@ frames: 1 (be in an agitated emotional state; "The customer was seething with anger") }
+{ kihistä1,  pihistä1,  kihistä,@ frames: 1 (seethe with deep anger or resentment; "She was sizzling with anger") }
+{ [ vaikuttaa, adj.all:vaikutuksille_altis,+ adj.all:vaikuttava4,+ adj.all:tehokas2^vaikuttava3,+]  tehdä_vaikutus,  liikuttaa,  koskettaa1,  tuntea,> verb.perception:iskeä_mieleen,$ verb.creation:kannustaa,$ frames: 1 (have an emotional or cognitive impact upon; "This child impressed me as unusually mature"; "This behavior struck me as odd") }
+{ syövyttää,  vaikuttaa,@ frames: 1 (impress or affect deeply; "The event engraved itself into her memory") }
+{ mykistää,  vaikuttaa,@ frames: 1 (render speechless, as by surprising or shocking; "we were struck dumb by the candidate's announcement") }
+{ lyödä<approximate/>,  vaikuttaa,@ frames: 1 (strike suddenly and with force; "This show zaps the viewers with some shocking scenes") }
+{ ärsyttää,  vaikuttaa,@ frames: 1 (affect in a disagreeable way; "This play jarred the audience") }
+{ mennä_jakeluun,  koskettaa2,  mennä_perille,  vaikuttaa,@ frames: 1 (refer to or be relevant or familiar to; "I hope this message hits home!") }
+{ olla_lumoissa,  vaikuttaa,@ frames: 1 (affect suddenly with deep feeling; "He was smitten with love for this young girl") }
+{ synkentää,  vaikuttaa,@ frames: 1 (make gloomy or depressed; "Their faces were clouded with sadness") }
+{ tunkeutua_jhk,  vaikuttaa,@ frames: 1 (move or affect (a person's emotions or bodily feelings) deeply or sharply; "The cold pierced her bones"; "Her words pierced the students") }
+{ tehdä_vaikutus1,  vaikuttaa,@ frames: 1 (impress positively; "The young chess player impressed her audience") }
+{ tehdä_vaikutus2,  tehdä_vaikutus1,@ frames: 1 (make a positive impression (on someone) beforehand; "A prepossessing appearance") }
+{ lumota,  tehdä_vaikutus1,@ frames: 1 (impress greatly; "The speaker wowed the audience") }
+{ pyyhkiä_pois,  vaikuttaa,@ frames: 1 (overwhelm emotionally; "Her swept her away") }
+{ liikuttaa1,  [ järkyttää2, noun.act:järkytys,+ noun.state:järkytys,+]  saada_liikuttumaan,  hermostuttaa,  vaikuttaa,@ frames: 1 (move deeply; "This book upset me"; "A troubling thought") }
+{ [ koskettaa3, kiihottaa,^ nostattaa1,^ saada_aikaan2,^]  [ liikuttaa2, kiihottaa,^ nostattaa1,^ saada_aikaan2,^]  vaikuttaa,@ frames: 1 (affect emotionally; "A stirring movie"; "I was touched by your kind letter of sympathy") }
+{ saada_pauloihinsa,  koskettaa3,@ ottaa_päähän,$ frames: 1 (evoke an emotional response; "Brahms's `Requiem' gets me every time") }
+{ ottaa_päähän,  ärsyttää1,  käydä_hermoille,  vaivata1,  hermostuttaa2,@ saada_pauloihinsa,$ frames: 1 (irritate; "Her childish behavior really get to me"; "His lying really gets me") }
+{ liikuttaa3,  koskettaa4,  vaikuttaa,@ verb.creation:kannustaa,$ frames: 1 (arouse sympathy or compassion in; "Her fate moved us all") }
+{ [ tuntea, tuntea_myötätuntoa_jkta_kohtaan,^ noun.feeling:tunteet1,+ noun.Tops:tunne,+]  [ kokea, noun.event:kokemus,+ noun.cognition:kokemus1,+]   frames: 1 (undergo an emotional sensation or be in a particular state of mind; "She felt resentful"; "He felt regret") }
+{ osoittaa_taipumusta,  tuntea,@ frames: 1 (feel favorably disposed or willing; "She inclines to the view that people should be allowed to expres their religious beliefs") }
+{ kokea_uudelleen,  tuntea,@ frames: 1 (experience anew; "She could not recapture that feeling of happiness") }
+{ [ ylpeillä, noun.feeling:ylpeys,+]  pöyhistellä,  olla_ylpeä,  tuntea,@ frames: 1 (be proud of; "He prides himself on making it into law school") }
+{ hehkua,  kyteä,  tuntea,@ frames: 1 (have strong suppressed feelings) }
+{ ilmaista_tunteensa_teatraalisesti,  ylinäytellä,  verb.creation:näytellä,@ frames: 1 (give expression or emotion to, in a stage or movie role) }
+{ herättää3,  herättää,@ frames: 1 (arouse or elicit a feeling) }
+{ pitää,  hautoa,  kantaa,  elättää,  elätellä,  tuntea,@ frames: 1 (maintain (a theory, thoughts, or feelings); "bear a grudge"; "entertain interesting notions"; "harbor a resentment") }
+{ olla_katkera,  olla_pitämättä,@ frames: 1 (feel bitter or indignant about; "She resents being paid less than her co-workers") }
+{ [ katkeroittaa, noun.state:katkeruus,+]  myrkyttää,  suututtaa,  olla_katkera,> frames: 1 (cause to be bitter or resentful; "These injustices embittered her even more") }
+{ hyväksyä_vastahakoisesti<unconfirmed/>,  myöntää_vastahakoisesti<unconfirmed/>,  suoda_vastahakoisesti<unconfirmed/>,  olla_katkera,* frames: 1 (accept or admit unwillingly) }
+{ kuluttaa_vähitellen,  ärsyttää2,  kiusata2,  jäytää,  hermostuttaa2,@ frames: 1 (gnaw into; make resentful or angry; "The injustice rankled her"; "his resentment festered") }
+{ kantaa_kaunaa,  olla_katkera,@ frames: 1 (bear a grudge; harbor ill feelings) }
+{ [ vihata, rakastaa,! noun.person:vihaaja1,+ pitää_kovasti,! pitää_paljon,! pitää1,!]  [ inhota, noun.feeling:inho3,+]  olla_pitämättä,@ frames: 1 (dislike intensely; feel antipathy or aversion towards; "I hate Mexican food"; "She detests politicians") }
+{ [ kammoksua, noun.feeling:kammo,+]  [ inhota1, noun.person:inhoaja,+ noun.act:inhottava_asia,+ noun.act:inhottavuus,+ noun.feeling:inhottavuus,+ adj.all:vihattava^inhottava7,+ noun.person:inhottava_henkilö,+]  kammota,  vihata1,  vihata,@ frames: 1 (find repugnant; "I loathe that man"; "She abhors cats") }
+{ [ halveksia, noun.feeling:halveksunta1,+]  väheksyä,  [ ylenkatsoa, noun.feeling:ylenkatse,+]  halveksua,  vihata,@ frames: 1 (look down on with disdain; "He despises the people he has to work for"; "The professor scorns the students who don't catch on immediately") }
+{ [ rakastaa, vihata,! noun.feeling:rakkaus2,+ adj.all:rakastettava4,+ noun.cognition:rakkaus,+ noun.person:rakas,+ noun.person:rakastaja,+]  [ pitää_kovasti, vihata,!]  [ pitää_paljon, vihata,!]  [ pitää1, vihata,!]   frames: 1 (have a great affection or liking for; "I love French food"; "She loves her boss and works hard for him") }
+{ [ rakastaa1, noun.feeling:rakkaus2,+ adj.all:rakastettava4,+ noun.cognition:rakkaus,+ noun.person:rakas,+ noun.person:rakastaja,+]  rakastaa,@ frames: 1 (be enamored or in love with; "She loves her husband deeply") }
+{ kuherrella,  rakastaa1,@ frames: 1 (have a love affair with) }
+{ ihastua,  rakastua,  verb.change:muuttua,@ frames: 1 (fall in love with; become infatuated with; "She fell for the man from Brazil") }
+{ takertua,   frames: 1 (to remain emotionally or intellectually attached; "He clings to the idea that she might still love him.") }
+{ välittää1,  olla_mieltynyt,  lempiä,  pitää_arvossa,  vaalia,  rakastaa,@ frames: 1 (be fond of; be attached to) }
+{ pitää_pyhänä,  julistaa_pyhimykseksi,  kunnioittaa1,@ frames: 1 (hold sacred) }
+{ ihastua1,  haluta,  mieltyä,  tehdä_mieli,  haluta4,@ pitää3,* frames: 1 (have a fancy or particular liking or desire for; "She fancied a necklace that she had seen in the jeweler's window") }
+{ [ olla_pitämättä, pitää3,!]  [ pitää_vastenmielisenä, pitää3,!]  verb.cognition:paheksua1,* frames: 1 (have or feel a dislike or distaste for; "I really dislike this salesman") }
+{ pitää2,  välittää2,   frames: 1 (be fond of; "I like my nephews") }
+{ tykästyä,  pitää3,@ frames: 1 (take a liking to; "cotton to something") }
+{ [ pitää3, olla_pitämättä,! pitää_vastenmielisenä,!]  verb.cognition:antaa_hyväksymys,* frames: 1 (find enjoyable or agreeable; "I like jogging"; "She likes to read Russian novels") }
+{ palvoa,  jumaloida,  rakastaa,@ frames: 1 (shower with love; show excessive affection for; "Grandmother dotes on her the twins") }
+{ haikailla,  kaivata,  välittää1,@ frames: 1 (have affection for; feel tenderness for) }
+{ viilentyä<approximate/>,  tuntea,@ frames: 1 (feel less enamoured of something or somebody) }
+{ pitää_hirveästi,  rakastaa2,  rakastaa,@ frames: 1 (love intensely; "he just adored his wife") }
+{ ihannoida,  [ palvoa1, noun.person:palvoja8,+ noun.feeling:palvonta,+]  [ kunnioittaa, adj.all:kunnioittava3,+ adj.all:harras2^kunnioittava,+]  arvostaa_suuresti,  [ kunnioittaa_syvästi, adj.all:kunnioittava3,+ adj.all:harras2^kunnioittava,+]  ihailla,  pitää_hirveästi,@ frames: 1 (love unquestioningly and uncritically or to excess; venerate as an idol; "Many teenagers idolized the Beatles") }
+{ [ kunnioittaa1, noun.feeling:kunnioitus,+ noun.feeling:kunnioittaminen,+]  [ pelätä, noun.feeling:pelko2,+]  arvostaa,  kumartaa,  arvostaa_suuresti1,  kunnioittaa_syvästi1,  verb.cognition:kunnioittaa1,@ frames: 1 (regard with feelings of respect and reverence; consider hallowed or exalted or be in awe of; "Fear God as your father"; "We venerate genius") }
+{ palvoa2,  kunnioittaa1,@ noun.cognition:usko3,;c frames: 1 (show devotion to (a deity); "Many Hindus worship Shiva") }
+{ [ pelottaa, säikyttää_pois,^ noun.act:pelottelu1,+]  [ pelästyttää, säikyttää_pois,^ noun.act:pelottelu1,+ noun.artifact:pelätin,+ noun.feeling:pelkotila,+]  [ säikyttää, säikyttää_pois,^]  [ pelotella, noun.artifact:pelätin,+ noun.feeling:pelkotila,+]  hämmentää,@ pelätä1,> frames: 1 (cause fear in; "The stranger who hangs around the building frightens me"; "Ghosts could never affright her") }
+{ herättää_pelonsekaista_kunnioitusta<approximate/>,  herättää_kunnioitusta,  pelottaa,@ frames: 1 (inspire awe in; "The famous professor awed the undergraduates") }
+{ herättää_pelonsekaista_kunnioitusta1,  pitää_pelon_vallassa,  pelottaa1,  herättää_pelonsekaista_kunnioitusta<approximate/>,@ frames: 1 (subdue, restrain, or overcome by affecting with a feeling of awe; frighten (as with threats)) }
+{ häkellyttää,  pelästyttää1,  herättää_pelonsekaista_kunnioitusta1,@ frames: 1 (intimidate or overawe) }
+{ pelotella1,  säikyttää1,  verb.motion:karkottaa,@ frames: 1 (drive out by frightening) }
+{ [ pelätä1, noun.feeling:pelko,+ noun.feeling:pelko3,+]  odottaa_pelolla,   frames: 1 (be afraid or scared of; be frightened of; "I fear the winters in Moscow"; "We should not fear the Communists!") }
+{ [ pelätä2, noun.feeling:pelko5,+]   frames: 1 (be uneasy or apprehensive about; "I fear the results of the final exams") }
+{ pelätä3,  verb.communication:olla_pahoillaan,@ frames: 1 (be sorry; used to introduce an unpleasant statement; "I fear I won't make it to your wedding party") }
+{ [ pelätä4, noun.feeling:pelko5,+]  murehtia,@ frames: 1 (be afraid or feel anxious or apprehensive about a possible or probable situation or event; "I fear she might get aggressive") }
+{ [ kauhistuttaa, noun.feeling:kauhu4,+]  pelottaa2,  pelottaa,@ frames: 1 (fill with terror; frighten greatly) }
+{ pelotella2,  pelottaa,@ frames: 1 (make timid or fearful; "Her boss intimidates her") }
+{ uhata,  pelotella2,@ frames: 1 (intimidate somebody (with a threat); "She was holding it over him") }
+{ pomoilla,  pelotella3,  pakottaa,  kiusata3,  määräillä,  pomottaa,  komennella,  pelotella2,@ frames: 1 (be bossy towards; "Her big brother always bullied her when she was young") }
+{ [ tyrannisoida, noun.person:tyranni1,+]  esiintyä_käskevästi,  hallita_tyrannimaisesti,  pomoilla,@ frames: 1 (rule or exercise power over (somebody) in a cruel and autocratic manner; "her husband and mother-in-law tyrannize her") }
+{ saattaa_pakokauhun_valtaan,  kauhistuttaa,@ joutua_pakokauhun_valtaan,> frames: 1 (cause sudden fear in or fill with sudden panic; "The mere thought of an isolation cell panicked the prisoners") }
+{ joutua_pakokauhun_valtaan,  panikoida,  pelätä1,@ frames: 1 (be overcome by a sudden fear; "The students panicked when told that final exams were less than a week away") }
+{ odottaa,  [ pelätä5, adj.all:huolestunut6^peläten<idiomatic_pos/>1,+ noun.feeling:pelko3,+ adj.all:peloissaan_oleva^pelokas,+ adj.all:peloissaan_oleva^peläten<idiomatic_pos/>,+]  odottaa_pelonsekaisin_tuntein,  odottaa1,@ pelätä1,* frames: 1 (anticipate with dread or anxiety) }
+{ [ kauhistuttaa1, noun.feeling:kauhu2,+ noun.feeling:kauhu3,+]  [ pelottaa3, noun.feeling:pelko1,+]  [ tyrmistyttää, noun.feeling:tyrmistys1,+]  pöyristyttää,  hirvittää,  pelästyttää2,  pelottaa,@ frames: 1 (fill with apprehension or alarm; cause to be unpleasantly surprised; "I was horrified at the thought of being late for my interview"; "The news of the executions horrified us") }
+{ [ järkyttää3, noun.event:järkytys,+]  [ kauhistuttaa2, noun.communication:kauhukertomus,+]  pöyristyttää1,  kauhistuttaa1,@ frames: 1 (strike with horror or terror; "The news of the bombing shocked her") }
+{ kummitella,  riivata,  näyttäytyä_kummituksena,  askarruttaa,@ frames: 1 (haunt like a ghost; pursue; "Fear of illness haunts her") }
+{ askarruttaa,  verb.social:määrätä6,@ frames: 1 (engage or engross the interest or attention of beforehand or occupy urgently or obsessively; "His work preoccupies him"; "The matter preoccupies her completely--she cannot think of anything else") }
+{ askarruttaa1,  askarruttaa,@ frames: 1 (cause to be preoccupied; "The idea of his failure prepossesses him") }
+{ häiritä,  pelästyttää3,  hermostuttaa1,  hämmentää1,  järkyttää4,@ frames: 1 (disturb the composure of) }
+{ lannistaa,  musertaa,  häiritä,@ frames: 1 (cause to lose one's nerve; "an unmanning experience") }
+{ seota,  järkyttyä,  säikähtää,  kuvottaa<approximate/>,  ällöttää<approximate/>,  menettää_järkensä,  pimahtaa,  joutua_pakokauhun_valtaan,@ frames: 1 (lose one's nerve; "When he saw the accident, he freaked out") }
+{ murtua,  luhistua,  seota1,  saada_hermoromahdus,  romahtaa,  verb.body:toimia,@ frames: 1 (lose control of one's emotions; "When she heard that she had not passed the exam, she lost it completely"; "When her baby died, she snapped") }
+{ saattaa_kyyneliin,  murtua,@ saattaa_kyyneliin1,$ frames: 1 (lose control emotionally; "She dissolved into tears when she heard that she had lost all her savings in the pyramid scheme") }
+{ saattaa_kyyneliin1,  järkyttää4,@ saattaa_kyyneliin,$ frames: 1 (cause to lose control emotionally; "The news dissolved her into tears") }
+{ kuolla,  murtua,@ frames: 1 (be brought to or as if to the point of death by an intense emotion such as embarrassment, amusement, or shame; "I was dying with embarrassment when my little lie was discovered"; "We almost died laughing during the show") }
+{ haluta_kuollakseen,  kaivata3,@ frames: 1 (languish as with love or desire; "She dying for a cigarette"; "I was dying to leave") }
+{ leimahtaa,  puhjeta,  roihahtaa,  ilmaista_tunteita,@ frames: 1 (force out or release suddenly and often violently something pent up; "break into tears"; "erupt in anger") }
+{ luhistua1,  romahtaa1,  murtua1,  katketa,  sortua,  verb.body:kärsiä1,@ frames: 1 (suffer a nervous breakdown) }
+{ pelotella4,  säikäyttää,  säikyttää2,  säikyttää_pois,  [ pelästyttää4, noun.state:pelko,+]  pelottaa4,  pakottaa1,@ frames: 1 (cause to lose courage; "dashed by the refusal") }
+{ [ vihastuttaa, noun.act:viha,+ noun.feeling:viha1,+ noun.state:viha1,+]  herättää,@ vihastua,> frames: 1 (make angry; "The news angered him") }
+{ nakella_niskojaan<unconfirmed/>,  vihastua,@ frames: 1 (anger or take offense; "She bridled at his suggestion to elope") }
+{ sytyttää2,  vihastuttaa,@ raivostua,> frames: 1 (cause to become violent or angry; "Riots combusted Pakistan after the U.S. air attacks on Afghanistan") }
+{ [ ärsyttää3, noun.state:ärsytys1,+]  vihastuttaa,@ frames: 1 (cause to be annoyed; "His behavior really miffed me") }
+{ [ suututtaa1, noun.feeling:suuttumus6,+]  [ ärsyttää4, noun.feeling:ärsyynnys,+]  harmittaa,  sapettaa,  häiritä1,  vaivata2,  vihastuttaa,@ frames: 1 (irritate or vex; "It galls me that we lost the suit") }
+{ [ raivostuttaa, noun.feeling:raivostuminen,+ noun.state:raivo2,+]  [ ärsyttää5, noun.act:ärsyttäminen1,+]  vihastuttaa1,  suututtaa2,  vihastuttaa,@ frames: 1 (make furious) }
+{ [ vihastua, noun.act:viha,+ noun.feeling:viha1,+ noun.state:viha1,+]  nähdä_punaista,  tuntea,@ frames: 1 (become angry; "He angers easily") }
+{ kiukuta,  raivota,  vihastua,@ frames: 1 (get very angry; "her indifference to his amorous advances really steamed the young man") }
+{ pitää_kovaa_ääntä,  vihastua,@ frames: 1 (get very angry; "He will raise the roof when he hears this") }
+{ raivostuttaa1,  vihastuttaa,@ frames: 1 (make mad; "His behavior is maddening") }
+{ saattaa_suunniltaan,  piinata2,@ frames: 1 (drive up the wall; go on someone's nerves) }
+{ tehdä_hulluksi1,   frames: 1 (cause to go crazy; cause to lose one's mind) }
+{ hermostuttaa2,  [ ärsyttää6, noun.cognition:ärsyke2,+ noun.cognition:ärsyttävä_asia,+ noun.act:ärsyttäminen,+ noun.act:ärsytys,+]  kiusata4,  häiritä2,  nälviä,  suututtaa3,  vaivata3,  vihastuttaa2,  ottaa_kupoliin,  vituttaa,  ahdistaa1,  nyppiä,  ottaa_päähän1,  pahastuttaa,@ ärsyttää7,$ frames: 1 (cause annoyance in; disturb, especially by minor irritations; "Mosquitoes buzzing in my ear really bothers me"; "It irritates me that she never closes the door after she leaves") }
+{ ärsyttää7,  ärsyyntyä,  tuntea,@ hermostuttaa2,$ frames: 1 (feel extreme irritation or anger; "He was chafing at her suggestion that he stay at home while she went on a vacation") }
+{ ärsyttää8,  pänniä,  hermostuttaa2,@ frames: 1 (cause to be annoyed, irritated, or resentful) }
+{ hermostuttaa3,  hermostuttaa2,@ frames: 1 (trouble or vex; "ruffle somebody's composure") }
+{ harmittaa1,  kiusata5,  ärsyttää9,  hermostuttaa2,@ harmitella,> frames: 1 (cause annoyance in) }
+{ harmittaa2,  [ loukata, adj.all:loukkaava1,+ adj.all:loukkaava5,+]  vihastuttaa,@ olla_katkera,> frames: 1 (cause to feel resentment or indignation; "Her tactless remark offended me") }
+{ ahdistella,  [ häiritä3, noun.act:häirintä1,+]  hätyytellä,  vainota,  [ kiusata6, noun.person:kiusaaja1,+]  vaivata4,  piinata,  hiillostaa,  patistaa,  ahdistaa2,  koetella,  olla_jatkuvasti_harmina,  rasittaa,  kiihottaa3,  [ provosoida, noun.act:provokaatio,+ adj.all:provosoiva,+ noun.person:provosoija,+]  yllyttää1,  ärsyttää10,  hätyyttää,  hermostuttaa2,@ frames: 1 (annoy continually or chronically; "He is known to harry his staff when he is overworked"; "This man harasses his female co-workers") }
+{ [ järkyttää4, noun.state:järkytys,+]  saattaa_epävireeseen,  huolestuttaa1,  [ hämmentää2, noun.feeling:hämmentyneisyys,+]  saada_pois_tolaltaan,  hermostuttaa4,  herättää,@ frames: 1 (cause to lose one's composure) }
+{ hermostuttaa5,  hämmentää3,@ olla_hermostunut,> frames: 1 (cause to be nervous or upset) }
+{ suututtaa4,  hermostuttaa5,@ frames: 1 (discompose; "This play is going to ruffle some people"; "She has a way of ruffling feathers among her colleagues") }
+{ [ hämmentää3, noun.feeling:hämminki,+ noun.feeling:hämmennys1,+]  hermostuttaa6,  tehdä_levottomaksi,  häiritä4,  saada_hämilleen,  saattaa_hämilleen,  nolata,@ verb.cognition:hämmentää3,$ frames: 1 (cause to feel embarrassment; "The constant attention of the young man confused her") }
+{ tyrmistyttää1,  pelottaa,@ frames: 1 (fill with anxiety, dread, dismay, or confusion; "After the terrorist attack, people look consternated") }
+{ häkellyttää1,  [ hämmentää4, noun.cognition:hämmennys1,+ noun.cognition:hämmennys<note>mielen</note>2,+]  saattaa_ymmälle,  järkyttää4,@ frames: 1 (cause to be confused emotionally) }
+{ häiritä5,  ahdistaa3,  hämmentää3,@ vaivata5,$ frames: 1 (make confused or perplexed or puzzled) }
+{ [ vaivata5, noun.cognition:vaiva1,+]  agitoida,@ häiritä5,$ frames: 1 (make nervous or agitated; "The mere thought of her bothered him and made his heart beat faster") }
+{ kääntää_huomio,  ohjata_huomio,  viedä_huomio,  hämmentää3,@ frames: 1 (draw someone's attention away from something; "The thief distracted the bystanders"; "He deflected his competitors") }
+{ olla_hermostunut,  olla_hämmentynyt,  verb.social:esiintyä1,@ frames: 1 (be flustered; behave in a confused manner) }
+{ [ nolata, noun.event:nolo_tilanne,+]  saattaa_hämilleen1,  [ hämmentää5, noun.feeling:hämminki1,+]  [ nolostuttaa, noun.event:nolo_tilanne,+]  saattaa_häpeilemään,  järkyttää4,@ frames: 1 (cause to be embarrassed; cause to feel self-conscious) }
+{ tuottaa_häpeää,  herättää,@ frames: 1 (cause to be ashamed) }
+{ paheksua,  tuottaa_häpeää,@ frames: 1 (look with disfavor on; "The republic soon discountenanced its few friends") }
+{ surettaa,  tuottaa_tuskaa,  satuttaa,  järkyttää4,@ kärsiä,> frames: 1 (cause emotional anguish or make miserable; "It pains me to see my children not being taught well in school") }
+{ särkeä_jkn_sydän,  särkeä_jonkun_sydän,  surettaa,@ frames: 1 (cause deep emotional pain and grief to somebody; "The young man broke the girl's heart when he told her was going to marry her best friend") }
+{ [ loukata1, noun.act:loukkaus2,+ adj.all:loukkaava1,+ adj.all:loukkaava5,+]  satuttaa1,  haavoittaa,  kolhaista,  ärsyttää11,  herättää,@ frames: 1 (hurt the feelings of; "She hurt me when she did not include me among her guests"; "This remark really bruised my ego") }
+{ [ repiä_rikki, noun.act:repiminen1,+]  satuttaa2,  loukata1,@ frames: 1 (deeply hurt the feelings of; distress; "his lacerating remarks") }
+{ satuttaa3,  loukata1,@ frames: 1 (cause an emotional pain, as if by stinging; "His remark stung her") }
+{ [ hössöttää, noun.state:hössötys,+]  vaivata<note>henkisesti</note>6,  olla_huolissaan1,  hermoilla1,  murehtia,@ frames: 1 (worry unnecessarily or excessively; "don't fuss too much over the grandchildren--they are quite big now") }
+{ epäröidä,  hössöttää,@ frames: 1 (raise scruples; "He lied and did not even scruple about it") }
+{ [ kärsiä_kauheita_tuskia, noun.state:kärsimys1,+ noun.feeling:kärsimys2,+]  olla_kuolemantuskassa,  kärsiä,@ frames: 1 (suffer agony or anguish) }
+{ kiduttaa,  surettaa,@ kärsiä_kauheita_tuskia,> frames: 1 (cause to agonize) }
+{ [ kärsiä, noun.state:kärsimys2,+ noun.person:kärsijä,+ noun.feeling:kärsimys3,+]  tuntea,@ verb.cognition:sulattaa,$ frames: 1 (experience (emotional) pain; "Every time her husband gets drunk, she suffers") }
+{ kokea_tuskaa,  olla_hädissään,  kärsiä,@ frames: 1 (suffer great pains or distress) }
+{ menettää,  kärsiä,@ frames: 1 (suffer the loss of a person through death or removal; "She lost her husband in the war"; "The couple that wanted to adopt the child lost her when the biological parents claimed her") }
+{ kihistä_kiukusta,  puhista,  puhista_raivosta,  tuntea,@ frames: 1 (be mad, angry, or furious) }
+{ raivostua,  [ räjähtää, noun.communication:räjähdys,+]  hermostua,  hiiltyä,  saada_sätky,  saada_raivokohtaus,  joutua_suunniltaan,  saada_raivari,  menettää_malttinsa,  polttaa_päreensä,  polttaa_proppunsa,  seota2,  pimahtaa1,  raivota1,@ frames: 1 (get very angry and fly into a rage; "The professor combusted when the student didn't know the answer to a very elementary question"; "Spam makes me go ballistic") }
+{ [ raivostuttaa2, noun.feeling:raivo2,+]  vihastuttaa,@ raivota1,> frames: 1 (put into a rage; make violently angry) }
+{ [ raivota1, noun.state:raivo1,+ noun.feeling:raivo1,+]   frames: 1 (feel intense anger; "Rage against the dying of the light!") }
+{ raivota2,  raivota1,@ frames: 1 (be in a state of uncontrolled anger) }
+{ [ sävähtää, noun.act:sävähdytys,+ noun.feeling:sävähdys,+ noun.feeling:sävärit,+]  kutittaa,  värähtää,  hämmentää,@ frames: 1 (feel sudden intense sensation or emotion; "he was thrilled by the speed and the roar of the engine") }
+{ murehtia1,  [ surra, noun.feeling:suru2,+]  katua,  tuntea,@ frames: 1 (feel remorse for; feel sorry for; be contrite about) }
+{ [ katua1, adj.all:katuva,+]  [ sovittaa1, noun.act:sovitus,+]  tehdä_parannus,   frames: 1 (turn away from sin or do penitence) }
+{ kaivata1,  kaivata2,@ frames: 1 (feel sad about the loss or absence of) }
+{ [ surra1, noun.person:surija,+ noun.state:suru2,+ noun.state:suruaika,+]  surra2,@ frames: 1 (feel sadness; "She is mourning her dead child") }
+{ kantaa_surupukua,  verb.social:noudattaa3,@ frames: 1 (observe the customs of mourning after the death of a loved one) }
+{ [ surra2, noun.feeling:suru1,+ noun.cognition:suru,+ noun.state:suru1,+]  murehtia2,  kärsiä,@ frames: 1 (feel grief) }
+{ murehduttaa,  surettaa1,  tehdä_murheelliseksi,  loukkaantua,  pahastua,  tuottaa_tuskaa1,@ surra2,> frames: 1 (cause to feel sorrow; "his behavior grieves his mother") }
+{ tuottaa_tuskaa1,  järkyttää4,@ frames: 1 (cause great unhappiness for; distress; "she was afflicted by the death of her parents") }
+{ ahdistaa4,  tuottaa_tuskaa1,@ frames: 1 (oppress or trouble greatly) }
+{ ahdistaa5,  liikuttaa1,@ frames: 1 (cause mental pain to; "The news of her child's illness distressed the mother") }
+{ ahdistella1,  piirittää,  ahdistaa5,@ frames: 1 (cause to feel distressed or worried; "She was besieged by so many problems that she got discouraged") }
+{ koetella1,  tuottaa_tuskaa1,@ frames: 1 (test the limits of; "You are trying my patience!") }
+{ raastaa,  koetella1,@ frames: 1 (stretch to the limits; "rack one's brains") }
+{ [ koetella2, noun.event:koettelemus3,+]  surettaa,@ frames: 1 (give pain or trouble to; "I've been sorely tried by these students") }
+{ aiheuttaa_pettymys,  [ pettää_jnk_toiveet, noun.feeling:pettymys,+]  tuottaa_pettymys,  [ pettää, noun.feeling:pettymys,+]  verb.social:estää10,@ frames: 1 (fail to meet the hopes or expectations of; "Her boyfriend let her down when he did not propose marriage") }
+{ pettää1,  aiheuttaa_pettymys,@ frames: 1 (disappoint, prove undependable to; abandon, forsake; "His sense of smell failed him this time"; "His strength finally failed him"; "His children failed him in the crisis") }
+{ jäädä_riittämättömäksi,  aiheuttaa_pettymys,@ frames: 1 (fail to meet (expectations or standards)) }
+{ lamaannuttaa,  rajoittaa,  piinata2,@ frames: 1 (make ineffective or powerless; "The teachers were hamstrung by the overly rigid schedules") }
+{ nolata1,  loukata2,  tuottaa_mielipahaa,  nöyryyttää,  alentaa,  loukata1,@ frames: 1 (cause to feel shame; hurt the pride of; "He humiliated his colleague by criticising him in front of the boss") }
+{ murskata,  musertaa1,  tehdä_loppu,  nolata1,@ frames: 1 (humiliate or depress completely; "She was crushed by his refusal of her invitation"; "The death of her son smashed her") }
+{ nöyryyttää1,  alentaa1,  häpäistä,  halventaa,  morkata,  väheksyä1,  nolata1,@ frames: 1 (reduce in worth or character, usually verbally; "She tends to put down younger women colleagues"; "His critics took him down after the lecture") }
+{ vetäytyä_syrjään,  nöyryyttää2,@ frames: 1 (make inconspicuous; "efface oneself") }
+{ alentaa2,  nöyryyttää1,@ frames: 1 (lower in grade or rank or force somebody into an undignified situation; "She reduced her niece to a servant") }
+{ [ nolata2, noun.communication:nolaaminen1,+]  verb.cognition:osoittaa,@ noun.group:laki,;c frames: 1 (prove to be of unsound mind or demonstrate someone's incompetence; "nobody is legally allowed to stultify himself") }
+{ [ riistää_inhimillisyys, inhimillistää,!]  [ ottaa_pois_ihmisarvo, inhimillistää,!]  nöyryyttää1,@ frames: 1 (deprive of human qualities; "Life in poverty has dehumanized them") }
+{ [ inhimillistää, riistää_inhimillisyys,! ottaa_pois_ihmisarvo,!]  [ humaanistaa, noun.act:humanisaatio,+]  verb.change:muuttaa3,@ frames: 1 (make more humane; "The mayor tried to humanize life in the big city") }
+{ nöyryyttää2,  verb.change:muuttaa3,@ frames: 1 (cause to be unpretentious; "This experience will humble him") }
+{ nöyryyttää3,  alistaa,  loukata3,  verb.social:hillitä1,@ verb.consumption:kieltäytyä,* frames: 1 (hold within limits and control; "subdue one's appetites"; "mortify the flesh") }
+{ harjoittaa_kieltäymystä,  nöyryyttää3,@ verb.social:kasvattaa3,@ frames: 1 (practice self-denial of one's body and appetites) }
+{ [ surra3, noun.act:surunvalittelu,+]  [ vaikeroida, noun.person:vaikertaja,+ noun.communication:vaikerointi,+]  laulaa_itkuvirttä,  ilmaista_tunteita,@ surra2,* frames: 1 (express grief verbally; "we lamented the death of the child") }
+{ ilmaista_tunteita,   frames: 1 (give verbal or other expression to one's feelings) }
+{ [ kiduttaa1, noun.person:kiduttaja,+ noun.person:kiduttaja1,+ noun.feeling:kidutus1,+ noun.feeling:kidutus,+]  [ piinata1, noun.feeling:piina1,+ noun.feeling:piina2,+]  surettaa,@ frames: 1 (torment emotionally or mentally) }
+{ [ piinata2, noun.act:piina,+ noun.feeling:piina3,+]  rääkätä,  kohdella_pirullisesti,  kohdella_julmasti,  kiusata7,  ahdistaa6,  ahdistella,@ frames: 1 (treat cruelly; "The children tormented the stuttering teacher") }
+{ [ kiusata8, noun.person:kiusaaja4,+ noun.person:kiusantekijä,+ noun.act:kiusanteko1,+]  härnätä,  roikkua_kimpussa,  häiritä6,  piinata2,@ frames: 1 (annoy persistently; "The children teased the boy because of his stammer") }
+{ herättää_uteliaisuus,  houkutella,  viekoitella,  vietellä,  manipuloida,@ herättää2,* aiheuttaa_pettymys,* frames: 1 (to arouse hope, desire, or curiosity without satisfying them; "The advertisement is intended to tease the customers"; "She has a way of teasing men with her flirtatious behavior") }
+{ [ manipuloida, adj.all:juonikas^manipulatiivinen,+ noun.act:manipulointi,+ noun.act:manipulaatio,+ adj.all:juonikas^manipuloiva,+]  pitää_kurissa,  [ hallita, noun.act:hallinta1,+]  verb.social:vuorovaikuttaa,@ frames: 1 (control (others or oneself) or influence skillfully, usually to one's advantage; "She manipulates her boss"; "She is a very controlling mother and doesn't let her children grow up"; "The teacher knew how to keep the class in line"; "she keeps in line") }
+{ pidellä,  pitää_käsissä,  manipuloida,@ frames: 1 (show and train; "The prize-winning poodle was handled by Mrs. Priscilla Prescott") }
+{ mielistellä,  manipuloida,@ frames: 1 (gain favor with somebody by deliberate efforts) }
+{ mielistellä1,  mairitella,  imarrella,  liehakoida,  makeilla,  nuoleskella,  mielistellä,@ frames: 1 (ingratiate oneself to; often with insincere behavior; "She is playing up to the chairman") }
+{ [ odottaa1, adj.all:toiveikas4^odottava1,+]  verb.cognition:odottaa2,@ frames: 1 (be excited or anxious about) }
+{ lämmetä_jollekin,  verb.cognition:ottaa_tarkasteltavaksi,@ frames: 1 (become excited about; "He warmed to the idea of a trip to Antarctica") }
+{ murjottaa,  jurottaa,  verb.stative:olla1,@ frames: 1 (be apathetic, gloomy, or dazed) }
+{ kitistä<unconfirmed/>,  kiukutella<unconfirmed/>,  marista<unconfirmed/>,  valittaa<unconfirmed/>,  voivotella<unconfirmed/>,  hautoa1,  [ murehtia3, noun.state:murhe1,+]  olla_hermostunut1,  verb.stative:murjottaa,@ frames: 1 (be in a huff; be silent or sullen) }
+{ kaivata2,  ikävöidä,  haluta4,@ murehtia1,* frames: 1 (feel or suffer from the lack of; "He misses his mother") }
+{ kaivata3,  haluta_kiihkeästi,  [ kaivata_kiihkeästi, noun.feeling:kaipaus1,+]  haluta1,  himota,  hinkua,  [ ikävöidä1, noun.feeling:ikävöinti,+]  kaihota,  riutua_ikävästä,  kaivata4,@ frames: 1 (have a desire for something or someone who is not present; "She ached for a cigarette"; "I am pining for my lover") }
+{ tajuta,  ymmärtää,  verb.communication:kiittää5,@ frames: 1 (recognize with gratitude; be grateful for) }
+{ valmistautua,  varautua,  verb.change:valmistaa,@ frames: 1 (prepare (oneself) for something unpleasant or difficult) }
+{ terästäytyä,  valmistautua,@ frames: 1 (get ready for something difficult or unpleasant) }
+{ rohkaistua,  rohkaista_mielensä,  rohkaista1,@ frames: 1 (gain courage) }
+{ valloittaa,  tenhota,  huumata,  kiehtoa,  ihastuttaa,  vetää_puoleensa,  [ vangita, noun.person:vanki,+]  [ viekoitella1, noun.attribute:viekoittelevuus,+]  [ lumota1, noun.feeling:lumous,+]  hurmata,  houkuttaa,  vetää_puoleensa1,@ frames: 1 (attract; cause to be enamored; "She captured all the men's hearts") }
+{ houkutella1,  kutsua,  vetää_puoleensa1,@ frames: 1 (appear inviting; "The shop window decorations beckoned") }
+{ tehdä_rakkaaksi,  miellyttää1,@ frames: 1 (make attractive or lovable; "This behavior endeared her to me") }
+{ vastustaa,  hermostuttaa2,@ frames: 1 (provoke the hostility of; "Don't antagonize your boss") }
+{ houkutella2,  rohkaista,  houkuttaa1,  hämmentää,@ frames: 1 (give rise to a desire by being attractive or inviting; "the window displays tempted the shoppers") }
+{ [ vietellä1, adj.all:herkkä10^vieteltävissä_oleva,+ adj.all:herkkä10^vieteltävissä<idiomatic_pos/>,+]  herättää2,@ frames: 1 (try to seduce) }
+{ [ vetää_puoleensa1, inhottaa1,! noun.cognition:vetovoima,+ noun.attribute:vetovoima2,+ noun.communication:vetonaula,+]  [ viehättää, inhottaa1,! adj.all:viehättävä,+ noun.attribute:viehätys1,+ noun.attribute:viehätys,+]  miellyttää,  vedota,  [ olla_viehättävä, inhottaa1,!]   frames: 1 (be attractive to; "The idea of a vacation appeals to me"; "The beautiful garden attracted many people") }
+{ tuoda,  verb.contact:houkutella,@ verb.communication:saada,$ frames: 1 (attract the attention of; "The noise and the screaming brought the curious") }
+{ [ inhottaa, noun.feeling:inho2,+]  ällöttää1,  iljettää,  tympäistä,  kuvottaa1,  inhottaa1,@ frames: 1 (cause aversion in; offend the moral sense of; "The pornographic pictures sickened us") }
+{ ällöttää2,  etoa,  inhottaa1,@ frames: 1 (cause to feel intense dislike or distaste) }
+{ [ inhottaa1, vetää_puoleensa1,! viehättää,! olla_viehättävä,!]  etoa1,  pahastuttaa,@ frames: 1 (be repellent to; cause aversion in) }
+{ [ järkyttyä1, noun.event:järkytys,+]  mykistyä,  pöyristyä,  puulla_päähän_lyöty<idiomatic_pos/>,  hämmästyä,  verb.cognition:hämmästyttää2,@ frames: 1 (surprise greatly; knock someone's socks off; "I was floored when I heard that I was promoted") }
+{ vallata,  saada_valtaansa,  pyyhkäistä_yli,  yllättää,  herättää,@ frames: 1 (overcome, as with emotions or perceptual stimuli) }
+{ ihailla_kuollakseen,  vallata,@ frames: 1 (overwhelm with hilarity, pleasure, or admiration; "The comedian was so funny, he was killing me!") }
+{ vaientaa1,  verb.change:hyssytellä1,@ frames: 1 (silence or overwhelm by shouting) }
+{ joutua_pimeän_yllättämäksi<approximate/>,  vallata,@ frames: 1 (overtake with darkness or night) }
+{ tehdä_valtava_vaikutus,  tyrmätä,  vallata,@ frames: 1 (overwhelm with admiration; "All the guys were knocked out by her charm") }
+{ järkyttyä2,  mennä_pois_tolaltaan,  vallata,@ frames: 1 (astound or overwhelm, as with shock; "She was staggered with bills after she tried to rebuild her house following the earthquake") }
+{ jumiutua,  vallata,@ frames: 1 (hold fast (in a certain state); "He was locked in a laughing fit") }
+{ pöyristyttää2,  loukata4,  herättää_paheksuntaa,  sokeerata,  tyrmistyttää2,  kauhistuttaa3,  shokeerata,  inhottaa,@ frames: 1 (strike with disgust or revulsion; "The scandalous behavior of this married woman shocked her friends") }
+{ [ luopua_toivosta, toivoa,!]  [ menettää_toivonsa, toivoa,!]   frames: 1 (abandon hope; give up hope; lose heart; "Don't despair--help is on the way!") }
+{ lannistua,  luopua_toivosta,@ frames: 1 (lose confidence or hope; become dejected; "The supporters of the Presidential candidate desponded when they learned the early results of the election") }
+{ [ toivoa, luopua_toivosta,! noun.feeling:toivo1,+ noun.person:toivoja<approximate/>,+ noun.feeling:toivo,+ noun.cognition:toivo,+ noun.attribute:toivo,+ noun.person:toivo,+ menettää_toivonsa,!]  haluta4,@ frames: 1 (be optimistic; be full of hope; have hopes; "I am still hoping that all will turn out well") }
+{ [ täyttää_ilolla, masentaa,!]  piristää,  kohentaa_oloa,  [ päihdyttää, noun.feeling:päihtymys,+]  hämmentää,@ iloita,> frames: 1 (fill with high spirits; fill with optimism; "Music can uplift your spirits") }
+{ tehdä_jku_ylen_onnelliseksi,  täyttää_ilolla,@ frames: 1 (make blessedly happy) }
+{ ylpistää,  täyttää_ilolla,@ frames: 1 (make proud or conceited; "The sudden fame puffed her ego") }
+{ riemastuttaa,  tehdä_ikionnelliseksi,  päihdyttää1,  ihastuttaa1,  innostaa3,  tehdä_onnelliseksi,  sykähdyttää,  täyttää_ilolla,@ frames: 1 (fill with sublime emotion; "The children were thrilled at the prospect of going to the movies"; "He was inebriated by his phenomenal success") }
+{ innostaa4,  elävöittää,  [ virkistää, noun.act:virkistäminen,+]  piristää1,  ylentää,  innoittaa1,  hämmentää,@ frames: 1 (heighten or intensify; "These paintings exalt the imagination") }
+{ [ ilahtua, tulla_surulliseksi,!]  iloita,@ frames: 1 (become glad or happy) }
+{ [ tehdä_surulliseksi, ilahduttaa,!]  vaikuttaa,@ tulla_surulliseksi,> frames: 1 (make unhappy; "The news of her death saddened me") }
+{ riemastuttaa1,  ilahduttaa,@ frames: 1 (cause to feel extremely joyful or happy; "the economic growth overjoyed the German industry") }
+{ [ tulla_surulliseksi, ilahtua,!]  tuntea,@ frames: 1 (come to feel sad) }
+{ [ ilahduttaa, tehdä_surulliseksi,!]  ilahtua,> frames: 1 (make glad or happy) }
+{ [ riemuita, adj.all:iloinen5^riemuitseva,+ noun.feeling:riemuitseminen,+]  leijua_ilmassa,  olla_yhdeksännessä_taivaassa,  hyppiä_ilosta,  iloita,@ frames: 1 (feel extreme happiness or elation) }
+{ [ iloita, noun.feeling:ilo5,+]  tuntea,@ frames: 1 (feel happiness or joy) }
+{ [ piristää2, painaa,! rasittaa1,! olla_painolastina,!]  verb.communication:huutaa_eläköötä,@ verb.communication:rohkaistua,> frames: 1 (make more cheerful; "the conversation lightened me up a bit") }
+{ [ painaa, piristää2,!]  [ rasittaa1, piristää2,!]  [ olla_painolastina, piristää2,!]  tehdä_surulliseksi,@ frames: 1 (be oppressive or disheartening to) }
+{ [ masentaa, täyttää_ilolla,!]  lannistaa1,  tehdä_alakuloiseksi,  apeuttaa,  musertaa2,  lamauttaa,  ahdistaa7,  lannistaa3,@ frames: 1 (lower someone's spirits; make downhearted; "These news depressed her"; "The bad state of her child's health demoralizes her") }
+{ antaa_tukea,  rauhoittaa2,  [ lohduttaa, noun.feeling:lohdutus,+ adj.all:vakuuttava1^lohduttava,+ noun.act:lohtu,+ adj.all:lohdutettavissa_oleva,+ adj.all:lohdutettavissa<idiomatic_pos/>,+ adj.all:vakuuttava1^lohdullinen,+]  lievittää1,   frames: 1 (give moral or emotional strength to) }
+{ lievittää2,  huojentaa,  helpottaa,  [ keventää, noun.state:kevennys,+]  lieventää,  vaientaa2,  antaa_tukea,@ frames: 1 (lessen the intensity of or calm; "The news eased my conscience"; "still the fears") }
+{ laukaista,  päästää_laukeamaan,  lievittää2,@ noun.act:psykoanalyysi,;c frames: 1 (discharge bad feelings or tension through verbalization) }
+{ [ miellyttää1, pahastuttaa,! noun.cognition:mielihyvä,+ adj.all:miellyttävä13,+ noun.act:miellyttäminen,+ noun.feeling:mielihyvä,+]  ilahduttaa1,  riemastuttaa2,  tyydyttää1,@ pitää2,> pitää3,> olla_mieliksi,$ frames: 1 (give pleasure to or be pleasing to; "These colors please the senses"; "a pleasing sensation") }
+{ olla_mieliksi,  tyydyttää1,@ miellyttää1,$ frames: 1 (give satisfaction; "The waiters around her aim to please") }
+{ kutkuttaa,  kiihottaa4,  hämmentää,@ miellyttää1,* frames: 1 (excite pleasurably or erotically; "A titillating story appeared in the usually conservative magazine") }
+{ [ tyydyttää1, olla_tyydyttämättä,! tehdä_tyytymättömäksi,! noun.object:tyydyttäjä,+ noun.act:tyydytys,+ noun.act:tyytyväisyys,+]  [ tehdä_tyytyväiseksi, olla_tyydyttämättä,! tehdä_tyytymättömäksi,!]  [ ilahduttaa2, olla_tyydyttämättä,! tehdä_tyytymättömäksi,!]   frames: 1 (make happy or satisfied) }
+{ [ olla_tyydyttämättä, tyydyttää1,! tehdä_tyytyväiseksi,! ilahduttaa2,!]  [ tehdä_tyytymättömäksi, tyydyttää1,! tehdä_tyytyväiseksi,! ilahduttaa2,!]  pahastuttaa,@ aiheuttaa_pettymys,* frames: 1 (fail to satisfy) }
+{ [ tyydyttää2, tehdä_tyytymättömäksi1,! noun.state:tyytyväisyys,+]  tyydyttää1,@ frames: 1 (make content; "I am contented") }
+{ [ tehdä_tyytymättömäksi1, tyydyttää2,!]  olla_tyydyttämättä,@ frames: 1 (make dissatisfied) }
+{ [ pahastuttaa, miellyttää1,!]  olla_pitämättä,> frames: 1 (give displeasure to) }
+{ [ lumota2, päästää_harhakuvitelmasta,!]  kiehtoa1,  hurmata1,  ihastuttaa2,  tenhota1,  [ loitsia, päästää_harhakuvitelmasta,!]  miellyttää1,@ frames: 1 (hold spellbound) }
+{ taivutella,  yrittää_vaikuttaa,  valloittaa,@ verb.perception:vaikuttaa,$ frames: 1 (gratify and charm, usually in order to influence; "the political candidate worked the crowds") }
+{ [ päästää_harhakuvitelmasta, lumota2,! loitsia,!]  avata_jkn_silmät,  aiheuttaa_pettymys,@ frames: 1 (free from enchantment) }
+{ rohkaista1,  [ innostaa5, lannistaa4,!]  kiihottaa5,  kannustaa1,  innostaa6,@ frames: 1 (give encouragement to) }
+{ kohentua,   frames: 1 (become heartened or elated; "Her spirits rose when she heard the good news") }
+{ [ innostaa6, lannistaa3,!]  [ rohkaista2, lannistaa3,!]  innostaa4,@ toivoa,> frames: 1 (inspire with confidence; give hope or courage to) }
+{ vetää_kuorestaan,  innostaa6,@ frames: 1 (make more sociable; "The therapist drew out the shy girl") }
+{ rohkaista<approximate/>3,  innostaa6,@ frames: 1 (encourage to be less reserved; "The teacher tried to bring out the shy boy") }
+{ [ kannustaa2, noun.communication:kannustin,+]  [ yllyttää2, noun.communication:yllyke,+]  innostaa6,@ frames: 1 (give heart or courage to) }
+{ lannistaa2,  masentaa,@ frames: 1 (depress or discourage; "The news of the city's surrender chilled the soldiers") }
+{ [ lannistaa3, innostaa6,! rohkaista2,!]   frames: 1 (deprive of courage or hope; take away hope from; cause to feel discouraged) }
+{ [ lannistaa4, innostaa5,!]  masentaa1,  lannistaa3,@ frames: 1 (take away the enthusiasm of) }
+{ [ pakottaa1, noun.act:pakottaminen2,+]  pidätellä,  lannistaa3,@ verb.communication:varoittaa1,* frames: 1 (to compel or deter by or as if by threats) }
+{ heittää_kylmää_vettä_niskaan,  kaataa_kylmää_vettä_niskaan,  tyrmätä1,  lannistaa3,@ frames: 1 (be discouraging or negative about) }
+{ olla_tolaltaan,  olla_kiihtynyt,  nostaa_meteli,  hössöttää,@ frames: 1 (make a fuss; be agitated) }
+{ hermostuttaa7,  agitoida,@ frames: 1 (make upset or troubled) }
+{ epäröidä1,  harmitella,@ frames: 1 (act nervously; be undecided; be uncertain) }
+{ [ nauttia_jstk, noun.feeling:nautinto1,+ noun.person:nautiskelija,+ noun.act:nautinto1,+]  paistatella,  [ nautiskella, noun.feeling:nautinto1,+ noun.person:nautiskelija,+ noun.act:nautinto1,+]  [ nauttia, noun.feeling:nautinto1,+ noun.person:nautiskelija,+ noun.act:nautinto1,+]  pitää3,* frames: 1 (derive or receive pleasure from; get enjoyment from; take pleasure in; "She relished her fame and basked in her glory") }
+{ katsella_nautinnokseen,  nauttia_jstk,@ frames: 1 (look at with great enjoyment; "She feasted her eyes on the Tuscan landscape") }
+{ ahmia,  nauttia_jstk,@ frames: 1 (enjoy avidly; "She devoured his novels") }
+{ katkeroittaa1,  [ ärsyttää12, noun.act:ärsyttäminen1,+ noun.person:ärsyttävä_henkilö,+]  raivostuttaa3,  vimmastuttaa,  suututtaa5,  vihastuttaa,@ frames: 1 (exasperate or irritate) }
+{ lamauttaa1,  vallata1,  lumota3,  kiinnostaa,@ frames: 1 (to render motionless, as with a fixed stare or by arousing terror or awe; "The snake charmer fascinates the cobra") }
+{ [ kiinnostaa, ikävystyttää,! noun.cognition:kiinnostus,+ tylsistyttää,!]  herättää,@ frames: 1 (excite the curiosity of; engage the interest of) }
+{ hätkähdyttää1,  [ sähköistää, noun.act:sähköistäminen,+]  hätkäyttää,  säikäyttää1,  järkyttyä1,@ frames: 1 (to stimulate to action; "..startled him awake"; "galvanized into action") }
+{ [ ikävystyttää, kiinnostaa,!]  pitkästyttää,  [ tylsistyttää, kiinnostaa,!]   frames: 1 (cause to be bored) }
+{ tuntea_myötätuntoa_jkta_kohtaan,  surkutella,  sääliä,  ilmaista_osanottonsa,  tuntea_sympatiaa_jkta_kohtaan,  surra2,@ frames: 1 (share the suffering of) }
+{ tuntea_sääliä,  osoittaa_sympatiaa,  tuntea_myötätuntoa_jkta_kohtaan,@ frames: 1 (to feel or express sympathy or compassion) }
+{ valittaa_surua,  tuntea_sääliä,@ frames: 1 (express one's sympathetic grief, on the occasion of someone's death; "You must condole the widow") }
+{ [ sympatisoida, noun.relation:sympatia,+ noun.person:sympatisoija,+]  [ sympata, noun.person:symppari,+ noun.relation:sympatia,+]  tuntea,@ frames: 1 (share the feelings of; understand the sentiments of) }
+{ [ piitata, välittää1,^ verb.social:hoitaa10,^]  [ välittää3, välittää1,^ verb.social:hoitaa10,^]  tuntea_myötätuntoa_jkta_kohtaan,@ frames: 1 (feel concern or interest; "I really care about my work"; "I don't care") }
+{ välittää4,  piitata1,  välittää_vähääkään,  piitata_vähääkään,   frames: 1 (show no concern or interest; always used in the negative; "I don't give a hoot"; "She doesn't give a damn about her job") }
+{ riemuita1,  [ iloita1, noun.feeling:ilo5,+]  riemuita,@ frames: 1 (be ecstatic with joy) }
+{ [ vieraannuttaa, noun.state:vieraantuminen,+ noun.person:vieraannuttaja,+]  [ etäännyttää, noun.person:etäännyttäjä,+]  saada_vihamieliseksi,  tehdä_tyytymättömäksi2,  verb.change:muuttaa3,@ frames: 1 (arouse hostility or indifference in where there had formerly been love, affection, or friendliness; "She alienated her friends when she became fanatically religious") }
+{ etäännyttää1,  vieraannuttaa1,  vaikuttaa,@ frames: 1 (make withdrawn or isolated or emotionally dissociated; "the boring work alienated his employees") }
+{ ajautua_erilleen,  loitota,  vieraannuttaa,@ frames: 1 (lose personal contact over time; "The two women, who had been roommates in college, drifted apart after they got married") }
+{ vieraannuttaa2,  vieraannuttaa,@ frames: 1 (detach the affections of) }
+{ [ toivoa1, noun.communication:toivomus,+]  haluta4,@ frames: 1 (hope for; have a wish; "I wish I could go home now") }
+{ [ toivoa2, harmittaa3,! noun.communication:toivomus,+]  haluta4,@ frames: 1 (feel or express a desire or hope concerning the future or fortune of) }
+{ [ haluta2, noun.feeling:halu3,+]  tahtoa,  haluta4,@ frames: 1 (prefer or wish to do something; "Do you care to try this dish?"; "Would you like to come along to the movies?") }
+{ haluta3,  haluta2,@ frames: 1 (be the will of or have the will (to); "he could do many things if he pleased") }
+{ [ harmittaa3, toivoa2,!]  olla_katkera1,  olla_närkästynyt,  olla_pahoillaan,   frames: 1 (wish ill or allow unwillingly) }
+{ [ haluta4, noun.attribute:halu1,+ noun.state:halu,+ noun.feeling:halu,+]  tahtoa1,  [ himoita, noun.attribute:himo2,+ noun.feeling:himo,+]  mieliä,   frames: 1 (feel or have a desire for; want strongly; "I want to go home now"; "I want my own room") }
+{ [ hinkua1, noun.feeling:hinku1,+]  palaa_halusta_tehdä,  haluta4,@ frames: 1 (have a strong desire or urge to do something; "She is itching to start the project"; "He is spoiling for a fight") }
+{ haluta5,  haluta4,@ frames: 1 (want to have; "I'd like a beer now!") }
+{ himoita1,  haluta4,@ frames: 1 (have as one's ambition) }
+{ haluta6,  tehdä_mieli1,  haluta4,@ frames: 1 (have an inclination for something or some activity; "I feel like staying in bed all day"; "I feel like a cold beer now") }
+{ [ haluta7, noun.attribute:halu1,+ noun.state:halu,+]  verb.communication:pyytää1,@ frames: 1 (express a desire for) }
+{ pitää_enemmän,  suosia,  pitää3,@ frames: 1 (like better; value more highly; "Some people prefer camping to staying in hotels"; "We prefer sleeping outside") }
+{ [ toivoa3, noun.feeling:toivo1,+ noun.person:toivoja<approximate/>,+ noun.feeling:toivo,+ noun.cognition:toivo,+ noun.attribute:toivo,+ noun.person:toivo,+]  luottaa,  [ haluta8, noun.state:halu,+ noun.attribute:halu1,+]  toivoa1,@ frames: 1 (expect and wish; "I trust you will behave better from now on"; "I hope she understands that she cannot expect a raise") }
+{ kadehtia,  haluta4,@ frames: 1 (be envious of; set one's heart on) }
+{ himoita2,  haluta9,  kadehtia,@ frames: 1 (wish, long, or crave for (something, especially the property of another person); "She covets her sister's house") }
+{ kuolata,  himoita2,@ frames: 1 (be envious, desirous, eager for, or extremely happy about something; "She was salivating over the raise she anticipated") }
+{ kadehtia1,  ihailla1,@ frames: 1 (feel envious towards; admire enviously) }
+{ palvoa3,  ihannoida1,  ihannoida,@ frames: 1 (envy without restraint) }
+{ [ ihailla1, ylenkatsoa_jtak,! noun.person:ihailija3,+ noun.feeling:ihailu,+ noun.person:ihailija,+ noun.person:ihailija1,+ halveksia1,! ylenkatsoa1,!]  tuntea_ihastusta_jtak_kohtaan,  kunnioittaa2,  verb.cognition:kunnioittaa1,@ frames: 1 (feel admiration for) }
+{ [ ylenkatsoa_jtak, ihailla1,!]  [ halveksia1, ihailla1,!]  [ ylenkatsoa1, ihailla1,!]  halveksia,@ frames: 1 (regard with contempt; "the new neighbor looks down on us because our house is very modest") }
+{ himoita3,  haluta4,@ frames: 1 (have a strong sexual desire for; "he is lusting after his secretary") }
+{ [ kaivata4, noun.feeling:kaipuu2,+ noun.person:kaipaaja<unconfirmed/>,+ noun.feeling:kaipaus2,+]  ikävöidä2,  haluta4,@ frames: 1 (desire strongly or persistently) }
+{ pitää4,  välittää5,  pitää3,@ frames: 1 (have a liking, fondness, or taste (for)) }
+{ tehdä_mielellään,  [ nauttia1, noun.feeling:nautinto1,+ noun.person:nautiskelija,+ noun.act:nautinto1,+]  pitää_kovasti1,  pitää_paljon1,  pitää5,  pitää3,@ frames: 1 (get pleasure from; "I love cooking") }
+{ olla_ylpeä1,  tuntea_ylpeyttä,  ylpeillä1,  ylvästellä,  tuntea,@ frames: 1 (feel proud of; "She took great pride in her sons") }
+{ luhistua2,  murtua2,  luhistua_henkisesti,  murtua,@ frames: 1 (lose one's emotional or mental composure; "She fell apart when her only child died") }
+{ tuntea_poltetta,  tuntea,@ frames: 1 (feel strong emotion, especially anger or passion; "She was burning with anger"; "He was burning to try out his new skies") }
+{ vieraantua,  tuntea,@ frames: 1 (feel indifferent towards; "She died to worldly things and eventually entered a monastery") }
+{ olla_iloinen,  tuntea,@ frames: 1 (be elated; "He was flying high during the summer months") }
+{ [ hehkua1, noun.state:hehku1,+ noun.feeling:hehku,+]  sädehtiä,  [ säteillä, noun.state:säteilevyys,+]  loistaa,  tuntea,@ frames: 1 (experience a feeling of well-being or happiness, as from good health or an intense emotion; "She was beaming with joy"; "Her face radiated with happiness") }
+{ [ hehkua2, noun.state:hehku1,+]  tuntea,@ frames: 1 (be exuberant or high-spirited; "Make the people's hearts glow") }
+{ haltioitua,  herättää3,@ frames: 1 (cause to feel enthusiasm) }
+{ innostaa<approximate/>7,  haltioitua,@ frames: 1 (cause to be enthusiastic; "Her playing brought down the house") }
+{ riisua_aseista,  verb.communication:käännyttää,@ frames: 1 (make less hostile; win over; "Her charm disarmed the prosecution lawyer completely") }
+{ tehdä_tyytymättömäksi3,  olla_tyydyttämättä,@ frames: 1 (put into a bad mood or into bad humour; "The employees were disgruntled by their bad working conditions") }
+{ [ sähköistää1, noun.act:sähköistys1,+ noun.feeling:sähköisyys,+]  agitoida,@ frames: 1 (excite suddenly and intensely; "The news electrified us") }
+{ säikyttää3,  säikäyttää2,  pelotella5,  pelottaa,@ frames: 1 (frighten or scare, and often provoke into a violent action; "The noise spooked the horse") }
+{ riivata1,  olla_pakkomielteinen,  murehtia,@ frames: 1 (be preoccupied with something; "She is obsessing over her weight") }
+{ kummastuttaa,  askarruttaa2,  verb.cognition:ajatella3,@ frames: 1 (be uncertain about; think about without fully understanding or being able to decide; "We puzzled over her sudden departure") }

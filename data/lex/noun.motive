@@ -1,0 +1,45 @@
+{ elämä,  noun.Tops:vaikutin,@ (a motive for living; "pottery was his life") }
+{ rationaalinen_motiivi,  noun.Tops:vaikutin,@ (a motive that can be defended by reasoning or logical argument) }
+{ syy,  [ peruste, verb.cognition:perustaa,+]  rationaalinen_motiivi,@ (a rational motive for a belief or action; "the reason that war was declared"; "the grounds for their declaration") }
+{ [ aihe, verb.creation:aiheuttaa8,+]  syy1,  tarve,  syy,@ (reason; "there was no occasion for complaint") }
+{ asianlaita,  tosiasiat,  syy,@ (grounds; "don't do it on my account"; "the paper was rejected on account of its length"; "he tried to blame the victim but his success on that score was doubtful") }
+{ syy2,  syy,@ (the cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores') }
+{ [ kannustin, hidaste,!]  [ houkutin, verb.communication:houkutella2,+]  motivaattori,  [ virike, hidaste,!]  [ kannuste, hidaste,!]  [ porkkana, hidaste,!]  [ yllyke, hidaste,!]  rationaalinen_motiivi,@ (a positive motivational influence) }
+{ moraalinen_kannustin,  kannustin1,  kannustin,@ (an efficient incentive; "they hoped it would act as a spiritual dynamic on all churches") }
+{ [ hidaste, kannustin,! virike,! kannuste,! porkkana,! yllyke,!]  [ este<broader/>, adj.all:ehkäisevä1^estävä1,+]  rationaalinen_motiivi,@ (a negative motivational influence) }
+{ irrationaalinen_motiivi,  noun.Tops:vaikutin,@ (a motivation that is inconsistent with reason or logic) }
+{ halu,  kiihoke,  noun.Tops:vaikutin,@ (an instinctive motive; "profound religious impulses") }
+{ [ abienssi<unconfirmed/>, adienssi<unconfirmed/>,! adj.pert:abienttinen<unconfirmed/>,+]  halu,@ noun.cognition:psykologia,;c ((psychology) an urge to withdraw or avoid a situation or an object) }
+{ [ adienssi<unconfirmed/>, abienssi<unconfirmed/>,! adj.pert:adientti<unconfirmed/>,+]  halu,@ noun.cognition:psykologia,;c ((psychology) an urge to accept or approach a situation or an object) }
+{ kuolemanvietti,  thanatos,  kuolemanhalu,  halu,@ noun.act:psykoanalyysi,;c ((psychoanalysis) an unconscious urge to die) }
+{ järjenvastainen_mielijohde,  irrationaalinen_motiivi,@ (a strong spontaneous and irrational motivation; "his first impulse was to denounce them"; "the urge to find out got him into trouble") }
+{ [ pakko, adj.all:neuroottinen^pakko-1,+ adj.all:neuroottinen^pakonomainen,+]  vastustamaton_tarve,  järjenvastainen_mielijohde,@ (an urge to do or say something that might be better left undone or unsaid; "he felt a compulsion to babble on about the accident") }
+{ mania,  intohimo,  vimma,  irrationaalinen_motiivi,@ (an irrational but irresistible motive for a belief or action) }
+{ agromania,  eristäytyminen,  yksinolo,  mania,@ (an intense desire to be alone or out in the open) }
+{ kausijuoppous,  alkoholismi,  juomahimo,  mania,@ (an intense persistent desire to drink alcoholic beverages to excess) }
+{ sairaalloinen_itsekeskeisyys,  mania,@ (an intense and irresistible love for yourself and concern for your own needs) }
+{ kleptomania,  mania,@ (an irresistible impulse to steal in the absence of any economic motive) }
+{ puheripuli,  mania,@ (pathologically excessive (and often incoherent) talking) }
+{ [ monomania, adj.all:neuroottinen^monomaaninen,+]  pakkomielle,  mania,@ (a mania restricted to one thing or idea) }
+{ nekrofilia,  mania,@ (an irresistible sexual attraction to dead bodies) }
+{ faneromania<unconfirmed/>,  mania,@ (an irresistible desire to pick at superficial body parts (as in obsessive nail-biting)) }
+{ pyromania,  mania,@ (an uncontrollable desire to set fire to things) }
+{ karvojennyppimishäiriö,  trikotillomania,  mania,@ (an irresistible urge to pull out your own hair) }
+{ vaellushalu,  halu,@ (very strong or irresistible impulse to travel) }
+{ [ pakkoneuroosi, adj.all:neuroottinen^pakko-1,+ noun.person:pakkoneurootikko,+ adj.all:neuroottinen^pakonomainen,+]  [ pakkomielle1, adj.all:neuroottinen^pakkomielteenomainen,+]  irrationaalinen_motiivi,@ (an irrational motive for performing trivial or repetitive actions, even against your will; "her compulsion to wash her hands repeatedly") }
+{ onomatomania,  pakkoneuroosi,@ (obsession with a particular word which the person uses repeatedly or which intrudes into consciousness) }
+{ eettinen_motiivi,  [ eettisyys, adj.all:eettinen,+ noun.person:eetikko,+ adj.all:oikein<idiomatic_pos/>1^eettinen1,+]  siveellisyys,  [ moraali, adj.all:moraalinen1^moralisoiva,+]  noun.Tops:vaikutin,@ (motivation based on ideas of right and wrong) }
+{ [ hedonismi, adj.all:avokätinen4^hedonistinen,+ noun.person:hedonisti,+ adj.all:avokätinen4^hedoninen,+]  eettinen_motiivi,@ (the pursuit of pleasure as a matter of ethical principle) }
+{ omatunto,  tunnonvaivat,  moraali1,  tietoisuus_oikeasta_ja_väärästä,  eettinen_motiivi,@ (motivation deriving logically from ethical or moral principles that govern a person's thoughts and actions) }
+{ pieni_ääni,  omantunnon_ääni,  omatunto,@ (an inner voice that judges your behavior) }
+{ häpeäntunne,  velvollisuudentunne,  omatunto,@ (a motivating awareness of ethical responsibility) }
+{ sisäinen_valo,  valo,  Light_Within,  Christ_Within,  eettinen_motiivi,@ (a divine presence believed by Quakers to enlighten and guide the soul) }
+{ psyykkinen_energia,  henkinen_energia,  noun.Tops:vaikutin,@ (an actuating force or factor) }
+{ yllyke1,  [ kiihotin, verb.communication:kiihottaa1,+ verb.contact:kiihottaa,+]  ärsyke,  psyykkinen_energia,@ (something that incites or provokes; a means of arousing or stirring to action) }
+{ merkki,  yllyke1,@ (any incitement to action; "he awaited the signal to start"; "the victory was a signal for wild celebration") }
+{ libidinaalinen_energia,  psyykkinen_energia,@ noun.act:psykoanalyysi,;c ((psychoanalysis) psychic energy produced by the libido) }
+{ [ katekti<unconfirmed/>, adj.pert:katektinen,+]  viettienergiavaraus,  libidinaalinen_energia,@ noun.act:psykoanalyysi,;c ((psychoanalysis) the libidinal energy invested in some idea or person or object; "Freud thought of cathexis as a psychic analog of an electrical charge") }
+{ akateksis,  libidinaalinen_energia,@ noun.act:psykoanalyysi,;c ((psychoanalysis) a lack of cathexis; a condition in which significant objects or memories arouse no emotion in an individual) }
+{ jakoperuste,  syy,@ ([empty]) }
+{ turvallisuussyy,  syy,@ ([empty]) }
+{ valintaperuste,  syy,@ ([empty]) }

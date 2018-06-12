@@ -1,0 +1,133 @@
+
+FinnWordNet - suomen wordnet
+============================
+
+
+FinnWordNet
+-----------
+
+FinnWordNet on suomen wordnet. Lisätietoja FinnWordNetistä saa
+ylähakemiston LUEMINUT-tiedostosta sekä FinnWordNet-projektin
+WWW-sivulta:
+
+    http://www.ling.helsinki.fi/kieliteknologia/tutkimus/finnwordnet/
+
+Tämän LUEMINUT-tiedoston loppuosa kuvaa tämän hakemiston sisältöä.
+
+
+rels: FinnWordNetin data relaatiomuodossa
+-----------------------------------------
+
+Hakemisto 'rels' sisältää FinnWordNetin datan viitenä relaationa
+(relaatiotietokantojen merkityksessä). Relaatioissa on kaikki
+FinnWordNetin sisältämä informaatio, joten niitä voi käyttää
+esimerkiksi lexicographer-tiedostojen tuottamiseen.
+
+Kaikki relaatiot ovat TSV-muodossa (tab separated values), jossa
+kentät on erotettu sarkainmerkeillä ja jossa kenttien arvojen
+ympärillä ei ole lainausmerkkejä.
+
+Kunkin relaation kentät on kuvattu seuraavassa.
+
+Yleinen kenttätyyppi:
+
+    Synonyymijoukon tunniste: wordnetin tunniste (fi = FinnWordNet,
+        en-3.0 = PWN 3.0) + ":" + sanaluokkakoodi (n = substantiivi, v
+        = verbi, a = adjektiivi, r = adverbi) + kahdeksannumeroinen
+        luku, joka on alunperin synonyymijoukon siirtymä Princeton
+        WordNetin (PWN) version 3.0 datatiedostossa. FinnWordNetin
+        synonyymijoukon tunnisteiden on tarkoitus olla pysyviä
+        versiosta 2.0 alkaen.
+
+fiwn-synsets.tsv - FinnWordNetin synonyymijoukot
+
+    1. Synonyymijoukon tunniste
+    2. Synonyymijoukon tyyppi (yleisesti ottaen sanaluokka: n =
+       substantiivi, v = verbi, a = (pää)adjektiivi, s =
+       satelliittiadjektiivi, r = adverbi)
+    3. Synonyymijoukon sisältävän lexicographer-tiedoston nimi
+    4. Varattu verbikehysten numeroille, jotka ovat yhteisiä
+       synonyymijoukon kaikille verbeille; tyhjä kaikilla muilla
+       sanaluokilla (tällä hetkellä tyhjä FinnWordNetissä kaikilla
+       sanaluokilla)
+    5. Selite ja mahdolliset esimerkit (englanninkielinen, suoraan
+       PWN:stä)
+
+    Pääavain: kenttä 1
+
+fiwn-wsenses.tsv - FinnWordNetin kunkin synonyymijoukon sisältämät
+sananmerkitykset
+
+    1. Synonyymijoukon tunniste
+    2. Sana (tai monisanainen ilmaus)
+    3. Paikanvarain sanan leksikaaliselle tunnisteelle FinnWordNetin
+       lexicographer-tiedostoissa (aina 0)
+    4. Varattu verbikehysten numeroille; tyhjä kaikilla muilla
+       sanaluokilla (tällä hetkellä tyhjä FinnWordNetissä kaikilla
+       sanaluokilla)
+    5. Mahdolliset sananmerkitykseen liittyvät huomautukset tai
+       kommentit; voi sisältää XML-muotoisia vakiotekstejä ja
+       vapaamuotoisia huomautuksia (ks. alla)
+
+    Pääavain: kentät 1 ja 2
+
+    Tällä hetkellä ainoa kentässä 5 käytetty huomautusmerkintä on
+    seuraava:
+
+        <head>SANA</head> = sana SANA on monisanaisen ilmauksen
+            pääsana (jos verbilausekkeen ensimmäinen sana tai muun
+            lausekkeen viimeinen sana ei ole pääsana)
+
+fiwn-semrels.tsv - FinnWordNetin semanttiset suhteet
+
+    1. Suhteen lähdesynonyymijoukon tunniste
+    2. Suhteen kohdesynonyymijoukon tunniste
+    3. Suhteen tyyppi (PWN:n käyttämä osoitinsymboli)
+    4. Suhteen nimi, joka vastaa suhteen tyyppiä (yksi seuraavista:
+       also see, attribute, cause, domain: region, domain: topic,
+       domain: usage, entailment, hypernym, instance hypernym, member
+       holonym, part holonym, similar to, substance holonym, verb
+       group)
+
+    Pääavain: kentät 1–3
+
+fiwn-lexrels.tsv - FinnWordNetin leksikaaliset suhteet (paitsi
+synonymia)
+
+    1. Suhteen lähdesynonyymijoukon tunniste
+    2. Suhteen lähdesana
+    3. Suhteen kohdesynonyymijoukon tunniste
+    4. Suhteen kohdesana
+    5. Suhteen tyyppi (PWN:n käyttämä osoitinsymboli)
+    6. Suhteen nimi, joka vastaa suhteen tyyppiä (yksi seuraavista:
+       also see, antonym, derivationally related, domain: topic,
+       domain: usage, participle, pertainym, verb group)
+
+    Pääavain: kentät 1–5
+
+fiwn-transls.tsv - FinnWordNetin ja PWN:n välinen käännösrelaatio
+
+    1. FinnWordNetin synonyymijoukon tunniste
+    2. FinnWordNetin sana (suomenkielinen)
+    3. PWN:n synonyymijoukon tunniste
+    4. PWN:n sana (englanninkielinen)
+    5. Käännössuhteen tyyppi (synonym, near_synonym, hyponym,
+       hypernym)
+    6. Mahdolliset käännökseen (käännössuhteeseen) liittyvät
+       huomautukset tai kommentit; voi sisältää XML-muotoisia
+       vakiotekstejä ja vapaamuotoisia huomautuksia (ks. alla)
+
+    Pääavain: kentät 1–4
+
+    Tällä hetkellä käytetyt huomautusmerkinnät kentässä 6 ovat
+    seuraavat:
+
+        <unconfirmed/> = suomenkielinen sana on englanninkielisen
+            sanan vahvistamaton käännös
+        <gen/> = englannin adjektiivi on käännetty suomeksi
+            substantiivin genetiivillä
+        <idiomatic_pos/> = muu idiomaattinen sanaluokkaero suomen- ja
+            englanninkielisen sanan välillä
+        <cardinal_number/> = perusluku
+        <ordinal_number/> = järjestysluku
+        <note>...</note> = vapaamuotoinen huomautus

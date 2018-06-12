@@ -1,0 +1,435 @@
+{ affekti,  [ tunnetila, adj.all:tunteellinen^tunne-,+ adj.all:tunteellinen^tunteita_herättävä,+ adj.all:tunteellinen^tunteita_kuohuttava,+]  noun.Tops:tunne,@ (the conscious subjective aspect of feeling or emotion) }
+{ emootio,  [ tunne, adj.pert:tunne-elämän<gen/>,+ adj.all:tunnepohjainen,+ adj.all:tunteeseen_perustuva,+ adj.pert:tunne-,+]  noun.Tops:tunne,@ (any strong feeling) }
+{ päähänpinttymä,  noun.Tops:tunne,@ (a persistent illogical feeling of desire or aversion; "he has a thing about seafood"; "she has a thing about him") }
+{ [ hehku, verb.emotion:hehkua1,+]  loiste,  noun.Tops:tunne,@ (a feeling of considerable warmth; "the glow of new love"; "a glow of regret") }
+{ pyörrytys,  noun.Tops:tunne,@ (a feeling of faintness and of being ready to swoon) }
+{ sielukkuus,  henkevyys,  noun.Tops:tunne,@ (deep feeling or emotion) }
+{ [ intohimo, adj.all:intohimoinen1,+]  [ kiihko, adj.all:kiihkeä7,+]  noun.Tops:tunne,@ (a strong feeling or emotion) }
+{ [ hullaantuminen, verb.emotion:hullaannuttaa,+]  intohimo,@ (a foolish and usually extravagant passion or love or admiration) }
+{ [ hulluus, adj.all:intohimoinen1^hulluna_oleva3,+ adj.all:intohimoinen1^hulluna<idiomatic_pos/>3,+]  hillittömyys,  intohimo,@ (a feeling of extreme emotional intensity; "the wildness of his anger") }
+{ kiihko1,  into,  palava_into,  suuri_hartaus,  palo,  kiihkeys,  innokkuus,  tunteen_palo,  innostus,  intohimo,@ (feelings of great warmth and intensity; "he spoke with great ardor") }
+{ intohimoisuus,  intohimo,@ (violent passion in speech or action; "frightened by the storminess of their argument") }
+{ kiihko2,  intohimo1,  kiihko1,@ (excessive fervor to do something or accomplish some end; "he had an absolute zeal for litigation") }
+{ [ tunne1, adj.all:hellä6^tunteellinen3,+ adj.all:hellä6^tunteileva2,+ adj.all:tunteellinen^tunteellinen1,+ adj.all:tunteellinen^tunteileva,+]  [ tunteellisuus, adj.all:hellä6^tunteellinen3,+ adj.all:hellä6^tunteileva2,+ adj.all:tunteellinen^tunteellinen1,+ adj.all:tunteellinen^tunteileva,+]  noun.Tops:tunne,@ (tender, romantic, or nostalgic feeling or emotion) }
+{ [ sentimentaalisuus, adj.all:hellä6^sentimentaalinen1,+]  [ tunteellisuus1, adj.all:hellä6^tunteellinen3,+ adj.all:hellä6^tunteileva2,+]  tunne1,@ (extravagant or affected feeling or emotion) }
+{ [ imelyys, adj.all:tunteellinen^imelä,+]  äitelyys,  sentimentaalisuus,@ (insincere pathos) }
+{ kaipuu,  razbliuto,  tunne1,@ noun.location:Neuvostoliitto,;r (the sentimental feeling you have about someone you once loved but no longer do) }
+{ kompleksi,  noun.Tops:tunne,@ noun.act:psykoanalyysi,;c ((psychoanalysis) a combination of emotions and impulses that have been rejected from awareness but still influence a person's behavior) }
+{ oidipuskompleksi,  kompleksi,@ (a complex of males; desire to possess the mother sexually and to exclude the father; said to be a source of personality disorders if unresolved) }
+{ elektrakompleksi,  kompleksi,@ (a complex of females; sexual attraction to the father) }
+{ alemmuuskompleksi,  kompleksi,@ (a sense of personal inferiority arising from conflict between the desire to be noticed and the fear of being humiliated) }
+{ [ ambivalenssi, adj.all:epävarma4^ambivalenttinen,+]  tunteiden_ristiriitaisuus,  noun.Tops:tunne,@ (mixed feelings or emotions) }
+{ ristiriitaisuus,  ambivalenssi,@ (opposition between two simultaneous but incompatible feelings; "he was immobilized by conflict and indecision") }
+{ [ apatia, adj.all:hengetön5^apaattinen1,+ adj.all:välinpitämätön23^apaattinen,+]  noun.Tops:tunne,@ (an absence of emotion or enthusiasm) }
+{ [ tunnottomuus, adj.all:kylmä4^tunteeton5,+]  piittaamattomuus,  välinpitämättömyys,  [ ilmeettömyys, adj.all:epätunteellinen^ilmeetön3,+]  apatia,@ (apathy demonstrated by an absence of emotional reactions) }
+{ raukeus,  uupumus,  [ voimattomuus, adj.all:laiska2^voimaton4,+]  välinpitämättömyys1,  apatia,@ (a feeling of lack of interest or energy) }
+{ [ halu, verb.emotion:haluta4,+]  [ himo, verb.emotion:himoita,+]  noun.Tops:tunne,@ (the feeling that accompanies an unsatisfied state) }
+{ kunnianhimo,  [ pyrkimys, verb.cognition:pyrkiä,+]  unelma,  halu,@ (a cherished desire; "his ambition is to own his own business") }
+{ amerikkalainen_unelma,  kunnianhimo,@ (the widespread aspiration of Americans to live better than their parents did) }
+{ kilpailuhenki,  kunnianhimo,@ (ambition to equal or excel) }
+{ kansallismielisyys,  kunnianhimo,@ (the aspiration for national independence felt by people under foreign domination) }
+{ tappamisen_halu,  verenhimo,  halu,@ (a desire for bloodshed) }
+{ kiusaus,  veto,  viekoitus,  viettymys,  halu,@ (the desire to have or do something that you know you should avoid; "he felt the temptation and his will power weakened") }
+{ kaipaus,  halu1,  hinku,  jano,  halu,@ (an intense desire for some particular thing) }
+{ [ halu2, adj.all:haluava^halukas1,+]  [ himo1, adj.all:haluava^himokas1,+]  taipumus,  viehtymys,  kaipaus,@ (a feeling of craving something; "an appetite for life"; "the object of life is to satisfy as many appetencies as possible"- Granville Hicks") }
+{ ruokahalu,  halu2,@ (an appetite for food; "exercise gave him a good stomach for dinner") }
+{ makeankipeys,  makeannälkä,  halu2,@ (a strong appetite for sweet food) }
+{ addiktio,  riippuvuus,  himo2,  kaipaus,@ (an abnormally strong craving) }
+{ [ halu3, verb.emotion:haluta2,+]  toive,  halu,@ (a specific feeling of desire; "he got his wish"; "he was above all wishing and desire") }
+{ toivomus,  halu3,@ (a mere wish, unaccompanied by effort to obtain) }
+{ mieliteko,  [ kaipaus1, verb.emotion:kaivata_kiihkeästi,+]  ikävä,  kaipuu1,  halu,@ (prolonged unfulfilled desire or need) }
+{ [ kaipuu2, verb.emotion:kaivata4,+]  halu4,  [ kaipaus2, verb.emotion:kaivata4,+]  mieliteko,@ (a yearning for something or to do something) }
+{ [ ikävöinti, verb.emotion:ikävöidä1,+]  mieliteko,@ (a feeling of deep longing) }
+{ [ toiveikkuus, adj.all:toiveikas3,+]  mieliteko,@ (an unrealistic yearning) }
+{ haikeus,  mieliteko,@ (a sadly pensive longing) }
+{ [ nostalgia, adj.all:haluava^nostalginen,+]  kaiho,  haikeus1,  mieliteko,@ (longing for something past) }
+{ [ lemmenkipeys, adj.all:huono9^lemmenkipeä,+]  ikävöinti,@ (a pining for a loved one) }
+{ [ koti-ikävä, adj.all:haluava^koti-ikävää_tunteva,+]  nostalgia,@ (a longing to return home) }
+{ [ seksi, adj.all:seksikäs,+ adj.all:seksikäs1,+]  sukupuolivietti,  noun.Tops:tunne,@ (all of the feelings resulting from the urge to gratify sexual impulses; "he wanted a better sex life"; "the film contained no sex or violence") }
+{ himo3,  [ eros, adj.all:seksikäs^eroottinen1,+]  [ himokkuus, adj.all:intohimoinen1^himokas2,+ adj.all:intohimoinen1^himokas<approximate/>3,+]  fyysinen_vetovoima,  halu,@ (a desire for sexual intimacy) }
+{ [ rakkaus, verb.contact:rakastaa,+ verb.contact:rakastella_jnk_kanssa,+]  [ rakkaus<broader/>1, verb.contact:rakastaa,+ verb.contact:rakastella_jnk_kanssa,+]  lempi,  himo3,@ (a deep feeling of sexual desire and attraction; "their love left them indifferent to their surroundings"; "she was his first love") }
+{ [ afrodisia, anafrodisia,! sukupuolivietin_puute,!]  himo3,@ (a desire for heterosexual intimacy) }
+{ [ anafrodisia, afrodisia,!]  [ sukupuolivietin_puute, afrodisia,!]  himo3,@ (decline or absence of sexual desire) }
+{ intohimo2,  himo3,@ (a feeling of strong sexual desire) }
+{ [ aistillisuus, adj.all:ruumiillinen3^aistillinen2,+ adj.all:kuuma4^aistillinen,+]  lihallisuus,  [ sensualismi, noun.person:sensualisti,+]  himo3,@ (desire for sensual pleasures) }
+{ [ rakastuneisuus, adj.all:hellä2^rakastunut1,+]  erotiikka,  erotismi,  [ seksikkyys, adj.all:seksikäs,+ adj.all:seksikäs1,+]  himo3,@ (the arousal of feelings of sexual desire) }
+{ fetissi,  himo3,@ (a form of sexual desire in which gratification depends to an abnormal degree on some object or item of clothing or part of the body; "common male fetishes are breasts, legs, hair, shoes, and underwear") }
+{ [ libido, adj.pert:libidinaalinen,+]  sukuvietti,  himo3,@ noun.act:psykoanalyysi,;c ((psychoanalysis) a Freudian term for sexual urge or desire) }
+{ [ irstaus, adj.all:seksikäs^irstas5,+]  [ himo4, adj.all:intohimoinen1^himokas2,+ adj.all:intohimoinen1^himokas<approximate/>3,+ verb.consumption:himoita,+]  [ himokkuus1, adj.all:seksikäs^himokas5,+ adj.all:intohimoinen1^himokas2,+ adj.all:intohimoinen1^himokas<approximate/>3,+ adj.all:seksikäs^himokas6,+]  halu5,  himo3,@ (a strong sexual desire) }
+{ [ nymfomania, adj.all:neuroottinen^nymfomaaninen,+]  himo3,@ (abnormally intense sexual desire in women) }
+{ satyriaasi,  himo3,@ (abnormally intense sexual desire in men) }
+{ himo5,  himot,  himo3,@ (intense sexual desire) }
+{ [ himokkuus2, adj.all:seksikäs^himokas6,+]  hekumallisuus,  [ riettaus, adj.all:seksikäs^rietas3,+]  [ lihallisuus1, adj.all:ruumiillinen3^lihallinen2,+]  rakastuneisuus,@ (feeling morbid sexual desire or a propensity to lewdness) }
+{ halu6,  tarve,  [ hinku1, verb.emotion:hinkua1,+]  vietti,  halu,@ (a strong restless desire; "why this urge to travel?") }
+{ mielihalu,  mielijohde,  päähänpisto,  halu,@ (a sudden desire; "he bought it on an impulse") }
+{ [ mielihyvä, tuska,! verb.emotion:miellyttää1,+ kärsimys,! piina,!]  nautinto,  noun.Tops:tunne,@ (a fundamental feeling that is hard to define but that people desire to experience; "he was tingling with pleasure") }
+{ ilo,  mielihyvä1,  mielihyvä,@ (a feeling of extreme pleasure or satisfaction; "his delight to see her was obvious to all") }
+{ hurmio,  ihastus,  ilo,@ (a feeling of delight at being filled with wonder and enchantment) }
+{ hilpeys,  huvittuneisuus,  ilo,@ (a feeling of delight at being entertained) }
+{ vahingonilo,  ilo,@ noun.location:Saksa,;r (delight in another person's misfortune) }
+{ [ nautinto1, verb.emotion:nauttia_jstk,+ verb.consumption:nauttia_jstk1,+ verb.emotion:nauttia1,+ verb.emotion:nautiskella,+ verb.emotion:nauttia,+]  mielihyvä,@ (the pleasure felt when having a good time) }
+{ elämänilo,  nautinto1,@ (a keen enjoyment of living) }
+{ antaumus,  into1,  [ innostus1, adj.all:eloisa14^innostunut6,+]  [ innostuneisuus, adj.all:eloisa14^innokas11,+]  nautinto1,@ innostus3,@ (vigorous and enthusiastic enjoyment) }
+{ [ miellyttävyys, epämiellyttävyys,! harmillisuus,! kipu,! adj.all:miellyttävä9^miellyttävä11,+]  mielihyvä,@ (the feeling caused by agreeable stimuli; one pole of a continuum of states of feeling) }
+{ jälkihehkutus,  jälkiloiste,  miellyttävyys,@ (the pleasure of remembering some pleasant event; "he basked in the afterglow of his victory") }
+{ hyvä_mieli,  mielihyvä,@ (a feeling of freedom from worry or disappointment) }
+{ [ lohdutus, verb.emotion:lohduttaa,+]  lohtu,  huojennus,  hyvä_mieli,@ (the comfort you feel when consoled in times of disappointment; "second place was no consolation to him") }
+{ laiha_lohtu,  lohdutus,@ (very limited consolation or empathy; "he told me that time heals all wounds but that was cold comfort to me") }
+{ kultareunus,  valoisampi_puoli,  lohdutus,@ (a consoling aspect of a difficult situation; "every cloud has a silver lining"; "look on the bright side of it") }
+{ huojennus1,  helpotus,  hyvä_mieli,@ (the feeling that comes when something burdensome is removed or reduced; "as he heard the news he was suddenly flooded with relief") }
+{ sukupuolinen_mielihyvä,  mielihyvä,@ (pleasure derived from sexual activities) }
+{ [ algolagnia, adj.pert:algolagninen,+]  algofilia,  sukupuolinen_mielihyvä,@ (sexual pleasure derived from inflicting or experiencing pain) }
+{ [ sadismi, adj.all:sadistinen,+ noun.person:sadisti,+]  sukupuolinen_mielihyvä,@ (sexual pleasure obtained by inflicting harm (physical or psychological) on others) }
+{ [ sadomasokismi, adj.pert:sadomasokistinen,+ noun.person:sadomasokisti,+]  sadismi,@ masokismi,@ (sadism and masochism combined in one person) }
+{ [ masokismi, noun.person:masokisti,+ adj.all:masokistinen,+]  sukupuolinen_mielihyvä,@ (sexual pleasure obtained from receiving punishment (physical or psychological)) }
+{ [ tuska, mielihyvä,! adj.all:epämiellyttävä13^tuskallinen5,+ adj.all:tuskallinen2,+]  [ kärsimys, mielihyvä,!]  [ piina, mielihyvä,!]  noun.Tops:tunne,@ (emotional distress; a fundamental feeling that people try to avoid; "the pain of loneliness") }
+{ kasvukivut,  tuska,@ (emotional distress arising during adolescence) }
+{ [ epämiellyttävyys, miellyttävyys,! adj.all:epämiellyttävä13,+]  [ harmillisuus, miellyttävyys,!]  [ kipu, miellyttävyys,!]  tuska,@ (the feeling caused by disagreeable stimuli; one pole of a continuum of states of feeling) }
+{ vihlaisu,  pistos,  pistäminen,  pisto,  noun.Tops:tunne,@ (a sudden sharp feeling; "pangs of regret"; "she felt a stab of excitement"; "twinges of conscience") }
+{ syyllisyydenpistos,  vihlaisu,@ (pangs of feeling guilty) }
+{ ahdistus,  tuska,@ (sustained dull painful emotion) }
+{ [ kärsimys1, verb.body:kärsiä,+ verb.perception:kärsiä2,+]  tuska,@ (feelings of mental or physical pain) }
+{ kuolemantuska,  [ kärsimys2, verb.emotion:kärsiä_kauheita_tuskia,+]  suuri_hätä,  [ piina1, verb.emotion:piinata1,+]  tuska1,  [ kidutus, verb.emotion:kiduttaa1,+ adj.all:tuskallinen2^kiduttava,+]  kärsimys1,@ (intense feelings of suffering; acute mental or physical pain; "an agony of doubt"; "the torments of the damned") }
+{ kouristukset,  kärsimys1,@ (violent pangs of suffering; "death throes") }
+{ ahdistuneisuus,  tuskaisuus,  ahdinko,  kärsimys1,@ (an uncomfortable feeling of mental painfulness or distress) }
+{ hankauma,  hiertymä,  noun.state:aristavuus,@ (soreness or irritation of the skin caused by friction) }
+{ hiertymä1,  hankauma,@ (chafing between two skin surfaces that are in contact (as in the armpit or under the breasts or between the thighs)) }
+{ [ kärsimys3, verb.emotion:kärsiä,+]  kipu1,  tuska,@ (psychological suffering; "the death of his wife caused him great distress") }
+{ hätä,  tuska2,  kärsimys4,  [ piina2, verb.emotion:piinata1,+]  [ kidutus1, verb.emotion:kiduttaa1,+]  kärsimys3,@ (extreme mental distress) }
+{ itsekidutus,  kärsimys3,@ (self-imposed distress) }
+{ kärsimys5,  kärsimys3,@ noun.communication:Jiddiš,;c ((Yiddish) trouble and suffering) }
+{ haava,  kärsimys3,@ (a figurative injury (to your feelings or pride); "he feared that mentioning it might reopen the wound"; "deep in her breast lives the silent wound"; "The right reader of a good poem can tell the moment it strikes him that he has taken an immortal wound--that he will never get over it"--Robert Frost") }
+{ [ mieltymys, inho<broader/>,! vastenmielisyys,!]  noun.Tops:tunne,@ (a feeling of pleasure and enjoyment; "I've always had a liking for reading"; "she developed a liking for gin") }
+{ heikkous,  mieltymys1,  ihastus1,  mieltymys,@ (a predisposition to like something; "he had a fondness for whiskey") }
+{ hurma,  [ lumous, verb.emotion:lumota1,+]  tenhovoima,  viehätys,  mieltymys,@ (a feeling of great liking for something wonderful and unusual) }
+{ mieltymys2,  preferenssi,  voimakas_mieltymys,  mieltymys,@ (a strong liking; "my own preference is for good literature"; "the Irish have a penchant for blarney") }
+{ opittu_mieltymys,  mieltymys2,@ (a preference that is only acquired after considerable experience; "martinis are an acquired taste") }
+{ heikkous1,  mieltymys2,@ (a penchant for something even though it might not be good for you; "he has a weakness for chocolate") }
+{ mysofilia,  mieltymys,@ (abnormal attraction to filth) }
+{ [ kiinnostus, vastahakoisuus,!]  mieltymys,@ (that toward which you are inclined to feel a liking; "her inclination is for classical music") }
+{ sympatia,  alttius,  tendenssi,  kiinnostus,@ (an inclination to do something; "he felt leanings toward frivolity") }
+{ halu7,  kiinnostus,@ (an inclination or liking for things involving conflict or difficulty or unpleasantness; "he had no stomach for a fight") }
+{ sävy,  kiinnostus,@ (an inclination contrary to the strongest or prevailing feeling; "his account had a poignant undertow of regret") }
+{ [ ihmisrakkaus, vastenmielisyys<broader/>1,!]  [ ihmisystävällisyys, vastenmielisyys<broader/>1,!]  mieltymys,@ (a feeling of liking for another person; enjoyment in their company) }
+{ ystävällisyys,  sovinnollisuus,  ihmisrakkaus,@ (a disinclination to quarrel) }
+{ hyväntahtoisuus,  suopeus,  ihmisrakkaus,@ (the friendly hope that something will succeed) }
+{ veljeys,  ihmisrakkaus,@ (the feeling that men should treat one another like brothers) }
+{ [ hyväksyminen, paheksunta,! verb.cognition:hyväksyä2,+]  [ hyväksyntä, paheksunta,! verb.cognition:hyväksyä2,+]  mieltymys,@ (a feeling of liking something or someone good; "although she fussed at them, she secretly viewed all her children with approval") }
+{ [ suosio, verb.social:suosia2,+ verb.social:suosia,+ verb.cognition:suosia,+]  hyväksyminen,@ (a feeling of favorable regard) }
+{ [ hyväksyminen1, verb.communication:hyväksyä3,+ verb.cognition:hyväksyä2,+ verb.cognition:hyväksyä5,+]  [ hyväksyntä1, verb.communication:hyväksyä3,+ verb.cognition:hyväksyä2,+ verb.cognition:hyväksyä5,+]  hyväksyminen,@ (official approval) }
+{ [ ihailu, verb.emotion:ihailla1,+]  [ arvostus, verb.cognition:arvostaa2,+]  mieltymys,@ (a feeling of delighted approval and liking) }
+{ [ anglofilia, anglofobia,! adj.pert:anglofiilinen,+]  ihailu,@ (admiration for Britain and British customs) }
+{ ihannointi,  sankarikultti,  ihailu,@ (admiration for great men (or their memory)) }
+{ [ filhellenismi, noun.person:filhelleeni,+]  ihailu,@ (admiration for Greece and the Greeks and Greek customs) }
+{ [ naisten_ihailu<unconfirmed/>, misogynia,!]  ihailu,@ (admiration for women) }
+{ [ palvonta, verb.emotion:palvoa1,+]  ihailu1,  rakkaus2,@ (a feeling of profound love and admiration) }
+{ [ inho<broader/>, mieltymys,!]  [ vastenmielisyys, mieltymys,!]  noun.Tops:tunne,@ (a feeling of aversion or antipathy; "my dislike of him was instinctive") }
+{ [ vastahakoisuus, kiinnostus,!]  inho<broader/>,@ (that toward which you are inclined to feel dislike; "his disinclination for modesty is well known") }
+{ [ anglofobia, anglofilia,! adj.pert:anglofobinen,+]  inho<broader/>,@ (dislike (or fear) of Britain and British customs) }
+{ [ vastenmielisyys<broader/>1, ihmisrakkaus,! ihmisystävällisyys,!]  inho<broader/>,@ (dislike experienced as an absence of friendliness) }
+{ etääntyminen,  [ vieraantuminen, verb.social:vieraannuttaa,+]  kapinahenki,  tyytymättömyys,  vihamielisyys,  syrjäytyminen,  inho<broader/>,@ (the feeling of being alienated from other people) }
+{ eristyneisyys,  etääntyminen,@ (a feeling of being disliked and alone) }
+{ [ antipatia, adj.all:vihamielinen3^antipaattinen,+ adj.all:vihamielinen3^antipatiaa_tunteva,+]  inho1,  vastenmielisyys2,  inho<broader/>,@ (a feeling of intense dislike) }
+{ [ paheksunta, hyväksyminen,! hyväksyntä,! verb.cognition:paheksua1,+]  inho<broader/>,@ (a feeling of disliking something or what someone is doing) }
+{ [ halveksinta, adj.all:epäkunnioittava1^halveksiva4,+ adj.all:epäkunnioittava1^halveksuva,+ adj.all:epäkunnioittava1^halventava5,+]  [ ylenkatse, verb.emotion:ylenkatsoa,+]  halveksunta,  inho<broader/>,@ (lack of respect accompanied by a feeling of intense dislike; "he was held in contempt"; "the despite in which outsiders were held is legendary") }
+{ [ inho2, verb.emotion:inhottaa,+ verb.perception:inhottaa,+]  vastenmielisyys3,  inho<broader/>,@ (strong feelings of dislike) }
+{ [ inho3, adj.all:vastenmielinen6^inho-,+ verb.emotion:inhota,+]  [ kammo, verb.emotion:kammoksua,+]  [ inhottavuus, verb.emotion:inhota1,+]  vastenmielisyys4,  paheksunta1,  iljetys,  inho2,@ suuttumus5,@ (hate coupled with disgust) }
+{ kauhun_väreet,  inho<broader/>,@ (feelings of dislike and anxiety; "the cave gave me the creepy-crawlies") }
+{ viha,  inho<broader/>,@ noun.location:Skotlanti,;r (a strong dislike; "they took a scunner against the United States") }
+{ inho4,  iljetys1,  vastenmielisyys5,  kauhu,  kammo1,  inho2,@ (intense aversion) }
+{ kuvotus,  inho2,@ (disgust so strong it makes you feel sick) }
+{ teknofobia,  inho<broader/>,@ (dislike for new technology) }
+{ [ kiitollisuudentunne, kiittämättömyys,!]  [ kiitollisuus, kiittämättömyys,!]  noun.Tops:tunne,@ (a feeling of thankfulness and appreciation; "he was overwhelmed with gratitude for their help") }
+{ [ kiitollisuus1, adj.all:kiitollinen,+]  huomaavaisuus,  kiitollisuudentunne,@ (warm friendly feelings of gratitude) }
+{ [ kiittämättömyys, kiitollisuudentunne,! kiitollisuus,!]  epäkiitollisuus,  noun.Tops:tunne,@ (a lack of gratitude) }
+{ [ levottomuus, välinpitämättömyys2,!]  sympatia1,@ (a feeling of sympathy for someone or something; "She felt strong concern for those less fortunate") }
+{ huolenaihe,  huoli,  murhe,  noun.state:kiipeli2,@ (a cause for feeling concern; "his major care was the illness of his wife") }
+{ huolestuneisuus,  [ huoli1, adj.all:huolehtivainen^huolestunut5,+]  levottomuus,@ (a feeling of excessive concern) }
+{ [ helläsydämisyys, adj.all:helläsydäminen,+]  [ hellyys, adj.all:hellä6,+]  levottomuus,@ (a feeling of concern for the welfare of someone (especially someone defenseless)) }
+{ [ välinpitämättömyys2, levottomuus,!]  noun.Tops:tunne,@ (a feeling of lack of concern) }
+{ piittaamattomuus1,  välinpitämättömyys2,@ (unbiased impartial unconcern) }
+{ pidättyvyys,  viileys,  piittaamattomuus1,@ (indifference by personal withdrawal; "emotional distance") }
+{ viileys1,  välinpitämättömyys3,  piittaamattomuus1,@ (avoiding emotional involvement) }
+{ [ sydämettömyys, adj.all:sydämetön,+]  tunteettomuus,  [ kovasydämisyys, adj.all:kovasydäminen2,+ adj.all:kovasydäminen^kovasydäminen1,+]  välinpitämättömyys2,@ (an absence of concern for the welfare of others) }
+{ sydämettömyys1,  [ armottomuus, adj.all:armoton2,+]  [ säälimättömyys, adj.all:epäinhimillinen4^säälimätön2,+]  kovuus,  sydämettömyys,@ (feelings of extreme heartlessness) }
+{ [ häpeä, verb.social:häpäistä,+]  noun.Tops:tunne,@ (a painful emotion resulting from an awareness of inadequacy or guilt) }
+{ huono_omatunto,  häpeä,@ (a feeling of shame when you do something immoral; "he has no conscience about his cruelty") }
+{ itseinho,  häpeä,@ (shame resulting from strong dislike of yourself or your actions) }
+{ hämmennys,  kiusaantuminen,  nolous,  nolostuminen,  kiusaantuneisuus,  häpeä,@ (the shame you feel when your inadequacy or guilt is made public) }
+{ vaivautuneisuus,  epämukavuus,  hämmennys,@ (embarrassment deriving from the feeling that others are critically aware of you) }
+{ ujous,  [ vaatimattomuus, adj.all:säädyllinen1^vaatimaton4,+]  [ hämillisyys, adj.all:häpeissään_oleva^hämillään_oleva,+]  [ nolous1, adj.all:häpeissään_oleva^nolostunut4,+]  hämmennys,@ (feeling embarrassed about yourself) }
+{ harmi,  nöyryytys,  häpeä1,  mielipaha,  hämmennys,@ (strong feelings of embarrassment) }
+{ [ hämminki, verb.emotion:hämmentää3,+]  [ sekavuus, verb.cognition:sekaannuttaa,+]  [ hämmennys1, verb.emotion:hämmentää3,+]  hämmennys,@ (a feeling of embarrassment that leaves you confused) }
+{ [ hämminki1, verb.emotion:hämmentää5,+]  häpeä2,  [ häveliäisyys, adj.all:arka2^häveliäs1,+]  [ kainous, adj.all:arka2^kaino1,+]  [ ujous1, adj.all:arka2^ujo1,+]  hämmennys,@ (feeling embarrassed due to modesty) }
+{ [ hämmentyneisyys, verb.emotion:hämmentää2,+]  vaivaantuneisuus,  kiusaantuneisuus1,  nolous2,  hämmennys,@ ahdistus1,@ (anxious embarrassment) }
+{ [ itsekunnioitus, nöyryys,!]  omanarvontunto,  noun.Tops:tunne,@ (a feeling of self-respect and personal worth) }
+{ itsetunto,  omantunnonarvo,  itsekunnioitus,@ (a feeling of pride in yourself) }
+{ ego,  [ egotismi, noun.person:egotisti,+ noun.person:egoisti1,+]  [ itsekeskeisyys, adj.all:ylpeä2^itseriittoinen3,+]  itsekunnioitus,@ (an inflated feeling of pride in your superiority to others) }
+{ omanarvontunto1,  omahyväisyys,  itserakkaus,  [ turhamaisuus, adj.all:ylpeä2^turhamainen,+]  itsekunnioitus,@ (feelings of excessive pride) }
+{ [ nöyryys, itsekunnioitus,!]  nöyrtymys,  noun.Tops:tunne,@ (a humble feeling; "he was filled with humility at the sight of the Pope") }
+{ nöyryys1,  alistuminen,  nöyryys,@ (the feeling of patient, submissive humbleness) }
+{ itsensä_aliarvostaminen,  nöyryys,@ (a feeling of being of little worth) }
+{ [ hämmästys, verb.cognition:hämmästyttää1,+]  [ ällistys, verb.cognition:ällistyttää1,+]  ihmetys,  noun.Tops:tunne,@ (the feeling that accompanies something extremely surprising; "he looked at me in astonishment") }
+{ hämmennys2,  noun.Tops:tunne,@ (the feeling of being confounded or overwhelmed; "her departure left him in utter devastation") }
+{ hämmästys1,  ihmetys1,  ihailu2,  ihmettely,  hämmästys,@ (the feeling aroused by something strange and surprising) }
+{ pelonsekainen_kunnioitus<approximate/>,  syvä_kunnioitus,  kunnioittava_pelko,  hämmästys1,@ (an overwhelming feeling of wonder or admiration; "he stared over the edge with a feeling of awe") }
+{ yllättyminen,  hämmästys2,  hämmästys,@ (the astonishment you feel when something totally unexpected happens to you) }
+{ hämmennys3,  kummastus,  [ ällistys1, verb.cognition:ällistyttää,+]  hämmästys,@ (a feeling of stupefied astonishment) }
+{ hämmennys4,  tärähdys,  tokkura,  shokki,  hämmennys3,@ (the feeling of distress and disbelief that you have when something bad happens accidentally; "his mother's death left him in a daze"; "he was numb with shock") }
+{ aavistus,  noun.Tops:tunne,@ (the feeling that something is about to happen) }
+{ ennakointi,  [ odotus, adj.all:toiveikas4^odottava1,+]  aavistus,@ (an expectation) }
+{ jännitys,  ennakointi,@ (excited anticipation of an approaching climax; "the play kept the audience in suspense") }
+{ kuume,  ennakointi,@ (intense nervous anticipation; "in a fever of resentment") }
+{ metsästyskuume<unconfirmed/>,  kuume,@ (nervous excitement of an inexperienced hunter) }
+{ kultakuume,  kuume,@ (greed and the contagious excitement of a gold rush) }
+{ [ toivo, verb.emotion:toivoa3,+ verb.emotion:toivoa,+]  ennakointi,@ (a specific instance of feeling hopeful; "it revived their hope of winning the pennant") }
+{ [ keveys, arvokkuus,!]  [ piristys, arvokkuus,!]  noun.Tops:tunne,@ (feeling an inappropriate lack of seriousness) }
+{ iloisuus,  hilpeys1,  keveys,@ (a festive merry feeling) }
+{ [ arvokkuus, keveys,! piristys,!]  [ juhlallisuus, adj.all:vakava12^juhlallinen1,+]  [ juhlavuus, adj.all:vakava12^juhlallinen1,+]  noun.Tops:tunne,@ (a solemn and dignified feeling) }
+{ vakavuus,  teeskentelemättömyys,  [ vilpittömyys, adj.all:vakava12^vilpitön10,+]  arvokkuus,@ (an earnest and sincere feeling) }
+{ [ herkkyys, adj.all:herkkätunteinen1,+]  noun.Tops:tunne,@ adj.all:piittaamaton15,= adj.all:herkkätunteinen1,= (sensitivity to emotional feelings (of self and others)) }
+{ [ yliherkkyys, adj.all:herkkätunteinen1^yliherkkä1,+]  herkkyys,@ (sensitivity leading to easy irritation or upset) }
+{ herkkätunteisuus,  tunteet,  herkkyys,@ (refined sensitivity to pleasurable or painful impressions; "cruelty offended his sensibility") }
+{ [ tunteet1, verb.emotion:tuntea,+ verb.cognition:tuntea_itsensä_jksk,+]  herkkyys,@ (emotional or moral sensitivity (especially in relation to personal principles or dignity); "the remark hurt his feelings") }
+{ käsitys,  [ havaintokyky, adj.pert:havainto-,+]  [ tarkkanäköisyys, adj.all:tarkkanäköinen5,+]  herkkätunteisuus,@ (a feeling of understanding) }
+{ [ nautinnollisuus, adj.all:esteettinen^nautinnollinen,+]  herkkätunteisuus,@ (a sensuous feeling) }
+{ [ kuohunta, levollisuus,!]  [ mieltenkuohu, levollisuus,!]  noun.Tops:tunne,@ (the feeling of being agitated; not calm) }
+{ levottomuus1,  kuohunta,@ (a feeling of restless agitation) }
+{ [ levottomuus2, adj.all:jännittynyt5^levoton12,+]  [ hermostuneisuus, adj.all:jännittynyt5^hermostunut4,+]  kuohunta,@ (a feeling of agitation expressed in continual motion; "he's got the fidgets"; "waiting gave him a feeling of restlessness") }
+{ into2,  levottomuus2,@ (a restless desire for change and excitement) }
+{ kiihtymys,  kuohunta,@ (an extreme state of worry and agitation; "his stewing over the fight kept him awake most of the night") }
+{ stir,  kuohunta,@ (emotional agitation and excitement) }
+{ kuohunta1,  myllerrys,  kuohunta,@ (violent agitation) }
+{ [ sähköisyys, verb.emotion:sähköistää1,+ adj.all:jännittynyt5^sähköinen1,+]  stir,@ (keen and shared excitement; "the stage crackled with electricity whenever she was on it") }
+{ aistihavainto,  tuntemus,  tunne2,  stir,@ (a general feeling of excitement and heightened interest; "anticipation produced in me a sensation somewhere between hope and fear") }
+{ [ levollisuus, kuohunta,! mieltenkuohu,!]  noun.Tops:tunne,@ (a feeling of calm; an absence of agitation or excitement) }
+{ tyyneys,  levollisuus1,  levollisuus,@ (a feeling of calmness; a quiet and undisturbed feeling) }
+{ rauhallisuus,  levollisuus2,  järkähtämättömyys,  levollisuus,@ (calm and unruffled self-assurance; "he performed with all the coolness of a veteran") }
+{ levollisuus3,  rauhallisuus1,  [ hiljaisuus, adj.all:hiljainen14,+]  levollisuus,@ (a state of peace and quiet) }
+{ rauha,  rauhallisuus2,  mielenrauha,  levollisuus4,  tyyneys1,  ataraksia,  levollisuus3,@ (the absence of mental stress or anxiety) }
+{ [ huolettomuus, adj.all:huoleton6,+]  [ rentous, verb.body:rentouttaa,+ verb.social:rentoutua1,+]  levollisuus3,@ (a feeling of refreshing tranquility and an absence of tension or worry; "the easiness we feel when sleeping") }
+{ raukeus1,  [ unelmallisuus, adj.all:laiska2^unenomainen,+]  [ unenomaisuus, adj.all:laiska2^unenomainen,+]  huolettomuus,@ (a relaxed comfortable feeling) }
+{ [ viha1, adj.all:vihainen,+ verb.emotion:vihastua,+ verb.emotion:vihastuttaa,+]  kiukku,  suuttumus,  emootio,@ (a strong emotion; a feeling that is oriented toward some real or supposed grievance) }
+{ suuttumus1,  vihan_vimma,  närkästys,@ (a feeling of intense indignation (now used only in the phrase `in high dudgeon')) }
+{ raivo,  vimma,@ (intense anger (usually on an epic scale)) }
+{ vimma,  [ raivo1, verb.emotion:raivota1,+]  kiihko3,  viha1,@ (a feeling of intense anger; "hell hath no fury like a woman scorned"; "his face turned red with rage") }
+{ kalmankalpeus,  vimma,@ (a state of fury so great the face becomes discolored) }
+{ [ raivostuminen, verb.emotion:raivostuttaa,+]  [ raivo2, verb.emotion:raivostuttaa2,+]  viha1,@ (a feeling of intense anger) }
+{ [ pahastuminen, adj.all:vihainen^pahastunut,+]  loukkaantuminen,  suuttumus2,  viha1,@ (a feeling of anger caused by being offended; "he took offence at my question") }
+{ närkästys,  tyrmistys,  suuttumus3,  viha1,@ (a feeling of righteous anger) }
+{ kiukunpuuska,  viha1,@ (a passing state of anger and resentment) }
+{ kiukku1,  ärtymys,  viha1,@ (a feeling of anger and animosity; "having one's hackles or dander up") }
+{ huono_tuuli,  häijyys,  äkäisyys,  viha1,@ (a persisting angry mood) }
+{ harmi1,  mielipaha1,  ärtymys1,  hankauma1,  hiertäminen,  kiusa,  mieliharmi,  vaiva,  viha1,@ (anger produced by some annoying irritation) }
+{ huonotuulisuus,  kiukku2,  ärtyisyys,  huono_tuuli1,  närkästys1,  harmi1,@ (a sudden outburst of anger; "his temper sparked like damp firewood") }
+{ frustraatio,  turhauma,  turhautuminen,  harmi1,@ (a feeling of annoyance at being hindered or criticized; "her constant complaints were the main source of his frustration") }
+{ suuttumus4,  ärtymys2,  harmi1,@ (an exasperated feeling of annoyance) }
+{ häirintä,  [ piina3, verb.emotion:piinata2,+]  harmi1,@ (a feeling of intense annoyance caused by being tormented; "so great was his harassment that he wanted to destroy his tormentors") }
+{ [ pelko, pelottomuus,! verb.emotion:pelätä1,+]  [ pelokkuus, adj.all:peloissaan_oleva^peloissaan_oleva2,+ adj.all:peloissaan_oleva^peloissaan<idiomatic_pos/>2,+ adj.all:peloissaan_oleva^pelokas1,+]  kauhu1,  emootio,@ adj.all:peloissaan_oleva,= adj.all:peloton1,= (an emotion experienced in anticipation of some specific pain or danger (usually accompanied by a desire to flee or fight)) }
+{ levottomuus3,  pelästys,  [ kauhu2, verb.emotion:kauhistuttaa1,+]  [ pelko1, verb.emotion:pelottaa3,+]  [ tyrmistys1, verb.emotion:tyrmistyttää,+]  pelko,@ adj.all:rauhoittava,= adj.all:huolestuttava,= (fear resulting from the awareness of danger) }
+{ kylmät_väreet,  pelko,@ noun.communication:puhekielen_ilmaus,;u (a feeling of fear and revulsion; "he gives me the creeps") }
+{ värinä,  [ puistatus, adj.all:huolestuttava^puistattava,+]  kylmät_väreet1,  värähdys,  vapina,  väristys,  tutina,  pelko,@ (an almost pleasurable sensation of fright; "a frisson of surprise shot through him") }
+{ [ kauhu3, verb.emotion:kauhistuttaa1,+]  kammo2,  pelko,@ (intense and profound fear) }
+{ [ hysteria, adj.all:kiihtynyt^hysteerinen,+]  pelko,@ (excessive or uncontrollable fear) }
+{ [ kauhu4, adj.all:peloissaan_oleva^kauhistunut2,+ verb.emotion:kauhistuttaa,+]  paniikki,  pelko,@ (an overwhelming feeling of fear and anxiety) }
+{ paniikki1,  kauhu4,@ (a panic or extreme discomposure; "it threw her into a swivet") }
+{ [ pelko2, verb.emotion:pelätä,+]  [ kunnioitus, adj.all:harras2^kunnioittava,+ adj.all:kunnioittava3^kunnioittava4,+ verb.emotion:kunnioittaa1,+]  syvä_kunnioitus1,  kunnioittava_pelko1,  [ kunnioittaminen, adj.all:harras2^kunnioittava,+ adj.all:kunnioittava3^kunnioittava4,+ verb.emotion:kunnioittaa1,+]  emootio,@ (a feeling of profound respect for someone or something; "the fear of God"; "the Chinese reverence for the dead"; "the French treat food with gentle reverence"; "his respect for the law bordered on veneration") }
+{ [ pelkotila, verb.emotion:pelotella,+ verb.emotion:pelästyttää,+]  paniikkikohtaus,  säikähdys,  pelko,@ (a sudden attack of fear) }
+{ ramppikuume,  esiintymisjännitys,  pelko,@ (fear that affects a person about to face an audience) }
+{ epäilys,  paha_aavistus,  [ pelko3, verb.emotion:pelätä5,+ verb.emotion:pelätä1,+]  levottomuus4,  [ pelokkuus1, adj.all:huolestunut6^peläten<idiomatic_pos/>1,+ adj.all:peloissaan_oleva^pelokas,+ adj.all:peloissaan_oleva^peläten<idiomatic_pos/>,+]  aavistus1,  pelko,@ (fearful expectation or anticipation; "the student looked around the examination room with apprehension") }
+{ pelko4,  hermostuneisuus1,  epäilys,@ (a feeling of alarm or dread) }
+{ ennakkovaroitus,  ennakkoaavistus,  enteily,  aavistus2,  epäilys,@ (a feeling of evil to come; "a steadily escalating sense of foreboding"; "the lawyer had a presentiment that the judge would dismiss the case") }
+{ varjo,  ennakkovaroitus,@ (a premonition of something adverse; "a shadow over his happiness") }
+{ aavistus3,  ennakkovaroitus,@ (a foreboding about what is about to happen) }
+{ epätietoisuus,  epäilys,@ (apprehension about what is going to happen) }
+{ [ arkuus, adj.all:arka2,+]  [ arkailu, adj.all:arka8,+ adj.all:arka2,+ adj.all:raukkamainen^arka6,+]  [ pelokkuus2, adj.all:pelokas3,+ adj.all:raukkamainen^pelokas7,+ adj.all:pelokas9,+]  pelko,@ (fear of the unknown or unfamiliar or fear of making decisions) }
+{ arkailu1,  arkuus,@ (timidity that prevents the continuation of a course of action; "I was going to tell him but I got cold feet") }
+{ [ ujous2, adj.all:ujo3,+]  arkuus,@ (a feeling of fear of embarrassment) }
+{ [ arkuus1, luottamus,!]  epävarmuus,  itseluottamuksen_puute,  arkuus,@ (lack of self-confidence) }
+{ [ empiminen, adj.all:päättämätön1^empivä,+]  epäröinti,  arkuus1,@ (a feeling of diffidence and indecision about doing something) }
+{ [ epävarmuus1, adj.all:epävarma1,+]  arkuus1,@ (diffidence about self promotion) }
+{ uhkailu,  pelko,@ (the feeling of being intimidated; being made to feel afraid or timid) }
+{ ahdistus1,  huolestuneisuus1,  huoli2,  emootio,@ (a vague unpleasant emotion that is experienced in anticipation of some (usually ill-defined) misfortune) }
+{ levottomuus5,  vaiva1,  ahdistus1,@ (a strong feeling of anxiety; "his worry over the prospect of being fired"; "it is not work but worry that kills"; "he wanted to die and end his troubles") }
+{ [ huoli3, verb.stative:huolestuttaa,+]  huolehtiminen,  [ pelko5, verb.emotion:pelätä2,+ verb.emotion:pelätä4,+]  ahdistus1,@ (an anxious feeling; "care had aged him"; "they hushed it up out of fear of public reaction") }
+{ ahdistuneisuus1,  tuskaisuus1,  levottomuus6,  rauhattomuus,  ahdistus1,@ (a feeling of mild anxiety about possible developments) }
+{ pelokkuus3,  ahdistus1,@ (the anxiety you experience when you feel vulnerable and insecure) }
+{ [ ärtyisyys1, adj.all:jännittynyt5^ärtyisä5,+]  levottomuus7,  rauhattomuus1,  ahdistus1,@ (feelings of anxiety that make you tense and irritable) }
+{ vaivaantuneisuuden_tunne<approximate/>,  ärtyisyys1,@ (feelings of uneasiness; "that guy gave me the willies") }
+{ vajoaminen<approximate/>,  vajoamisen_tunne<approximate/>,  ahdistus1,@ (a feeling caused by uneasiness or apprehension; "with a sinking heart"; "a sinking feeling in the pit of my stomach") }
+{ tunnontuska,  epäilys1,  huoli4,  epävarmuuden_tunne,  ahdistus1,@ (uneasiness about the fitness of an action) }
+{ vapisevuus,  levottomuus8,  [ hermostuneisuus2, adj.all:levoton13^hermostunut6,+ adj.all:kiihtynyt5^hermostunut3,+]  kärsimättömyys,  ahdistus1,@ (the anxious feeling you have when you have the jitters) }
+{ ahdistus2,  ahdistus1,@ (an acute but unspecific feeling of anxiety; usually reserved for philosophical anxiety about the world or about personal freedom) }
+{ [ pelottomuus, pelko,! adj.all:peloton1,+ adj.all:rohkea2^peloton2,+]  rohkeus,  noun.Tops:tunne,@ (feeling no fear) }
+{ turvallisuus,  pelottomuus,@ (freedom from anxiety or fear; "the watch dog gave her a feeling of security") }
+{ [ luottamus, arkuus1,!]  turvallisuus,@ adj.all:itsevarma1,= adj.all:epävarma6,= (a feeling of trust (in someone or something); "I have confidence in our team"; "confidence is always borrowed, never owned") }
+{ [ onni, surullisuus,! adj.all:onnellinen4,+]  [ ilo1, surullisuus,! adj.all:iloinen9,+]  noun.Tops:tunne,@ adj.all:huono9,= adj.all:onnellinen4,= (emotions experienced when in a state of well-being) }
+{ onnellisuus,  onni1,  onni,@ noun.location:Ranska,;r ((French) happiness and good humor) }
+{ [ ilo2, adj.all:iloinen^iloinen1,+ adj.all:kiitollinen^iloinen8,+ adj.all:iloinen11,+]  [ iloisuus<unconfirmed/>1, adj.all:hyvillään_oleva2^iloinen12,+]  onni,@ (experiencing joy and pleasure) }
+{ [ onni2, suru1,!]  [ iloisuus2, adj.all:iloinen14,+]  [ riemukkuus, adj.all:iloinen14^riemuisa,+ adj.all:iloinen14^riemukas5,+ adj.all:riemukas3,+]  [ riemu, suru1,!]  emootio,@ (the emotion of great happiness) }
+{ ilo3,  juhlamieli,  suruttomuus,  riemu1,  onni2,@ (a feeling of joy and pride) }
+{ [ riemuitseminen, verb.emotion:riemuita,+]  iloitseminen,  [ riemu2, verb.communication:riemuita,+]  onni2,@ (a feeling of extreme joy) }
+{ [ voitonjuhla, adj.all:iloinen5^voittoisa1,+]  riemusaatto,  [ voitonriemu, adj.all:iloinen5^voittoisa1,+]  riemuitseminen,@ (the exultation of victory) }
+{ hilpeys2,  innostus2,  onni2,@ (the feeling of lively and cheerful joy; "he could hardly conceal his excitement when she agreed") }
+{ [ sävärit, verb.perception:sävähtää,+ verb.emotion:sävähtää,+]  potku,  punastuminen,  [ sävähdys, verb.perception:sävähtää,+ verb.emotion:sävähtää,+]  hilpeys2,@ (the swift release of a store of affective force; "they got a great bang out of it"; "what a boot!"; "he got a quick rush from injecting heroin"; "he does it for kicks") }
+{ [ päihtymys, verb.emotion:päihdyttää,+]  hilpeys2,@ (excitement and elation beyond the bounds of sobriety; "the intoxication of wealth and power") }
+{ kihelmöinti,  hilpeys2,@ (a tingling feeling of excitement (as from teasing or tickling)) }
+{ [ euforia, dysforia,! epämiellyttävä_olo,!]  sairaalloinen_hyvänolontunne,  ilo3,@ (a feeling of great (usually exaggerated) elation) }
+{ iloisuus3,  hilpeys3,  onni,@ (a gay feeling) }
+{ hauskuus,  [ hilpeys4, adj.all:humoristinen^hilpeä5,+]  [ hilpeys<unconfirmed/>5, adj.all:humoristinen^hilpeä5,+]  ilo4,  [ riemu3, adj.all:iloinen14^riemuitseva1,+]  iloisuus3,@ (great merriment) }
+{ [ ilo5, verb.emotion:iloita,+ verb.emotion:iloita1,+]  riemu4,  onni,@ (a feeling of great happiness) }
+{ [ hilpeys6, adj.all:humoristinen^hilpeä6,+]  riemu5,  iloisuus3,@ (a feeling facetious merriment) }
+{ yhteenkuuluvuus,  onni,@ (happiness felt in a secure relationship; "with his classmates he felt a sense of belonging") }
+{ hyvinvointi,  yhteenkuuluvuus,@ (a feeling of being at ease in a relationship) }
+{ [ läheisyys, adj.all:läheinen4,+]  intiimiys,  yhteenkuuluvuus,@ (a feeling of being intimate and belonging together; "their closeness grew as the night wore on") }
+{ läheisyys1,  läheisyys,@ (affectionate closeness; "togetherness is the new wonder ingredient in marriage") }
+{ [ iloisuus4, ilottomuus1,! adj.all:optimistinen^iloinen18,+]  onnellisuus1,  onni,@ (a feeling of spontaneous good spirits; "his cheerfulness made everyone feel better") }
+{ [ iloisuus5, adj.all:iloinen^iloinen2,+]  keveys1,  iloisuus4,@ (cheerfulness that bubbles to the surface) }
+{ murheettomuus,  [ huolettomuus1, adj.all:välinpitämätön5^huoleton4,+]  iloisuus6,  suruttomuus1,  iloisuus4,@ (the cheerful feeling you have when nothing is troubling you) }
+{ [ tyytyväisyys, tyytymättömyys1,! verb.consumption:tyytyä,+]  onni,@ (happiness with one's situation in life) }
+{ [ tyydytys, tyytymättömyys3,!]  [ tyytyväisyys1, tyytymättömyys3,!]  [ täyttymys, tyytymättömyys3,!]  tyytyväisyys,@ (the contentment one feels when one has fulfilled a desire, need, or expectation; "the chef tasted the sauce with great satisfaction") }
+{ [ ylpeys, verb.emotion:ylpeillä,+]  tyydytys,@ (satisfaction with your (or another's) achievements; "he takes pride in his son's success") }
+{ [ omahyväisyys1, adj.all:tyytyväinen^omahyväinen,+]  itsetyytyväisyys,  tyydytys,@ (the feeling you have when you are satisfied with yourself; "his complacency was absolutely disgusting") }
+{ itsekylläisyys,  omahyväisyys2,  omahyväisyys1,@ (an excessive feeling of self-satisfaction) }
+{ tyydytys1,  täyttymys1,  tyydytys,@ (a feeling of satisfaction at having achieved your desires) }
+{ vahingonilo1,  omahyväisyys3,  tyydytys,@ (malicious satisfaction) }
+{ [ surullisuus, onni,! adj.all:surullinen3,+ adj.all:surumielinen2,+ ilo1,!]  alakuloisuus,  ilottomuus,  noun.Tops:tunne,@ (emotions experienced when not in a state of well-being) }
+{ alakuloisuus1,  [ surullisuus1, adj.all:surullinen3^surullinen4,+]  surullisuus,@ (sadness caused by grief or affliction) }
+{ kivi,  surullisuus,@ (persisting sadness; "nothing lifted the heaviness of her heart after her loss") }
+{ surumielisyys,  surullisuus,@ (a feeling of thoughtful sadness) }
+{ [ synkkämielisyys, adj.all:alakuloinen1^synkkämielinen1,+ adj.all:alakuloinen1^synkeä6,+]  [ synkkyys, adj.all:alakuloinen1^synkkämielinen1,+ adj.all:masentava^synkkä8,+ adj.all:alakuloinen1^synkeä6,+]  epäilys,@ surumielisyys,@ (a feeling of melancholy apprehension) }
+{ [ surumielisyys1, adj.all:surullinen3^surumielinen3,+]  surumielisyys,@ (a feeling of dispirited melancholy) }
+{ [ mietteliäisyys, adj.all:mietitty^mietteliäs,+]  murehtiminen,  surumielisyys,@ (persistent morbid meditation on a problem) }
+{ elämään_kyllästyneisyys,  maailmantuska,  surumielisyys,@ (sadness on thinking about the evils of the world) }
+{ suru,  [ surullisuus2, adj.all:surullinen5^surullinen8,+]  surullisuus3,@ (intense mournfulness) }
+{ surkeus,  surullisuus,@ (a feeling of intense unhappiness; "she was exhausted by her misery and grief") }
+{ [ yksinäisyys, adj.all:alakuloinen1^yksinäinen1,+]  lohduttomuus,  surullisuus,@ (sadness resulting from being forsaken or abandoned) }
+{ [ itkuisuus, adj.all:kyynelehtivä2^itkuinen1,+]  [ itkunsekaisuus, adj.all:surullinen5^itkunsekainen,+]  surullisuus,@ (sadness expressed by weeping) }
+{ [ suru1, onni2,! verb.emotion:surra2,+ riemu,!]  surullisuus,@ (an emotion of great sadness associated with loss or bereavement; "he tried to express his sorrow at her loss") }
+{ pelosta_johtuva_katumus,  synnintunto,  [ katumus, adj.all:katuva^katuvainen1,+]  murhe2,@ (sorrow for sin arising from fear of damnation) }
+{ sydänsuru<approximate/>,  suru1,@ (devastating sorrow and despair; "he is recovering from a broken heart"; "a broken heart languishes here") }
+{ murhe1,  syvä_suru,  sydänsuru1,  kova_isku,  [ murtuneisuus, adj.all:surullinen5^murtunut5,+]  suru1,@ (intense sorrow caused by loss of a loved one (especially by death)) }
+{ [ surullisuus3, adj.all:surullinen3^sureva,+]  murheellisuus,  alakuloisuus2,  suru1,@ (a state of gloomy sorrow) }
+{ [ surumielisyys2, adj.all:surullinen5^surumielinen5,+]  surullisuus3,@ (expressing sorrowfulness) }
+{ tuska3,  murhe1,@ noun.communication:runous,;c ((poetry) painful grief) }
+{ murhe2,  [ suru2, verb.emotion:surra,+]  kaipaus3,  murheellisuus1,  surullisuus,@ (sadness associated with some wrong done or some disappointment; "he drank to drown his sorrows"; "he wrote a note expressing his regret"; "to his rue, the error cost him the game") }
+{ omantunnon_pistos,  tunnonvaiva,  itsesyytös,  huono_omatunto1,  katumus1,  murhe2,@ (a feeling of deep regret (usually for some misdeed)) }
+{ [ syyllisyys, adj.all:häpeissään_oleva^syyllinen1,+]  syyllinen_omatunto,  syyllisyydentunteet,  syyllisyydentunne<note>pitkittynyt</note>,  omantunnon_pistos,@ (remorse caused by feeling responsible for some offense) }
+{ pelastuneen_syyllisyys,  syyllisyys,@ noun.state:posttraumaattinen_stressireaktio,#p (a deep feeling of guilt often experienced by those who have survived some catastrophe that took the lives of many others; derives in part from a feeling that they did not do enough to save the others who perished and in part from feelings of being unworthy relative to those who died; "survivor guilt was first noted in those who survived the Holocaust") }
+{ [ katumus2, adj.all:katuva,+ adj.all:katuva^katuvainen2,+]  tunnontuska1,  tunnonvaiva1,  omantunnon_pistos,@ (remorse for your past conduct) }
+{ [ ilottomuus1, iloisuus4,! adj.all:iloton,+]  lohduttomuus1,  surullisuus,@ (a feeling of dreary or pessimistic sadness) }
+{ kauhu5,  synkkä_aavistus,  epäilys,@ (a sudden numbing dread) }
+{ [ ilottomuus2, adj.all:iloton2,+]  ilottomuus1,@ (a feeling of dismal cheerlessness) }
+{ masennus,  depressio,  surullisuus,@ (sad feelings of gloom and inadequacy) }
+{ alakuloisuus3,  masentuneisuus,  [ alakulo, adj.all:alakuloinen1^alakuloinen3,+]  surullisuus,@ (a feeling of low spirits; "he felt responsible for her lowness of spirits") }
+{ demoralisaatio,  masennus,@ (depression resulting from an undermining of your morale) }
+{ [ avuttomuuden_tunne, adj.all:epätoivoinen^avuton4,+ adj.all:riippuvuussuhteessa_oleva^avuton2,+]  masennus,@ (a feeling of being unable to manage) }
+{ itsesääli,  suru1,@ (a feeling of sorrow (often self-indulgent) over your own sufferings) }
+{ [ toivottomuus, adj.all:epätoivoinen^toivoton5,+]  epätoivo,  apeus,  lohduttomuus2,  masennus,@ (feeling downcast and disheartened and hopeless) }
+{ ahdistus3,  ahdistuneisuus2,  masennus,@ (a feeling of being oppressed) }
+{ taakka,  ahdistus3,@ (an oppressive feeling of heavy force; "bowed down by the weight of responsibility") }
+{ [ tyytymättömyys1, tyytyväisyys,! adj.all:tyytymätön,+]  mieliteko,@ (a longing for something better than the present situation) }
+{ nyrpeys,  tyytymättömyys2,  tyytymättömyys1,@ (a feeling of sulky discontent) }
+{ [ dysforia, euforia,!]  [ epämiellyttävä_olo, euforia,!]  masennus,@ tyytymättömyys1,@ (abnormal depression and discontent) }
+{ [ tyytymättömyys3, tyydytys,! tyytyväisyys1,! täyttymys,!]  tyytymättömyys1,@ (the feeling of being displeased and discontent; "he was never slow to express his dissatisfaction with the service he received") }
+{ tylsyys,  ikävystyneisyys,  ikävystyttävyys,  tyytymättömyys3,@ (the feeling of being bored by something tedious) }
+{ plääh,  tylsyys,@ noun.communication:puhekielen_ilmaus,;u (a general feeling of boredom and dissatisfaction) }
+{ [ väsymys, verb.body:väsyä1,+]  tylsyys,@ ((always used with a modifier) boredom resulting from overexposure to something; "he was suffering from museum fatigue"; "after watching TV with her husband she had a bad case of football fatigue"; "the American public is experiencing scandal fatigue"; "political fatigue") }
+{ mielipaha2,  tyytymättömyys4,  harmi1,@ tyytymättömyys3,@ (the feeling of being displeased or annoyed or dissatisfied with someone or something) }
+{ [ pettymys, verb.emotion:pettää_jnk_toiveet,+ verb.emotion:pettää,+]  tyytymättömyys3,@ (a feeling of dissatisfaction that results when your expectations are not realized; "his hopes were so high he was doomed to disappointment") }
+{ frustraatio1,  turhauma1,  turhautuminen1,  tappio,  pettymys,@ (the feeling that accompanies an experience of being thwarted in attaining your goals) }
+{ [ toivo1, epätoivo1,! verb.emotion:toivoa3,+ verb.emotion:toivoa,+]  noun.Tops:tunne,@ (the general feeling that some desire will be fulfilled; "in spite of his troubles he never gave up hope") }
+{ [ toivo2, epätoivo2,! adj.all:toiveikas4,+]  toivo1,@ (the feeling you have when you have hope) }
+{ toiveikkuus<approximate/>1,  toivo1,@ (the feeling of being encouraged) }
+{ [ optimismi, pessimismi,! adj.all:myönteinen4^optimistinen3,+ adj.all:optimistinen,+ noun.person:optimisti,+]  toivo1,@ (the optimistic feeling that all is going to turn out well) }
+{ [ toiveikkuus2, adj.all:optimistinen^toiveikas5,+]  optimismi1,  optimismi,@ (feeling sanguine; optimistically cheerful and confident) }
+{ [ epätoivo1, toivo1,!]  noun.Tops:tunne,@ (the feeling that everything is wrong and nothing will turn out well; "they moaned in despair and dismay"; "one harsh word would send her into the depths of despair") }
+{ [ epätoivo2, toivo2,! adj.all:epätoivoinen,+]  epätoivo1,@ (the despair you feel when you have abandoned hope of comfort or success) }
+{ alistuneisuus,  luovuttaminen,  epätoivo1,@ (acceptance of despair) }
+{ tappiomieliala,  defaitismi,  alistuneisuus,@ (acceptance of the inevitability of defeat) }
+{ masennus1,  pelko6,  tyrmistys2,  epätoivo1,@ (the feeling of despair in the face of obstacles) }
+{ pelottelu,  masennus1,@ (the feeling of discouragement in the face of someone's superior fame or wealth or status etc.) }
+{ [ pessimismi, optimismi,! noun.person:pessimisti1,+ adj.all:pessimistinen1,+]  epätoivo1,@ (the feeling that things will turn out badly) }
+{ kyynisyys,  pessimismi,@ (a cynical feeling of distrust) }
+{ [ rakkaus2, suuttumus5,! verb.emotion:rakastaa1,+ verb.emotion:rakastaa,+]  emootio,@ (a strong positive emotion of regard and affection; "his love for his work"; "children need a lot of love") }
+{ jumalallinen_rakkaus,  rakkaus2,@ (selfless love of one person for another without sexual implications (especially love that is spiritual in nature)) }
+{ agape-rakkaus,  rakkaus2,@ noun.cognition:kristillinen_teologia,;c ((Christian theology) the love of God or Christ for mankind) }
+{ lapsen_rakkaus,  rakkaus2,@ (the love of a child for a parent) }
+{ into3,  kiihko4,  tulisuus,  tunteen_palo1,  intohimo3,  rakkaus2,@ (intense feeling of love) }
+{ [ rakastuneisuus1, adj.all:hellä2^rakastunut,+ adj.all:hellä2^rakastunut2,+]  rakkaus2,@ (a feeling of love or fondness) }
+{ teinirakkaus,  ihastus2,  ihastuminen,  nuori_lempi,  rakkaus2,@ (temporary love of an adolescent) }
+{ rakkaus3,  kiintymys<broader/>,  rakkaus2,@ (feelings of ardent love; "their devotion to each other was beautiful") }
+{ kiintymys1,  mieltymys3,  [ hellyys1, adj.all:hellä2^hellä3,+]  [ rakastavuus, adj.all:hellä2^rakastava2,+]  heikkous2,  rakkaus4,  [ sydämellisyys, adj.all:lämmin6^sydämellinen5,+]  [ lämpö, adj.all:hellä2^lämmin4,+ adj.all:lämmin6,+ adj.all:lämpöinen1,+]  [ lämminsydämisyys, adj.all:lämminsydäminen1,+]  filia<unconfirmed/>,  noun.Tops:tunne,@ (a positive feeling of liking; "he had trouble expressing the affection he felt"; "the child won everyone's heart"; "the warmness of his welcome made us feel right at home") }
+{ [ kiintymys2, verb.social:kiinnittää1,+]  läheinen_suhde,  kiintymys1,@ (a feeling of affection for a person or an institution) }
+{ [ suojelevuus, adj.all:hellä6^suojeleva1,+]  kiintymys1,@ (a feeling of protective affection) }
+{ kunnioitus1,  arvonanto,  kiintymys1,@ (a feeling of friendship and esteem; "she mistook his manly regard for love"; "he inspires respect") }
+{ heikko_kohta,  kiintymys1,@ (a sentimental affection; "she had a soft spot for her youngest son") }
+{ [ hyväntahtoisuus1, pahansuopaisuus,! pahantahtoisuus,!]  [ hyvänsuopaisuus, pahansuopaisuus,! pahantahtoisuus,!]  rakkaus2,@ (disposition to do good) }
+{ [ hyväsydämisyys<approximate/>, pahanteko,! adj.all:hyvää_tekevä1,+]  hyväntahtoisuus1,@ (doing good; feeling beneficent) }
+{ sydänjuuret,  myötätunto1,@ rakkaus2,@ (your deepest feelings of love and compassion; "many adoption cases tug at the heartstrings") }
+{ [ hellyys2, adj.all:hellä2,+]  [ rakkaus5, adj.all:myötätuntoinen^rakastava,+]  rakkaus2,@ (a loving feeling) }
+{ [ lämminsydämisyys1, adj.all:lämminsydäminen1,+]  lämpö1,  hellyys2,@ (a warmhearted feeling) }
+{ uskollisuus,  lojaliteetti,  rakkaus2,@ (feelings of allegiance) }
+{ [ suuttumus5, rakkaus2,!]  viha2,  emootio,@ (the emotion of intense dislike; a feeling of dislike so strong that it demands action) }
+{ [ ihmisviha, adj.all:häijy3^ihmisiä_vihaava,+ noun.person:ihmisvihaaja,+]  [ misantropia, noun.person:misantrooppi,+]  suuttumus5,@ (hatred of mankind) }
+{ [ avioliiton_vihaaminen, noun.person:avioliiton_vihaaja,+]  suuttumus5,@ (hatred of marriage) }
+{ [ misogynia, naisten_ihailu<unconfirmed/>,! noun.person:misogyyni,+]  naisten_vihaaminen,  naisviha,  suuttumus5,@ (hatred of women) }
+{ järkevän_todistelun_vastustaminen<unconfirmed/>,  suuttumus5,@ (hatred of reasoning) }
+{ misoneismi,  suuttumus5,@ (hatred of change or innovation) }
+{ uusien_ideoiden_vihaaminen<unconfirmed/>,  misoneismi,@ (hatred of new ideas) }
+{ lasten_vihaaminen,  suuttumus5,@ (hatred of children) }
+{ verenhimoisuus,  suuttumus5,@ (a bloodthirsty hatred arousing murderous impulses) }
+{ [ halveksunta1, verb.emotion:halveksia,+]  suuttumus5,@ (a feeling of scornful hatred) }
+{ [ vihamielisyys1, adj.all:vihamielinen3,+]  viha3,  pahansuopuus,  suuttumus5,@ (the feeling of a hostile person; "he could no longer contain his hostility") }
+{ katkeruus,  vihamielisyys2,  paha_veri,  vihamielisyys1,@ (a feeling of ill will arousing active hostility) }
+{ luokkatunne,  vihamielisyys1,@ (feelings of envy and resentment of one social or economic class for toward another) }
+{ [ antagonismi, adj.all:antagonistinen2,+ noun.person:antagonisti,+]  vihamielisyys3,  vihamielisyys1,@ inho<broader/>,@ (an actively expressed feeling of dislike and hostility) }
+{ hyökkäävyys,  vihamielisyys4,  aggressiivisuus,  vihamielisyys1,@ (a feeling of hostility that arouses thoughts of attack) }
+{ [ hyökkäävyys1, adj.all:vihamielinen3^hyökkäävä2,+]  [ riidanhaluisuus, adj.all:vihamielinen3^riidanhaluinen2,+]  [ vihamielisyys5, adj.all:vihamielinen3^vihamielinen4,+]  vihamielisyys1,@ (hostile or warlike attitude or nature) }
+{ sotajalalla<idiomatic_pos/>,  hyökkäävyys1,@ (hostile or belligerent mood; "the chief is on the warpath today") }
+{ [ kauna, adj.all:katkera^kaunainen1,+]  mielipaha3,  närkästys2,  [ katkeruus1, adj.all:vihamielinen3^katkera5,+ adj.all:katkera^katkera2,+ adj.all:katkera^katkeroitunut1,+]  [ suuttumus6, verb.emotion:suututtaa1,+]  [ ärsyynnys, verb.emotion:ärsyttää4,+]  ärtymys3,  viha4,  vihamielisyys1,@ (a feeling of deep and bitter anger and ill-will) }
+{ närkästys<broader/>3,  kauna,@ (intense resentment; "his promotion caused much heartburning among his rivals") }
+{ [ murjotus, adj.all:häijy3^murjottava1,+]  [ mökötys, adj.all:häijy3^mököttävä,+]  kauna,@ (a feeling of sulky resentment) }
+{ kauna1,  asianlaita,  asioiden_tila,  tosiasiat,  vääryys<narrower/>,  kauna,@ (a resentment strong enough to justify retaliation; "holding a grudge"; "settling a score") }
+{ kateus,  [ kateellisuus, adj.all:haluava^kateellinen,+]  kauna,@ (a feeling of grudging admiration and desire to have something that is possessed by another) }
+{ himo6,  kateus,@ (an envious eagerness to possess something) }
+{ kateus1,  mustasukkaisuus,  kateus,@ (a feeling of jealous envy (especially of a rival)) }
+{ peniskateus,  kateus,@ noun.act:psykoanalyysi,;c ((psychoanalysis) a female's presumed envy of the male's penis; said to explain femininity) }
+{ [ pahansuopaisuus, hyväntahtoisuus1,! adj.all:pahanilkinen^pahansuopa2,+ hyvänsuopaisuus,!]  pahuus,  [ pahantahtoisuus, hyväntahtoisuus1,! adj.all:pahanilkinen^pahansuopa2,+ hyvänsuopaisuus,!]  suuttumus5,@ (wishing evil to others) }
+{ [ pahanteko, hyväsydämisyys<approximate/>,! adj.all:paha1,+]  pahansuopaisuus,@ (doing or causing evil) }
+{ kaunaisuus,  ilkeys,  [ pahansuopuus1, adj.all:pahanilkinen^pahansuopa1,+]  myrkyllisyys,  pahantahtoisuus1,  katkeruus2,  kauna2,  pahansuopaisuus,@ (feeling a need to see others suffer) }
+{ [ kostonhaluisuus, adj.all:heltymätön1^kostonhaluinen1,+ adj.all:pahanilkinen^kostonhaluinen,+ adj.all:heltymätön1^kostonhimoinen,+]  [ kostonhimoisuus, adj.all:heltymätön1^kostonhaluinen1,+ adj.all:heltymätön1^kostonhimoinen,+]  pahansuopaisuus,@ (a malevolent desire for revenge) }
+{ mieli,  mieliala,  tuuli,  mielentila,  noun.Tops:tunne,@ (a characteristic (habitual or relatively temporary) state of feeling; "whether he praised or cursed me depended on his temper at the time"; "he was in a bad humor") }
+{ paha_tuuli,  mieli,@ (an annoyed or irritated mood) }
+{ [ murjotus1, adj.all:häijy3^murjottava1,+ verb.stative:murjottaa,+]  mökötys1,  mieli,@ (a mood or display of sullen aloofness or withdrawal; "stayed home in a sulk") }
+{ [ hyvä_tuuli, pahantuulisuus,!]  [ hyvä_tuuli<unconfirmed/>1, pahantuulisuus,!]  hyvä_mieliala<unconfirmed/>,  [ rakastettavuus, adj.all:hyväluontoinen^rakastettava2,+]  [ ystävällisyys1, adj.all:ystävällinen3^ystävällinen4,+ adj.all:hyväluontoinen^ystävällinen8,+]  mieli,@ (a cheerful and agreeable mood) }
+{ [ iloisuus7, adj.all:iloinen14^iloluontoinen,+]  hilpeys7,  hyvä_tuuli,@ iloisuus3,@ (feeling jolly and jovial and full of good humor) }
+{ [ pahantuulisuus, hyvä_tuuli,! hyvä_tuuli<unconfirmed/>1,!]  huonotuulisuus1,  vihaisuus,  mieli,@ (an angry and disagreeable mood) }
+{ [ pahantuulisuus1, adj.all:häijy3^pahantuulinen2,+]  pahantuulisuus,@ (a sullen gloomy feeling) }
+{ yrmeys,  äreys,  nyreys,  pahantuulisuus1,@ (a gloomy ill-tempered feeling) }
+{ äkkipikaisuus,  ilkeys1,  kiukku3,  huono_tuuli,@ (a feeling of resentful anger) }
+{ [ ärtyisyys2, adj.all:häijy3^ärtyisä1,+]  [ äkäisyys1, adj.all:häijy3^äkäinen1,+]  hermostuneisuus3,  nirsoilu,  [ kärttyisyys, adj.all:häijy3^kärttyisä1,+ adj.all:häijy3^kärttyinen,+]  [ äreys1, adj.all:häijy3^äreä4,+]  pahantuulisuus,@ (an irritable petulant feeling) }
+{ [ ärtyisyys3, adj.all:herkkätunteinen1^ärtyisä3,+ adj.all:häijy3^ärtyisä1,+]  ärtyisyys2,@ (feeling easily irritated) }
+{ pahantuulenpuuska,  ärtyisyys2,@ (a fit of petulance or sulkiness (especially at what is felt to be a slight)) }
+{ [ sympatia1, adj.all:sympaattinen3,+]  myötätunto,  myötäeläminen,  empatia,  noun.Tops:tunne,@ (sharing the feelings of others (especially feelings of sorrow or anguish)) }
+{ [ hyväsydämisyys1, adj.all:hyväntahtoinen6^hyväsydäminen3,+]  sympatia1,@ (sympathy arising from a kind heart) }
+{ myötätunto1,  [ myötätuntoisuus, adj.all:myötätuntoinen,+]  sympatia1,@ (a deep awareness of and sympathy for another's suffering) }
+{ myötätunto2,  sääli,  surkuttelu,  sympatia1,@ (a feeling of sympathy and sorrow for the misfortunes of others; "the blind are too often objects of pity") }
+{ lempeys,  hyväsydämisyys1,@ (kindheartedness through maturity or old age) }
+{ [ hellyydenosoitus, adj.all:hellä6,+]  [ hellyys3, adj.all:hellä6,+]  [ hellä_tunne, adj.all:hellä6,+]  [ helläsydämisyys1, adj.all:hellä2^helläsydäminen1,+]  myötätunto1,@ (warm compassionate feelings) }
+{ sääliväisyys,  armeliaisuus,  sääli1,  myötätunto1,@ (the feeling that motivates compassion) }
+{ anteeksianto,  sääliväisyys,@ (compassionate feelings that support a willingness to forgive) }
+{ sopusointuisuus,  sympatia1,@ (a feeling of sympathetic understanding) }
+{ [ empatia1, verb.cognition:empatisoida,+]  sympatia1,@ (understanding and entering into another's feelings) }
+{ [ innostus3, adj.all:innostunut2,+]  into4,  noun.Tops:tunne,@ (a feeling of excitement) }
+{ into5,  ahnaus,  kiihkeä_halu,  kiihkeys1,  innostus3,@ (a positive feeling of wanting to push ahead with something) }
+{ into6,  kiihko5,  eloisuus,  lennokkuus,  vauhti,  innokkuus1,  tunteen_palo2,  innostus4,  into5,@ (a feeling of strong eagerness (usually in favor of a person or cause); "they were imbued with a revolutionary ardor"; "he felt a kind of religious zeal") }
+{ [ ylenpalttisuus, adj.all:eloisa14^ylenpalttinen8,+]  innostus3,@ onni2,@ (joyful enthusiasm) }
+{ teknokratia,  innostus3,@ (enthusiasm for new technology) }
+{ ennakko-odotus,  ennakointi,@ ([empty]) }
+{ joulurauha,  rauha,@ ([empty]) }
+{ lisäpotku,  sävärit,@ ([empty]) }
+{ muukalaisviha,  suuttumus5,@ ([empty]) }
+{ työrauha,  rauha,@ ([empty]) }
+{ työtaakka,  taakka,@ ([empty]) }
+{ velkataakka,  taakka,@ ([empty]) }

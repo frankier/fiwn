@@ -1,0 +1,694 @@
+{ [ saada_aikaan, keksiä3,^ saattaa_uuteen_uskoon,^ sepittää,^]  aiheuttaa,   frames: 1 (make or cause to be or to become; "make a mess in one's office"; "create a furor") }
+{ jättää_jäljet,  saada_aikaan,@ frames: 1 (make tracks upon) }
+{ panna_alulle,  tuoda,  saada_aikaan,@ frames: 1 (advance or set forth in court; "bring charges", "institute proceedings") }
+{ tuoda_julkisuuteen,  luoda4,@ frames: 1 (bring in or establish in a new place or environment; "introduce a rule"; "introduce exotic fruits") }
+{ tehdä_oikosulku,  mennä_oikosulkuun,  oikosulkea,  saada_aikaan,@ frames: 1 (create a short circuit in) }
+{ [ tehdä, luopua,!]  luoda3,@ frames: 1 (create or design, often in a certain way; "Do my room in blue"; "I did this piece in wood to express my love for the forest") }
+{ [ luopua, tehdä,!]   frames: 1 (deprive of certain characteristics) }
+{ luoda_uudelleen,  saada_aikaan,@ frames: 1 (create anew; "Re-create the boom of the West on a small scale") }
+{ tehdä_uudelleen,  uudistaa,  uusia,  saattaa_uuteen_uskoon,  tuottaa,@ frames: 1 (make new; "She is remaking her image") }
+{ [ tuhota, noun.person:tuhoaja2,+ adj.all:tuhoisa1,+]  hävittää,  luopua,@ frames: 1 (do away with, cause the destruction or undoing of; "The fire destroyed the house") }
+{ tuhota_itsensä,  tuhoutua_itsestään,  tuhota,@ frames: 1 (do away with oneself or itself; "The machine will self-destruct if you tamper with it") }
+{ tuhota1,  tuhota,@ frames: 1 (destroy (one's own missile or rocket); "The engineers had to destruct the rocket for safety reasons") }
+{ tehdä_loppu_jstk,  tuhota,@ frames: 1 (put an end to; "The terrible news ended our hopes that he had survived") }
+{ murtaa,  tuhota,@ frames: 1 (interrupt, break, or destroy; "fracture the balance of power") }
+{ pyyhkiä_pois,  pyyhkäistä_pois,  tuhota,@ frames: 1 (eliminate completely and without a trace; "The old values have been wiped out") }
+{ tuhota2,  tuhota,@ frames: 1 (destroy by firepower, such as an enemy's line of communication) }
+{ [ tuottaa, noun.artifact:tuote2,+ noun.artifact:tuote1,+]  tehdä1,  [ luoda, noun.act:luominen2,+ noun.artifact:luomus,+]  valmistaa,  luoda3,$ frames: 1 (create or manufacture a man-made product; "We produce more cars than we can sell"; "The company has been making toys for two centuries") }
+{ esivalmistaa,  tuottaa,@ frames: 1 (produce synthetically, artificially, or stereotypically and unoriginally) }
+{ tuottaa<broader/>1,  tuottaa,@ frames: 1 (produce below capacity or demand; "The East German factories were underproducing for many years") }
+{ [ tuottaa2, noun.artifact:tuotos,+ noun.artifact:tuotto,+ noun.act:tuotanto3,+]  tuottaa,@ frames: 1 (to create or manufacture a specific amount; "the computer is outputting the data from the job I'm running") }
+{ [ sykkiä, noun.event:sykäys,+]  [ värähdellä, noun.event:värinä1,+ noun.event:värähtely1,+]  tuottaa,@ frames: 1 (produce or modulate (as electromagnetic waves) in the form of short bursts or pulses or cause an apparatus to produce pulses; "pulse waves"; "a transmitter pulsed by an electronic tube") }
+{ tehdä_hosumalla,  hutiloida,  kyhätä,  pläjäyttää,  tuottaa,@ frames: 1 (make hastily and carelessly) }
+{ tehdä_tilaustyönä,  kustomoida,  räätälöidä,  tuottaa,@ frames: 1 (make to specifications; "I had this desk custom-made for me") }
+{ tehdä_malli,  tuottaa,@ frames: 1 (make a dummy of; "dummy up the books that are to be published") }
+{ [ tuottaa3, noun.artifact:tuotos1,+]  tuottaa,@ frames: 1 (produce quickly or regularly, usually with machinery; "This factory turns out saws") }
+{ valmistaa_koneella,  tuottaa,@ frames: 1 (make by machinery; "The Americans were machining while others still hand-made cars") }
+{ työstää,  muovata,@ frames: 1 (turn, shape, mold, or otherwise finish by machinery) }
+{ hioa,  muovata,@ frames: 1 (shape or form by grinding; "grind lenses for glasses and cameras") }
+{ hioa<unconfirmed/>1,  saada_aikaan,@ frames: 1 (created by grinding; "grind designs into the glass bowl") }
+{ [ meistää, noun.person:meistäjä1,+]  muovata,@ frames: 1 (form or cut out with a mold, form, or die; "stamp needles") }
+{ mellottaa,  [ putlata, noun.person:putlari,+]  muovata,@ frames: 1 (subject to puddling or form by puddling; "puddle iron") }
+{ takoa,  muovata,@ frames: 1 (shape by beating; "beat swords into ploughshares") }
+{ suoltaa,  syytää_ulos,  tuottaa,@ frames: 1 (produce something at a fast rate; "He churns out papers, but they are all about the same topic") }
+{ tuottaa_liikaa,  tuottaa,@ frames: 1 (produce in excess; "The country overproduces cars") }
+{ valmistaa1,  tuottaa,@ frames: 1 (produce from basic elements or sources; change into a more developed product; "The bee elaborates honey") }
+{ tuottaa4,  tuottaa,@ frames: 1 (put out considerable effort; "He put out the same for seven managers") }
+{ liimata_yhteen,  tuottaa,@ frames: 1 (create laminate by bonding sheets of material with a bonding material) }
+{ valmistaa_massatuotantona,  valmistaa4,@ frames: 1 (produce on a large scale) }
+{ kopioida<broader/>,  tuottaa,@ frames: 1 (produce or distribute illegally; "bootleg tapes of the diva's singing") }
+{ laatia,  koota,  koostaa,  valmistaa5,@ frames: 1 (put together out of existing material; "compile a list") }
+{ sekoittaa,  [ valmistaa2, noun.act:valmistaminen1,+]  yhdistää,  asentaa,@ frames: 1 (make into a confection; "This medicine is home-confected") }
+{ kyhätä1,  tuhertaa,  laatia,@ frames: 1 (put together hastily) }
+{ koota_antologia,  laatia,@ frames: 1 (compile an anthology) }
+{ [ luetteloida, noun.communication:luettelo3,+ noun.person:luetteloija,+ noun.communication:luettelo,+]  laatia,@ frames: 1 (make a catalogue, compile a catalogue; "She spends her weekends cataloguing") }
+{ [ kääntää, noun.communication:kääntäjä1,+ noun.communication:käännin,+]  valmistaa5,@ frames: 1 (use a computer program to translate source code written in a particular programming language into computer-readable machine code that can be executed) }
+{ aiheuttaa1,  saada_aikaan1,  synnyttää,  saada_aikaan,@ frames: 1 (bring into existence; "The new manager generated a lot of problems"; "The computer bug generated chaos in the office"; "The computer generated this image"; "The earthquake generated a tsunami") }
+{ esittää,  aiheuttaa1,@ frames: 1 (bring forth, usually something desirable; "The committee came up with some interesting recommendations") }
+{ synnyttää_vähitellen,  aiheuttaa1,@ verb.change:kehittää1,$ verb.change:kehittää10,$ frames: 1 (generate gradually; "We must develop more potential customers"; "develop a market for the new mobile phone") }
+{ [ tuottaa5, noun.act:tuottaminen1,+]  tuottaa,@ frames: 1 (produce (energy); "We can't generate enough power for the entire city"; "The hydroelectric plant needs to generate more electricity") }
+{ [ aloittaa, verb.stative:olla_lähtöisin,^ noun.person:aloittelija3,+ noun.time:aloitus,+ noun.act:aloitus,+]  perustaa,  saada_aikaan,@ frames: 1 (bring into being; "He initiated a new program"; "Start a foundation") }
+{ virittää,  aloittaa,@ frames: 1 (apply or start; "set fire to a building") }
+{ antaa,  antaa_takaisin,  [ tuottaa6, noun.quantity:tuotto,+ noun.artifact:tuotto1,+ noun.possession:tuotto1,+ noun.act:tuottaminen1,+]  tuottaa,@ saada_aikaan2,$ luoda4,$ frames: 1 (give or supply; "The cow brings in 5 liters of milk"; "This year's crop yielded 1,000 bushels of corn"; "The estate renders some revenue for the family") }
+{ saada_aikaan2,  antaa1,  tuottaa7,  saada_aikaan,@ antaa,$ frames: 1 (cause to happen or be responsible for; "His two singles gave the team the victory") }
+{ [ aiheuttaa2, tuoda_esiin,^ saada_aikaan4,^ verb.social:onnistua1,^]  tuoda1,  tuottaa8,  aikaansaada,  tehdä2,  saada_aikaan,@ verb.social:toimia7,$ frames: 1 (cause to happen or to occur as a consequence; "I cannot work a miracle"; "wreak havoc"; "bring comments"; "play a joke"; "The rain brought relief to the drought-stricken area") }
+{ synnyttää1,  ottaa_esiin,  saada_aikaan3,  herättää,  kaivaa_esiin,  kutsua,  nostattaa,  tuoda_esiin,  peräänkuuluttaa,  saada_aikaan,@ herättää3,$ frames: 1 (summon into action or bring into existence, often as if by magic; "raise the specter of unemployment"; "he conjured wild birds in the air"; "call down the spirits from the mountain") }
+{ tuoda_esiin1,  paljastaa,  verb.cognition:tulkita,@ frames: 1 (deduce (a principle) or construe (a meaning); "We drew out some interesting linguistic data from the native informant") }
+{ pusertaa,  verb.possession:saada2,@ frames: 1 (get or cause to become in a difficult or laborious manner) }
+{ [ urkkia, noun.cognition:urkkiminen,+]  puristaa,  pusertaa,@ frames: 1 (make an uninvited or presumptuous inquiry; "They pried the information out of him") }
+{ luoda_uudelleen1,  [ uusia1, noun.act:uusiminen,+]  luoda_uudelleen,@ frames: 1 (reestablish on a new, usually improved, basis or make new or like new; "We renewed our friendship after a hiatus of twenty years"; "They renewed their membership") }
+{ luoda_aivotyöllä,  luoda_henkisesti,  saada_aikaan,@ frames: 1 (create mentally and abstractly rather than with one's hands) }
+{ luoda1,  keksiä,  luoda_aivotyöllä,@ frames: 1 (create or produce an idea; "Marx and Engels gave birth to communism") }
+{ [ kaavioida, noun.act:kaava,+]  luoda_aivotyöllä,@ verb.change:organisoida,* frames: 1 (formulate in regular order; to reduce to a scheme or formula; "The chemists schematized the various reactions in a coherent fashion") }
+{ [ keksiä1, noun.act:keksiminen3,+ noun.person:keksijä2,+ noun.cognition:kekseliäisyys,+ noun.act:keksiminen4,+ noun.person:keksijä3,+]  kehittää,  [ muodostaa, noun.act:muotoilu2,+]  [ kekata, noun.act:keksiminen3,+ noun.person:keksijä2,+ noun.cognition:kekseliäisyys,+ noun.act:keksiminen4,+ noun.person:keksijä3,+]  luoda_aivotyöllä,@ frames: 1 (come up with (an idea, plan, explanation, theory, or principle) after a mental effort; "excogitate a way to measure the speed of light") }
+{ projisoida,  luoda2,  heijastaa,  suunnata,  verb.motion:lähettää1,@ frames: 1 (put or send forth; "She threw the flashlight beam into the corner"; "The setting sun threw long shadows"; "cast a spell"; "cast a warm light") }
+{ laatia_kaavan_mukaan,  tehdä_raaka-aineista,@ noun.cognition:kemia,;c frames: 1 (prepare according to a formula) }
+{ hahmotella,  suunnitella,  luonnostella,  kehitellä,  luoda_aivotyöllä,@ frames: 1 (have the idea for; "He conceived of a robot that would help paralyzed patients"; "This library was well conceived") }
+{ [ suunnitella1, noun.cognition:suunnitelma9,+]  muotoilla,  hahmotella,@ frames: 1 (conceive or fashion in the mind; invent; "She designed a good excuse for not attending classes that day") }
+{ käsittää_ennakkoon,  hahmotella,@ frames: 1 (conceive beforehand; "a preconceived notion") }
+{ keksiä2,  haaveilla,  hautoa,  kehittää1,  luoda_aivotyöllä,@ frames: 1 (devise or invent; "He thought up a plan to get rich quickly"; "no-one had ever thought of such a clever piece of software") }
+{ [ keksiä3, noun.act:keksiminen2,+ noun.act:keksiminen3,+]  tekaista,  sepittää,  keksiä2,@ frames: 1 (make up something artificial or untrue) }
+{ luoda_myytti,  mytologisoida,  keksiä3,@ frames: 1 (construct a myth; "The poet mythologized that the King had three sons") }
+{ [ satuilla, noun.cognition:satuilu,+]  keksiä3,@ noun.cognition:psykiatria,;c frames: 1 (unconsciously replace fact with fantasy in one's memory) }
+{ tekaista1,  keittää_kokoon,  keksiä3,@ frames: 1 (invent; "trump up charges") }
+{ [ fiktionalisoida, noun.communication:fiktio<approximate/>,+ noun.act:fiktionalisointi,+]  kirjoittaa_uudelleen,  luoda_uudelleen,@ frames: 1 (make into fiction; "The writer fictionalized the lives of his parents in his latest novel") }
+{ [ kuvitella, noun.cognition:kuvittelu1,+ noun.cognition:kuvittelu2,+ noun.cognition:kuva2,+ noun.artifact:kuva4,+ noun.artifact:kuva,+]  [ kuvitella_mielessään, noun.cognition:kuvittelu1,+ noun.cognition:kuvittelu2,+ noun.cognition:kuva2,+ noun.artifact:kuva4,+ noun.artifact:kuva,+]  visualisoida,  visioida,  kuvitella2,@ verb.cognition:ymmärtää8,$ muodostaa_mielikuva,$ frames: 1 (imagine; conceive of; see in one's mind; "I can't see him on horseback!"; "I can see what will happen"; "I can see a risk in this strategy") }
+{ muodostaa_mielikuva,  visualisoida1,  kuvitella2,@ kuvitella,$ frames: 1 (form a mental picture of something that is invisible or abstract; "Mathematicians often visualize") }
+{ kuvitella1,  nähdä,  kuvitella_mielessään1,  visioida1,  kuvitella2,@ frames: 1 (picture to oneself; imagine possible; "I cannot envision him as President") }
+{ kuvitella2,  visioida2,  muodostaa_mielessään_käsitys,  nähdä_mielessään,  luoda_aivotyöllä,@ frames: 1 (form a mental image of something that is not present or that is not the case; "Can you conceive of him as the president?") }
+{ kuvitella3,  fantisoida,  kuvitella2,@ frames: 1 (portray in the mind; "he is fantasizing the ideal wife") }
+{ [ ennustaa, noun.cognition:ennustus2,+ noun.cognition:ennuste3,+]  kuvitella4,  kuvitella2,@ frames: 1 (imagine or consider beforehand; "It wasn't as bad as I had prefigured") }
+{ kuvitella5,  miettiä,  kuvitella2,@ frames: 1 (imagine or visualize; "Just think--you could be rich one day!"; "Think what a scene it must have been!") }
+{ [ fantisoida1, noun.cognition:fantasia,+]  haaveilla1,  kuvitella2,@ frames: 1 (indulge in fantasies; "he is fantasizing when he says he plans to start his own company") }
+{ [ unelmoida, haaveilla,^ noun.cognition:unelma1,+ noun.person:uneksija,+ noun.person:uneksija1,+]  [ uneksia, noun.cognition:unelma2,+]  [ haihatella, noun.person:haihattelija,+]  [ haaveilla2, noun.person:haaveilija1,+]  kuvitella2,@ frames: 1 (have a daydream; indulge in a fantasy) }
+{ [ löytää, noun.object:löydös,+ noun.act:löytäminen,+ noun.cognition:löytö,+]  keksiä4,  hahmotella,@ verb.perception:havaita6,$ verb.cognition:huomata3,$ verb.communication:määrittää,$ frames: 1 (make a discovery, make a new finding; "Roentgen discovered X-rays"; "Physicists believe they found a new elementary particle") }
+{ [ suunnitella2, noun.cognition:suunnittelu,+ noun.person:suunnittelija6,+ noun.cognition:suunnitelma1,+ noun.cognition:suunnitelma,+ noun.cognition:suunnitelma9,+]  luoda_aivotyöllä,@ frames: 1 (make or work out a plan for; devise; "They contrived to murder their boss"; "design a new sales strategy"; "plan an attack") }
+{ suunnitella3,  suunnitella2,@ frames: 1 (devise the sequence of events in (a literary work or a play, movie, or ballet); "the writer is plotting a new novel") }
+{ sopia_yhdessä,  suunnitella2,@ frames: 1 (contrive (a plan) by mutual agreement) }
+{ lyödä,  lyödä_rahaa,  tehdä_raaka-aineista,@ frames: 1 (form by stamping, punching, or printing; "strike coins"; "strike a medal") }
+{ kutoa,  tehdä_raaka-aineista,@ suulakepuristaa,* frames: 1 (form a web by making a thread; "spiders spin a fine web") }
+{ keksiä_juttuja,  tarinoida,  keksiä3,@ frames: 1 (make up a story; "spin a yarn") }
+{ pistää_väliin,  verb.communication:heittää_väliin2,@ frames: 1 (interpolate or insert (words) into a sentence or story) }
+{ [ suunnitella4, noun.act:suunnitteleminen,+ noun.person:suunnittelija,+ noun.person:suunnittelija6,+ noun.act:suunnittelu,+]  luoda_aivotyöllä,@ frames: 1 (make a design of; plan out in systematic, often graphic form; "design a better mousetrap"; "plan the new wing of the museum") }
+{ suunnitella_uudelleen,  suunnitella4,@ frames: 1 (design anew, make a new design for) }
+{ [ luoda3, noun.event:luominen,+ adj.all:rakentava^luova,+ adj.all:luova1,+]  tehdä3,  saada_aikaan,@ tuottaa,$ frames: 1 (create by artistic means; "create a poem"; "Schoenberg created twelve-tone music"; "Picasso created Cubism"; "Auden made verses") }
+{ [ suunnitella5, noun.act:suunnitteleminen,+ noun.person:suunnittelija,+ noun.person:suunnittelija1,+]  luoda3,@ suunnitella9,$ frames: 1 (create the design for; create or execute in an artistic or highly skilled manner; "Chanel designed the famous suit") }
+{ [ toteuttaa, noun.act:toteuttaminen,+]  viedä_läpi,  [ suorittaa, adj.all:mahdollinen3^suoritettavissa_oleva,+ noun.act:suoritus,+]  panna_toimeen,  [ toimittaa, noun.act:toimeenpano1,+]  toimeenpanna,  tehdä4,  [ täyttää, noun.act:täyttäminen,+]  panna_täytäntöön,  saattaa_voimaan,  aiheuttaa3,@ verb.change:saada_valmiiksi,@ verb.change:viedä_läpi,$ frames: 1 (put in effect; "carry out a task"; "execute the decision of the people"; "He actioned the operation") }
+{ suoriutua,  toteuttaa,@ frames: 1 (to bring (a necessary but unpleasant task) to an end; "Let's get this job over with"; "It's a question of getting over an unpleasant task") }
+{ suorittaa1,  tehdä5,  toteuttaa,@ frames: 1 (carry out; "run an errand") }
+{ saattaa_täydelliseksi,  toteuttaa,@ frames: 1 (make perfect; bring to perfection) }
+{ [ täydellistää, noun.act:täydellistäminen,+ noun.act:täydellistäminen1,+]  toteuttaa,@ verb.contact:harrastaa_seksiä,* frames: 1 (fulfill sexually; "consummate a marriage") }
+{ [ aloittaa1, noun.person:aloitteen_tekijä,+]  olla_uranuurtaja,  aiheuttaa7,@ frames: 1 (take the lead or initiative in; participate in the development of; "This South African surgeon pioneered heart transplants") }
+{ aloittaa2,  viritellä,  aloittaa1,@ frames: 1 (begin; "strike up a conversation"; "strike up a friendship") }
+{ tuoda_markkinoille,  aloittaa1,@ frames: 1 (bring something new to an environment; "A new word processor was introduced") }
+{ [ ottaa_vaiheittain_käyttöön, lopettaa_vaiheittain,!]  tuoda_markkinoille,@ frames: 1 (introduce gradually) }
+{ [ lopettaa_vaiheittain, ottaa_vaiheittain_käyttöön,!]  verb.change:lopettaa3,@ frames: 1 (terminate gradually) }
+{ aiheuttaa3,  toteuttaa1,  tuottaa9,  panna_toimeen1,  aiheuttaa7,@ verb.change:tapahtua,> frames: 1 (produce; "The scientists set up a shock wave") }
+{ päästä,  aiheuttaa3,@ noun.act:baseball,;c frames: 1 (earn or achieve a base by being walked by the pitcher; "He drew a base on balls") }
+{ [ piirtää, noun.act:piirtäminen1,+ noun.communication:piirros,+]  luoda7,@ verb.contact:seurata,$ frames: 1 (engage in drawing; "He spent the day drawing in the garden") }
+{ laukaista,  käynnistää,  herättää1,  panna_liikkeelle,  panna_alulle1,  sytyttää,  aiheuttaa4,  aloittaa1,@ verb.change:tapahtua,> frames: 1 (put in motion or move to act; "trigger a reaction"; "actuate the circuits") }
+{ [ aiheuttaa5, noun.act:aiheuttaminen1,+]  saada_aikaan4,  aikaansaada1,  aiheuttaa1,@ frames: 1 (cause to arise; "induce a crisis") }
+{ tuoda2,   frames: 1 (cause to appear; "bring on the birthday cake") }
+{ jouduttaa,  aiheuttaa3,@ frames: 1 (bring about abruptly; "The crisis precipitated by Russia's revolution") }
+{ aiheuttaa6,  kiihottaa,  synnyttää2,  herättää2,  aikaansaada2,  aiheuttaa3,@ frames: 1 (cause to occur rapidly; "the infection precipitated a high fever and allergic reactions") }
+{ [ toteuttaa2, noun.act:toteutuma,+]  tehdä_todeksi,  vahvistaa,  aktualisoida,  saada_aikaan,@ frames: 1 (make real or concrete; give reality or substance to; "our ideas must be substantiated into actions") }
+{ [ ruumiillistaa, tehdä_aineettomaksi,!]  toteuttaa2,@ frames: 1 (make concrete and real) }
+{ [ tehdä_aineettomaksi, ruumiillistaa,!]  verb.change:muuttaa_aineettomaksi,@ frames: 1 (make immaterial; remove the real essence of) }
+{ panna_alulle2,  aloittaa3,  tuoda_markkinoille,@ frames: 1 (open up an area or prepare a way; "She pioneered a graduate program for women students") }
+{ [ aiheuttaa7, adj.all:aiheuttava,+ noun.event:aiheuttaja,+]  tuottaa10,  saada_aikaan5,  saada_aikaan,@ frames: 1 (give rise to; cause to happen or occur, not always intentionally; "cause a commotion"; "make a stir"; "cause an accident") }
+{ saada_jku_tekemään_jtak,  pakottaa,  aiheuttaa7,@ frames: 1 (compel or make somebody or something to act in a certain way; "People cannot be made to integrate just by passing a law!"; "Heat makes you sweat") }
+{ pakottaa1,  saada_jku_tekemään_jtak,@ verb.social:innostaa,$ verb.contact:pakottaa1,$ frames: 1 (compel somebody to do something, often against his own will or judgment; "She finally drove him to change jobs") }
+{ [ aiheuttaa8, noun.motive:aihe,+]  aiheuttaa7,@ frames: 1 (give occasion to) }
+{ [ inspiroida, noun.cognition:inspiraatio1,+]  innoittaa,  aiheuttaa8,@ frames: 1 (supply the inspiration for; "The article about the artist inspired the exhibition of his recent work") }
+{ herättää3,  saada_aikaan6,  houkutella_esiin,  nostattaa1,  aiheuttaa7,@ synnyttää1,$ frames: 1 (evoke or provoke to appear or occur; "Her behavior provoked a quarrel between the couple") }
+{ haastaa,  herättää3,@ frames: 1 (provoke; "pick a fight or a quarrel") }
+{ [ perustaa1, noun.act:perustaminen,+ noun.person:perustaja,+ noun.act:perustaminen2,+]  panna_alulle3,  aloittaa1,@ frames: 1 (set up or lay the groundwork for; "establish a new department") }
+{ päättää,  sopia,  perustaa1,@ frames: 1 (set or place definitely; "Let's fix the date for the party!") }
+{ luoda4,  saada_aikaan7,  aiheuttaa9,  synnyttää3,  saada_aikaan,@ antaa,$ frames: 1 (bring about; "The trompe l'oeil-illusion establishes depth") }
+{ [ rauhoittaa, noun.state:rauha3,+ noun.person:rauhantekijä,+ noun.communication:rauha,+ noun.state:rauha2,+ noun.communication:rauhansopimus,+ noun.person:rauhoittaja,+]  luoda4,@ frames: 1 (fight violence and try to establish peace in (a location); "The U.N. troops are working to pacify Bosnia") }
+{ järjestää,  tehdä6,  aloittaa1,@ frames: 1 (plan, organize, and carry out (an event); "the neighboring tribe staged an invasion") }
+{ järjestää_koiratappelu,  järjestää,@ frames: 1 (arrange for an illegal dogfight) }
+{ sopia1,  verb.communication:sopia5,@ frames: 1 (arrange by concord or agreement; "Concord the conditions for the marriage of the Prince of Wales with a commoner") }
+{ järjestää1,  järjestää,@ frames: 1 (make detailed arrangements or preparations) }
+{ järjestää_ennalta,  sovittaa,@ frames: 1 (arrange beforehand) }
+{ [ vaiheistaa, noun.time:vaihe4,+]  järjestää,@ frames: 1 (arrange in phases or stages; "phase a withdrawal") }
+{ luoda5,  synnyttää4,  aiheuttaa10,  aiheuttaa7,@ frames: 1 (call forth) }
+{ käynnistää1,  aloittaa1,@ frames: 1 (put up or launch; "mount a campaign against pornography") }
+{ järjestää2,  valmistella,  organisoida,@ frames: 1 (prepare and supply with the necessary equipment for execution or performance; "mount a theater production"; "mount an attack"; "mount a play") }
+{ [ uusia2, noun.communication:uusinta,+]  järjestää2,@ frames: 1 (rerun a performance of a play, for example) }
+{ soittaa_riffejä,  soittaa2,@ frames: 1 (play riffs) }
+{ soittaa_väärin,  soittaa2,@ frames: 1 (play incorrectly, e.g., play a wrong note) }
+{ tehdä7,  suorittaa2,  saada_aikaan,@ frames: 1 (carry out (performances); "They turned in a splendid effort"; "They turned in top jobs for the second straight game") }
+{ kannustaa,  saada_aikaan8,  aiheuttaa11,  johdattaa,  yllyttää,  motivoida,  innostaa,  aiheuttaa7,@ verb.emotion:liikuttaa3,$ verb.emotion:vaikuttaa,$ frames: 1 (give an incentive for action; "This moved me to sacrifice my career") }
+{ pakottaa2,  aiheuttaa7,@ frames: 1 (urge or force (a person) to an action; constrain or motivate) }
+{ [ alkaa, noun.event:alku2,+ noun.time:alkaminen,+ noun.time:alku2,+ noun.time:alkuunpano,+ noun.act:alkaminen,+ noun.act:alku,+ noun.act:alkuunpano,+]  [ aloittaa4, noun.time:aloitus,+ noun.act:aloitus,+ noun.act:aloittaminen,+]  [ perustaa2, noun.act:perustaminen1,+]  verb.change:aloittaa4,@ frames: 1 (get off the ground; "Who started this company?"; "We embarked on an exciting enterprise"; "I start my day with a good breakfast"; "We began the new semester"; "The afternoon session begins at 4 PM"; "The blood shed started when the partisans launched a surprise attack") }
+{ virittää1,  soittaa,  soittaa4,@ noun.act:musiikki,;c noun.communication:musiikki,;c noun.cognition:musiikki1,;c frames: 1 (start playing; "The musicians struck up a tune") }
+{ ryhtyä,  ruveta,  aloittaa1,@ frames: 1 (enter upon an activity or enterprise) }
+{ organisoida,  järjestää3,  [ valmistella1, adj.all:edeltävä2^valmistava,+]  suunnitella6,  koota1,  [ juonitella, noun.cognition:juonittelu,+ noun.cognition:juoni3,+]  masinoida,  aloittaa1,@ frames: 1 (arrange by systematic planning and united effort; "machinate a plot"; "organize a strike"; "devise a plan to take over the director's office") }
+{ asettaa,  laatia1,  tehdä8,  organisoida,@ frames: 1 (prepare or position for action or operation; "lay a fire"; "lay the foundation for a new health care plan") }
+{ [ kantaa_hedelmää, verb.stative:tukea1,^ verb.stative:vahvistaa,^]  [ tuottaa11, verb.stative:tukea1,^ verb.stative:vahvistaa,^]  valmistaa3,  saada_aikaan,@ frames: 1 (bring forth, "The apple tree bore delicious apples this year"; "The unidentified plant bore gorgeous flowers") }
+{ tehdä_siementä,  kantaa_hedelmää,@ frames: 1 (bear seeds) }
+{ antaa_satoa,  kantaa_hedelmää,@ frames: 1 (yield crops; "This land crops well") }
+{ kantaa_liikaa_hedelmää,  kantaa_hedelmää,@ frames: 1 (bear too much) }
+{ [ hedelmöidä, noun.plant:hedelmä,+ noun.state:hedelmöinti,+]  kantaa_hedelmää1,  kantaa_hedelmää,@ frames: 1 (bear fruit; "the trees fruited early this year") }
+{ saada_tuottamaan_hedelmää,  hedelmöidä,> frames: 1 (cause to bear fruit) }
+{ tehdä_raaka-aineista,  saada_aikaan,@ frames: 1 (make from scratch) }
+{ [ valmistaa4, noun.person:valmistaja,+ noun.group:valmistaja,+]  koota2,  rakentaa,  valmistaa5,@ frames: 1 (put together out of artificial or natural components or parts; He manufactured a popular cereal"; "the company fabricates plastic chairs"; "They manufacture small toys") }
+{ valmistaa5,  tehdä_raaka-aineista,@ frames: 1 (make by shaping or bringing together constituents; "make a dress"; "make a cake"; "make a wall of stones") }
+{ tehdä_lautta,  valmistaa4,@ frames: 1 (make into a raft; "raft these logs") }
+{ [ väärentää, noun.person:väärentäjä2,+ noun.act:väärennys,+ noun.artifact:väärennös1,+ noun.artifact:väärennös,+ noun.act:väärennös,+ noun.act:väärentäminen1,+]  luoda_uudelleen,@ frames: 1 (make a copy of with the intent to deceive; "he faked the signature"; "they counterfeited dollar bills"; "She forged a Green Card") }
+{ pystyttää,  [ rakentaa1, noun.person:rakennusurakoitsija,+ noun.act:rakentaminen,+]  valmistaa6,  saada_aikaan,@ luoda8,$ frames: 1 (make by combining materials and parts; "this little pig made his house out of straw"; "Some eccentric constructed an electric brassiere warmer") }
+{ rakentaa_kivimuuri,  pystyttää,@ frames: 1 (construct with drywall; "dry-wall the basement of the house") }
+{ rakentaa_sulkuja,  pystyttää,@ frames: 1 (build locks in order to facilitate the navigation of vessels) }
+{ luoda6,  kasvattaa,  saada_aikaan,@ frames: 1 (build or establish something abstract; "build a reputation") }
+{ [ punoa, noun.artifact:punos3,+]  pystyttää,@ noun.act:rakentaminen,;c frames: 1 (build of or with wattle) }
+{ kiinnittää,  pystyttää,@ noun.act:rakentaminen,;c frames: 1 (construct by fitting or uniting parts together) }
+{ rakentaa_uudelleen,  jälleenrakentaa,  pystyttää,@ noun.act:rakentaminen,;c frames: 1 (build again; "The house was rebuild after it was hit by a bomb") }
+{ ruoteittaa,  varustaa_holviruoteella,  varustaa_ristikaarella,  pystyttää,@ noun.act:rakentaminen,;c frames: 1 (build with groins; "The ceiling was groined") }
+{ rakentaa<broader/>2,  pystyttää,@ noun.act:arkkitehtuuri,;c frames: 1 (construct with girders and beams such that only one end is fixed; "Frank Lloyd Wright liked to cantilever his buildings") }
+{ hävittää_maan_tasalle,  murskata,  tuhota3,  hajottaa,  tuhota,@ frames: 1 (destroy completely; "the wrecking ball demolished the building"; "demolish your enemies"; "pulverize the rebellion before it gets out of hand") }
+{ [ asentaa, purkaa,! noun.artifact:asennus1,+]  [ kasata, purkaa,!]  [ koota3, purkaa,!]  liittää,  yhdistää1,  harsia,  kiinnittää1,  kursia,  verb.contact:liittää3,@ saada_aikaan,@ frames: 1 (create by putting components or members together; "She pieced a quilt"; "He tacked together some verses"; "They set up a committee") }
+{ [ sekoittaa1, noun.state:sekamelska4,+ noun.state:sekasotku1,+ noun.act:sekaantuminen2,+]  sotkea,  asentaa,@ verb.cognition:sekoittaa,$ frames: 1 (assemble without order or sense; "She jumbles the words when she is supposed to write a sentence") }
+{ koota_uudelleen,  asentaa,@ frames: 1 (assemble once again, after taking something apart) }
+{ [ konfiguroida, noun.cognition:konfiguraatio,+]  asentaa,@ frames: 1 (set up for a particular purpose; "configure my new computer"; "configure a plane for a combat mission") }
+{ [ yhdistää2, noun.substance:yhdiste1,+ noun.act:yhdistäminen,+ noun.cognition:yhdistelmä,+]  asentaa,@ frames: 1 (create by mixing or combining) }
+{ [ purkaa, asentaa,! kasata,! koota3,! noun.act:purkaminen4,+]  purkaa_osiin,  hajottaa1,  hajottaa_osiin,  tuhota,@ frames: 1 (take apart into its constituent pieces) }
+{ muodostaa1,  muokata,  valmistaa5,@ frames: 1 (make out of components (often in an improvising manner); "She fashioned a tent out of a sheet and a few sticks") }
+{ [ sitoa, noun.act:sitominen2,+]  muodostaa1,@ frames: 1 (make by tying pieces together; "The fishermen tied their flies") }
+{ valaa_uudestaan,  muovailla_uudestaan,  muokata_uudestaan,  tehdä_uudelleen,@ frames: 1 (cast or model anew; "She had to recast her image to please the electorate in her home state") }
+{ valmistaa_käsin,  muodostaa1,@ frames: 1 (make by hand and with much skill; "The artisan crafted a complicated tool") }
+{ tehdä_käsityönä,  valmistaa_käsin,@ frames: 1 (make something by hand; "We handcraft all our paper") }
+{ tehdä_tynnyreitä,  valmistaa5,@ frames: 1 (make barrels and casks) }
+{ [ muovata, noun.act:muotoilu1,+ noun.attribute:muoto,+ noun.person:muovaaja<unconfirmed/>,+]  [ muotoilla1, noun.artifact:muotti,+ noun.artifact:muodostelma,+ noun.act:muotoilu1,+]  takoa1,  muokata1,  tehdä_raaka-aineista,@ työstää1,$ frames: 1 (make something, usually for a specific function; "She molded the rice balls carefully"; "Form cylinders from the dough"; "shape a figure"; "Work the metal into a sword") }
+{ esimuotoilla,  muovata,@ esimuotoilla1,$ frames: 1 (form or shape beforehand or determine the shape of beforehand) }
+{ esimuotoilla1,  muovata,@ esimuotoilla,$ frames: 1 (form into a shape resembling the final, desired one) }
+{ [ kasata1, noun.artifact:kasa,+]  muovata,@ frames: 1 (form into a rounded elevation; "mound earth") }
+{ vallittaa,  kasata1,@ frames: 1 (form a mound over) }
+{ kerätä_kasaan,  muovata,@ frames: 1 (form into a hill) }
+{ muokata_hahmotellen<unconfirmed/>,  muovata,@ frames: 1 (shape roughly) }
+{ muotoilla_uudelleen,  muokata_uudelleen,  muovata,@ frames: 1 (shape again or shape differently) }
+{ kastaa,  tehdä_raaka-aineista,@ frames: 1 (place (candle wicks) into hot, liquid wax) }
+{ sintrata,  muovata,@ frames: 1 (cause (ores or powdery metals) to become a coherent mass by heating without melting) }
+{ [ pystyttää1, hävittää_maan_tasalle1,! noun.act:pystytys,+ noun.act:pystyttäminen,+]  pystyttää,@ noun.act:rakentaminen,;c frames: 1 (construct, build, or erect; "Raise a barn") }
+{ pohjustaa,  saattaa_alkuun,  organisoida,@ frames: 1 (begin, or enable someone else to begin, a venture by providing the means, logistics, etc.; "set up an election") }
+{ koota4,  asentaa,@ frames: 1 (erect or construct, especially as a temporary measure; "Can he rig up a P.A. system?") }
+{ [ hävittää_maan_tasalle1, pystyttää1,!]  tuhota4,  hävittää1,  hajottaa2,  repiä,  purkaa1,  hajottaa_osiinsa,  tuhota_maan_tasalle,  tuhota,@ frames: 1 (tear down so as to make flat with the ground; "The building was levelled") }
+{ juuria,  [ hävittää2, noun.event:hävittäminen1,+]  [ hävittää_perin_pohjin, noun.act:hävittäminen1,+]  kitkeä_juurineen,  tuhota5,  tuhota,@ frames: 1 (destroy completely, as if down to the roots; "the vestiges of political democracy were soon uprooted" "root out corruption") }
+{ päästää_rappeutumaan,  rapistuttaa,  tuhota,@ frames: 1 (bring into a condition of decay or partial ruin by neglect or misuse) }
+{ [ puristaa1, noun.artifact:puriste1,+ noun.artifact:puristin1,+]  valaa,@ frames: 1 (press from a plastic; "press a record") }
+{ [ valaa, noun.artifact:valos,+ noun.person:valaja,+ noun.act:valaminen,+ noun.artifact:valu,+ noun.artifact:valos2,+ noun.act:valu,+]  [ muovata1, noun.artifact:muotti2,+ adj.all:elastinen^muokattava,+]  muovata,@ frames: 1 (form by pouring (e.g., wax or hot metal) into a cast or mold; "cast a bronze sculpture") }
+{ valaa_uudestaan1,  valaa_muottiin,  valaa,@ frames: 1 (cast again; "The bell cracked and had to be recast") }
+{ valaa_hiekkaan,  valaa,@ frames: 1 (pour molten metal into a mold of sand) }
+{ valaa1,  dreijata,  muovata,@ frames: 1 (make on a potter's wheel; "she threw a beautiful teapot") }
+{ muotoilla_käsin<unconfirmed/>,  muovata,@ frames: 1 (make without a potter's wheel; "This famous potter hand-builds all of her vessels") }
+{ [ leipoa, noun.person:leipuri1,+ noun.person:leipuri,+ noun.act:leipominen1,+ noun.act:leivonta1,+]  paistaa,  tehdä_raaka-aineista,@ frames: 1 (prepare with dry heat in an oven; "bake a cake") }
+{ [ panna, noun.person:panimomestari,+ noun.artifact:panimo,+]  tehdä_raaka-aineista,@ verb.change:hapantua3,* frames: 1 (prepare by brewing; "people have been brewing beer for thousands of years") }
+{ [ kokata, noun.person:kokki,+]  valmistaa7,  laittaa,  tehdä9,  tehdä_raaka-aineista,@ tehdä14,$ frames: 1 (prepare for eating by applying heat; "Cook me dinner, please"; "can you make me an omelette?"; "fix breakfast for the guests, please") }
+{ keittää_paistiliemi_kastikkeeksi<approximate/>,  kokata,@ frames: 1 (dissolve cooking juices or solid food in (a pan) by adding liquid and stirring) }
+{ gratinoida,  kokata,@ frames: 1 (bake in a sauce, milk, etc., often with breadcrumbs on top) }
+{ flambeerata,  liekittää,  kokata,@ frames: 1 (pour liquor over and ignite (a dish)) }
+{ panna_väliin,  organisoida,@ frames: 1 (make into a sandwich) }
+{ kytkeä,  kokata,@ noun.act:ruuanlaitto,;c frames: 1 (put on the stove or ready for cooking; "put on the tea, please!") }
+{ [ paistaa_kokonaisena<approximate/>, noun.food:paistettu_kana,+]  organisoida,@ noun.act:ruuanlaitto,;c frames: 1 (prepare for eating if or as if a spatchcock; "spatchcock a guinea hen") }
+{ maustaa_voimakkaasti,  kokata,@ noun.act:ruuanlaitto,;c frames: 1 (coat or stuff with a spicy paste; "devilled eggs") }
+{ laittaa_ruokaa,  tehdä_ruokaa,  tehdä_raaka-aineista,@ noun.act:ruuanlaitto,;c verb.change:keittää,* frames: 1 (prepare a hot meal; "My husband doesn't cook") }
+{ esikypsentää,  kokata,@ noun.act:ruuanlaitto,;c frames: 1 (cook beforehand so that the actual preparation won't take long; "precook the rice") }
+{ väsätä,  kyhätä2,  kokata,@ noun.act:ruuanlaitto,;c frames: 1 (prepare or cook quickly or hastily) }
+{ [ sekoittaa2, noun.act:sekoittaminen4,+]  valmistaa8,  kokata,@ noun.act:ruuanlaitto,;c frames: 1 (prepare or cook by mixing ingredients; "concoct a strange mixture") }
+{ ommella,  [ räätälöidä1, noun.person:räätäli1,+ noun.act:räätälin_ammatti,+]  tehdä_tilaustyönä1,  vaatehtia,  muodostaa1,@ frames: 1 (create (clothes) with cloth; "Can the seamstress sew me a suit by next week?") }
+{ ommella1,  ommella,@ frames: 1 (make by sewing together quickly; "run up a skirt") }
+{ leikata,  ommella2,  suunnitella5,@ noun.cognition:muoti1,;c frames: 1 (style and tailor in a certain fashion; "cut a dress") }
+{ muodistaa,  stailata,  saada_aikaan,@ noun.cognition:muoti1,;c frames: 1 (make consistent with a certain fashion or style; "Style my hair"; "style the dress") }
+{ [ muuttaa, adj.all:muutettavissa_oleva2,+ adj.all:muuttuva2,+ noun.act:muuttaminen,+]  oikaista,  verb.change:muuttaa3,@ ommella,* frames: 1 (make an alteration to; "This dress needs to be altered") }
+{ ommella3,  ommella,@ verb.change:pehmustaa,* frames: 1 (create by stitching together) }
+{ ommella4,  verb.contact:yhtyä,@ verb.contact:neuloa,* frames: 1 (stitch or sew together; "quilt the skirt") }
+{ kirjailla,  koruommella,  kirjoa,  koristella1,@ verb.contact:neuloa,* frames: 1 (decorate with needlework) }
+{ kirjailla<broader/>1,  kirjoa<broader/>1,  kirjailla,@ frames: 1 (ornament or join (fabric) by faggot stitch; "He fagotted the blouse for his wife") }
+{ pistellä,  koristella1,@ frames: 1 (cover and decorate with objects that pierce the surface; "stick some feathers in the turkey before you serve it") }
+{ neuloa_metallilangalla,  kirjailla,@ reunustaa_metallilangalla,$ frames: 1 (embroider with gold or silver thread) }
+{ reunustaa_metallilangalla,  kirjailla,@ neuloa_metallilangalla,$ frames: 1 (edge or border with gold or silver embroidery) }
+{ [ kuvittaa, noun.person:kuvittaja,+ noun.communication:kuva3,+ noun.communication:kuvitus1,+]  koristella1,@ frames: 1 (supply with illustrations; "illustrate a book with drawings") }
+{ työstää1,  hioa2,  prosessoida,  verb.change:muuntua1,@ muovata,$ frames: 1 (shape, form, or improve a material; "work stone into tools"; "process iron"; "work the metal") }
+{ kuumakäsitellä,  työstää1,@ frames: 1 (roll, press, forge, or shape (metal) while hot) }
+{ kylmämuokata,  kylmätyöstää,  työstää1,@ frames: 1 (shape (metal) without heat) }
+{ käyttää_liian_ahkerasti,  työstää1,@ frames: 1 (use too much; "This play has been overworked") }
+{ käyttää_uudelleen,  uudistaa1,  työstää1,@ frames: 1 (use again in altered form; "retread an old plot") }
+{ työstää<broader/>2,  työstää1,@ verb.contact:venyttää,* frames: 1 (work on a rack; "rack leather") }
+{ työstää3,  työstää1,@ frames: 1 (work with a tool) }
+{ koristella_kukkaköynnöksin,  koristella1,@ frames: 1 (adorn with bands of flowers or leaves; "They garlanded the statue") }
+{ sulittaa,  koristella1,@ frames: 1 (decorate with feathers; "fledge an arrow") }
+{ koristella_paljetein,  koristella1,@ frames: 1 (decorate with spangles; "the star-spangled banner") }
+{ varustaa_lehtikoristeilla,  koristella1,@ frames: 1 (decorate with leaves) }
+{ koristella_lipuilla,  liputtaa,  koristella1,@ frames: 1 (decorate with flags; "the building was flagged for the holiday") }
+{ pukea<note>hevonen_ylellisesti</note>,  pukea<note>koruvaljaat</note>1,  pukea<note>satulaloimi</note>2,  valjastaa<note>juhlavasti</note>,  koristella1,@ frames: 1 (put a caparison on; "caparison the horses for the festive occasion") }
+{ [ koristella_helmillä, noun.artifact:koristehelmi,+]  koristella1,@ frames: 1 (decorate by sewing beads onto; "bead the wedding gown") }
+{ koristaa_tereellä,  koristella1,@ ommella,* frames: 1 (trim with piping; "pipe the skirt") }
+{ [ applikoida, noun.artifact:applikointi,+]  [ päällikeommella, noun.artifact:päällikeompelu,+]  koristella1,@ ommella,* frames: 1 (sew on as a decoration) }
+{ solmeilla,  ristiä<approximate/>,@ frames: 1 (make knotted patterns; "macrame a plant holder") }
+{ [ neuloa, noun.person:neuloja,+ noun.artifact:neule,+ noun.act:neulominen,+ noun.artifact:neulominen,+ noun.artifact:neule1,+ noun.act:neulonta,+]  kutoa1,  tehdä_raaka-aineista,@ noun.act:käsityö1,;c verb.contact:neuloa,* frames: 1 (make (textiles) by knitting; "knit a scarf") }
+{ neuloa_nurjia_silmukoita,  neuloa,@ noun.act:käsityö1,;c frames: 1 (knit with a purl stitch) }
+{ [ luoda_silmukat, päättää_silmukat,!]  verb.contact:neuloa,@ noun.act:käsityö1,;c frames: 1 (make the first row of stitches when knitting) }
+{ [ päättää_silmukat, luoda_silmukat,!]  verb.contact:neuloa,@ noun.act:käsityö1,;c frames: 1 (make the last row of stitches when knitting) }
+{ virkata_resoria,  neuloa,@ noun.act:käsityö1,;c frames: 1 (form vertical ribs by knitting; "A ribbed sweater") }
+{ neuloa_nurjia_silmukoita1,  yhdistää3,@ noun.act:käsityö1,;c frames: 1 (make with purl stitches) }
+{ yhdistää3,  kietoa,  yhdistellä,  verb.contact:yhtyä,@ frames: 1 (tie or link together) }
+{ kutoa2,  kutoa_verkko,  kutoa4,@ frames: 1 (construct or form a web, as if by weaving) }
+{ kutoa3,  kutoa4,@ frames: 1 (weave on a loom; "materials loomed in Egypt") }
+{ [ virkata, noun.artifact:virkkuutyö,+]  tehdä_silmukka,@ noun.act:käsityö1,;c virkata1,$ frames: 1 (make a piece of needlework by interlocking and looping thread with a hooked needle; "She sat there crocheting all day") }
+{ [ virkata1, noun.artifact:virkkaus,+ noun.act:virkkaaminen,+]  tehdä_raaka-aineista,@ noun.act:käsityö1,;c virkata,$ frames: 1 (create by looping or crocheting; "crochet a bedspread") }
+{ virkata_simpukoita,  virkata1,@ noun.act:käsityö1,;c frames: 1 (make by shell stitching) }
+{ virkata_pylväitä,  virkata1,@ noun.act:käsityö1,;c frames: 1 (make by double stitching) }
+{ [ virkata_kiinteitä_silmukoita, noun.artifact:virkkaussilmukka1,+]  virkata1,@ noun.act:käsityö1,;c frames: 1 (make by single stitching) }
+{ tehdä_silmukka,  punoa1,  yhdistää3,@ frames: 1 (make a loop in; "loop a rope") }
+{ tehdä_juoksusilmukka,  tehdä_silmukka,@ frames: 1 (make a noose in or of) }
+{ ristiä<approximate/>,  tehdä_raaka-aineista,@ frames: 1 (make into knots; make knots out of; "She knotted her fingers") }
+{ [ kutoa4, noun.person:kutoja1,+ noun.act:kutominen,+]  tehdä_raaka-aineista,@ noun.act:käsityö1,;c frames: 1 (create a piece of cloth by interlacing strands of fabric, such as wool or cotton; "tissue textiles") }
+{ kirjoa2,  kutoa_brokadia,  kutoa4,@ noun.act:käsityö1,;c frames: 1 (weave a design into (textiles)) }
+{ kutoa5,  punoa2,  kutoa4,@ noun.act:käsityö1,;c frames: 1 (do lacework; "The Flemish women were lacing in front of the cathedral") }
+{ pujotella_sukkulapitsiä,  tehdä_raaka-aineista,@ noun.act:käsityö1,;c ristiä<approximate/>,* frames: 1 (make lacework by knotting or looping) }
+{ [ punoa3, noun.artifact:punos,+]  nyplätä,  koristella,  kutoa4,@ noun.act:käsityö1,;c frames: 1 (make by braiding or interlacing; "lace a tablecloth") }
+{ kutoa<broader/>6,  kutoa4,@ frames: 1 (weave diagonal lines into (textiles)) }
+{ iskeä,  sytyttää1,  saada_aikaan,@ verb.change:iskeä<unconfirmed/>,$ frames: 1 (produce by ignition or a blow; "strike fire from the flintstone"; "strike a match") }
+{ [ takoa2, noun.person:takoja,+]  takoa,@ verb.contact:vasaroida,$ frames: 1 (create by hammering; "hammer the silver into a bowl"; "forge a pair of tongues") }
+{ muodostaa_levyksi,  takoa2,@ frames: 1 (hammer into thin flat foils; "foliate metal") }
+{ takoa_muottiin,  takoa2,@ frames: 1 (forge with a dropforge; "drop-force the metal") }
+{ suulakepuristaa,  puristaa2,  tuottaa,@ frames: 1 (form or shape by forcing through an opening; "extrude steel") }
+{ [ koristella1, noun.artifact:koriste2,+ noun.act:koristelu,+]  [ kaunistaa, noun.act:kaunistelu,+ noun.attribute:kauneus,+ noun.act:kaunistaminen,+]  [ somistaa, noun.artifact:somiste,+]  komistaa,  verb.change:muuttaa3,@ verb.stative:koristaa1,$ frames: 1 (make more attractive by adding ornament, colour, etc.; "Decorate the room for the party"; "beautify yourself for the special day") }
+{ koristella_tarpeettomasti,  parannella_tarpeettomasti,  kruusata,  koristella1,@ frames: 1 (adorn unnecessarily (something that is already beautiful)) }
+{ tehdä_kiemuroita,  koristella1,@ frames: 1 (decorate with wavy or winding lines) }
+{ kirjailla_ristipistoin,  koristella1,@ frames: 1 (embellish by sewing in straight lines crossing each other diagonally; "The folk dancers wore smocked shirts") }
+{ ripustaa,  asettaa_roikkumaan,  koristella1,@ frames: 1 (decorate or furnish with something suspended; "Hang wallpaper") }
+{ koristella<broader/>2,  koristella1,@ frames: 1 (dress or decorate showily or gaudily; "Roses were pranking the lawn") }
+{ [ hopeoida, noun.artifact:hopeanauha,+]  koristella1,@ frames: 1 (adorn with tinsel; "snow flakes tinseled the trees") }
+{ koristella_mauttomasti,  koristella1,@ frames: 1 (decorate in a cheap and flashy way; "the small-town bar was all tarted up") }
+{ rapata<broader/>,  koristella1,@ frames: 1 (decorate with stucco work; "stuccoed ceilings") }
+{ kunnostaa,  koristella1,@ frames: 1 (redo the decoration of an apartment or house) }
+{ [ paneloida, noun.artifact:panelointi,+ noun.artifact:paneeli1,+]  koristella1,@ frames: 1 (decorate with panels; "panel the walls with wood") }
+{ [ koristella3, noun.artifact:koru3,+]  somistaa1,  koristella1,@ frames: 1 (adorn or decorate with precious stones; "jeweled dresses") }
+{ koristaa_nauhalla,  koristella1,@ frames: 1 (decorate with a lace of geometric designs) }
+{ pyältää,  koristella1,@ frames: 1 (decorate an edge with scallops; "the dress had a scalloped skirt") }
+{ ylikoristella<approximate/>,  koristella1,@ frames: 1 (decorate tastelessly) }
+{ juhlaliputtaa,  koristella1,@ frames: 1 (decorate a ship with flags) }
+{ [ koristella4, noun.artifact:koriste4,+ noun.food:koriste,+ noun.artifact:koriste3,+]  koristella1,@ verb.contact:lisätä_kastike,$ verb.change:valmistaa1,$ frames: 1 (decorate (food), as with parsley or other ornamental foods) }
+{ silavoida,  kokata,@ noun.act:ruuanlaitto,;c frames: 1 (prepare or cook with lard; "lard meat") }
+{ [ koristella5, noun.artifact:koriste4,+]  koristella1,@ frames: 1 (decorate, as with ornaments; "trim the christmas tree"; "trim a shop window") }
+{ koristaa,  koristella6,  kaunistaa1,  koristella1,@ frames: 1 (decorate; "deck the halls with holly") }
+{ koristaa_höyhenkoristeella,  koristaa,@ frames: 1 (deck with a plume; "a plumed helmet") }
+{ koristaa_köynnöksin,  koristella1,@ frames: 1 (decorate with strings of flowers; "The public buildings were festooned for the holiday") }
+{ tehdä_aistilliseksi,  tehdä_lihalliseksi,  kuvata1,@ frames: 1 (represent materialistically, as in a painting or a sculpture) }
+{ piirtyä,  kuvata1,@ frames: 1 (represent by a silhouette) }
+{ muuttaa_jk_eläimeksi,  tehdä_jk_eläimenkaltaiseksi,  kuvata1,@ frames: 1 (represent in the form of an animal) }
+{ kuvata,  [ profiloida, noun.location:profiili,+]  kuvata1,@ frames: 1 (represent in profile, by drawing or painting) }
+{ maalata_sormilla,  maalata1,@ noun.act:taide,;c frames: 1 (apply colors with one's fingers) }
+{ töpöttää,  maalata1,@ frames: 1 (apply (paint) in small dots or strokes) }
+{ [ tatuoida, noun.artifact:tatuointi,+ noun.act:tatuoiminen,+ noun.act:tatuointi,+]  verb.change:sävyttää1,@ verb.contact:puhkaista3,* frames: 1 (stain (skin) with indelible color) }
+{ [ marmoroida, noun.substance:marmori,+]  verb.change:sävyttää1,@ noun.act:käsityö1,;c frames: 1 (paint or stain like marble; "marble paper") }
+{ maalata_vartalomaalilla,  maalata1,@ frames: 1 (apply paint to a body) }
+{ emaloida,  [ lasittaa, noun.substance:lasitus,+ noun.artifact:lasitus,+]  koristella1,@ noun.act:käsityö1,;c verb.change:polttaa3,* frames: 1 (coat, inlay, or surface with enamel) }
+{ [ sulattaa, noun.artifact:sulattaja,+]  tuottaa,@ verb.change:lämmittää,* frames: 1 (extract (metals) by heating) }
+{ [ koristaa_upotuksin, noun.artifact:koristeupotus,+]  koristella1,@ noun.act:käsityö1,;c frames: 1 (decorate the surface of by inserting wood, stone, and metal) }
+{ viivoittaa,  koristaa_upotuksin,@ noun.act:käsityö1,;c frames: 1 (inlay with narrow strips or lines of a different substance such as gold or silver, for the purpose of decorating) }
+{ [ damaskoida, noun.artifact:damaskoitu_esine,+]  koristaa_upotuksin,@ noun.act:käsityö1,;c frames: 1 (inlay metal with gold and silver) }
+{ [ kiillottaa, verb.social:sivuuttaa,^ verb.perception:sivuuttaa,^ noun.attribute:kiilto1,+]  verb.contact:kiillottaa,@ verb.contact:hangata,* frames: 1 (give a shine or gloss to, usually by rubbing) }
+{ [ lakata, noun.artifact:lakka,+ noun.substance:lakka<approximate/>1,+]  koristella1,@ noun.act:käsityö1,;c frames: 1 (coat with lacquer; "A lacquered box from China") }
+{ lakata_japanilaisella_lakalla,  lakata,@ noun.act:käsityö1,;c frames: 1 (coat with a lacquer, as done in Japan) }
+{ [ kullata, noun.artifact:kultaus,+ noun.person:kultaaja,+]  koristella1,@ frames: 1 (decorate with, or as if with, gold leaf or liquid gold) }
+{ maalata_fresko,  maalata1,@ noun.act:taide,;c frames: 1 (paint onto wet plaster on a wall) }
+{ maalata_temperaväreillä,  maalata1,@ noun.act:taide,;c frames: 1 (paint with distemper) }
+{ suunnitella7,  [ luonnostella1, noun.artifact:luonnos3,+]  hahmotella1,  suunnitella4,@ frames: 1 (make a blueprint of) }
+{ [ kuvittaa1, noun.artifact:kuvitus1,+]  koristella1,@ noun.act:taide,;c maalata,* frames: 1 (add embellishments and paintings to (medieval manuscripts)) }
+{ koristella<approximate/>7,  kuvittaa1,@ noun.act:taide,;c frames: 1 (decorate (manuscripts) with letters painted red; "In this beautiful book, all the place names are rubricated") }
+{ koristaa_heraldisesti,  blasonoida,  koristella_jk_näyttävästi,  koristaa1,  koristella8,  koristella1,@ noun.act:taide,;c frames: 1 (decorate with heraldic arms) }
+{ [ veistää, noun.artifact:veistos2,+]  muovata,@ noun.act:taide,;c verb.contact:veistää2,$ frames: 1 (create by shaping stone or wood or any other hard material; "sculpt a swan out of a block of ice") }
+{ [ maalata, noun.artifact:maalaus,+ noun.act:maalaaminen3,+ noun.artifact:maali1,+ noun.act:maalaustaide,+]  kuvata1,@ noun.act:taide,;c frames: 1 (make a painting of; "He painted his mistress many times") }
+{ [ maalata1, noun.artifact:maalaus,+ noun.act:maalaaminen3,+ noun.artifact:maali1,+ noun.act:maalaustaide,+]  luoda7,@ noun.act:taide,;c frames: 1 (make a painting; "he painted all day in the garden"; "He painted a painting of the garden") }
+{ [ luoda7, adj.all:rakentava^luova,+ noun.act:luominen2,+ noun.person:luoja1,+ adj.all:luova1,+]  verb.social:toimia,@ frames: 1 (pursue a creative activity; be engaged in a creative activity; "Don't disturb him--he is creating") }
+{ luoda8,  [ rakentaa3, noun.act:rakentaminen3,+]  luoda7,@ noun.cognition:arkkitehtuuri,;c pystyttää,$ frames: 1 (be engaged in building; "These architects build in interesting and new styles") }
+{ maalata_uudelleen,  maalata,@ noun.act:taide,;c frames: 1 (paint again; "He repainted the same scenery many times during his life") }
+{ käyttää_vaakunamerkkinä,  maalata1,@ noun.act:taide,;c frames: 1 (place a heraldic bearing on; "charge all weapons, shields, and banners") }
+{ [ kuvata1, noun.artifact:kuvaus1,+]  [ tulkita, noun.person:tulkitsija2,+ noun.act:tulkinta,+]  luoda_uudelleen,@ noun.act:taide,;c frames: 1 (create an image or likeness of; "The painter represented his wife as a young girl") }
+{ ikuistaa,  vangita,  tallentaa,  kuvata1,@ frames: 1 (succeed in representing or expressing something intangible; "capture the essence of Spring"; "capture an idea") }
+{ saada_takaisin,  ikuistaa,@ frames: 1 (take up anew; "The author recaptures an old idea here") }
+{ [ kuvata2, noun.artifact:kuva4,+ noun.communication:kuva4,+ noun.artifact:kuva2,+ noun.act:kuvallinen_esitys,+]  esittää1,  kuvata1,@ noun.act:taide,;c frames: 1 (show in, or as in, a picture; "This scene depicts country life"; "the face of the child is rendered with much tenderness in this painting") }
+{ [ kuvata3, noun.communication:kuva3,+ noun.communication:kuvitus1,+]  kuvata2,@ noun.act:taide,;c frames: 1 (depict with an illustration) }
+{ [ jäljitellä, noun.act:jäljittely3,+]  [ tyylitellä, noun.cognition:tyyli,+ noun.attribute:tyyli4,+ noun.communication:tyyli1,+ noun.cognition:tyyli2,+]  kuvata1,@ noun.act:taide,;c frames: 1 (represent according to a conventional style; "a stylized female head") }
+{ [ kartoittaa, noun.person:kartoittaja,+ noun.artifact:kartta,+]  kuvata1,@ kuvastua,$ frames: 1 (make a map of; show or establish the features of details of; "map the surface of Venus") }
+{ kuvastua,  kuvata2,@ kartoittaa,$ frames: 1 (depict as if on a map; "sorrow was mapped on the mother's face") }
+{ [ kuvata4, noun.cognition:kuva,+ noun.artifact:kuva2,+]  [ maalata2, noun.person:maalari2,+]  kuvata1,@ noun.act:taide,;c frames: 1 (make a portrait of; "Goya wanted to portray his mistress, the Duchess of Alba") }
+{ piirtää_lyijykynällä,  piirtää2,@ verb.contact:seurata,* frames: 1 (write, draw, or trace with a pencil; "he penciled a figure") }
+{ [ kuvata5, noun.act:kuva,+ noun.cognition:kuva,+]  [ esittää2, noun.artifact:esitys,+ noun.act:esittely2,+ noun.artifact:esittäminen,+]  kuvata1,@ noun.act:taide,;c frames: 1 (represent abstractly, for example in a painting, drawing, or sculpture; "The father is portrayed as a good-looking man in this painting") }
+{ vedota,  kuvata5,@ frames: 1 (present as worthy of regard, kindness, or confidence; "His paintings commend him to the artistic world") }
+{ [ luonnostella2, noun.artifact:luonnos1,+ adj.all:kuvaava^luonnosteltu,+]  piirtää1,  hahmotella2,  piirtää2,@ frames: 1 (trace the shape of) }
+{ rajata_huulipunalla,  luonnostella2,@ frames: 1 (form by tracing with lipstick; "The clown had lipsticked circles on his cheeks") }
+{ muodostaa_ääriviivat,  luonnostella2,@ frames: 1 (form the contours of) }
+{ rationalisoida,  virtaviivaistaa,  keventää,  tehostaa,  muodostaa_ääriviivat,@ frames: 1 (contour economically or efficiently) }
+{ [ viivoittaa1, noun.artifact:viivoitin,+ noun.artifact:viivain1,+]  piirtää2,@ frames: 1 (mark or draw with a ruler; "rule the margins") }
+{ merkitä_liidulla,  piirtää2,@ verb.contact:seurata,* frames: 1 (write, draw, or trace with chalk) }
+{ [ piirtää2, noun.artifact:piirros1,+ noun.communication:piirros,+ noun.artifact:piirustus,+]  kuvata1,@ noun.act:taide,;c verb.contact:seurata,$ frames: 1 (represent by making a drawing of, as with a pencil, chalk, etc. on a surface; "She drew an elephant"; "Draw me a horse") }
+{ [ laatia2, verb.cognition:laatia1,^]  luoda9,@ frames: 1 (write a legal document or paper; "The deed was drawn in the lawyer's office") }
+{ projisoida1,  piirtää2,@ frames: 1 (draw a projection of) }
+{ [ kirjoittaa, noun.person:kirjailija2,+ noun.person:kirjoittaja4,+]  verb.contact:seurata,@ frames: 1 (mark or trace on a surface; "The artist wrote Chinese characters on a big piece of white paper"; "Russian is written with the Cyrillic alphabet") }
+{ pikakirjoittaa,  kirjoittaa,@ frames: 1 (write in shorthand; "The students were able to stenograph and record the conversation") }
+{ tehdä_kalligrafiaa,  kirjoittaa,@ frames: 1 (write beautifully and ornamentally) }
+{ vetää_viiva_yli,  kirjoittaa,@ frames: 1 (trace a line through or across; "cross your `t'") }
+{ kirjoittaa_yläpuolelle,  kirjoittaa,@ frames: 1 (write on the outside or upper part of; "superscribe an envelope") }
+{ kirjoittaa_yläpuolelle1,  kirjoittaa,@ frames: 1 (write on the top or outside; "superscribe one's name and address") }
+{ [ kirjoittaa_isoin_kirjaimin, noun.communication:kirjoittaminen_isoin_kirjaimin,+]  kirjoittaa,@ frames: 1 (write in capital letters) }
+{ [ kirjoittaa1, noun.person:kirjoittaja<approximate/>1,+ noun.communication:kirjain1,+]  kirjoittaa,@ frames: 1 (mark letters on or mark with letters) }
+{ painaa_kirjaimin,  tulostaa,@ frames: 1 (set down or print with letters) }
+{ piirtää_väriliidulla,  piirtää2,@ frames: 1 (write, draw, or trace with a crayon) }
+{ kirjoittaa2,  luoda_aivotyöllä,@ frames: 1 (create code, write a computer program; "She writes code faster than anybody else") }
+{ [ ruuduttaa, noun.artifact:ruutumalli,+ noun.artifact:ruutukuvio,+]  piirtää2,@ frames: 1 (mark into squares or draw squares on; draw crossed lines on) }
+{ merkitä_hiilellä,  piirtää_hiilellä,  piirtää2,@ noun.act:taide,;c verb.contact:seurata,* frames: 1 (draw, trace, or represent with charcoal) }
+{ piirrellä,  riipustella,  piirtää2,@ verb.contact:seurata,* frames: 1 (make a doodle; draw aimlessly) }
+{ [ piirtää_kaavio, noun.artifact:piirturi,+]  piirtää2,@ frames: 1 (make a schematic or technical drawing of that shows interactions among variables or how something is constructed) }
+{ [ piirtää<note>pilakuva</note>3, noun.communication:piirroselokuva,+ noun.communication:piirrossarja,+]  piirtää2,@ noun.act:taide,;c frames: 1 (draw cartoons of) }
+{ [ jäljentää, noun.act:jäljentäminen,+]  kopsata,  saada_aikaan,@ frames: 1 (make a replica of; "copy that drawing"; "re-create a picture by Rembrandt") }
+{ imitoida,  jäljentää,@ frames: 1 (make a reproduction or copy of) }
+{ [ läpipiirtää, noun.artifact:läpipiirtokuva,+]  jäljentää,@ frames: 1 (copy by following the lines of the original drawing on a transparent sheet placed upon it; make a tracing of; "trace a design"; "trace a pattern") }
+{ tehdä_varmuuskopio,  [ varmuuskopioida, noun.artifact:varmuuskopio,+]  jäljentää,@ noun.artifact:tietokone,;c frames: 1 (make a copy of (a computer file) especially for storage in another place as a security copy; "You'd better back up these files!") }
+{ monistaa_hektografilla,  jäljentää,@ frames: 1 (copy on a duplicator; "hectograph the hand-outs") }
+{ [ kloonata, noun.group:klooni,+]  jäljentää,@ frames: 1 (make multiple identical copies of; "people can clone a sheep nowadays") }
+{ jäljentää1,  jäljentää4,@ frames: 1 (copy again; "The child had to recopy the homework") }
+{ kopioida_mimeografilla,  jäljentää,@ frames: 1 (print copies from (a prepared stencil) using a mimeograph; "She mimeographed the syllabus") }
+{ monistaa,  jäljentää,@ frames: 1 (make copies on a Roneograph) }
+{ [ varjostaa, noun.attribute:varjostus2,+]  maalata1,@ piirtää2,@ noun.act:taide,;c frames: 1 (represent the effect of shade or shadow on) }
+{ maalata_pistetekniikalla,  maalata1,@ noun.act:taide,;c frames: 1 (make by small short touches that together produce an even or softly graded shadow, as in paint or ink) }
+{ [ varjostaa_ristiviivoin, noun.attribute:varjostus_ristiviivoin,+]  varjostaa,@ frames: 1 (shade with multiple crossing lines; "the draftsman crosshatched the area") }
+{ [ täplittää, noun.act:täplittäminen,+]  [ juovittaa, noun.attribute:juova1,+]  [ laikuttaa, noun.attribute:laikku1,+]  verb.change:värittää,@ frames: 1 (mark with spots or blotches of different color or shades of color as if stained) }
+{ maalata<broader/>3,  verb.change:sävyttää1,@ frames: 1 (make a veinlike pattern) }
+{ maalata_vesiväreillä,  maalata1,@ noun.act:taide,;c frames: 1 (paint with watercolors) }
+{ maalata4,  koristaa_kirkkain_värein,  koristaa2,  koristella9,  koristella1,@ frames: 1 (decorate with colors; "color the walls with paint in warm tones") }
+{ maalata<approximate/>5,  maalata4,@ noun.act:taide,;c frames: 1 (paint with red lead or vermilion) }
+{ muotoilla2,  [ muovata2, noun.artifact:muotti2,+ adj.all:elastinen^muokattava,+ noun.act:muovaus,+]  [ muokata2, noun.act:muovaus,+]  muovata,@ noun.act:taide,;c frames: 1 (form in clay, wax, etc; "model a head with clay") }
+{ tehdä_malli1,  kuvata1,@ frames: 1 (construct a model of; "model an airplane") }
+{ [ luonnostella3, noun.artifact:luonnosteluvälineluonnoslehtiö<narrower/><note>esim.</note>,+ noun.person:luonnostelija1,+ noun.artifact:luonnos4,+]  hahmotella3,  piirtää2,@ noun.act:taide,;c frames: 1 (make a sketch of; "sketch the building") }
+{ luoda_sanallisesti,  saada_aikaan,@ frames: 1 (create with or from words) }
+{ [ sepittää1, noun.communication:sepitetty_sana,+]  luoda_sanallisesti,@ frames: 1 (make up; "coin phrases or words") }
+{ tehtailla_iskulauseita,  sepittää1,@ frames: 1 (coin new slogans) }
+{ [ luoda9, laatia4,^]  laatia3,  kirjoittaa3,  sepittää2,  kynäillä,  luoda_sanallisesti,@ noun.act:kirjoittaminen2,;c tavata,* julkaista,$ frames: 1 (produce a literary work; "She composed a poem"; "He wrote four novels") }
+{ sanoittaa,  luoda9,@ noun.communication:runous,;c frames: 1 (write lyrics for (a song)) }
+{ sanoittaa_uudelleen,  sanoittaa,@ noun.communication:runous,;c frames: 1 (write new lyrics for (a song)) }
+{ kirjoittaa_tietystä_aiheesta,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (write about a particular topic; "Snow wrote about China") }
+{ kuvata6,  profiloida1,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (write about; "The author of this article profiles a famous painter") }
+{ kirjoittaa_artikkeleita,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (write paragraphs; work as a paragrapher) }
+{ kirjoittaa<broader/>4,  luoda9,@ frames: 1 (write about in a paragraph; "All her friends were paragraphed in last Monday's paper") }
+{ tavata,  kirjoittaa5,   frames: 1 (write or name the letters that comprise the conventionally accepted form of (a word or part of a word); "He spelled the word wrong in this letter") }
+{ tavata1,  tavata,@ frames: 1 (spell fully and without abbreviating; "Can you spell out your middle name instead of just giving the initial?") }
+{ [ tavuttaa, noun.act:tavutus2,+ noun.act:tavutus,+ noun.communication:tavuviiva,+]  jakaa_tavuihin,  tavata,@ frames: 1 (divide or connect with a hyphen; "hyphenate these words and names") }
+{ kirjoittaa6,  luoda9,@ frames: 1 (write something fluently, and without hesitation) }
+{ raapustaa,  kyhätä3,  riipustaa,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (write quickly; "She dashed off a note to her husband saying she would not be home for supper"; "He scratched off a thank-you note to the hostess") }
+{ [ muokata3, noun.communication:muokattu_versio,+]  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (rewrite so as to make fit to suit a new or different purpose; "re-write a play for use in schools") }
+{ kirjoittaa_julkaistavaksi,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (write for commercial publications; "She writes copy for Harper's Bazaar") }
+{ [ dramatisoida, noun.act:dramatisointi1,+ noun.communication:draama,+ noun.act:dramatisointi,+]  muokata4,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (put into dramatic form; "adopt a book for a screenplay") }
+{ [ luonnostella4, noun.communication:luonnos,+ noun.act:luonnostelu,+ noun.person:luonnostelija,+]  kirjoittaa7,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (draw up an outline or sketch for something; "draft a speech") }
+{ [ riimittää, noun.person:riimittelijä,+ noun.communication:riimi,+]  [ riimitellä, noun.person:riimittelijä,+ noun.communication:riimi,+]  luoda_sanallisesti,@ noun.communication:runous,;c frames: 1 (compose rhymes) }
+{ tag,  riimittää,@ noun.communication:runous,;c frames: 1 (supply (blank verse or prose) with rhymes) }
+{ käyttää_alkusointua,  riimittää,@ noun.communication:runous,;c frames: 1 (use alliteration as a form of poetry) }
+{ [ sutkautella, noun.communication:sutkaus2,+]  verb.communication:laskea_leikkiä,@ frames: 1 (make a play on words; "Japanese like to pun--their language is well suited to punning") }
+{ kirjoittaa_runomittaan,  luoda9,@ noun.communication:runous,;c frames: 1 (compose verses or put into verse; "He versified the ancient saga") }
+{ kirjoittaa_runomitassa<unconfirmed/>,  kirjoittaa_runomittaan,@ noun.communication:runous,;c frames: 1 (compose in poetic meter; "The bard metrified his poems very precisely") }
+{ kirjoittaa_spondeemittaan,  kirjoittaa_runomittaan,@ noun.communication:runous,;c frames: 1 (make spondaic; "spondaize verses") }
+{ kirjoittaa_elegia,  kirjoittaa_valitusruno,  kirjoittaa_runomittaan,@ noun.communication:runous,;c frames: 1 (compose an elegy) }
+{ [ lausua, noun.communication:lausuntaesitys,+ noun.communication:lausunta,+]  esittää3,  luoda_uudelleen,@ frames: 1 (render verbally, "recite a poem"; "retell a story") }
+{ kirjoittaa_sonetti,  kirjoittaa_runomittaan,@ noun.communication:runous,;c frames: 1 (compose a sonnet) }
+{ ylistää_sonetilla,  verb.communication:kehua,@ noun.communication:runous,;c frames: 1 (praise in a sonnet) }
+{ laulaa_serenadi,  esittää_serenadi_jollekulle,  suorittaa3,@ frames: 1 (sing and play for somebody; "She was serenaded by her admirers") }
+{ kajauttaa,  laulaa_lurauttaa,  laulaa,  laulaa1,@ frames: 1 (sing loudly and forcefully) }
+{ laulaa_moniäänisesti<approximate/>,  laulaa1,@ frames: 1 (sing a descant on a main tune or melody) }
+{ [ laulaa_samalla_vokaalilla, noun.person:laulusolisti,+ noun.act:laulaminen,+ adj.pert:laulu-,+ noun.act:laulu,+]  laulaa1,@ frames: 1 (sing (each note a scale or in a melody) with the same vowel) }
+{ ideoida,  luoda10,  panna_alulle4,  kirjoittaa8,  tehdä10,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (be the author of; "She authored this play") }
+{ kirjoittaa_yhdessä,  ideoida,@ noun.act:kirjoittaminen2,;c frames: 1 (be a co-author on (a book, a paper)) }
+{ olla_haamukirjoittajana,  haamukirjoittaa,  ideoida,@ noun.act:kirjoittaminen2,;c frames: 1 (write for someone else; "How many books have you ghostwritten so far?") }
+{ varustaa_kommenteilla,  varustaa_selityksin,  varustaa_alaviittein,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (add explanatory notes to or supply with critical comments; "The scholar annotated the early edition of a famous novel") }
+{ [ viitata, noun.communication:viittaus2,+]  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (refer to; "he referenced his colleagues' work") }
+{ [ säveltää, noun.communication:sävellys,+ noun.act:säveltäminen,+ noun.person:säveltäjä,+]  saada_aikaan,@ noun.communication:musiikki,;c frames: 1 (write music; "Beethoven composed nine symphonies") }
+{ säveltää_kontrapunkti,  säveltää,@ noun.communication:musiikki,;c frames: 1 (write in counterpoint; "Bach perfected the art of counterpointing") }
+{ säveltää_musiikkia_tekstiin,  säveltää,@ noun.communication:musiikki,;c frames: 1 (write (music) for (a text)) }
+{ [ sovittaa, noun.person:sovittaja,+]  säveltää1,  säveltää,@ noun.communication:musiikki,;c frames: 1 (adapt for performance in a different way; "set this poem to music") }
+{ ilmaista,  sovittaa,@ noun.communication:musiikki,;c frames: 1 (adapt; "put these words to music") }
+{ säveltää2,  säveltää,@ noun.communication:musiikki,;c frames: 1 (write a musical score for) }
+{ transponoida,  sovittaa,@ noun.communication:musiikki,;c frames: 1 (put (a piece of music) into another key) }
+{ [ säveltää_melodia<approximate/>, noun.communication:sävelmä,+]  säveltää,@ noun.communication:musiikki,;c frames: 1 (supply a melody for) }
+{ laulaa_harmoniassa,  [ soittaa_harmoniassa, noun.act:soinnutus<unconfirmed/>,+]  laulaa1,@ noun.cognition:musiikki1,;c noun.communication:musiikki,;c noun.act:musiikki,;c frames: 1 (sing or play in harmony) }
+{ sovittaa_uudelleen,  soinnuttaa<unconfirmed/>,@ noun.cognition:musiikki,;c frames: 1 (provide with a different harmony; "reharmonize the melody") }
+{ [ soinnuttaa<unconfirmed/>, noun.communication:soinnutus<unconfirmed/>,+]  säveltää,@ noun.cognition:musiikki,;c frames: 1 (write a harmony for) }
+{ [ täydentää<unconfirmed/>, noun.act:täydentäminen<approximate/>1,+]  sovittaa1,  soinnuttaa<unconfirmed/>,@ noun.communication:musiikki,;c frames: 1 (expand or complete (a part in a piece of baroque music) by supplying the harmonies indicated in the figured bass) }
+{ [ orkestroida, noun.communication:orkestrointi,+ noun.group:orkesteri,+ noun.act:orkestrointi,+]  säveltää2,@ noun.cognition:musiikki,;c frames: 1 (write an orchestra score for) }
+{ säveltää<broader/>3,  säveltää,@ noun.cognition:musiikki,;c frames: 1 (write an instrumental score for) }
+{ sovittaa2,  verb.change:mukauttaa2,@ noun.cognition:musiikki,;c frames: 1 (rewrite or arrange a piece of music for an instrument or medium other than that originally intended) }
+{ laatia_koreografia,  suunnitella_koreografia,  saada_aikaan,@ noun.communication:tanssi,;c frames: 1 (compose a sequence of dance steps, often to music; "Balanchine choreographed many pieces to Stravinsky's music") }
+{ tanssia_jivea,  tanssia,@ noun.act:tanssiminen,;c frames: 1 (dance to jive music; dance the jive) }
+{ [ tanssia, noun.person:tanssija1,+ noun.act:tanssiminen,+ noun.group:tanssiaisväki,+ noun.act:tanssi,+ noun.event:tanssiaiset1,+ noun.communication:tanssi,+ noun.person:tanssija,+]  panna_jalalla_koreasti,  karkeloida,  jorata,  verb.motion:siirtää,@ noun.act:tanssiminen,;c verb.motion:tanssahdella,$ frames: 1 (move in a pattern; usually to musical accompaniment; do or perform a dance; "My husband and I like to dance at home to the radio") }
+{ [ tanssia1, noun.person:tanssija2,+]  tanssia,@ noun.communication:tanssi,;c noun.communication:slangi,;u frames: 1 (dance in a professional capacity) }
+{ tanssia_puukenkätanssia,  tanssia,@ noun.act:tanssiminen,;c frames: 1 (dance a clog dance) }
+{ [ stepata, noun.act:steppi,+]  tanssia,@ noun.act:tanssiminen,;c noun.communication:tanssi,;c frames: 1 (perform a tap dance) }
+{ [ napatanssia, noun.act:napatanssi,+]  [ vatsatanssia, noun.act:vatsatanssi,+]  tanssia,@ noun.act:tanssiminen,;c frames: 1 (perform a belly dance) }
+{ [ ohjata, noun.person:ohjaaja2,+]  saada_aikaan,@ noun.cognition:esittävät_taiteet,;c frames: 1 (guide the actors in (plays and films)) }
+{ jakaa<note>rooli</note>,  valita,  antaa_rooli,  verb.social:antaa_valtuudet,@ noun.cognition:esittävät_taiteet,;c kuvata7,* suorittaa3,* esittää4,* verb.social:roolittaa,$ frames: 1 (select to play,sing, or dance a part in a play, movie, musical, opera, or ballet; "He cast a young woman in the role of Desdemona") }
+{ laulaa_ylintä_ääntä,  laulaa1,@ frames: 1 (sing in descant) }
+{ vaihtaa_roolia,  jakaa<note>rooli</note>,@ noun.cognition:esittävät_taiteet,;c frames: 1 (cast again, in a different role; "He was recast as Iago") }
+{ antaa_jklle_sopimaton_rooli,  jakaa<note>rooli</note>,@ noun.cognition:esittävät_taiteet,;c frames: 1 (cast an actor, singer, or dancer in an unsuitable role) }
+{ antaa_jklle_aina_samantyyppinen_rooli,  jakaa<note>rooli</note>,@ noun.cognition:esittävät_taiteet,;c frames: 1 (cast repeatedly in the same kind of role) }
+{ ohjata1,  ohjata,@ noun.cognition:esittävät_taiteet,;c frames: 1 (direct for the stage) }
+{ [ esittää4, noun.communication:esitys7,+ noun.artifact:esiintymislava,+ noun.act:esittely2,+ noun.communication:esitys6,+]  luoda_uudelleen,@ noun.cognition:esittävät_taiteet,;c frames: 1 (perform (a play), especially on a stage; "we are going to stage `Othello'") }
+{ [ sijaita, noun.attribute:sijoittelu,+]  [ paikantaa, noun.act:paikallistaminen,+ noun.location:paikka9,+]  olla,  esittää4,@ frames: 1 (locate; "The film is set in Africa") }
+{ [ kuvata7, noun.act:kuvaaminen1,+ noun.act:kuvaus2,+]  verb.communication:rekisteröidä,@ saada_aikaan,@ frames: 1 (record in film; "The coronation was filmed") }
+{ tehdä_elokuvia,  saada_aikaan,@ frames: 1 (make films; be a film maker) }
+{ filmata,  tehdä_elokuva,  kuvata7,@ frames: 1 (make a film of or adopt so as to make into a film; "cinematize history") }
+{ tallentaa_mikrofilmille,  kuvata7,@ frames: 1 (record on microfilm) }
+{ mennä_siitä_missä_aita_on_matalin,  mennä_yli_siitä_missä_aita_on_matalin,  oikaista1,  suorittaa3,@ frames: 1 (do something the cheapest or easiest way; "Cut corners to make a cheaper product") }
+{ [ suorittaa3, noun.act:suoritus3,+]  [ esittää5, noun.person:esittävä_taiteilija,+]  tehdä11,   frames: 1 (carry out or perform an action; "John did the painting, the weeding, and he cleaned out the gutters"; "the skater executed a triple pirouette"; "she did a little dance") }
+{ [ temppuilla, noun.act:temppujen_tekeminen,+ noun.act:temppu,+]  suorittaa3,@ noun.cognition:esittävät_taiteet,;c frames: 1 (perform a stunt or stunts) }
+{ suorittaa4,  suorittaa3,@ frames: 1 (perform or carry out; "cut a caper") }
+{ esittää_loistavasti,  saavuttaa_loistokkaasti,  suorittaa3,@ noun.cognition:esittävät_taiteet,;c frames: 1 (perform (an acting passage) brilliantly and rapidly; "Mr. Jones blazed away in one passage after another to loud applause") }
+{ esittää_välisoitto,  esiintyä,@ noun.act:musiikki,;c frames: 1 (perform an interlude; "The guitar player interluded with a beautiful improvisation") }
+{ tehdä_jtak_huolimattomasti,  suorittaa3,@ noun.act:musiikki,;c frames: 1 (perform hastily and carelessly) }
+{ suoltaa1,  suorittaa3,@ noun.act:musiikki,;c frames: 1 (perform in a mechanical way) }
+{ [ esiintyä, noun.person:esiintyjä2,+ noun.act:esittäminen2,+ noun.communication:esitys4,+]  [ esittää6, noun.person:esiintyjä2,+ noun.act:esittäminen2,+ noun.communication:esitys4,+]  luoda_uudelleen,@ noun.cognition:esittävät_taiteet,;c frames: 1 (give a performance (of something); "Horowitz is performing at Carnegie Hall tonight"; "We performed a popular Gilbert and Sullivan opera") }
+{ kalastella_yleisön_suosiota,  esiintyä,@ noun.cognition:esittävät_taiteet,;c frames: 1 (perform ostentatiously in order to impress the audience and with an eye to the applause; "She never misses a chance to grandstand") }
+{ esittää_soolona,  [ sooloilla, noun.communication:soolo,+]  esiintyä,@ frames: 1 (perform a piece written for a single instrument) }
+{ päättyä,  esiintyä,@ verb.competition:pelata_loppuun,$ frames: 1 (perform or be performed to the end; "How will the election drama be played out?") }
+{ esittää<broader/>7,  esiintyä,@ noun.cognition:esittävät_taiteet,;c frames: 1 (perform too rarely; "Her plays are underperformed, although they are very good") }
+{ [ soittaa_prima_vista, noun.person:soittaja<broader/>3,+]  esiintyä,@ noun.act:musiikki,;c frames: 1 (perform music from a score without having seen the score before; "He is a brilliant pianist but he cannot sightread") }
+{ laulaa_prima_vista,  soittaa_prima_vista,@ noun.cognition:esittävät_taiteet,;c frames: 1 (sing from a score without having seen it before; "This tenor can sightsing even the most difficult pieces") }
+{ räpätä,  esiintyä,@ noun.act:musiikki,;c frames: 1 (perform rap music) }
+{ esittää8,  esiintyä,@ noun.cognition:esittävät_taiteet,;c näyttää,$ frames: 1 (perform for an audience; "Pollini is giving another concert in New York") }
+{ näyttää,  verb.perception:osoittaa,@ esittää8,$ frames: 1 (present to view; "He gave the sign to start") }
+{ [ konsertoida, noun.communication:konsertti,+]  esiintyä,@ noun.act:musiikki,;c frames: 1 (give concerts; perform in concerts; "My niece is off concertizing in Europe") }
+{ esiintyä_jssk,  esiintyä1,  esiintyä,@ noun.cognition:esittävät_taiteet,;c näytellä1,$ frames: 1 (perform on a certain location; "The prodigy played Carnegie Hall at the age of 16"; "She has been playing on Broadway for years") }
+{ esittää<approximate/>9,  noun.cognition:esittävät_taiteet,;c näytellä1,$ frames: 1 (be performed or presented for public viewing; "What's playing in the local movie theater?"; "`Cats' has been playing on Broadway for many years") }
+{ soittaa1,  toistaa,  soida,$ verb.social:ajaa1,$ verb.change:ajaa,$ frames: 1 (cause to emit recorded audio or video; "They ran the tapes over and over again"; "I'll play you my favorite record"; "He never tires of playing that video") }
+{ soida,  verb.perception:kuulostaa1,@ soittaa1,$ frames: 1 (emit recorded sound; "The tape was playing for hours"; "the stereo was playing Beethoven when I entered") }
+{ debytoida,  esittää<approximate/>9,@ noun.cognition:esittävät_taiteet,;c frames: 1 (appear for the first time in public; "The new ballet that debuts next months at Covent Garden, is already sold out") }
+{ debytoida1,  esiintyä,@ noun.cognition:esittävät_taiteet,;c frames: 1 (make one's debut; "This young soprano debuts next month at the Metropolitan Opera") }
+{ esittää_ensi_kertaa,  tuoda_markkinoille,@ noun.cognition:esittävät_taiteet,;c frames: 1 (present for the first time to the public; "The band debuts a new song or two each month") }
+{ [ ensiesittää, noun.communication:ensi-ilta,+ noun.communication:ensiesitys,+]  suorittaa3,@ noun.cognition:esittävät_taiteet,;c frames: 1 (perform a work for the first time) }
+{ [ ensiesittää1, noun.communication:ensi-ilta,+ noun.communication:ensiesitys,+]  noun.cognition:esittävät_taiteet,;c frames: 1 (be performed for the first time; "We premiered the opera of the young composer and it was a critical success") }
+{ olla_esiintymiskokeessa,  osallistua_koe-esiintymiseen,  esiintyä,@ noun.cognition:esittävät_taiteet,;c frames: 1 (perform in order to get a role; "She auditioned for a role on Broadway") }
+{ koe-esiintyä,  olla_esiintymiskokeessa,@ noun.cognition:esittävät_taiteet,;c frames: 1 (audition for a stage role by reading parts of a role; "He is auditioning for `Julius Caesar' at Stratford this year") }
+{ [ automatisoida_tietokoneen_avulla, noun.act:automaattinen_tietojenkäsittely,+]  [ tietokoneistaa, noun.artifact:tietokone,+]  verb.social:teettää_töitä,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (control a function, process, or creation by a computer; "They computerized the car industry"; "we live in a cybernated age"; "cybernate a factory") }
+{ [ näytellä, noun.person:näyttelijä,+ noun.act:näytteleminen,+ adj.all:näyteltävissä_oleva,+ noun.communication:näytös4,+ noun.act:näyttelijäntyö,+]  [ esittää10, noun.communication:esitys6,+]  luoda_uudelleen,@ noun.cognition:esittävät_taiteet,;c leikkiä,$ verb.body:esittää,$ näytellä1,$ frames: 1 (play a role or part; "Gielgud played Hamlet"; "She wants to act Lady Macbeth, but she is too young for the role"; "She played the servant to her husband's master") }
+{ [ näytellä1, noun.person:näyttelijä,+ noun.act:näytteleminen,+ adj.all:näyteltävissä_oleva,+ noun.communication:näytös4,+ noun.act:näyttelijäntyö,+]  esittää11,  esiintyä2,  esiintyä,@ noun.communication:dramaturgia,;c esiintyä_jssk,$ näytellä,$ esittää<approximate/>9,$ verb.stative:toimia2,$ frames: 1 (perform on a stage or theater; "She acts in this play"; "He acted in `Julius Caesar'"; "I played in `A Christmas Carol'") }
+{ avustaa,  heitellä_välihuutoja,  näytellä1,@ noun.communication:dramaturgia,;c frames: 1 (act as the stooge; "His role was to stooge for the popular comedian") }
+{ astua,  nousta,  noun.communication:dramaturgia,;c näytellä,* frames: 1 (come on stage) }
+{ esiintyä_lämmittelybändinä,  näytellä,@ noun.communication:dramaturgia,;c frames: 1 (play a subordinate role to (another performer); "Olivier supported Gielgud beautifully in the second act") }
+{ esiintyä_pääosassa,  esittää_pääosaa,  suorittaa3,@ noun.communication:dramaturgia,;c frames: 1 (be the star in a performance) }
+{ [ esiintyä3, noun.act:esiintyminen,+]  suorittaa3,@ noun.communication:dramaturgia,;c frames: 1 (appear as a character on stage or appear in a play, etc.; "Gielgud appears briefly in this movie"; "She appeared in `Hamlet' on the London stage") }
+{ näytellä_toista_pääosaa,  esiintyä_pääosassa,@ noun.communication:dramaturgia,;c frames: 1 (be the co-star in a performance) }
+{ näytellä2,  [ teeskennellä, noun.person:teeskentelijä1,+]  esittää12,  verb.body:toimia,$ frames: 1 (behave unnaturally or affectedly; "She's just acting") }
+{ [ teeskennellä1, noun.act:teeskentely1,+ noun.person:teeskentelijä2,+]  näytellä2,@ frames: 1 (make a pretence of; "She assumed indifference, even though she was seething with anger"; "he feigned sleep") }
+{ leikkiä,  teeskennellä1,@ näytellä,$ frames: 1 (pretend to be somebody in the framework of a game or playful activity; "Let's play like I am mommy"; "Play cowboy and Indians") }
+{ [ harhauttaa, noun.act:harhautus,+]  teeskennellä1,@ frames: 1 (deceive by a mock action; "The midfielder feinted to shoot") }
+{ [ esittää13, noun.act:esittäminen3,+]  näytellä3,  näytellä,@ frames: 1 (act out; represent or perform as if in a play; "She reenacted what had happened earlier that day") }
+{ esittää14,  näytellä,@ frames: 1 (represent an incident, state, or emotion by action, especially on stage; "She could act neurotic anxiety") }
+{ näytellä_uudelleen,  luoda_uudelleen,@ frames: 1 (enact or perform again; "They reenacted the battle of Princeton") }
+{ [ mallintaa, noun.cognition:malli3,+]  [ simuloida, noun.artifact:simulaattori1,+ noun.cognition:simulointi,+]  luoda_uudelleen,@ frames: 1 (create a representation or model of; "The pilots are trained in conditions simulating high-altitude flights") }
+{ [ harjoitella, noun.act:harjoitus7,+ noun.act:harjoittelu,+]  kerrata,  suorittaa3,@ noun.cognition:esittävät_taiteet,;c frames: 1 (engage in a rehearsal (of)) }
+{ käydä_läpi,  harjoitella,@ frames: 1 (perform in a perfunctory way, as for a first rehearsal) }
+{ [ harjoitella1, noun.act:harjoitukset,+]  harjoitella,@ frames: 1 (practice playing (a sport)) }
+{ esittää15,  näytellä4,  esittää_jotakuta,  näytellä,@ noun.cognition:esittävät_taiteet,;c frames: 1 (assume or act the character of; "She impersonates Madonna"; "The actor portrays an elderly, lonely man") }
+{ [ parodioida, noun.act:parodia,+]  näytellä,@ frames: 1 (make a spoof of or make fun of) }
+{ irvailla,  verb.communication:pilkata3,@ frames: 1 (make a travesty of) }
+{ esittää_pantomiimia,  näytellä1,@ frames: 1 (act out without words but with gestures and bodily movements only; "The acting students mimed eating an apple") }
+{ [ soittaa2, noun.act:soittaminen,+]  luoda_uudelleen,@ soittaa4,$ frames: 1 (replay (as a melody); "Play it again, Sam"; "She played the third movement very beautifully") }
+{ vinguttaa,  soittaa3,  soittaa2,@ noun.communication:musiikki,;c soittaa_viulua,$ frames: 1 (play on a violin; "Zuckerman fiddled that song very nicely") }
+{ [ soittaa4, noun.act:soittaminen,+ noun.person:soittaja2,+]  esiintyä,@ noun.communication:musiikki,;c soittaa5,$ soittaa2,$ frames: 1 (play on an instrument; "The band played all night long") }
+{ svengata,  soittaa4,@ noun.communication:musiikki,;c frames: 1 (play with a subtle and intuitively felt sense of rhythm) }
+{ soittaa_uudelleen,  soittaa2,@ frames: 1 (play (a melody) again) }
+{ soittaa_alkusoittona,  soittaa2,@ noun.act:musiikki,;c frames: 1 (play as a prelude) }
+{ soittaa_jazzia,  soittaa2,@ noun.act:musiikki,;c frames: 1 (play something in the style of jazz) }
+{ soittaa_ragtimea,  soittaa2,@ noun.communication:musiikki,;c noun.act:musiikki,;c frames: 1 (play in ragtime; "rag that old tune") }
+{ toitottaa,  soittaa2,@ noun.act:musiikki,;c frames: 1 (play on a bugle) }
+{ [ soittaa5, noun.act:soittaminen,+]  verb.perception:soittaa1,@ noun.communication:musiikki,;c noun.act:musiikki,;c soittaa4,$ frames: 1 (perform music on (a musical instrument); "He plays the flute"; "Can you play on this old recorder?") }
+{ [ rekisteröidä, noun.attribute:rekisteröinti<unconfirmed/>,+ noun.attribute:rekisteri,+]  soittaa5,@ noun.act:musiikki,;c frames: 1 (manipulate the registers of an organ) }
+{ soittaa_säkkipilliä,  soittaa5,@ noun.act:musiikki,;c frames: 1 (play the bagpipes) }
+{ lyödä1,  päristä,  soittaa5,@ noun.communication:musiikki,;c verb.motion:iskeä,$ frames: 1 (produce a rhythm by striking repeatedly; "beat the drum") }
+{ [ sinfonioida, noun.group:sinfonia,+ noun.communication:sinfonia,+]  soittaa4,@ noun.act:musiikki,;c frames: 1 (play or sound together, in harmony) }
+{ luritella,  soittaa5,@ noun.act:musiikki,;c frames: 1 (play negligently on a musical instrument) }
+{ näppäillä<unconfirmed/>,  soittaa5,@ noun.communication:musiikki,;c frames: 1 (play chords on (a string instrument)) }
+{ toistaa1,  kerrata_teema,  [ kerrata1, noun.communication:kertaus1,+]  soittaa2,@ noun.act:musiikki,;c frames: 1 (repeat an earlier theme of a composition) }
+{ [ soittaa_pillillä, verb.communication:alkaa_laulaa,^ verb.communication:alkaa_soittaa,^]  soittaa5,@ noun.act:musiikki,;c frames: 1 (play on a pipe; "pipe a tune") }
+{ sitoa1,  soittaa2,@ noun.act:musiikki,;c frames: 1 (play smoothly or legato; "the pianist slurred the most beautiful passage in the sonata") }
+{ painella_polkimia,  polkea,  verb.contact:käyttää,@ noun.act:musiikki,;c soittaa2,* frames: 1 (operate the pedals on a keyboard instrument) }
+{ hakata,  pimputtaa,  soittaa2,@ noun.act:musiikki,;c frames: 1 (play loudly; "They banged out `The star-spangled banner'") }
+{ soittaa_mukana,  myötäillä,  [ säestää, noun.communication:säestys,+ noun.person:säestäjä,+]  seurata,  soittaa4,@ noun.act:musiikki,;c frames: 1 (perform an accompaniment to; "The orchestra could barely follow the frequent pitch changes of the soprano") }
+{ laulaa_mukana,  laulaa1,@ frames: 1 (sing with a choir or an orchestra; "Every year the local orchestra and choir perform the `Messiah' and the audience is invited to sing along") }
+{ [ improvisoida, noun.act:improvisointi,+ noun.artifact:improvisaatio,+ noun.act:improvisaatio,+]  sepittää3,  esittää_ex_tempore,  suorittaa3,@ frames: 1 (perform without preparation; "he extemporized a speech at the wedding") }
+{ moduloida,  soittaa2,@ noun.act:musiikki,;c frames: 1 (change the key of, in music; "modulate the melody") }
+{ soittaa<broader/>6,  soittaa4,@ noun.act:musiikki,;c frames: 1 (play on a string instrument with a bow) }
+{ [ laulaa1, noun.person:laulaja3,+ noun.act:laulu1,+ noun.communication:laulu3,+ noun.act:laulaminen,+ noun.act:laulu,+]  verb.communication:keskustella6,@ noun.act:musiikki,;c frames: 1 (produce tones with the voice; "She was singing while she was cooking"; "My brother sings very well") }
+{ veisata,  laulaa1,@ noun.act:musiikki,;c frames: 1 (sing or celebrate in psalms; "He psalms the works of God") }
+{ laulaa<approximate/>2,  laulaa1,@ noun.act:musiikki,;c frames: 1 (celebrate by singing, in the style of minstrels) }
+{ [ solfata, noun.act:solfaus,+ noun.communication:solfaus,+]  tapailla_säveliä,  laulaa1,@ noun.act:musiikki,;c solfata1,$ frames: 1 (sing using syllables like `do', `re' and `mi' to represent the tones of the scale; "The voice teacher showed the students how to solmizate") }
+{ livertää,  luritella1,  laulaa1,@ noun.act:musiikki,;c frames: 1 (sing in modulation) }
+{ laulaa_kuorossa,  laulaa1,@ noun.act:musiikki,;c frames: 1 (sing in a choir) }
+{ [ laulaa3, noun.person:laulaja3,+ noun.act:laulu1,+ noun.communication:laulu3,+ noun.act:laulaminen,+ noun.act:laulu,+]  tulkita1,@ laulaa1,@ noun.act:musiikki,;c verb.communication:laulaa3,$ frames: 1 (deliver by singing; "Sing Christmas carols") }
+{ [ solfata1, noun.act:solfaus,+ noun.communication:solfaus,+]  tapailla_säveliä1,  laulaa3,@ noun.communication:musiikki,;c solfata,$ frames: 1 (sing by the syllables of solmization; "solmizate a song before you learn the lyrics") }
+{ laulaa_kaanonissa,  laulaa3,@ noun.act:musiikki,;c frames: 1 (sing the parts of (a round) in succession) }
+{ veisata1,  laulaa3,@ noun.act:musiikki,;c frames: 1 (sing a hymn) }
+{ [ laulaa<note>iloisesti</note>4, noun.person:laulaja<note>joululaulun</note>,+ noun.person:laulaja1,+]  laulaa3,@ noun.act:musiikki,;c frames: 1 (sing carols; "They went caroling on Christmas Day") }
+{ laulaa_madrigaali<unconfirmed/>,  laulaa3,@ noun.act:musiikki,;c frames: 1 (sing madrigals; "The group was madrigaling beautifully") }
+{ [ tulkita1, adj.all:opettavainen^tulkinnallinen,+ noun.act:tulkinta,+ noun.person:tulkitsija2,+ noun.cognition:tulkinta,+]  [ esittää16, noun.act:esitys,+ noun.communication:esitys5,+]  suorittaa3,@ noun.cognition:esittävät_taiteet,;c frames: 1 (give an interpretation or rendition of; "The pianist rendered the Beethoven sonata beautifully") }
+{ [ rummuttaa, noun.person:rumpali,+ noun.act:rumpujen_soitto,+ noun.event:rummutus,+ noun.artifact:rumpu1,+ noun.person:rummunsoittaja,+]  soittaa5,@ noun.act:musiikki,;c frames: 1 (play a percussion instrument) }
+{ soittaa_harppua,  soittaa5,@ noun.act:musiikki,;c verb.contact:nyppiä2,* frames: 1 (play the harp; "She harped the Saint-Saens beautifully") }
+{ [ johtaa, noun.act:johtaminen5,+ noun.act:johtoasema,+ noun.act:johtopaikka,+]  suorittaa3,@ noun.act:musiikki,;c johtaa1,$ frames: 1 (lead, as in the performance of a composition; Barenboim conducted the Chicago symphony for years"; "conduct an orchestra") }
+{ [ johtaa1, noun.act:johtaminen5,+]  esiintyä,@ noun.act:musiikki,;c johtaa,$ frames: 1 (lead musicians in the performance of; "Bernstein conducted Mahler like no other conductor"; "she cannot conduct modern pieces") }
+{ järjestää4,  toteuttaa3,  pitää,  organisoida1,  toimeenpanna1,  verb.social:johtaa,@ frames: 1 (organize or be responsible for; "hold a reception"; "have, throw, or make a party"; "give a course") }
+{ soittaa_viulua,  soittaa7,  soittaa5,@ noun.act:musiikki,;c vinguttaa,$ frames: 1 (play the violin or fiddle) }
+{ soittaa<broader/>8,  soittaa5,@ noun.act:musiikki,;c verb.body:puhaltaa_ilmaa_keuhkoista,* frames: 1 (play or blow on the trumpet) }
+{ soittaa_clarinoa,  soittaa5,@ noun.cognition:musiikki1,;c noun.act:musiikki,;c frames: 1 (blow the clarion) }
+{ soittaa_nopeasti<unconfirmed/>,  soittaa<broader/>9,@ noun.cognition:musiikki1,;c noun.act:musiikki,;c frames: 1 (play fast notes on a wind instrument) }
+{ soittaa<broader/>9,  soittaa2,@ noun.cognition:musiikki1,;c noun.act:musiikki,;c frames: 1 (articulate by tonguing, as when playing wind instruments) }
+{ uusia3,  kopioida1,  [ toistaa2, noun.act:toistaminen,+ noun.act:toisto,+]  kopioida6,@ frames: 1 (make or do or perform again; "He could never replicate his brilliant performance of the magic trick") }
+{ jäljentää2,  kopioida2,  uusia3,@ noun.cognition:biologia,;c frames: 1 (reproduce or make an exact copy of; "replicate the cell"; "copy the genetic information") }
+{ toistaa_kehitysvaihteet,  uusia3,@ frames: 1 (repeat stages of evolutionary development during the embryonic phase of life) }
+{ [ kopioida3, noun.artifact:kopio1,+ noun.act:kopiointi,+]  [ monistaa1, noun.artifact:monistuskone,+]  [ jäljentää3, noun.artifact:jäljennös2,+]  kopioida6,@ frames: 1 (make a duplicate or duplicates of; "Could you please duplicate this letter for me?") }
+{ kahdentua,  geminoitua,  uusia3,@ noun.cognition:kielentutkimus,;c frames: 1 (form by reduplication; "The consonant reduplicates after a short vowel"; "The morpheme can be reduplicated to emphasize the meaning of the word") }
+{ [ kopioida4, noun.artifact:kopio<broader/>5,+]  [ kopioida_kolmena_kappaleena, noun.artifact:kopio<broader/>5,+]  kopioida6,@ frames: 1 (reproduce threefold; "triplicate the letter for the committee") }
+{ [ nelinkertaistaa, noun.artifact:neljänä_kappaleena,+ noun.cognition:nelinkertainen_määrä,+]  kopioida6,@ frames: 1 (reproduce fourfold; "quadruplicate the bill") }
+{ painaa_uudelleen,  julkaista_uudelleen,  kopioida6,@ frames: 1 (print anew; "They never reprinted the famous treatise") }
+{ [ valokopioida, noun.artifact:valokopiokone,+ noun.artifact:valokopio,+]  monistaa2,  ottaa_kopioita,  kopioida5,  kopioida6,@ frames: 1 (reproduce by xerography) }
+{ mikrokopioida,  valokopioida,@ frames: 1 (photocopy printed or other graphic matter so that it is reduced in size) }
+{ tehdä_fotostaatti,  valokopioida,@ frames: 1 (make a copy by means of a Photostat device) }
+{ [ kopioida6, noun.act:kopioiminen,+]  tuottaa,@ frames: 1 (make a copy or equivalent of; "reproduce the painting") }
+{ toistaa3,  toisintaa,  verb.cognition:luoda_uudelleen,@ noun.cognition:taideaineet,;c frames: 1 (recreate a sound, image, idea, mood, atmosphere, etc.; "this DVD player reproduces the sound of the piano very well"; "He reproduced the feeling of sadness in the portrait") }
+{ [ indusoida, noun.phenomenon:induktio,+]  aiheuttaa_induktio,  aiheuttaa12,@ noun.cognition:fysiikka,;c frames: 1 (produce electric current by electrostatic or magnetic processes) }
+{ luoda_uudelleen2,  saada_aikaan,@ frames: 1 (create anew; "she recreated the feeling of the 1920's with her stage setting") }
+{ luoda_uudelleen3,  luoda_uudelleen2,@ frames: 1 (create anew and make over; "He reinvented African music for American listeners") }
+{ luoda_uudelleen4,  perustaa3,@ frames: 1 (bring back into existence; "The candidate reinvented the concept of national health care so that he would get elected") }
+{ vangita1,  tavoittaa,  toistaa3,@ verb.cognition:käsittää1,$ frames: 1 (apprehend and reproduce accurately; "She really caught the spirit of the place in her drawings"; "She got the mood just right in her photographs") }
+{ soittaa10,  toistaa4,  kopioida6,@ frames: 1 (reproduce (a recording) on a recorder; "The lawyers played back the conversation to show that their client was innocent") }
+{ kehittää2,  synnyttää5,  luoda_aivotyöllä,@ kehittää3,$ frames: 1 (work out; "We have developed a new theory of evolution") }
+{ [ kehittää3, noun.act:kehittäminen,+]  perustaa3,@ kehittää2,$ frames: 1 (make something new, such as a product or a mental or artistic creation; "Her company developed a new kind of building material that withstands all kinds of weather"; "They developed a new technique") }
+{ luoda11,  pystyttää2,  rakentaa4,  kehittää3,@ frames: 1 (give form to, according to a plan; "build a modern nation"; "build a million-dollar business") }
+{ [ esivalmistaa1, noun.act:esivalmistaminen,+]  esikoota,  tuottaa,@ noun.act:rakentaminen,;c frames: 1 (to manufacture sections of (a building), especially in a factory, so that they can be easily transported to and rapidly assembled on a building site of buildings) }
+{ tekaista2,  keksiä5,  keksiä3,@ frames: 1 (make up; "vamp up an excuse for not attending the meeting") }
+{ kyhätä_kokoon,  riipiä_kasaan,  tuottaa,@ frames: 1 (produce shoddily, without much attention to detail) }
+{ [ kasvattaa1, noun.person:kasvattaja1,+ noun.group:kasvillisuus1,+ noun.group:kasvusto,+]  [ viljellä, noun.person:viljelijä1,+]  valmistaa9,  viljellä2,@ noun.act:maanviljelys1,;c frames: 1 (cultivate by growing, often involving improvements by means of agricultural techniques; "The Bordeaux region produces great red wines"; "They produce good ham in Parma"; "We grow wheat here"; "We raise hogs here") }
+{ kantaa,  tuottaa12,  kasvattaa1,@ noun.act:maanviljelys1,;c verb.consumption:kantaa,$ frames: 1 (bear (a crop); "this land does not carry olives") }
+{ tuottaa_liikaa1,  kasvattaa1,@ frames: 1 (produce in excess; produce more than needed or wanted) }
+{ muokata5,  kyntää,  työstää1,@ noun.act:maanviljelys1,;c viljellä1,* frames: 1 (work land as by ploughing, harrowing, and manuring, in order to make it ready for cultivation; "till the soil") }
+{ hoitaa_puutarhaa,  verb.social:hoitaa9,@ noun.act:puutarhanhoito,;c frames: 1 (work in the garden; "My hobby is gardening") }
+{ [ maisemoida, noun.person:maisemansuunnittelija,+ noun.act:maisemointi,+]  hoitaa_puutarhaa,@ noun.act:puutarhanhoito,;c kunnostaa_maisemaa,$ frames: 1 (do landscape gardening; "My sons landscapes for corporations and earns a good living") }
+{ [ viljellä1, noun.act:viljely,+]  verb.change:valmistaa,@ noun.act:maanviljelys1,;c verb.contact:hieroa1,$ frames: 1 (prepare for crops; "Work the soil"; "cultivate the land") }
+{ väsyttää_liialla_viljelyllä,  köyhdyttää_liialla_viljelyllä,  viljellä1,@ noun.act:maanviljelys1,;c frames: 1 (to exhaust by excessive cultivation; "the farmers overcropped the land") }
+{ [ kyntää1, noun.act:kyntäminen,+ noun.person:kyntäjä,+ noun.act:kyntö,+]  kääntää1,  muokata5,@ noun.act:maanviljelys1,;c verb.contact:kaivaa4,* frames: 1 (to break and turn over earth especially with a plow; "Farmer Jones plowed his east field last week"; "turn the earth in the Spring") }
+{ aurata<approximate/>,  kyntää1,@ noun.act:maanviljelys1,;c frames: 1 (plough alternate strips by throwing the furrow onto an unploughed strip) }
+{ [ äestää, noun.artifact:äes,+]  disk,  kyntää1,@ noun.act:maanviljelys1,;c frames: 1 (draw a harrow over (land)) }
+{ [ kuokkia, noun.artifact:kuokka,+]  muokata5,@ noun.act:maanviljelys1,;c verb.contact:kaivaa4,* frames: 1 (dig with a hoe; "He is hoeing the flower beds") }
+{ [ viljellä2, noun.person:viljelijä,+ noun.act:viljely,+]  noun.act:maanviljelys1,;c frames: 1 (foster the growth of) }
+{ [ matkia, noun.act:matkiminen1,+]  [ kopioida7, noun.artifact:kopio,+]  jäljitellä1,  kopioida6,@ frames: 1 (reproduce someone's behavior or looks; "The mime imitated the passers-by"; "Children often copy their parents or older siblings") }
+{ tehdä_pilaa,  matkia,@ frames: 1 (mimic or imitate in an amusing or satirical manner; "This song takes off from a famous aria") }
+{ [ imitoida1, noun.person:imitaattori2,+]  matkia1,  matkia,@ frames: 1 (imitate (a person or manner), especially for satirical effect; "The actor mimicked the President very accurately") }
+{ tehdä_jtk_jnk_mallin_mukaan,  matkia,@ frames: 1 (plan or create according to a model or models) }
+{ mallintaa1,  tehdä_jtk_jnk_mallin_mukaan,@ frames: 1 (pattern, make, regulate, set, measure, or estimate according to some rate or standard) }
+{ neuvostolaistaa<unconfirmed/>,  neuvostoliittolaistaa<unconfirmed/>,  sovjetisoida,  tehdä_jtk_jnk_mallin_mukaan,@ frames: 1 (model a country's social, political, and economic structure on the Soviet Union; "Castro sovietized Cuba") }
+{ seurata1,  noudattaa_jonkun_esimerkkiä,  seurata_jonkun_esimerkkiä,  matkia,@ frames: 1 (imitate in behavior; take as a model; "Teenagers follow their friends in everything") }
+{ [ julkaista, noun.communication:julkaisu,+]  luoda_sanallisesti,@ luoda9,$ frames: 1 (have (one's written work) issued for publication; "How many books did Georges Simenon write?"; "She published 25 books during her long career") }
+{ [ latoa, noun.person:latoja,+]  tulostaa,@ frames: 1 (set in type; "My book will be typeset nicely"; "set these words in italics") }
+{ kokeilla,  tulostaa,@ frames: 1 (take a trial impression of) }
+{ laittaa_järjestykseen,  muotoilla3,  verb.change:muuttua,@ frames: 1 (set (printed matter) into a specific format; "Format this letter so it can be printed out") }
+{ [ sisentää, noun.communication:sisennys,+]  laittaa_järjestykseen,@ frames: 1 (set in from the margin; "Indent the paragraphs of a letter") }
+{ [ taulukoida, noun.act:taulukointi,+ noun.communication:taulukointi,+ noun.group:taulukko,+]  sovittaa,@ frames: 1 (arrange or enter in tabular form) }
+{ [ julkaista1, noun.communication:julkaisu,+ noun.act:julkaisu,+]  tuottaa,@ frames: 1 (put into print; "The newspaper published the news of the royal couple's divorce"; "These news should not be printed") }
+{ julkaista_uudelleen1,  julkaista1,@ frames: 1 (publish again; "The scientist republished his results after he made some corrections") }
+{ julkaista2,  toistaa5,  verb.communication:julkaista2,@ frames: 1 (include as the content; broadcast or publicize; "We ran the ad three times"; "This paper carries a restaurant review"; "All major networks carried the press conference") }
+{ julkaista_virallisessa_lehdessä,  julkaista1,@ frames: 1 (publish in a gazette) }
+{ tekstata,  kirjoittaa,@ frames: 1 (write as if with print; not cursive) }
+{ [ painaa_väärin, noun.communication:painovirhe1,+]  tekstata,@ frames: 1 (print incorrectly) }
+{ painaa_offsetilla,  tulostaa,@ frames: 1 (produce by offset printing; "offset the conference proceedings") }
+{ tehdä_syvennys,  saada_aikaan,@ frames: 1 (create an offset in; "offset a wall") }
+{ rustailla,  [ raapustaa1, noun.person:raapustaja,+ noun.communication:raapustus,+]  [ riipustaa1, noun.communication:riipustus,+]  kirjoittaa,@ frames: 1 (write carelessly) }
+{ [ jäljentää4, noun.act:jäljentäminen,+]  kirjoittaa,@ frames: 1 (copy down as is; "The students were made to copy the alphabet over and over") }
+{ kirjoittaa_tarkka_jäljennös,  jäljentää4,@ frames: 1 (copy very carefully and as accurately as possible) }
+{ [ ohjelmoida, noun.person:ohjelmoija,+ noun.communication:ohjelma4,+ noun.act:ohjelmointi1,+]  luoda_aivotyöllä,@ noun.cognition:tietojenkäsittelyoppi,;c frames: 1 (write a computer program) }
+{ [ tulostaa, noun.communication:tuloste1,+ noun.artifact:tulostin1,+]  painaa,  printata,  kirjoittaa,@ frames: 1 (reproduce by printing) }
+{ painaa_päälle,  tulostaa,@ frames: 1 (print (additional text or colors) onto an already imprinted paper) }
+{ varustaa_lisäpainamalla,  painaa_päälle,@ frames: 1 (print a new denomination on a stamp or a banknote) }
+{ tehdä_kopioita_vahamonistuskoneella,  tulostaa,@ frames: 1 (print with an implement with small toothed wheels that cuts small holes in a stencil) }
+{ ottaa_jkn_sormenjäljet,  ottaa_sormenjäljet,  kopioida6,@ frames: 1 (take an impression of a person's fingerprints) }
+{ [ lihavoida, noun.communication:lihavointi,+]  tulostaa,@ frames: 1 (print in boldface) }
+{ [ kursivoida, noun.communication:kursiivi1,+ noun.communication:kursiivikirjasin,+]  tulostaa,@ frames: 1 (print in italics) }
+{ [ vedostaa, noun.artifact:vedos1,+]  kopioida6,@ frames: 1 (make into a print; "print the negative") }
+{ painaa_litografisesti,  vedostaa,@ noun.act:taide,;c frames: 1 (make by lithography) }
+{ silkkipainaa,  vedostaa,@ noun.act:taide,;c frames: 1 (print by silkscreen) }
+{ [ kaavata<approximate/>, noun.artifact:kaavain,+]  vedostaa,@ noun.act:taide,;c frames: 1 (mark or print with a stencil) }
+{ [ kaivertaa, noun.act:kaivertaminen2,+ noun.person:kaivertaja,+]  etsata,  vedostaa,@ noun.act:taide,;c frames: 1 (carve or cut into a block used for printing or print from such a block; "engrave a letter") }
+{ rasteroida<broader/>,  kaivertaa,@ frames: 1 (reproduce by the Benday process) }
+{ raaputtaa,  saada_aikaan,@ frames: 1 (make by scraping; "They scraped a letter into the stone") }
+{ kaivertaa_pistetekniikalla,  kaivertaa,@ noun.act:taide,;c frames: 1 (engrave by means of dots and flicks) }
+{ [ etsata1, noun.artifact:etsaus,+ noun.artifact:etsaus1,+ noun.act:etsaaminen,+ noun.person:etsaaja,+]  vedostaa,@ noun.act:taide,;c verb.change:syöpyä,* frames: 1 (make an etching of; "He etched her image into the surface") }
+{ etsata_akvatinta-menetelmällä,  etsata1,@ noun.act:taide,;c frames: 1 (etch in aquatint) }
+{ tehdä12,  tuottaa,@ frames: 1 (make or construct) }
+{ rakentaa_kapulatie,  pystyttää,@ frames: 1 (build (a road) from logs laid side by side) }
+{ koristella_hapsuilla,  hapsuttaa,  koristella1,@ noun.act:käsityö1,;c frames: 1 (adorn with a fringe; "The weaver fringed the scarf") }
+{ [ ylinäytellä, ylinäytellä1,! noun.act:ylinäytteleminen,+ noun.person:ylinäyttelevä_näyttelijä,+]  näytellä_liioitellen,  näytellä_liioitellusti,  liioitella,  näytellä1,@ noun.communication:dramaturgia,;c frames: 1 (exaggerate one's acting) }
+{ [ ylinäytellä1, ylinäytellä,!]  näytellä1,@ noun.communication:dramaturgia,;c frames: 1 (act (a role) with great restraint) }
+{ tanssia_kantapäillään,  tanssia,@ noun.act:tanssiminen,;c noun.communication:tanssi,;c frames: 1 (perform with the heels; "heel that dance") }
+{ [ koristella_yhteen_punotulla_kuviolla, noun.artifact:koristekuvio1,+]  koristella1,@ frames: 1 (decorate with an interlaced design) }
+{ kunnostaa_maisemaa,  koristella1,@ noun.act:puutarhanhoito,;c maisemoida,$ frames: 1 (embellish with plants; "Let's landscape the yard") }
+{ kaivertaa_kuvio,  verb.contact:veistää,@ noun.act:käsityö1,;c frames: 1 (carve a pattern into) }
+{ kuluttaa<broader/>,  kaivertaa_kuvio,@ frames: 1 (carve a honeycomb pattern into; "The cliffs were honeycombed") }
+{ [ vedostaa1, noun.artifact:vedos2,+]  tuottaa,@ frames: 1 (make or take a proof of, such as a photographic negative, an etching, or typeset) }
+{ [ tuottaa13, noun.event:tuottaja,+]  tehdä13,  saada_aikaan,@ frames: 1 (bring forth or yield; "The tree would not produce fruit") }
+{ muodostaa_itiöitä,  tuottaa13,@ noun.cognition:botaniikka,;c verb.change:muodostaa_itiöitä,$ frames: 1 (produce spores; "plants sporulate") }
+{ aiheuttaa12,  tuoda3,  synnyttää6,  saada_aikaan9,  saada_aikaan,@ frames: 1 (cause to happen, occur or exist; "This procedure produces a curious effect"; "The new law gave rise to many complaints"; "These chemicals produce a noxious vapor"; "the new President must bring about a change in the health care system") }
+{ suoltaa2,  tuottaa_heikkolaatuisia_tuotteita,  valmistaa_heikkolaatuisia_tuotteita,  tuottaa13,@ frames: 1 (produce in a routine or monotonous manner; "We have to crank out publications in order to receive funding") }
+{ suunnitella8,  suunnitella5,@ frames: 1 (devise or compose; "This designer makes up our Spring collections") }
+{ [ suunnitella9, noun.person:suunnittelija5,+ noun.person:suunnittelija1,+]  luoda3,@ suunnitella5,$ frames: 1 (create designs; "Dupont designs for the house of Chanel") }
+{ perustaa3,   frames: 1 (bring into existence; "The company was created 25 years ago"; "He created a new movement in painting") }
+{ painella,  saada_aikaan,@ frames: 1 (create by pressing; "Press little holes into the soft clay") }
+{ valmistella2,  saada_aikaan,@ frames: 1 (to prepare verbally, either for written or spoken delivery; "prepare a report"; "prepare a speech") }
+{ hahmotella4,  luonnostella5,  valmistella2,@ frames: 1 (prepare in preliminary or sketchy form) }
+{ laatia4,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (put into writing; write in complete form; "write out a contract") }
+{ [ leikata1, noun.act:leikkaus2,+]  saada_aikaan,@ kaivaa,$ frames: 1 (form or shape by cutting or incising; "cut paper dolls") }
+{ kaivaa,  uurtaa,  saada_aikaan,@ leikata1,$ frames: 1 (form by probing, penetrating, or digging; "cut a hole"; "cut trenches"; "The sweat cut little rivulets into her face") }
+{ esittää_graafisesti,  kartoittaa1,  laatia_graafinen_esitys<unconfirmed/>,  laatia_kartta,  kuvata1,@ frames: 1 (represent by means of a graph; "chart the data") }
+{ piirtää_diagrammi,  piirtää_kaavio,@ frames: 1 (plot upon a graph) }
+{ tanssia_shimmyä,  tanssia,@ noun.act:tanssiminen,;c frames: 1 (dance a shimmy) }
+{ tehdä14,  tehdä_raaka-aineista,@ kokata,$ verb.change:sijata,$ frames: 1 (gather and light the materials for; "make a fire") }
+{ räyhätä,  saada_aikaan,@ frames: 1 (create a disturbance, especially by making a great noise; "raise hell"; "raise the roof"; "raise Cain") }
+{ tehdä15,  suorittaa3,@ verb.social:tehdä<approximate/>2,$ frames: 1 (perform or carry out; "make a decision"; "make a move"; "make advances"; "make a phone call") }
+{ muovata3,  tampata,  saada_aikaan,@ verb.motion:marssia4,* frames: 1 (make by pounding or trampling; "beat a path through the forest") }
+{ tehdä_suunnitelmia,  suunnitella10,  suunnitella2,@ frames: 1 (plan, delineate, or arrange in detail; "map one's future") }
+{ kopioida8,  polttaa,  tallentaa1,  tuottaa,@ tallentaa2,$ frames: 1 (create by duplicating data; "cut a disk"; "burn a CD") }
+{ tallentaa2,  verb.communication:nauhoittaa,@ levyttää,$ kopioida8,$ frames: 1 (record a performance on (a medium); "cut a record") }
+{ levyttää,  verb.communication:nauhoittaa,@ tallentaa2,$ frames: 1 (make a recording of; "cut the songs"; "She cut all of her major titles again") }
+{ laatia_käsikirjoitus,  luoda9,@ noun.act:kirjoittaminen2,;c frames: 1 (write a script for; "The playwright scripted the movie") }
+{ koristella<approximate/>10,  laittaa_järjestykseen,@ frames: 1 (furnish with rubrics or regulate by rubrics; "the manuscript is not rubricated") }
+{ kanavoida,  pystyttää,@ frames: 1 (make a channel for; provide with a channel; "channelize the country for better transportation") }
+{ demyelisoida,  tuhota,@ frames: 1 (destroy the myelin sheath of; "the disease demyelinated the nerve fibers") }
+{ lisätä_todennäköisyyttä,  aiheuttaa7,@ noun.attribute:fysiologia,;c frames: 1 (increase the likelihood of (a response); "The stimulus facilitates a delayed impulse") }
+{ konstruoida,  luoda_aivotyöllä,@ frames: 1 (create by organizing and linking ideas, arguments, or concepts; "construct a proof"; "construct an argument") }
+{ muodostaa2,  luoda_aivotyöllä,@ frames: 1 (create by linking linguistic units; "construct a sentence"; "construct a paragraph") }
+{ tehdä_filigraania,  valmistaa_käsin,@ frames: 1 (make filigree, as with a precious metal) }
+{ vapauttaa,  päästää,  aiheuttaa1,@ noun.cognition:kemia,;c frames: 1 (release (gas or energy) as a result of a chemical reaction or physical decomposition) }
+{ asettaa_taistelujärjestykseen,  varustaa_taisteluun,  organisoida,@ frames: 1 (prepare for battle or conflict) }
+{ räjäyttää,  kaivaa,@ frames: 1 (make with or as if with an explosion; "blast a tunnel through the Alps") }
+{ hakata1,  saada_aikaan,@ frames: 1 (form or shape by chopping; "chop a hole in the ground") }
+{ luoda12,  saavuttaa,  perustaa3,@ frames: 1 (establish or create through painstaking effort; "She carved out a reputation among her male colleagues") }
+{ valmistaa10,  saada_aikaan,@ frames: 1 (create or produce in a mechanical way; "This novelist has been manufacturing his books following his initial success") }
+{ tuottaa14,  tuottaa13,@ frames: 1 (produce naturally; "this gland manufactures a specific substance only") }
+{ räjäyttää1,  pommittaa,  saada_aikaan,@ frames: 1 (create by using explosives; "blast a passage through the mountain") }
+{ soittaa<note>kadulla</note>11,  soittaa4,@ frames: 1 (play music in a public place and solicit money for it; "three young men were busking in the plaza") }
