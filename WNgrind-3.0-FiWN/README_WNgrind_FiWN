@@ -1,0 +1,100 @@
+
+WordNet 3.0 Grind modified for FinnWordNet
+==========================================
+
+
+This package contains WordNet 3.0 Grind modified to support
+FinnWordNet data. This package does not contain any dictionary
+database or lexicographer files.
+
+
+FinnWordNet
+-----------
+
+FinnWordNet is a wordnet for Finnish. For more information about
+FinnWordNet, please visit the FinnWordNet project Web page
+
+    http://www.ling.helsinki.fi/en/lt/research/finnwordnet/
+
+You can download this package, dictionary data and lexicographer files
+at
+
+    http://www.ling.helsinki.fi/en/lt/research/finnwordnet/download.shtml
+
+The FinnWordNet project is led by Dr Krister Lindén at the Department
+of Modern Languages (Language Technology) of the University of
+Helsinki. In technical questions, please contact Mr Jyrki Niemi. Email
+addresses are of the form firstname.lastname@helsinki.fi (accents
+removed).
+
+
+Modifications to Grind
+----------------------
+
+The modifications to WordNet 3.0 Grind are the following:
+
+* Support for words encoded in UTF-8.
+
+* Support for words containing various punctuation characters not
+  allowed in the original.
+
+* Support for quoting special characters in words with a backslash.
+
+* Option -X to disregard in indexing XML tags or elements in words.
+
+The modifications are made in the source files in directory src/grind.
+They are marked with comments beginning "FiWN:".
+
+The modified Grind can be used to compile the original Princeton
+WordNet dictionary data files as well as FinnWordNet files.
+
+
+Patch
+-----
+
+The patch file WNgrind-3.0-FiWN-YYYYMMMDD.patch.gz requires the
+original WordNet 3.0 Grind package. To apply the patch, change to the
+top directory of the WordNet 3.0 Grind and enter the command
+
+    zcat path_to_patch/WNgrind-3.0-FiWN-YYYYMMMDD.patch.gz | patch -p1
+
+After that, you can continue with configuring and compiling.
+
+
+Compiling
+---------
+
+The modified Grind is compiled in the same way as the original Grind
+in a Unix, Linux or other similar system. Please refer to the file
+INSTALL for installation instructions.
+
+Compiling the program produces a number of warnings, mainly due to the
+age of the original Grind. The warnings can be ignored.
+
+The modified Grind requires GLib 2.0 library for UTF-8 support.
+Otherwise its requirements are the same as for the original Grind. GNU
+Autotools (Automake and Autoconf) or compiler construction tools (lex
+or flex, yacc or Bison) are not required unless you modify the source
+code.
+
+
+Known bugs
+----------
+
+The modified Grind contains a few known bugs or deficiencies:
+
+* If several different words in the same synset have the same indexed
+  form (e.g., because of XML elements), each of them gets the a
+  separate but same offset in the index file, resulting in
+  non-consecutive sense numbers shown by the wn search program.
+
+* The GLib library used for UTF-8 case conversions is not tested for
+  in the configuration phase.
+
+* Using the GLib functions for UTF-8 case conversions leaks memory.
+
+* When converting head adjectives to lowercase, also the XML tags
+  included in them get converted.
+
+* Even though the modified Grind supports parentheses in words, the
+  search program wn does not search for them properly.

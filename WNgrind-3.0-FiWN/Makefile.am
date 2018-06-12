@@ -1,0 +1,3 @@
+EXTRA_DIST = README COPYING INSTALL AUTHORS doc # dict
+SUBDIRS = doc src # dict
+DIST_SUBDIRS = $(SUBDIRS) dict
