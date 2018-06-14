@@ -4,9 +4,8 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-finntk = "*"
+finntk = "==0.0.7"
 nltk = "*"
-"903b5e5" = {path = "/home/frankier/code/finntk", editable = true}
 atomicwrites = "*"
 more-itertools = "*"
 

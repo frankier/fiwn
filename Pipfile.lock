@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "cc087f53a0758ac756073f1c8761100dae1737a49335d5a40eeb26d33a25563f"
+            "sha256": "8034d7d07a39274c648f5e992a683c9b7b690d78a81b5ea2492128ac9b7a706b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -16,10 +16,6 @@
         ]
     },
     "default": {
-        "903b5e5": {
-            "editable": true,
-            "path": "/home/frankier/code/finntk"
-        },
         "appdirs": {
             "hashes": [
                 "sha256:9e5896d1372858f8dd3344faf4e5014d21849c756c8d5701f78f8a103b372d92",
@@ -34,6 +30,14 @@
             ],
             "index": "pypi",
             "version": "==1.1.5"
+        },
+        "finntk": {
+            "hashes": [
+                "sha256:0e1725374b2d7e5db75b6bb902742414ee1b1311074b16d8a74143071b5009b2",
+                "sha256:1977b1d8ee2db239ddb48efa1021af540e5cc48d9d0e9e430fd8c196421719f9"
+            ],
+            "index": "pypi",
+            "version": "==0.0.7"
         },
         "more-itertools": {
             "hashes": [
