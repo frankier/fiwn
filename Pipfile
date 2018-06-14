@@ -1,0 +1,16 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+finntk = "*"
+nltk = "*"
+"903b5e5" = {path = "/home/frankier/code/finntk", editable = true}
+atomicwrites = "*"
+more-itertools = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"
