@@ -4,8 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-finntk = "==0.0.7"
-nltk = "*"
+finntk = "==0.0.12"
 atomicwrites = "*"
 more-itertools = "*"
 
